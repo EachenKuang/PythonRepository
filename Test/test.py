@@ -169,7 +169,7 @@ with open("item_list.txt",'w')as ww:
 '''
 
 lda1 = models.LdaModel.load('./temp/_2000-2001lda_moedel')
-show = lda1.show_topics(num_words=400,formatted=False)
+show = lda1.show_topics(num_words=400, formatted=False)
 dict_show = dict(show)
 #dict_show[i] 第i个主题
 list = []
