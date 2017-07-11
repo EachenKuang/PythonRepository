@@ -1,0 +1,6 @@
+Liver Diseases [dsyn]    
+ALCOHOL CONSUMPTION [inbe]    
+Hepatitis C virus infection [dsyn]    
+Association [menp]    
+Addition [ftcn]    
+Potentiation [topp]    

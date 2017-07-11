@@ -1,0 +1,6 @@
+Comparison [acty]    
+Intrahepatic Cholangiocarcinoma [neop]    
+arising [qlco]    
+Livers [bpoc]    
+Negative [qlco]    
+HEPATITIS B [dsyn]    

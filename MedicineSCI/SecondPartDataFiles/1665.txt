@@ -1,0 +1,6 @@
+PHEOCHROMOCYTOMA [neop]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Nuclear [spco]    
+Hepatocytes [cell]    
+predatory carp [fish]    
+Chanodichthys erythropterus [fish]    

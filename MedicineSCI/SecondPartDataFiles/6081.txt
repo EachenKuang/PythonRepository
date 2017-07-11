@@ -1,0 +1,7 @@
+prospective [resa]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Cirrhotic [qlco]    
+Patients [podg]    
+Calculator [mnob]    
+System [ftcn]    

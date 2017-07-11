@@ -1,0 +1,8 @@
+LIVER [bpoc]    
+Pathology [bmod]    
+CIRRHOSIS [dsyn]    
+HEPATITIS [dsyn]    
+primary tumors [neop]    
+LIVER [bpoc]    
+Update [tmco]    
+diagnostic problem [fndg]    

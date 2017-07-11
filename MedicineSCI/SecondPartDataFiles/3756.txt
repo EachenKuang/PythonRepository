@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+gastro intestinal bleeding [patf]    
+Patients [podg]    
+Treated [ftcn]    
+radiation therapy [inpr]    
+Intrahepatic Cholangiocarcinoma [neop]    

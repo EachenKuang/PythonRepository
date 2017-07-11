@@ -1,0 +1,6 @@
+Effects [qlco]    
+Risk Factors [qnco]    
+Ki-67 [lbpr]    
+Patients [podg]    
+LIVER TRANSPLANT [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    

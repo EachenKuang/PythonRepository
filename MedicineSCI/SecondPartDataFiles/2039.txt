@@ -1,0 +1,7 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Caucasian [popg]    
+Hepatitis B, Chronic [dsyn]    
+Patients [podg]    
+CIRRHOSIS [dsyn]    
+Treated [ftcn]    

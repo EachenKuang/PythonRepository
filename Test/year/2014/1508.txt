@@ -1,0 +1,6 @@
+Survival [acty]    
+Liver Transplantation [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Risk Factors [qnco]    
+Single [popg]    
+Centre [spco]    

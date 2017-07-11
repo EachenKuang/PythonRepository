@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+DEATH [orgf]    
+Transcatheter [spco]    
+Arterial [bpoc]    
+chemoembolisation [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    

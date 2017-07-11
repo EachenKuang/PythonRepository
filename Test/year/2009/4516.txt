@@ -1,0 +1,6 @@
+LIVER [bpoc]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Comparison [acty]    
+Criteria [inpr]    
+Based [ftcn]    
+pathology specimens [bdsu]    

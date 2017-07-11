@@ -1,0 +1,5 @@
+alpha fetoprotein levels [lbtr]    
+Hypertension, Portal [dsyn]    
+Represent [acty]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    

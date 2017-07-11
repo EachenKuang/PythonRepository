@@ -1,0 +1,4 @@
+Genetic variants [npop]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+INDIA [geoa]    

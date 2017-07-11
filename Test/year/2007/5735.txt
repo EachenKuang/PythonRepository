@@ -1,0 +1,8 @@
+Administration [ocac]    
+Survival [acty]    
+Patients [podg]    
+transplanted [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Extended [ftcn]    
+Criteria [inpr]    
+Pathology [bmod]    

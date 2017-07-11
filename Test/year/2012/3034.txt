@@ -1,0 +1,8 @@
+Independent [idcn]    
+Risk Factors [qnco]    
+SCORE [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Chronic hepatitis C [dsyn]    
+Sustained [ftcn]    
+Response [orga]    
+Combination Therapy [topp]    

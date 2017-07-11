@@ -1,0 +1,6 @@
+Liver Biopsy [diap]    
+INTERPRETATION [inpr]    
+Regression [patf]    
+HEPATITIS B VIRUS [virs]    
+Related [qlco]    
+CIRRHOSIS [dsyn]    

@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+HEPATITIS B VIRUS [virs]    
+Related [qlco]    
+Cirrhotic [qlco]    
+Patients [podg]    

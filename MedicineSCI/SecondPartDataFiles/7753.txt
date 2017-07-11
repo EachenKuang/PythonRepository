@@ -1,0 +1,5 @@
+Criteria [inpr]    
+Multicentric [spco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Risk Factors [qnco]    
+Carcinogenesis [neop]    

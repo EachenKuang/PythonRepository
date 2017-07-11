@@ -1,0 +1,5 @@
+MATCHING [resa]    
+Case-Control Study [resa]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+North [spco]    

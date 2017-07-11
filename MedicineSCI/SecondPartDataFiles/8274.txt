@@ -1,0 +1,5 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+CIRRHOSIS [dsyn]    
+Study, Prospective [resa]    
+Patients [podg]    

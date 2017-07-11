@@ -1,0 +1,8 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+Cholangiocarcinoma [neop]    
+COLON [bpoc]    
+PANCREATIC CARCINOMA [neop]    
+Patients [podg]    
+CHOLANGITIS, PRIMARY SCLEROSING [dsyn]    
+Epidemiology [bmod]    
+Risk Factors [qnco]    

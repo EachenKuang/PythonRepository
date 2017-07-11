@@ -1,0 +1,8 @@
+Steatohepatitis [dsyn]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Morphology [qlco]    
+indicator [irda]    
+METABOLIC [ftcn]    
+Risk Factors [qnco]    
+Study [mnob]    
+INDIA [geoa]    

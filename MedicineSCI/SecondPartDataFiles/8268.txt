@@ -1,0 +1,7 @@
+Pathology [bmod]    
+SMALL [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+proposal [idcn]    
+NEW [qlco]    
+Gross [qlco]    
+Classification [clas]    

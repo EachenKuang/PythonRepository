@@ -1,0 +1,4 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+Caucasian [popg]    
+MALE [orga]    
+Risk Factors [qnco]    

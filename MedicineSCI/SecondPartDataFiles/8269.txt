@@ -1,0 +1,4 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+Risk Factors [qnco]    
+Natural [ftcn]    
+Course [tmco]    

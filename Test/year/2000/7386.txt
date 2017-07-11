@@ -1,0 +1,6 @@
+Effects [qlco]    
+Interferon Therapy [topp]    
+INHIBITION [menp]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+Chronic hepatitis C [dsyn]    

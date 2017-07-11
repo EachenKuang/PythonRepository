@@ -1,0 +1,4 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+budd-chiari syndrome [dsyn]    
+Characteristics [qlco]    
+Risk Factors [qnco]    

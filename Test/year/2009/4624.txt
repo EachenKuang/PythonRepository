@@ -1,0 +1,3 @@
+Radiofrequency Ablation [topp]    
+Primary [qlco]    
+metastatic lung cancer [neop]    

@@ -1,0 +1,5 @@
+Pathology [bmod]    
+Gall Bladder [bpoc]    
+Bile Ducts, Extrahepatic [bpoc]    
+Well Differentiated [qlco]    
+Hilar Cholangiocarcinoma [neop]    

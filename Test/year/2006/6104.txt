@@ -1,0 +1,5 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+HCV [virs]    
+CIRRHOSIS [dsyn]    
+Missing [fndg]    

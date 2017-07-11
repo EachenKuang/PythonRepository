@@ -1,0 +1,7 @@
+Case-Control Study [resa]    
+Risk Factors [qnco]    
+HEPATOBLASTOMA [neop]    
+Report [inpr]    
+CANCER [neop]    
+Study [mnob]    
+Group [idcn]    

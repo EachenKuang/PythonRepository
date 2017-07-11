@@ -1,0 +1,5 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+Chronic hepatitis C [dsyn]    
+HCV [virs]    

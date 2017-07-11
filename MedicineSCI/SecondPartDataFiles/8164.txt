@@ -1,0 +1,3 @@
+Biochemical [ftcn]    
+Methods [inpr]    
+Pathology diagnosis [ftcn]    

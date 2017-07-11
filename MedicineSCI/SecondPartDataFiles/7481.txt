@@ -1,0 +1,5 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+-- Korean [popg]    
+Patients [podg]    
+LIVER CIRRHOSIS [dsyn]    

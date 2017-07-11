@@ -1,0 +1,6 @@
+clinical Feature [clna]    
+Risk Factors [qnco]    
+Patients [podg]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Negative [qlco]    
+HCV [virs]    

@@ -1,0 +1,8 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Non-cirrhotic [qlco]    
+Cirrhotic [qlco]    
+Patients [podg]    
+Hepatitis B, Chronic [dsyn]    
+Multicentric [spco]    
+Cohort Study [qnco]    

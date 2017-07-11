@@ -1,0 +1,6 @@
+YEAR [tmco]    
+Old [tmco]    
+Man [popg]    
+Hepatitis C [dsyn]    
+CIRRHOSIS LIVER [dsyn]    
+Transplantation [topp]    

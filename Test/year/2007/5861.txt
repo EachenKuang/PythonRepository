@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+LOCAL [spco]    
+Complications [patf]    
+Percutaneous [spco]    
+Radiofrequency Ablation [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    

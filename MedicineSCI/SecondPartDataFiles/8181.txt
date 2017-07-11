@@ -1,0 +1,3 @@
+primary tumors [neop]    
+Cattle [mamm]    
+Cases [ftcn]    

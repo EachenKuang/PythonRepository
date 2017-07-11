@@ -1,0 +1,7 @@
+Risk Factors [qnco]    
+Patients [podg]    
+HEPATOCELLULAR CARCINOMA [neop]    
+General Population [popg]    
+Employer [prog]    
+Group [idcn]    
+data base [inpr]    

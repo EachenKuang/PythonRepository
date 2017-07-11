@@ -1,0 +1,7 @@
+Effects [qlco]    
+Endothelial [tisu]    
+function [phsf]    
+cardiovascular risk factor [dsyn]    
+Men [popg]    
+Advanced [qlco]    
+ATHEROSCLEROSIS [dsyn]    

@@ -1,0 +1,5 @@
+Precancerous [qlco]    
+BILE DUCT [bpoc]    
+Pathology [bmod]    
+Sporadic [tmco]    
+Hilar Cholangiocarcinoma [neop]    

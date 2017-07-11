@@ -1,0 +1,7 @@
+Ectopic liver [cgab]    
+Related [qlco]    
+Pathology [bmod]    
+Report [inpr]    
+Cases [ftcn]    
+BENIGN [qlco]    
+lesions [fndg]    

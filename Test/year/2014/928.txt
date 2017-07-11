@@ -1,0 +1,8 @@
+Accuracy [qlco]    
+Imaging Study [diap]    
+Correlation [qlco]    
+Pathology [bmod]    
+EXPLANTED [fndg]    
+LIVER [bpoc]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Cases [ftcn]    

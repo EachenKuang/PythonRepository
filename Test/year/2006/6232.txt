@@ -1,0 +1,5 @@
+Risk Factors [qnco]    
+Patterns [spco]    
+Extrahepatic [spco]    
+Metastasis [neop]    
+HEPATOCELLULAR CARCINOMA [neop]    

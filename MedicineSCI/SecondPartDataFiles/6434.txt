@@ -1,0 +1,7 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+Sustained [ftcn]    
+Response [orga]    
+Interferon Therapy [topp]    
+Long [qlco]    
+Sustained [ftcn]    
+Risk Factors [qnco]    

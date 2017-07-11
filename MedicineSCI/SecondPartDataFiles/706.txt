@@ -1,0 +1,7 @@
+Risk Factors [qnco]    
+Incidental [ftcn]    
+HEPATOCELLULAR CARCINOMA [neop]    
+occurrence [ftcn]    
+Single [popg]    
+Centre [spco]    
+experience [menp]    

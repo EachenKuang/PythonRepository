@@ -1,0 +1,6 @@
+Intrahepatic [spco]    
+Multicentric [spco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Carcinogen [hops]    
+Stage [tmco]    
+LIVER CIRRHOSIS [dsyn]    

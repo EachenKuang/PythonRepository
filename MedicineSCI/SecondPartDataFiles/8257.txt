@@ -1,0 +1,6 @@
+Mosaic [spco]    
+Pattern [spco]    
+Encapsulated [qlco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Imaging, Magnetic Resonance [diap]    
+Pathology [bmod]    

@@ -1,0 +1,5 @@
+scenario [ftcn]    
+Postoperative [tmco]    
+LIVER FAILURE [dsyn]    
+liver resection [topp]    
+Cirrhotic [qlco]    

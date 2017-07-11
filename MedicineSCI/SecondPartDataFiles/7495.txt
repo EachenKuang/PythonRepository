@@ -1,0 +1,6 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+Sustained [ftcn]    
+Response [orga]    
+Non-cirrhotic [qlco]    
+Hepatitis C [dsyn]    
+Cure [cnce]    

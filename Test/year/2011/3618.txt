@@ -1,0 +1,6 @@
+Cholangiocarcinoma [neop]    
+YEAR [tmco]    
+Old [tmco]    
+Boy [aggp]    
+CHOLANGITIS, PRIMARY SCLEROSING [dsyn]    
+INFLAMMATORY BOWEL DISEASE [dsyn]    

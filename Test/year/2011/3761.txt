@@ -1,0 +1,6 @@
+Liver Transplantation [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    
+HCC [neop]    
+UNKNOWN [qlco]    
+Tumors [neop]    
+Pathology department [hcro]    

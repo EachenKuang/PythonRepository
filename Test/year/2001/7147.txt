@@ -1,0 +1,4 @@
+Prediction [idcn]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Korea [geoa]    

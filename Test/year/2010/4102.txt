@@ -1,0 +1,7 @@
+Prognostic [inpr]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+Curative [cnce]    
+resection [topp]    
+CANCER [neop]    
+SCI [prog]    

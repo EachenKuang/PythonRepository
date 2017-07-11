@@ -1,0 +1,8 @@
+VENOUS THROMBOEMBOLISM [patf]    
+vte [orch]    
+Patients [podg]    
+Cholangiocarcinoma [neop]    
+Focus [spco]    
+Risk Factors [qnco]    
+IMPACT [gngm]    
+Survival [acty]    
