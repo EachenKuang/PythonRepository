@@ -14,4 +14,11 @@ import numpy as np
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
+<<<<<<< HEAD
 # 增加了一些东西，你看看有什么
+=======
+# 暗大时代阿萨德
+#打扫房间爱上了咖啡
+# 撒打算大
+
+>>>>>>> origin/master
