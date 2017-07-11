@@ -1,0 +1,4928 @@
+3835	-- Breast Cancer [neop]	68
+2408	-- Colon Cancer [neop]	29
+2964	-- Gastric Cancer [neop]	42
+1648	-- Japanese [popg]	136
+1813	-- Korean [popg]	30
+1368	0.010" [qnco]	41
+644	0.012" [qnco]	71
+2958	0.014" [qnco]	66
+590	0.016" [qnco]	63
+218	0.018" [qnco]	68
+3543	0.022" [qnco]	43
+3105	1 - 9% [fndg]	133
+4505	1 Month [tmco]	53
+844	1 Week [tmco]	21
+488	1 mm [fndg]	12
+4765	1 time [fndg]	10
+2561	1-10 [fndg]	79
+1630	1-7 [gngm]	115
+4027	10 days [tmco]	10
+4692	10-14 [fndg]	10
+2835	10^3 [qnco]	39
+2929	10^6 [qnco]	29
+4759	14 7 [qnco]	24
+4826	15 Minutes [tmco]	28
+1779	17p [nusq]	10
+4841	1950s [tmco]	12
+11	1960s [tmco]	22
+4222	1970s [tmco]	30
+4757	1980s [tmco]	72
+109	1990s [tmco]	128
+352	1A [inpr]	32
+3322	1B [inpr]	69
+4156	1st [qnco]	14
+4794	2 5 [qnco]	113
+1307	2 Months [tmco]	39
+103	2 Weeks [tmco]	26
+303	2 times [fndg]	11
+936	2-19 [gngm]	15
+3567	2-3 [resa]	104
+2207	2000s [tmco]	355
+2716	2030s [tmco]	12
+825	2b [inpr]	14
+3640	3 4 [fndg]	68
+4818	3 5 [qnco]	118
+3192	3 6 [fndg]	79
+3513	3 Days [tmco]	12
+604	3 Months [tmco]	116
+4878	3 Weeks [tmco]	13
+4138	3 groups [inpr]	33
+3210	3 mm [fndg]	13
+236	3 times [fndg]	13
+241	30 days [tmco]	37
+4599	36+ months [fndg]	28
+3965	3D [spco]	16
+2810	3b [inpr]	11
+4069	3p [nusq]	12
+4305	4 - 6 [qnco]	59
+1739	4 5 [qnco]	76
+3579	4 Days [tmco]	10
+2752	4 Weeks [tmco]	27
+2306	4 groups [inpr]	10
+577	5 - 9 [fndg]	47
+522	5 6 [fndg]	49
+3868	5 Days [tmco]	20
+2012	5 mm [fndg]	31
+2540	5p [nusq]	14
+2480	5th [qnco]	15
+2256	6 9 [fndg]	24
+3793	7 - 9 [fndg]	28
+3159	7 days [tmco]	25
+165	7-8 [fndg]	30
+4749	75+ years [fndg]	29
+3003	9-10 [fndg]	14
+3153	> 2 years [fndg]	113
+4201	>90 [qnco]	411
+4251	AA [geoa]	31
+4607	AACR [pros]	46
+4083	ABDOMEN [blor]	21
+4501	ABDOMINAL PAIN [sosy]	52
+2327	ABLATION [topp]	231
+2564	ABNORMAL [qlco]	97
+969	ABSCESS [dsyn]	26
+2407	ABSOLUTE [qlco]	24
+4275	ABUSE [mobd]	18
+3228	ACCUMULATION [fndg]	127
+3961	ACETALDEHYDE [orch]	10
+380	ACT [topp]	122
+4811	ACTUAL [qlco]	45
+4897	ACUTE RENAL FAILURE [dsyn]	16
+101	ACUTE [tmco]	121
+710	ADENOCARCINOMA [neop]	58
+72	ADENOMA [neop]	40
+2989	ADIPOSE TISSUE [tisu]	13
+4771	ADULT [aggp]	186
+4104	AFRICAN AMERICAN [popg]	14
+4823	AFRICAN [popg]	17
+369	AG [geoa]	150
+2532	AGGRESSIVENESS [mobd]	32
+2438	AIDS [dsyn]	35
+4805	AJCC [inpr]	10
+2813	ALCOHOL ABUSE [mobd]	101
+1125	ALCOHOL CONSUMPTION [inbe]	254
+4584	ALCOHOL USE [inbe]	50
+3794	ALCOHOLIC CIRRHOSIS [dsyn]	81
+3654	ALCOHOLIC HEPATITIS [dsyn]	21
+3574	ALCOHOLIC LIVER DISEASE [dsyn]	138
+2609	ALCOHOLIC [podg]	92
+2861	ALCOHOLISM [mobd]	37
+346	ALLELE [gngm]	117
+784	ALP [gngm]	12
+1262	ALT [neop]	190
+2282	ALT, ELEVATED [fndg]	23
+3251	ANEMIA [dsyn]	18
+4657	ANGIOGRAPHY [diap]	43
+2497	ANIMAL [anim]	23
+2367	ANTERIOR [ftcn]	10
+3117	ANTIVIRAL AGENTS [phsu]	16
+2280	ANTIVIRALS [phsu]	10
+1474	APPEAR [qlco]	418
+898	ARTERY [bpoc]	13
+1073	AS [geoa]	28
+2307	ASCITES [fndg]	141
+3275	ASIAN [popg]	127
+2698	AST [tmco]	96
+463	AT-1 [gngm]	37
+4250	ATHEROSCLEROSIS [dsyn]	16
+4614	ATROPHY [patf]	13
+4145	AUC [qnco]	35
+1292	AUSTRALIA [geoa]	38
+4234	AUSTRALIAN [fndg]	17
+2453	AUSTRIA [geoa]	10
+3748	AUTOPSY [diap]	36
+4589	Abdominal Surgical [topp]	14
+856	Abdominal [blor]	99
+1092	Abdominal ultrasound [diap]	28
+2804	Aberrant [qlco]	108
+4793	Ability [orga]	152
+2165	Ablation Therapy [topp]	24
+3948	Able [orga]	113
+262	Abnormalities [cgab]	74
+757	Abnormality [fndg]	23
+4748	About [qlco]	129
+3012	Above [spco]	45
+4721	Abscess formation [fndg]	11
+202	Abscess, Liver [dsyn]	31
+431	Absent [ftcn]	54
+4318	Abstinence [fndg]	24
+2728	Abundance [qlco]	13
+4641	Abundant [qlco]	33
+3996	Academic [orgt]	29
+4810	Accelerated [ftcn]	55
+391	Acceptable [qlco]	72
+3471	Accepted [qlco]	79
+410	Access [spco]	62
+1581	Account # [clna]	207
+3571	Accounting [ocac]	46
+2557	Accuracy [qlco]	181
+3976	Accurate [qlco]	180
+4869	Achievement [bhvr]	14
+2127	Acid [chem]	11
+329	Acquire [acty]	14
+4243	Acquired [tmco]	80
+3592	Acquisition [acty]	55
+4562	Action [ftcn]	51
+1992	Activate [ftcn]	32
+573	Activated [acty]	79
+2161	Activation [acty]	179
+2255	Active Treatment [topp]	11
+3485	Active [ftcn]	115
+40	Activities [acty]	43
+4815	Activity [ftcn]	254
+1051	Actuary [prog]	42
+4183	Acute Hepatitis [dsyn]	26
+932	Acute Liver Failure [dsyn]	19
+698	Acute Rejection [fndg]	21
+4312	Acute-On-Chronic Liver Failure [dsyn]	10
+306	Add [ftcn]	34
+1050	Added [ftcn]	32
+3580	Addition [ftcn]	439
+2099	Additional Therapy [fndg]	12
+1903	Additional [ftcn]	250
+4618	Additional information [tmco]	13
+1689	Additive [qlco]	44
+902	Address [inpr]	120
+201	Addresses [inpr]	11
+3678	Adenocarcinoma, metastatic [neop]	10
+1856	Adenocarcinomas [neop]	31
+1895	Adenoma, Hepatocellular [neop]	46
+1153	Adenomas [neop]	26
+3834	Adequate [qlco]	112
+570	Adherence [ftcn]	18
+1209	Adjacent [spco]	142
+2661	Adjusted [ftcn]	313
+847	Adjustment [inbe]	119
+1356	Adjustments [inbe]	10
+1156	Adjuvant Chemotherapy [topp]	30
+240	Adjuvant Therapy [topp]	62
+3788	Administered [ftcn]	108
+4899	Administration [ocac]	126
+1481	Admission [hlca]	22
+4198	Adolescents [aggp]	23
+3279	Adopted [fndg]	32
+1603	Adoption [socb]	11
+2050	Adulthood [tmco]	16
+308	Adults [aggp]	155
+3645	Adults, Young [aggp]	17
+4453	Advance [medd]	217
+31	Advanced Cancer [neop]	15
+1613	Advanced Stage [qlco]	175
+291	Advanced [qlco]	392
+1820	Advanced age [popg]	28
+3727	Advanced cirrhosis [dsyn]	27
+4847	Advancement [ftcn]	26
+220	Adverse Effect [patf]	15
+1601	Advocate [ocdi]	24
+2873	Affect [menp]	237
+1046	Affected [ftcn]	195
+3738	Affecting [ftcn]	179
+938	Affects [menp]	114
+2553	Affiliated [qlco]	21
+705	Affinity [npop]	11
+3119	Aflatoxin [hops]	99
+4372	Aflatoxins [hops]	47
+1946	Africa [geoa]	39
+2684	Africa, West [geoa]	11
+4450	African Americans [popg]	14
+2135	Age Group [aggp]	31
+4421	Age groups [aggp]	50
+1371	Age-Adjusted Incidence Rate [qnco]	17
+4664	Age-Years [tmco]	128
+1560	Aged [orga]	178
+63	Ageing [orgf]	50
+3939	Agent [chvf]	141
+4460	Agents, Contrast [irda]	12
+3458	Aggregation [ftcn]	17
+2664	Aggressive behaviour [mobd]	15
+3071	Agree [inpr]	20
+3286	Agreement [socb]	58
+1543	Agriculture [ocdi]	10
+2194	Aid [mnob]	54
+2612	Aims [idcn]	705
+588	Al [lbpr]	44
+575	Alanine Aminotransferase level [lbtr]	44
+1650	Albumin level [lbtr]	22
+1374	Alcohol Drinking [inbe]	53
+4028	Alcohol intake [inbe]	102
+2445	Alcoholic liver cirrhosis [dsyn]	15
+849	Alcoholics [podg]	28
+3661	Alcoholism, chronic [mobd]	10
+867	Algorithm [inpr]	54
+1682	Algorithms [inpr]	27
+3530	Alive [idcn]	73
+392	Alkaline phosphatase level [lbtr]	13
+571	Alleles [gngm]	67
+4510	Allocation [acty]	30
+150	Almost [qlco]	123
+4491	Alone [qnco]	294
+370	Alpha [inpr]	55
+2376	Alpha-fetoprotein level [lbtr]	58
+4920	Alteration [idcn]	166
+2193	Altered [ftcn]	169
+2403	Alternative [cnce]	111
+4796	Always [tmco]	49
+4908	Ambiguous [orga]	11
+1267	Amenable [qlco]	33
+1198	American Cancer Society [pros]	80
+4788	American College of Surgeons [pros]	28
+3770	American Joint Committee on Cancer [inpr]	19
+2755	American Society of Anesthesiologists [pros]	13
+2866	American [popg]	77
+744	Amount [qnco]	82
+3850	Amplification [mbrt]	31
+4879	Ampullary Carcinoma [neop]	12
+2642	Analogue [chvs]	43
+3973	Analytical [resa]	16
+3804	Anastomosis [acab]	32
+2476	Anatomic [qlco]	55
+2304	Anatomical [qlco]	50
+2238	Anatomy [bmod]	24
+2364	Ancillary [idcn]	12
+805	Angiogenesis [ortf]	52
+1911	Angiogenic [ortf]	10
+3775	Angiographies [diap]	10
+1499	Animal models [anim]	66
+1917	Animals [anim]	89
+2795	Annual [tmco]	158
+2821	Annually [tmco]	39
+3860	Answer [inpr]	24
+4023	Antagonist [ortf]	26
+1900	Anti HCV positive [lbtr]	28
+4762	Anti Hbc negative [lbtr]	10
+4426	Anti Hbc positive [lbtr]	23
+666	Anti-HBs [lbpr]	35
+335	Antibiotics [antb]	21
+2675	Anticipated [fndg]	20
+776	Antigen [imft]	56
+700	Antigens [imft]	23
+4471	Antiinflammatory [phsu]	17
+682	Antioxidant [phsu]	38
+3685	Antioxidants [phsu]	13
+956	Antiretroviral Therapy [topp]	21
+613	Antitumor [qlco]	27
+1861	Antiviral Therapy [topp]	166
+3223	Antiviral [phsu]	150
+2040	Apoptosis [celf]	164
+1655	Apoptotic [qlco]	34
+411	Apparent Diffusion Coefficient [cnce]	19
+24	Appearance [orga]	129
+1680	Appearances [qlco]	20
+4509	Application [hlca]	147
+2301	Applied [ftcn]	189
+1023	Apply [ftcn]	53
+807	Approach [spco]	322
+885	Approaches [spco]	162
+3984	Appropriate Treatment [clna]	19
+2839	Appropriate [qlco]	169
+4066	Approved [qlco]	78
+1812	Approximate [qlco]	10
+4178	Approximately [qlco]	204
+1860	April [tmco]	125
+179	Architecture [ocdi]	25
+544	Archive [mnob]	11
+1683	Archives [mnob]	31
+4280	Area Under Curve [qnco]	19
+4188	Area [geoa]	383
+1834	Area under the curve [qnco]	14
+4199	Arranged [idcn]	11
+2983	Array [spco]	40
+1486	Art [ocdi]	24
+507	Arterial Embolization [topp]	25
+1583	Arterial [bpoc]	242
+2506	Arteries [bpoc]	19
+252	Arteriography [diap]	14
+3720	Article [inpr]	325
+1139	Artificial [qlco]	11
+3733	Asia [geoa]	145
+3489	Asian Americans [popg]	12
+4587	Asians [popg]	46
+2025	Aspartate aminotransferase level [lbtr]	12
+1234	Aspect [qnco]	139
+2869	Aspiration, Fine Needle [diap]	17
+1718	Assay [lbpr]	203
+2443	Assessed [acty]	599
+4351	Assessment [hlca]	281
+2335	Assign [ftcn]	14
+2359	Assigned [ftcn]	63
+1068	Assisted [qlco]	16
+3273	Associate [idcn]	26
+1322	Association [menp]	1011
+3128	Associations [menp]	205
+4345	Assumed [inpr]	19
+2180	Asymptomatic [fndg]	133
+2449	At [spco]	19
+3583	At risk [qlco]	107
+2562	Attempt [evnt]	66
+782	Attempted [evnt]	45
+1313	Attended [ftcn]	11
+728	Attending [prog]	22
+3612	Attention [menp]	104
+4459	Attenuate [acty]	18
+2026	Attenuated [qlco]	28
+2088	Attenuation [acty]	29
+3449	Attractive [qlco]	10
+3421	Attributable Risk [qlco]	12
+282	Attributable [menp]	93
+955	Attribute [idcn]	83
+3982	Atypical [qlco]	45
+892	August [qlco]	97
+2646	Author [prog]	17
+1887	Authors [prog]	173
+4488	Autoimmune Diseases [dsyn]	10
+199	Autoimmune Hepatitis [dsyn]	57
+69	Autoimmune [patf]	23
+315	Autoimmune liver disease [dsyn]	15
+2200	Automatic [ftcn]	12
+498	Autophagy [celf]	11
+464	Availability [ftcn]	43
+684	Available [ftcn]	443
+145	Average [qnco]	198
+83	Avoidance [menp]	20
+81	Aware [menp]	40
+872	Awareness [menp]	57
+4680	Axial [spco]	11
+2950	Axis [bpoc]	24
+494	B Virus [virs]	26
+3267	BACK [blor]	14
+691	BARRIER [medd]	17
+567	BASAL [spco]	42
+1671	BEFORE [tmco]	31
+1069	BENIGN [qlco]	202
+1892	BILATERAL [spco]	22
+3836	BILE DUCT CARCINOMA [neop]	19
+147	BILE DUCT [bpoc]	146
+1362	BILE [bdsu]	57
+1030	BILIARY CIRRHOSIS [dsyn]	19
+1228	BILIARY TRACT [bpoc]	79
+4520	BIOLOGIC [bacs]	30
+3170	BIOPSY [diap]	238
+1339	BISMUTH [elii]	14
+3656	BLADDER CANCER [neop]	12
+4435	BLADDER [bpoc]	24
+52	BLEEDING [patf]	84
+3927	BLINDED [resa]	29
+4247	BLOOD PRESSURE [orgf]	11
+2961	BLOOD SUPPLY [bpoc]	11
+4436	BLOOD TRANSFUSION [topp]	181
+3390	BLOOD VESSELS [bpoc]	12
+4295	BONE MARROW [tisu]	16
+2812	BONE [bpoc]	25
+3487	BORDERLINE [qlco]	27
+3429	BP [geoa]	13
+1668	BRAIN [bpoc]	32
+4317	BRAZIL [geoa]	25
+831	BREAST [bpoc]	55
+4761	Bacteraemia NOS [dsyn]	17
+4526	Bacterial Infection [dsyn]	15
+3889	Bacterial Infections [dsyn]	12
+35	Bacterial [qlco]	13
+509	Bacterium [bact]	25
+4354	Bad [qlco]	11
+2939	Balance [orgf]	32
+359	Band [medd]	14
+3687	Barcelona Clinic Liver Cancer Stage [clas]	49
+3149	Based [ftcn]	1171
+2015	Basel [hcro]	136
+4122	Basic [ftcn]	44
+3556	Basis [ftcn]	93
+3542	Bcl-2 [gngm]	13
+2118	Bear [mamm]	22
+3486	Bearing [medd]	35
+272	Begin [tmco]	38
+3145	Beginning [tmco]	38
+2154	Behavioral [inbe]	20
+4773	Behaviour, NOS [inbe]	68
+4896	Beijing [geoa]	12
+1099	Benefit [qnco]	269
+4374	Benefits [qnco]	100
+4386	Benign Disease [fndg]	22
+520	Benign Diseases [fndg]	15
+2248	Benign Tumors [neop]	21
+3667	Benign condition [fndg]	11
+1275	Best [qlco]	224
+1643	Best value [qnco]	12
+2712	Beta [plnt]	38
+3863	Bias [idcn]	36
+798	Bias, Publication [qlco]	21
+1388	Bifurcation [topp]	12
+2614	Bile Duct Cancer [neop]	28
+654	Bile Duct Epithelium [tisu]	16
+4139	Bile Duct Tumour [neop]	12
+1375	Bile Ducts, Extrahepatic [bpoc]	33
+3520	Bile ducts [bpoc]	77
+474	Bile leak [patf]	17
+4393	Biliary Cirrhosis, Primary [dsyn]	73
+1705	Biliary Dysplasia [dsyn]	10
+182	Biliary Fistula [patf]	12
+3433	Biliary Obstruction [dsyn]	20
+4254	Biliary System [bpoc]	15
+232	Biliary Tract Cancer [neop]	30
+3442	Biliary [ftcn]	230
+4026	Biliary anastomosis [topp]	11
+1091	Biliary disease [dsyn]	11
+1114	Biliary drainage [topp]	43
+3030	Biliary epithelial cell [cell]	16
+2708	Biliary surgery [topp]	10
+1100	Biliary tree [bpoc]	49
+3129	Bilirubin level [lbpr]	17
+1913	Bilobar [spco]	25
+653	Binary [qlco]	19
+795	Bind [acty]	16
+4590	Binding [acty]	43
+2412	Biochemical [ftcn]	165
+3132	Biochemical markers [qlco]	10
+723	Biochemistry [ocdi]	23
+779	Biological Function [biof]	14
+4628	Biological Processes [biof]	14
+1832	Biological [bmod]	139
+375	Biologically [qlco]	16
+4235	Biology [bmod]	59
+2268	Biomarker [clna]	124
+2986	Biomarkers [clna]	167
+3340	Biopsies [diap]	55
+3559	Biopsy specimens [tisu]	15
+3448	Biopsy, Needle [diap]	16
+4211	Birth Cohort [qnco]	23
+4350	Birth [orgf]	35
+1390	Black [popg]	21
+2648	Blacks [popg]	21
+2910	Block [patf]	10
+672	Blocked [patf]	16
+4281	Blocking [mobd]	15
+4551	Blood Flow [orgf]	21
+4828	Blood Glucose [orch]	12
+2885	Blood Involvement [fndg]	10
+874	Blood Tests [lbpr]	18
+1200	Blood [tisu]	163
+2800	Blood donors [popg]	56
+1502	Blood loss [patf]	115
+1245	Blood products [phsu]	15
+3173	Board [medd]	11
+3514	Body Fluids [bdsu]	10
+1404	Body Weight [orga]	36
+1828	Body mass index [diap]	154
+1954	Bomb, Atomic [mnob]	10
+1615	Bone Metastases [neop]	12
+3181	Border [spco]	14
+1324	Born [orgf]	68
+2486	Branch [bpoc]	36
+4572	Breakthrough [qlco]	11
+1417	Bridge [medd]	43
+3655	Bridging fibrosis [patf]	19
+2828	British [popg]	10
+2215	Broad [spco]	51
+1901	Brushing [topp]	12
+2102	Build [cnce]	16
+3904	Bulk [food]	12
+3294	Burden [idcn]	174
+2230	Bypass [topp]	10
+2769	C2 [fndg]	16
+1207	CA [bpoc]	17
+3423	CALCULATION [acty]	25
+954	CALIBRATION [qnco]	12
+2258	CANADA [geoa]	23
+3881	CANADIAN [fndg]	17
+2845	CANCER [neop]	980
+2751	CANCER, HEPATOCELLULAR [neop]	66
+4110	CAPSULE [bodm]	72
+2417	CARCINOGENS [hops]	34
+325	CARCINOMA [neop]	194
+4710	CASE SERIES [resa]	32
+4089	CASE-CONTROL STUDIES [resa]	52
+1449	CC [celc]	63
+4909	CCA [cgab]	118
+558	CD34 [lbpr]	21
+4907	CD4 [lbpr]	30
+2061	CD8 [lbpr]	14
+4682	CE [geoa]	10
+462	CENTRAL [spco]	122
+3797	CERVIX [bpoc]	10
+1878	CH [geoa]	11
+4182	CHC [gngm]	50
+2739	CHILD [aggp]	117
+1043	CHINA [geoa]	218
+1550	CHOLANGITIS, PRIMARY SCLEROSING [dsyn]	164
+1315	CHOLECYSTECTOMY [topp]	32
+1795	CHOLECYSTITIS [dsyn]	20
+4557	CHOLEDOCHOLITHIASIS [dsyn]	11
+1058	CHOLELITHIASIS [dsyn]	26
+1829	CHRONIC HEPATITIS [dsyn]	251
+2785	CHRONIC [tmco]	327
+3148	CI [geoa]	510
+2080	CIRRHOSIS [dsyn]	1754
+1526	CIRRHOSIS, CRYPTOGENIC [dsyn]	38
+1511	CK7 [gngm]	10
+4283	CLIN [inpr]	13
+3369	CLINICAL STUDY [resa]	10
+4449	CLINICAL TRIALS [resa]	81
+1333	CLINICIAN [prog]	10
+4801	CLONORCHIS SINENSIS [euka]	27
+4569	CO [geoa]	148
+4264	COAGULOPATHY [dsyn]	11
+4391	COHORT STUDIES [qnco]	43
+3111	COLITIS, ULCERATIVE [dsyn]	23
+95	COLL [inpr]	20
+4523	COLON [bpoc]	54
+3861	COMMUNICATION [socb]	19
+2116	COMPLETE [qlco]	234
+2064	COMPLETED [qlco]	64
+4783	CONSIST [qlco]	201
+6	CONTINUOUS [idcn]	74
+625	CORRECTION [inpr]	26
+1584	COUNTRY [geoa]	78
+3844	CRYOABLATION [topp]	10
+166	CT SCAN [diap]	25
+4484	CT Scans [diap]	16
+424	CT [geoa]	193
+354	CURRENT [tmco]	536
+1789	CYSTS [dsyn]	15
+3335	CYTOMEGALOVIRUS INFECTION [dsyn]	10
+2843	CYTOMEGALOVIRUS [virs]	12
+2246	Calcineurin Inhibitors [phsu]	11
+3576	Calcineurin inhibitor [phsu]	10
+405	Calculate [acty]	55
+4267	Calculated [ftcn]	385
+1866	Calculating [acty]	11
+3470	California [geoa]	50
+1476	Call [menp]	73
+4061	Cancer Biomarkers [bacs]	18
+598	Cancer Cell [cell]	13
+3087	Cancer Center [hcro]	19
+4803	Cancer Control [hlca]	28
+4663	Cancer Diagnosis [diap]	18
+420	Cancer Mortality [qnco]	56
+2021	Cancer Patient [podg]	31
+2195	Cancer Prevention [topp]	23
+90	Cancer Registry [inpr]	63
+1840	Cancer Research [resa]	17
+4658	Cancer Risk [qnco]	58
+4566	Cancer Stem Cell [cell]	13
+1566	Cancer Stem Cells [cell]	10
+1284	Cancer Survival [resa]	16
+899	Cancer Therapy [topp]	13
+1042	Cancer liver [neop]	29
+2309	Cancer of the Liver [neop]	13
+959	Cancer related [fndg]	78
+4585	Cancer, Gallbladder [neop]	45
+1078	Cancer, Stomach [neop]	13
+2017	Cancers [neop]	407
+2858	Cancers, Bile Duct [neop]	11
+513	Cancers, Biliary Tract [neop]	27
+3477	Candidate Genes [gngm]	20
+17	Capability [qlco]	47
+739	Capacity [qnco]	58
+1276	Capsular Invasion [fndg]	11
+3563	Capsular [spco]	17
+2175	Carboxy [orch]	11
+3719	Carcinogen [hops]	117
+4150	Carcinogen effect [inpo]	13
+2396	Carcinogenesis [neop]	317
+3890	Carcinogenicity [neop]	17
+767	Carcinomas [neop]	50
+2149	Cardiac [bpoc]	15
+3389	Cardiovascular Disease [dsyn]	53
+2928	Cardiovascular Diseases [dsyn]	20
+364	Cardiovascular [bdsy]	42
+3053	Care [acty]	193
+4397	Carrier [fndg]	29
+289	Carrier state [fndg]	10
+4704	Carry [acty]	60
+3913	Carrying [acty]	37
+2286	Cascade [mnob]	22
+725	Case Reports [inpr]	25
+3963	Case Study [inpr]	10
+3059	Case-Control Study [resa]	225
+1258	Cases [ftcn]	1694
+3403	Categories [inpr]	75
+44	Category [inpr]	47
+1146	Caucasian [popg]	39
+4277	Caucasians [popg]	11
+580	Caudate Lobe [bpoc]	11
+796	Causation [idcn]	17
+4613	Causing [ftcn]	70
+4861	Cea [euka]	15
+1858	Cell Cycle Arrest [celf]	11
+138	Cell Cycle Progression [celf]	12
+482	Cell Cycle [celf]	48
+1595	Cell Death [celf]	32
+3577	Cell Differentiation [celf]	11
+4401	Cell Growth [celf]	39
+1890	Cell Line [cell]	22
+1340	Cell Lines [cell]	61
+443	Cell Migration [celf]	19
+1781	Cell Proliferation [celf]	70
+46	Cell Survival [celf]	15
+3240	Cell Types [cell]	12
+1822	Cell [cell]	140
+4310	Cells [cell]	311
+157	Cells, Epithelial [cell]	16
+245	Cellular Differentiation [clna]	12
+3401	Cellular Process [celf]	15
+720	Cellular [cell]	148
+1935	Cellular proliferation [patf]	16
+762	Census [qnco]	17
+928	Central Obesity [fndg]	13
+4881	Central Scar [fndg]	14
+4425	Centre [spco]	357
+3455	Certain [qlco]	133
+4363	Certainty [qlco]	22
+2243	Cervical cancer [neop]	29
+1386	Cessation [acty]	19
+3599	Chain [mnob]	16
+1406	Challenge [clna]	185
+3069	Chance [qlco]	55
+1341	Changed [ftcn]	57
+4776	Changing [ftcn]	38
+3762	Characteristics [qlco]	511
+277	Characterization [acty]	113
+712	Characterized [acty]	259
+2889	Chart Review [hlca]	17
+1138	Charts [inpr]	17
+836	Check [acty]	13
+3495	Checked [acty]	11
+934	Chemical Carcinogen [hops]	11
+2164	Chemical [chem]	36
+1760	Chemicals [chem]	28
+4055	Chemoprevention [topp]	31
+1539	Chemopreventive [qlco]	13
+4656	Chemotherapy [topp]	211
+1253	Chewing [ortf]	18
+3186	Chi [inpr]	52
+4245	Chi-Square Test [inpr]	31
+2398	Child-Pugh - Grade [inpr]	14
+394	Child-Pugh Class B [inpr]	33
+670	Child-Pugh Class C [inpr]	14
+37	Child-Pugh Classification [inpr]	49
+4287	Child-Pugh Score [inpr]	95
+2426	Child-Pugh [inpr]	212
+4697	Childhood Cancer [neop]	14
+2494	Childhood [tmco]	45
+2556	Children [aggp]	170
+2191	Cholangiocarcinoma [neop]	538
+2347	Cholangiocarcinomas [neop]	64
+1055	Cholangiocellular Carcinoma [neop]	26
+4240	Cholangiocellular Carcinomas [neop]	10
+1220	Cholangiocyte [cell]	24
+4299	Cholangiography [diap]	31
+3526	Cholangiopancreatography, Magnetic Resonance [diap]	15
+3212	Cholangioscopy [diap]	15
+1591	Cholangitis, Sclerosing [dsyn]	24
+2425	Cholestasis [dsyn]	38
+4727	Cholestatic liver disease [dsyn]	12
+2117	Chosen [acty]	27
+337	Chromatin [aapp]	18
+379	Chromatography, High Performance Liquid [lbpr]	12
+2037	Chromosomal Instability [comd]	10
+489	Chromosomal [celc]	11
+1498	Chromosomes [celc]	15
+3942	Chronic (viral) hepatitis B [dsyn]	11
+281	Chronic Active Hepatitis [dsyn]	24
+1223	Chronic Disease [dsyn]	17
+4458	Chronic Diseases [dsyn]	12
+4543	Chronic Hepatitis B CARRIER [fndg]	13
+2985	Chronic Hepatitis C virus [dsyn]	52
+4444	Chronic Inflammation [patf]	73
+852	Chronic Kidney Disease [dsyn]	14
+2331	Chronic Liver Disease [dsyn]	465
+2019	Chronic Pancreatitis [dsyn]	12
+3206	Chronic Viral Hepatitis [dsyn]	88
+1045	Chronic alcohol abuse [mobd]	12
+1968	Chronic hepatitis C [dsyn]	330
+1572	Chronic infection [dsyn]	160
+3302	Chronicity [tmco]	15
+3333	Cigarettes [mnob]	13
+4700	Circulating [ftcn]	55
+2930	Circulation [phsf]	17
+3897	Cirrhotic [qlco]	522
+4172	Cis [euka]	21
+624	Citation [inpr]	12
+1713	City [geoa]	28
+1608	Cl - [elii]	73
+3769	Clamping [topp]	13
+2145	Clarification [acty]	11
+2333	Clarified [acty]	52
+1809	Clarify [acty]	232
+515	Class [inpr]	168
+1576	Classes [inpr]	29
+1064	Classic [qlco]	27
+771	Classical [qlco]	34
+2283	Classification [clas]	179
+1750	Classification system [clas]	14
+332	Classifications [clas]	23
+280	Classified [clas]	311
+1415	Cleansed [acty]	29
+2225	Clear Cell [cell]	13
+4408	Clear [fndg]	166
+4164	Clearance [qlco]	70
+4594	Clinical Classification [inpr]	12
+3177	Clinical Data [inpr]	115
+1201	Clinical Diagnosis [qlco]	23
+930	Clinical Laboratory [hlca]	21
+3729	Clinical Management [hlca]	41
+2045	Clinical Research [resa]	19
+1233	Clinical Significance [fndg]	103
+2178	Clinical Studies [resa]	41
+4433	Clinical Trial [resa]	15
+4786	Clinical course [tmco]	63
+3325	Clinical evaluation [hlca]	11
+3188	Clinical examination [hlca]	10
+2976	Clinical findings [sosy]	16
+2328	Clinical information [clna]	24
+2934	Clinical presentation [inpr]	76
+3872	Clinical setting [spco]	28
+622	Clinical stage [tmco]	23
+4769	Clinical status [qlco]	10
+633	Clinical/Radiologic [ftcn]	13
+3565	Clonal [tisu]	12
+4848	Clones [cell]	16
+4326	Clonorchiosis [dsyn]	14
+2941	Close [ftcn]	78
+2392	Cluster [inpr]	58
+3880	Clustering [resa]	20
+775	Co-infection [dsyn]	33
+4733	Coagulation [ortf]	28
+704	Coding [ocac]	22
+1506	Codon [nusq]	44
+2579	Cofactor [bacs]	12
+73	Coffee [food]	21
+891	Cohort Study [qnco]	84
+3373	Coinfection [dsyn]	77
+4296	Coinfections [dsyn]	38
+141	Cold Ischemia Time [tmco]	13
+4184	Collaboration [socb]	24
+722	Collagen [aapp]	22
+1457	Collected [idcn]	356
+2718	Collection [ftcn]	15
+2891	College [mnob]	29
+1367	Colo-rectal [bpoc]	10
+341	Colonoscopy [diap]	12
+1193	Colorectal Cancer [neop]	73
+2665	Colorectal Carcinoma [neop]	12
+2977	Colorectal Metastases [neop]	45
+4750	Colorectal Metastasis [neop]	11
+4583	Colorectal [spco]	41
+4431	Colour [npop]	10
+2067	Combination Therapy [topp]	46
+780	Combination [qlco]	325
+1219	Combinations [mnob]	39
+1944	Combine [mnob]	68
+3500	Combined [qlco]	411
+3649	Combined therapy [topp]	15
+4650	Committee [grup]	14
+74	Common Bile Duct [bpoc]	32
+274	Common Neoplasm [neop]	12
+1183	Common Tumors [neop]	20
+3951	Common Tumour [neop]	22
+4379	Communities [geoa]	12
+711	Community [geoa]	93
+3502	Comorbidities [idcn]	58
+3725	Comparative Genomic Hybridization [mbrt]	10
+3494	Comparative Studies [inpr]	11
+2927	Comparative Study [inpr]	20
+3902	Compared [acty]	1905
+2197	Comparison [acty]	374
+1927	Compensated [qlco]	66
+3537	Complete Response [fndg]	46
+71	Complete resection [topp]	32
+2980	Completely [qlco]	85
+3456	Completeness [qlco]	11
+2316	Completion [qlco]	32
+4180	Complex [qlco]	218
+1929	Complexes [chvs]	12
+4003	Compliant [qlco]	11
+2597	Complicated [ftcn]	81
+3459	Complication [patf]	254
+3839	Complication, Postoperative [patf]	27
+800	Complication, infection [dsyn]	25
+627	Complications [patf]	515
+3434	Component [mnob]	86
+1456	Components [mnob]	97
+845	Composition [clna]	22
+1493	Compound [qlco]	47
+4687	Comprehensive [qlco]	120
+908	Comprise [acty]	145
+3557	Computed Tomography [diap]	284
+3632	Computed [lbpr]	56
+2381	Computer [mnob]	15
+3205	Concentrate [mnob]	16
+3314	Concentration [menp]	86
+4272	Concentrations [menp]	68
+270	Concepts [idcn]	36
+881	Concern [idcn]	156
+2151	Concerns [idcn]	26
+1737	Conclusions [idcn]	2120
+1425	Conclusive [qlco]	12
+1403	Concomitant [tmco]	92
+3646	Concurrent [tmco]	57
+2863	Conditional [qlco]	38
+975	Conduct [inbe]	575
+857	Conference [hcpp]	13
+3474	Confidence Intervals [qnco]	137
+4128	Confidence [menp]	14
+1799	Confirmatory [idcn]	14
+4062	Confluent [qlco]	24
+4285	Congestion [patf]	10
+3573	Connect [acty]	20
+2757	Connection [spco]	12
+4407	Consecutive [qlco]	529
+2732	Consensus [socb]	86
+351	Consequence [ftcn]	59
+2487	Consequent [fndg]	14
+3152	Consideration [fndg]	50
+2124	Consistency [qlco]	20
+4887	Consistent [idcn]	129
+1773	Construct [clas]	67
+4093	Consultation [hlca]	11
+1518	Consumer [popg]	11
+1545	Consumption [acty]	101
+1122	Containing [ftcn]	105
+2311	Contaminated [ftcn]	20
+4871	Content [menp]	59
+2604	Context [fndg]	130
+944	Contiguous [spco]	16
+1087	Continue [idcn]	111
+4813	Continued [idcn]	62
+414	Continuing [idcn]	16
+1147	Contraceptives, Oral [phsu]	23
+4378	Contraindicated [fndg]	13
+3406	Contraindication [qlco]	36
+453	Contrast Agent [irda]	22
+2517	Contrast Medium [irda]	10
+4740	Contrast [irda]	368
+389	Contrast-enhanced Magnetic Resonance Imaging [diap]	14
+2676	Contribute [acty]	400
+4290	Contributing [acty]	105
+1063	Contribution [acty]	112
+4845	Control Group [grup]	169
+3130	Control Groups [grup]	49
+3937	Controlled Study [resa]	19
+2580	Controlled Trial [resa]	23
+2035	Controlled [ftcn]	43
+404	Conventional Therapy [topp]	10
+4098	Conventional [qlco]	118
+2805	Conversion [ftcn]	21
+3690	Cool [qlco]	31
+1451	Copy Number [qnco]	18
+1105	Copy [mnob]	65
+974	Copyright [inpr]	160
+2390	Core [spco]	126
+4694	Correct [qlco]	53
+1696	Corrected [qlco]	17
+556	Correlated [qlco]	557
+1552	Correlation [qlco]	471
+1348	Cost Effectiveness [qnco]	62
+2182	Cost [qnco]	51
+59	Costs [qnco]	35
+3920	Counselling [hlca]	10
+1445	Count [qnco]	30
+3147	Countries [geoa]	230
+581	County [geoa]	20
+2953	Coupled [ftcn]	32
+4616	Course [tmco]	194
+2223	Courses [tmco]	14
+4603	Covered [ftcn]	35
+4856	Create [acty]	34
+4542	Created [acty]	42
+1881	Criteria [inpr]	437
+1706	Criterion [inpr]	25
+2481	Critical [qlco]	203
+1048	Cross Validation [resa]	11
+690	Cross [cnce]	22
+1823	Cross-Sectional Study [resa]	67
+1110	Cross-sectional imaging [inpr]	13
+65	Crosstalk [moft]	14
+3217	Cryptogenic [ftcn]	29
+4355	Cultural [idcn]	13
+3001	Culture [idcn]	34
+3953	Cultures [idcn]	21
+4703	Cumulative Survival Rate [qnco]	28
+649	Cumulative [qlco]	350
+3270	Curative Surgery [topp]	32
+3042	Curative [cnce]	565
+4622	Curative treatment [fndg]	148
+1852	Cure [cnce]	95
+4662	Cured [cnce]	13
+2474	Currency [mnob]	31
+2024	Current Therapy [topp]	18
+3728	Current Treatment [topp]	34
+995	Current smoker [clna]	11
+4635	Currently [tmco]	273
+1272	Curve [spco]	237
+1244	Cut [inpo]	40
+4369	Cutoff [ftcn]	170
+3692	Cycle [tmco]	17
+3987	Cycles [tmco]	13
+188	Cystic [qlco]	22
+1848	Cytokeratin 7 [aapp]	12
+1941	Cytological [ftcn]	25
+1724	Cytology [lbpr]	39
+2383	Cytoplasm [celc]	38
+3166	Cytoplasmic [celc]	42
+4084	Cytotoxicity [comd]	15
+2133	DATA COLLECTION [resa]	20
+1488	DATE [tmco]	128
+4806	DAYS [tmco]	211
+860	DCP [hcro]	37
+459	DE [geoa]	26
+4044	DEATH [orgf]	474
+1752	DEEP [spco]	23
+3613	DEFINITIVE [tmco]	47
+2057	DEGENERATION [patf]	14
+3447	DENMARK [geoa]	10
+2992	DEVICES [medd]	14
+2924	DIABETES MELLITUS [dsyn]	162
+3809	DIABETES MELLITUS, TYPE II [dsyn]	58
+3225	DIABETIC [fndg]	61
+2203	DIAGNOSIS [fndg]	1115
+3975	DIAMETER [qnco]	305
+4734	DIAPHRAGM [bpoc]	21
+1574	DIARRHOEA [sosy]	16
+4916	DIETS [food]	15
+721	DIFFUSE [qlco]	78
+3932	DIRECT SEQUENCING [mbrt]	29
+2295	DIS [inpr]	10
+2574	DISCRIMINATION [menp]	39
+3309	DISTAL [spco]	63
+1080	DISTANT [spco]	69
+2865	DISTRIBUTIONS [spco]	18
+4019	DNA Damage [comd]	47
+3759	DNA Methylation [moft]	39
+4834	DNA Ploidy [qnco]	10
+1294	DNA Repair [genf]	19
+3043	DNA sequencing [nusq]	11
+3068	DNA, Viral [nnon]	14
+1644	DOI [clas]	43
+3123	DONOR [popg]	94
+2981	DOSE RESPONSE [resa]	12
+3777	DOSE [qnco]	130
+4676	DRUG ABUSE [mobd]	11
+4836	DRUG ABUSE, INTRAVENOUS [mobd]	11
+3652	DUCT [bpoc]	24
+2299	Daily [tmco]	72
+2488	Damage [inpo]	90
+4631	Data Analysis [ocac]	22
+2115	Data Sources [qnco]	17
+933	Database, Electronic [inpr]	12
+1920	Databases [inpr]	92
+1285	Dataset [inpr]	38
+1169	Day 1 [tmco]	17
+1255	Day 5 [fndg]	17
+2559	Day 7 [fndg]	16
+2542	Dead [orgf]	10
+3712	Death rate [qnco]	13
+3239	Death, postoperative [fndg]	13
+3811	Decade [qnco]	228
+4095	Deceased [orgf]	44
+4118	December [qlco]	403
+342	Decision Analysis [ocdi]	11
+2277	Decision [menp]	30
+3702	Declining [qlco]	22
+2020	Decompensated [qlco]	46
+4574	Decompensated liver disease [dsyn]	12
+3658	Decompensation [fndg]	51
+603	Decompression [phpr]	11
+477	Decrease [qlco]	275
+637	Decreased [qnco]	473
+1879	Decreases [qlco]	24
+1951	Decreasing [qlco]	77
+3230	Dedifferentiation [neop]	13
+2459	Defect [ftcn]	19
+2377	Defective [ftcn]	10
+3060	Defense [cnce]	12
+2047	Deficiency [ftcn]	34
+737	Deficient [ftcn]	50
+1120	Defined [inpr]	419
+2235	Definite [qlco]	46
+3603	Degradation [ftcn]	21
+1536	Degree [qlco]	209
+2720	Delay [tmco]	45
+4621	Delayed [tmco]	87
+4068	Deleted [acty]	12
+1509	Deletion [comd]	72
+2610	Delivered [ftcn]	22
+1232	Delivery [topp]	36
+4586	Delta Virus, Hepatitis [virs]	11
+3734	Delta [inpr]	28
+4919	Demand [topp]	13
+1019	Demographic Factors [idcn]	16
+2429	Demographics [ocdi]	89
+810	Demonstrable [ftcn]	12
+4129	Demonstrates [acty]	49
+3008	Density [qnco]	44
+2372	Department [orgt]	85
+2622	Dependent [qlco]	157
+2750	Depletion [ftcn]	23
+686	Deposition [ftcn]	30
+2229	Deposits [ftcn]	13
+1729	Depth [spco]	24
+778	Deregulated [acty]	18
+866	Deregulation [acty]	30
+2678	Derived [qlco]	155
+4921	Description [inpr]	23
+2593	Descriptive [inpr]	26
+2551	Design [acty]	286
+4785	Designated [ftcn]	17
+848	Destruction [topp]	17
+4643	Detail [qlco]	31
+436	Detailed [qlco]	88
+2065	Details [qlco]	37
+1826	Detectable [clna]	102
+837	Detected [fndg]	689
+3380	Detection [topp]	347
+4839	Deteriorated [fndg]	10
+3497	Deterioration [phpr]	40
+445	Determinant [ftcn]	109
+3763	Detoxification [orgf]	21
+3348	Developed Countries [qlco]	57
+3399	Developing Countries [qlco]	33
+2508	Diabetes [dsyn]	331
+3498	Diagnosed [fndg]	712
+412	Diagnoses [fndg]	43
+1189	Diagnosis, Differential [diap]	86
+1938	Diagnostic Accuracy [qlco]	69
+1355	Diagnostic Criteria [inpr]	34
+4620	Diagnostic Imaging [diap]	18
+1638	Diagnostic Marker [clna]	29
+310	Diagnostic Method [diap]	10
+1254	Diagnostic Tests [diap]	12
+255	Diagnostic [fndg]	376
+3866	Dialysis [npop]	14
+3476	Diameter, Mean [qnco]	40
+3828	Died [orgf]	316
+20	Diet [food]	106
+4755	Diet, High-Fat [topp]	21
+41	Dietary Factors [ftcn]	13
+2706	Dietary Habits [inbe]	16
+4175	Dietary [food]	86
+1065	Difference Type [cnce]	40
+3732	Difference patterns [qlco]	15
+4706	Difference stage [inpr]	25
+3803	Differential Diagnoses [diap]	13
+651	Differential Groups [lbpr]	16
+3578	Differential [qlco]	51
+2876	Differentiated [celf]	127
+345	Differentiation [celf]	313
+2790	Difficult [qlco]	193
+292	Difficulty [fndg]	24
+1963	Diffusion Weighted Imaging [diap]	27
+736	Diffusion [npop]	23
+827	Digestive [orgf]	16
+4555	Dilatation [patf]	25
+3887	Dilated [fndg]	14
+3430	Dilation [patf]	12
+1592	Dimension [qnco]	25
+2404	Dimensions [qnco]	21
+1383	Diminished [qnco]	23
+4784	Direct [qlco]	194
+3204	Direction [spco]	12
+438	Directions [spco]	43
+4169	Directly [qlco]	95
+1712	Discharged [hlca]	28
+2855	Discontinuation [hlca]	22
+1814	Discontinued [fndg]	23
+2504	Discontinuous [tmco]	11
+3199	Discordant [cnce]	13
+2269	Discover [acty]	62
+3718	Discovery [acty]	67
+207	Discrepancy [fndg]	14
+1735	Discriminant Analysis [resa]	10
+3928	Discriminate [qlco]	49
+1508	Discuss [socb]	331
+233	Discussion [topp]	65
+3220	Disease Outcome [fndg]	13
+3282	Disease Progression [patf]	103
+3609	Disease activity [ftcn]	12
+1000	Disease-Free Survival [qnco]	367
+4006	Diseases [dsyn]	196
+3051	Disorder [dsyn]	32
+1980	Disorders [dsyn]	45
+3691	Display [mnob]	18
+912	Disrupted [qlco]	10
+2397	Disruption [ftcn]	18
+1698	Dissection [topp]	31
+3553	Disseminated [spco]	11
+2663	Dissemination [spco]	22
+4752	Distance [qnco]	26
+1314	Distant Metastasis [clas]	51
+3056	Distributed [ftcn]	38
+3112	Distribution [idcn]	220
+2109	Disturbance [qlco]	15
+2521	Divergence [spco]	13
+1392	Diverse [qlco]	82
+773	Diversity [qlco]	21
+1759	Divided [ftcn]	350
+4409	Division [topp]	16
+4051	Documented [hlca]	122
+3768	Domain [ftcn]	39
+1675	Dominant [ftcn]	66
+2100	Donors [popg]	56
+2590	Doppler [diap]	18
+4394	Doppler ultrasonography [diap]	10
+2461	Dosage [qnco]	18
+2190	Dose-dependent [qnco]	32
+4300	Dose-response relationship [biof]	24
+1239	Doses [qnco]	32
+987	Double [ftcn]	62
+312	Downregulation [moft]	65
+349	Downstream [spco]	26
+562	Drainage, NOS [bdsu]	61
+4745	Dramas [inpr]	16
+906	Draw [inpr]	29
+4798	Drink [food]	24
+2962	Drinking Water [sbst]	13
+3900	Drinking [inbe]	61
+1002	Drive [menp]	53
+3894	Driving [dora]	19
+480	Drop [qnco]	12
+990	Dropped [acty]	11
+4034	Drug Resistance [biof]	16
+3598	Drug [phsu]	75
+4192	Drug use [mobd]	26
+3758	Drugs [phsu]	93
+3457	Dual [anim]	63
+3896	Ductal [qlco]	26
+597	Ducts [bpoc]	15
+2349	Duration [tmco]	256
+4130	Dynamic [ftcn]	106
+2633	Dynamics [npop]	17
+384	Dysfunction, Liver [patf]	43
+2034	Dyslipidemia [dsyn]	42
+4360	Dysplasia [patf]	50
+2244	Dysplastic [patf]	32
+4206	Dysplastic nodule [anab]	42
+696	E2 [moft]	10
+2837	ECHO [topp]	41
+331	EG [geoa]	15
+3397	EGYPT [geoa]	59
+3610	EGYPTIAN [lang]	29
+583	ELASTOGRAPHY [diap]	13
+318	ELDERLY [popg]	63
+3364	ELECTIVE [topp]	33
+1303	ELECTRODE [medd]	27
+3095	ELEVATED LIVER ENZYMES [fndg]	10
+4223	ELISA [lbpr]	63
+1598	EMERGENCY [phpr]	10
+631	ENDOSCOPY [diap]	24
+3512	ENSURE [food]	31
+172	ENTER [ftcn]	11
+1547	ENVIRONMENTAL FACTORS [ftcn]	64
+493	EQUIVOCAL [qlco]	12
+3426	ER [inbe]	12
+4307	ERA [dsyn]	66
+4679	ERCP [diap]	15
+58	ESCHERICHIA COLI [bact]	10
+4633	ESOPHAGEAL VARICES [acab]	43
+4385	ETHNIC [popg]	33
+606	EUROPEAN [popg]	236
+1678	EUS [diap]	12
+937	EXCLUSION [ftcn]	39
+4256	EXHAUSTION [sosy]	10
+3122	EXPIRED [orgf]	44
+652	EXPLANTED [fndg]	51
+3441	EXTRAHEPATIC BILE DUCT [bpoc]	22
+363	Earlier [tmco]	89
+1492	Early Childhood [tmco]	10
+2908	Early Detection [diap]	161
+4432	Early Diagnosis [diap]	130
+1027	Early Hepatocellular Carcinoma [neop]	96
+4723	Early Phase [clas]	19
+2774	Early Recurrence [fndg]	171
+3063	Early death [fndg]	14
+787	Early stage [tmco]	141
+718	Early-onset [fndg]	18
+3219	Ease [menp]	10
+4639	Easily [qlco]	41
+3650	East Asia [geoa]	16
+830	East [spco]	40
+756	Eastern Asia [geoa]	10
+1060	Eastern [spco]	49
+1593	Easy [qlco]	22
+3623	Eating [orgf]	15
+4652	Ecology [ocdi]	10
+3822	Economic [ocdi]	14
+320	Edge [spco]	19
+393	Edition [inpr]	10
+4038	Education [edac]	50
+1558	Effectiveness [qlco]	128
+4670	Effects [qlco]	540
+4508	Efficacy [qlco]	309
+901	Efficiency [qnco]	30
+1790	Efficient [qlco]	57
+120	Effort [orgf]	141
+584	Eggs [food]	10
+2797	Eight [qnco]	325
+3522	Eighteen [qnco]	36
+4410	Eighty [qnco]	99
+742	Either [fndg]	385
+3450	Elderly patients [podg]	56
+2456	Electrodes [medd]	26
+2894	Electron Microscopy [lbpr]	15
+3479	Electronic [mnob]	16
+137	Elements [elii]	25
+3315	Elevated [qlco]	337
+3555	Elevated alpha-fetoprotein [fndg]	26
+1587	Elevated serum alpha-fetoprotein [fndg]	12
+2606	Elevation [topp]	94
+4257	Eleven [qnco]	47
+3851	Eligibility [hlca]	18
+3660	Eligible [idcn]	83
+3256	Eliminated [qlco]	18
+197	Elimination [phsf]	33
+1769	Embolization [topp]	46
+3930	Embryonic [emst]	11
+817	Empirical [qlco]	14
+4475	Employed [qlco]	88
+913	En Bloc [ftcn]	13
+2315	Enabled [menp]	23
+3668	Enabling [menp]	14
+3216	Encapsulation [phpr]	15
+1962	Encephalopathy [dsyn]	19
+2478	Encephalopathy, Hepatic [dsyn]	37
+823	Encode [acty]	18
+1736	Encoding [idcn]	38
+175	Encounter [bhvr]	66
+3342	End Point [qlco]	49
+4087	End Stage Liver Disease [dsyn]	131
+988	End [spco]	154
+1238	End stage [qlco]	23
+952	Endogenous [ftcn]	34
+1757	Endometrial [spco]	10
+863	Endoplasmic Reticulum Stress [comd]	10
+4552	Endoplasmic Reticulum [celc]	10
+2354	Endoscopic [diap]	82
+632	Endoscopic retrograde cholangio-pancreatography [diap]	36
+1808	Endothelial Cells [cell]	16
+4860	Endothelial [tisu]	15
+230	Energy [fndg]	24
+4876	England [geoa]	13
+4816	English Language [lang]	13
+1628	English [lang]	40
+1039	Enhance [acty]	141
+957	Enhanced [acty]	353
+3785	Enhancement [topp]	152
+3630	Enhancer [nnon]	16
+4327	Enrollment [hlca]	37
+2322	Entered [qlco]	21
+719	Enteric [spco]	16
+3566	Entire [qnco]	76
+1717	Entity [enty]	95
+1301	Entry [inpr]	57
+4644	Environment [spco]	37
+4515	Environmental Exposure [inpo]	12
+3581	Environmental [spco]	70
+2499	Enzyme Immunoassay [lbpr]	24
+1077	Enzyme-Linked Immunosorbent Assay [lbpr]	45
+660	Eosinophilic [ftcn]	13
+806	Epidemic [phpr]	81
+4642	Epidemics [phpr]	11
+1871	Epidemiologic Studies [resa]	23
+1973	Epidemiologic [bmod]	51
+3786	Epidemiological Factors [ftcn]	10
+1616	Epidemiological [bmod]	173
+2640	Epidemiology [bmod]	293
+2570	Epidemiology, Molecular [bmod]	20
+4291	Epigenetic Change [genf]	18
+834	Epigenetic Mechanism [genf]	17
+358	Epigenetic [bmod]	58
+2101	Episode [tmco]	14
+1480	Episodes [tmco]	27
+1922	Epithelial [qlco]	48
+3396	Epithelial-Mesenchymal Transition [celf]	18
+1831	Epithelium [tisu]	53
+2059	Epstein Barr virus [virs]	14
+1956	Equal [qlco]	177
+3682	Equation [cnce]	10
+3016	Equilibrium [orgf]	17
+119	Equivalent [qlco]	40
+4655	Error [qlco]	14
+99	Esophageal [spco]	21
+1771	Essential [qlco]	150
+454	Established [qlco]	377
+1767	Estimate [qnco]	182
+3524	Estimated Glomerular Filtration Rate [lbpr]	15
+4228	Estimated [qnco]	351
+467	Estimated blood loss [fndg]	21
+4127	Ethnic groups [popg]	30
+1286	Ethnicity [popg]	72
+317	Europe [geoa]	78
+1329	Evaluate [hlca]	901
+3764	Evaluated [hlca]	969
+3202	Evaluation [hlca]	377
+2825	Evaluations [hlca]	10
+84	Event [evnt]	74
+3634	Events [evnt]	127
+1347	Ever [tmco]	19
+2291	Evolution [genf]	77
+4368	Evolving [ftcn]	26
+3079	Exact [qlco]	40
+2905	Exam [hlca]	16
+4185	Examined [fndg]	606
+456	Example [cnce]	74
+532	Excellent [qlco]	93
+2289	Excess [qlco]	53
+2231	Excessive Alcohol intake [fndg]	18
+3214	Excessive [qlco]	39
+2709	Excessive alcohol consumption [fndg]	24
+3873	Exclude [ftcn]	61
+481	Excluded [idcn]	140
+2932	Exclusion Criteria [ftcn]	18
+4282	Exclusive [idcn]	10
+616	Exercise [dora]	25
+1880	Exerted [orgf]	12
+1645	Exhibit [inpr]	150
+421	Exhibits [inpr]	17
+4791	Exist [cnce]	184
+1052	Existentialism [inpr]	34
+2776	Exogenous [spco]	17
+1792	Expand [spco]	21
+3268	Expanded [spco]	59
+1807	Expanding [spco]	19
+64	Expected [inpr]	165
+2005	Experiment [resa]	15
+656	Experimental Design [resa]	20
+4824	Experimental [qlco]	80
+1323	Experiments [resa]	36
+752	Explanation [inpr]	10
+3527	Exploration [topp]	27
+23	Exposed [clna]	109
+809	Exposure NOS [inpo]	350
+2940	Exposure to [clna]	11
+4661	Exposures, Environmental [inpo]	15
+3862	Extend [ftcn]	22
+1482	Extended [ftcn]	91
+3493	Extended hepatic resection [topp]	16
+540	Extending [spco]	20
+1546	Extension [ftcn]	34
+1997	Extensive [qlco]	111
+1195	Extent [spco]	160
+1360	External [spco]	24
+4416	Extracellular Matrix [tisu]	18
+208	Extracellular [celc]	12
+4173	Extract [sbst]	21
+679	Extracted [topp]	79
+1766	Extraction [topp]	11
+214	Extrahepatic Cholangiocarcinoma [neop]	51
+13	Extrahepatic Cholangiocarcinomas [neop]	12
+1907	Extrahepatic [spco]	237
+3618	Extrahepatic bile duct cancer [neop]	16
+3124	Extreme [qlco]	13
+2714	Extremely [qlco]	98
+2777	F2 [qnco]	28
+976	FACE [blor]	29
+4204	FAILURE [ftcn]	76
+4375	FALL [fndg]	21
+4858	FAMILY HISTORY [fndg]	76
+3360	FASTING [fndg]	32
+2249	FAT [orga]	88
+2608	FATIGUE [sosy]	17
+3475	FATTY ACID [orch]	12
+1372	FATTY CHANGE [patf]	11
+2401	FATTY LIVER [dsyn]	91
+2142	FED [dsyn]	40
+1989	FEMALE SEX [orga]	16
+376	FEMALE [orga]	230
+4163	FEVER [fndg]	28
+2097	FIB [gngm]	13
+2626	FIBROSIS LIVER [dsyn]	13
+4573	FIBROSIS [patf]	511
+327	FISH [fish]	46
+2847	FLOW CYTOMETRY [lbpr]	34
+4213	FLUID [bdsu]	14
+1827	FOCAL [spco]	97
+2063	FOODS [food]	20
+3307	FORMER [tmco]	41
+900	FRANCE [geoa]	46
+3857	Facility [idcn]	14
+2302	Factor, Protective [inbe]	17
+485	Failed [ftcn]	68
+2838	Failure, Renal [dsyn]	14
+3176	Failure, Treatment [fndg]	18
+2007	False Negative [lbtr]	10
+3344	Familial [famg]	20
+1332	Familiar [qlco]	10
+4821	Family Members [famg]	11
+3807	Family [famg]	110
+3909	Fast [fndg]	45
+2056	Fatal [qlco]	79
+2090	Favorable [qlco]	147
+871	February [qlco]	77
+4230	Feeding [hlca]	26
+4698	Female Gender [orga]	23
+3034	Females [orga]	224
+457	Fetal [emst]	18
+3867	Few [qnco]	225
+2635	Fibroblasts [cell]	15
+1111	Fibrolamellar Carcinoma [neop]	17
+3633	Fibrolamellar Hepatocellular Carcinoma [neop]	12
+709	Fibrosis score [clna]	24
+1310	Fibrosis stage [clna]	45
+2008	Fibrosis, Liver [dsyn]	178
+2527	Fibrotic [ftcn]	47
+4494	Fifteen [qnco]	47
+615	Fifth [qnco]	81
+1137	Fifty Nine [qnco]	13
+2770	Fifty [qnco]	113
+53	File [ocac]	33
+113	Final [qlco]	80
+4151	Find [fndg]	73
+3439	Finding [sosy]	110
+4153	Firm [qlco]	11
+1235	First Recurrence [fndg]	15
+4660	First line treatment [topp]	20
+2957	Firstly [qlco]	21
+62	Fit NOS [sosy]	14
+475	Five [qnco]	513
+1217	Five-year Survival Rate [qnco]	22
+3994	Fixed [qlco]	74
+2027	Flow [npop]	27
+2437	Fluke, Liver [euka]	43
+2418	Flukes, Liver [euka]	21
+2308	Fluorescence [npop]	11
+2454	Fluorescence in situ hybridisation [mbrt]	14
+3291	Focal Nodular Hyperplasia [dsyn]	99
+3085	Foci [spco]	60
+2944	Focus [spco]	206
+4203	Focused [spco]	85
+1986	Fold [spco]	168
+551	Follow-up examination [fndg]	15
+601	Following [tmco]	540
+1352	Food [food]	44
+3884	Form [qlco]	188
+3438	Formed [ftcn]	39
+1028	Forming [ftcn]	37
+3628	Formula [inpr]	18
+2029	Forty Nine [qnco]	18
+3198	Forty [qnco]	158
+3575	Forward [spco]	12
+667	Foundation [orgt]	19
+161	Fourteen [qnco]	43
+2946	Fourth [qnco]	32
+1477	Fraction [qnco]	69
+322	Fractions [qnco]	36
+1783	Free Fatty Acids [orch]	10
+2192	French [lang]	34
+2543	Frequencies [tmco]	61
+3679	Frequency [qnco]	270
+1104	Frequently [tmco]	436
+3521	Fresh Frozen Plasma [bdsu]	10
+2014	Fresh [qlco]	22
+2371	Freshwater [sbst]	17
+2055	Front [ftcn]	11
+2849	Frozen [npop]	20
+3264	Fulfill [phpr]	37
+2228	Full [qlco]	76
+3864	Fulminant hepatitis [dsyn]	11
+2834	Functional [ftcn]	170
+1108	Functioning [ftcn]	13
+366	Functions [ftcn]	52
+3766	Fusion [ftcn]	19
+4301	Future [tmco]	348
+868	GA [geoa]	12
+390	GALLSTONES [dsyn]	15
+33	GAMBIA [geoa]	10
+3226	GASTRIC CARCINOMA [neop]	11
+4319	GASTROINTESTINAL TRACT [bdsy]	23
+2650	GENETIC [topp]	162
+1634	GERMANY [geoa]	27
+1273	GG [geoa]	35
+629	GGT [gngm]	16
+324	GIVEN [cnce]	229
+189	GO [gngm]	14
+1350	GOLD STANDARD [qlco]	46
+2544	GREECE [geoa]	19
+2763	GROWTH [orgf]	197
+3366	GSTM1 [gngm]	14
+1134	GY [geoa]	25
+2357	Gain [qnco]	53
+4390	Gained [qnco]	34
+496	Gall Bladder [bpoc]	84
+3345	Gamma [npop]	18
+1464	Gamma-glutamyl transferase level [lbpr]	10
+1991	Gap [spco]	23
+1295	Gastric Adenocarcinoma [neop]	11
+1524	Gastric [bpoc]	41
+1447	Gastroenterology [bmod]	45
+4833	Gastrointestinal Cancer [neop]	11
+259	Gastrointestinal Cancers [neop]	12
+4115	Gastrointestinal [spco]	35
+3010	Gender [orga]	276
+237	Gene Characteristics [gngm]	10
+1136	Gene Expression Analysis [mbrt]	15
+869	Gene Expression Profiles [qnco]	29
+2956	Gene Expression [genf]	116
+1674	Gene Signature [ftcn]	22
+2920	Gene Therapy [topp]	13
+2002	Gene [gngm]	226
+3081	General Population [popg]	184
+1413	General [spco]	124
+991	Generalized [spco]	10
+552	Generated [acty]	68
+4581	Generation [tmco]	103
+2036	Generations [tmco]	11
+132	Genes [gngm]	245
+701	Genesis [gngm]	16
+4456	Genetic Alteration [genf]	37
+2764	Genetic Background [orga]	12
+3258	Genetic Polymorphism [genf]	17
+1532	Genetic Susceptibility [orga]	17
+12	Genetic Variation [npop]	11
+1024	Genetic changes [resa]	11
+283	Genetic polymorphisms [genf]	34
+3675	Genetic predisposition [orga]	13
+4610	Genetic variants [npop]	30
+2501	Genetics [bmod]	26
+1475	Genome [gngm]	114
+3007	Genomes [gngm]	15
+804	Genomic DNA [nnon]	15
+3935	Genomic [gngm]	74
+4191	Genotype [orga]	329
+1535	Genotypes [orga]	202
+286	Genotypic [orga]	11
+1867	Genotyping [lbpr]	42
+2505	Geographic Area [geoa]	18
+3110	Geographic Distribution [tmco]	14
+441	Geographic Region [geoa]	34
+4244	Geographic [spco]	49
+2744	Geography [ocdi]	30
+2731	Giant [dsyn]	11
+1837	Give [ftcn]	90
+561	Glands [bpoc]	11
+2549	Global Health [bmod]	19
+1652	Global [spco]	116
+566	Global cancer [neop]	11
+4904	Glutathione s-transferases [moft]	12
+4912	Glycosylation [npop]	11
+946	Goal [inpr]	100
+1764	Goals [inpr]	33
+290	Good [qlco]	241
+3115	Good prognosis [fndg]	30
+636	Government [orgt]	10
+1919	Grade B [qlco]	19
+1157	Grade C [inpr]	11
+409	Grade I [inpr]	12
+1171	Grade II [inpr]	13
+4591	Grade III [qlco]	39
+1664	Grade [clas]	196
+3372	Grades [clas]	40
+162	Grading [clas]	82
+4000	Gradual [qlco]	23
+1422	Graft Failure [patf]	21
+3730	Graft Survival [ortf]	43
+4303	Grafts [tisu]	25
+4043	Granular [qlco]	10
+1768	Gray [qnco]	19
+2473	Great [qnco]	103
+819	Greater [qnco]	503
+1597	Greatest [qnco]	63
+3201	Greatly [fndg]	65
+4538	Gross [qlco]	57
+4654	Gross pathology [lbtr]	26
+4078	Group 1 [inpr]	95
+519	Group 2 [inpr]	81
+3643	Group 3 [inpr]	22
+4428	Group 4 [inpr]	11
+1600	Group A [clas]	94
+909	Group C [clas]	35
+2496	Group I [inpr]	45
+3899	Group N [inpr]	11
+8	Group [idcn]	1319
+1564	Grouped [spco]	31
+1401	Groups [idcn]	1064
+4161	Growth pattern [fndg]	13
+3415	Guidance [hlca]	36
+893	Guide [prog]	147
+3724	Guideline [inpr]	19
+2028	Guidelines [inpr]	136
+3028	Gut [bdsy]	15
+4108	H+ [elii]	86
+1695	H. pylori [bact]	10
+1549	HA [geoa]	10
+1261	HAND [bpoc]	86
+4739	HBC [fndg]	15
+1776	HBe Ag [imft]	77
+164	HBs Ag carrier [fndg]	20
+1144	HCC [neop]	313
+1770	HCCS [gngm]	272
+3871	HCV RNA [lbpr]	41
+3846	HCV [virs]	409
+4013	HDV [virs]	11
+1570	HEAD [blor]	18
+4039	HEALTHY SUBJECTS [popg]	41
+4452	HEART [bpoc]	13
+2224	HELICOBACTER PYLORI [bact]	30
+1559	HELICOBACTER [bact]	11
+543	HEMORRHAGE [patf]	48
+4236	HEP [gngm]	23
+2252	HEPATIC ARTERY [bpoc]	37
+947	HEPATIC CIRRHOSIS [dsyn]	25
+4116	HEPATIC DAMAGE (NOS) [patf]	14
+3293	HEPATIC DISEASE (NOS) [dsyn]	27
+4260	HEPATIC FAILURE [dsyn]	60
+4522	HEPATIC FIBROSIS [dsyn]	97
+3546	HEPATIC causes [idcn]	10
+4286	HEPATITIS B CARRIER [fndg]	19
+2736	HEPATITIS B E ANTIGEN [imft]	92
+301	HEPATITIS B SURFACE ANTIGEN POSITIVE [lbtr]	55
+1882	HEPATITIS B VIRUS [virs]	847
+2586	HEPATITIS B [dsyn]	547
+783	HEPATITIS C VIRUS [virs]	888
+3765	HEPATITIS [dsyn]	276
+1985	HEPATOBLASTOMA [neop]	104
+2062	HEPATOCARCINOMA [neop]	40
+527	HEPATOCELLULAR DAMAGE [patf]	12
+764	HEPATOMEGALY [sosy]	17
+3410	HEREDITARY [ftcn]	13
+1090	HFE GENE [gngm]	12
+4678	HFE [gngm]	16
+4265	HIGH RISK [qlco]	552
+2552	HILAR [spco]	70
+2198	HISPANIC [popg]	30
+2853	HIV Infection [dsyn]	41
+3446	HIV [virs]	77
+3536	HODGKIN LYMPHOMA [neop]	11
+4534	HOME [cnce]	11
+3696	HOSPITALIZED [fndg]	29
+2715	HTTP [inpr]	20
+1715	HYPER [mobd]	23
+3091	HYPERCHOLESTEROLEMIA [dsyn]	15
+1731	HYPERGLYCEMIA [dsyn]	28
+1160	HYPERPLASIA [patf]	15
+2943	HYPERSPLENISM [dsyn]	13
+3921	HYPERTENSION [dsyn]	93
+1679	HYPERTRIGLYCERIDEMIA [dsyn]	23
+1554	HYPOXIA [patf]	18
+1656	Habit [inbe]	22
+3492	Habits [inbe]	32
+4606	Habitual [tmco]	28
+2078	Haemangioma, NOS [neop]	25
+1974	Haemochromatosis [dsyn]	55
+790	Haemodialysis [topp]	26
+339	Half [qnco]	95
+2623	Hamper [mnob]	19
+3651	Han Chinese [popg]	11
+3311	Han [lang]	10
+4709	Haplotype [orga]	24
+1224	Haplotypes [orga]	16
+3175	Harbor [mnob]	16
+828	Harbour [mnob]	22
+939	Hazard Ratio [qnco]	424
+3157	Hazard [qlco]	73
+1102	Hazards [qlco]	82
+1316	Hb s Ag negative [lbtr]	41
+4042	Hb s Ag positive [lbtr]	94
+4525	Hbe Ag negative [lbtr]	34
+2789	Hbe Ag positive [lbtr]	38
+2589	Health Education [edac]	12
+589	Health [idcn]	213
+2189	HealthCare [hlca]	27
+4741	Healthy Control [qlco]	108
+2902	Healthy Volunteers [popg]	18
+958	Healthy [qlco]	99
+4579	Heat [npop]	10
+4575	Heavy [qlco]	66
+3754	Heavy smoking [fndg]	10
+129	Help [qlco]	249
+1032	Helpful [qlco]	71
+128	Hematologic [bmod]	10
+4259	Hemodynamic [ortf]	23
+4875	Hemodynamics [ortf]	17
+4427	Hemophilia [dsyn]	10
+2183	Hemorrhagic [qlco]	10
+29	HepG2 Cells [cell]	33
+1516	Hepatectomy [topp]	600
+3321	Hepatic Arterial Infusion [topp]	17
+2605	Hepatic Cancer [neop]	14
+1949	Hepatic Carcinoma [neop]	17
+1520	Hepatic Cells [cell]	11
+3705	Hepatic Diseases [dsyn]	19
+2970	Hepatic Insufficiency [patf]	14
+60	Hepatic Involvement [clas]	11
+3329	Hepatic Mass [dsyn]	22
+1932	Hepatic Parenchyma [bpoc]	20
+1231	Hepatic Progenitor Cells [cell]	11
+3138	Hepatic Stellate Cells [cell]	31
+2209	Hepatic Surgery [topp]	16
+4065	Hepatic Tissue [bpoc]	25
+832	Hepatic Vein [bpoc]	32
+2659	Hepatic Venous Pressure [orgf]	12
+2321	Hepatic Venous [bpoc]	11
+4797	Hepatic [blor]	1063
+3714	Hepatic adenoma [neop]	17
+2399	Hepatic duct [bpoc]	13
+2887	Hepatic dysfunction [patf]	19
+2811	Hepatic function [ortf]	34
+3363	Hepatic haemangioma [neop]	14
+3288	Hepatic inflammation [fndg]	29
+4570	Hepatic injury, NOS [inpo]	21
+1204	Hepatic malignancies [neop]	19
+3516	Hepatic metastasis [neop]	10
+3710	Hepatic status [qlco]	10
+729	Hepatic surface [blor]	20
+3716	Hepatic toxicity [dsyn]	13
+1969	Hepatic tumour [neop]	30
+3150	Hepatic veins [bpoc]	16
+1170	Hepaticojejunostomy [topp]	12
+2098	Hepatitis B Core Antigen [imft]	31
+2636	Hepatitis B Infection [dsyn]	55
+4221	Hepatitis B Surface Antigen carrier [fndg]	20
+185	Hepatitis B Viral load [lbpr]	13
+15	Hepatitis B Virus Disease [virs]	25
+3289	Hepatitis B antigen [imft]	10
+3874	Hepatitis B surface antigen negative [lbtr]	18
+1894	Hepatitis B vaccination [topp]	18
+2446	Hepatitis B virus genotype C [virs]	15
+2854	Hepatitis B virus genotype [orga]	44
+1996	Hepatitis B virus group [virs]	18
+3261	Hepatitis B virus infection [virs]	357
+3200	Hepatitis B virus load [lbpr]	22
+4012	Hepatitis B virus status [clna]	16
+4411	Hepatitis B, Chronic [dsyn]	298
+879	Hepatitis C Infection [dsyn]	57
+3885	Hepatitis C Related Hepatocellular Carcinoma [neop]	10
+279	Hepatitis C Viral infection [virs]	13
+3248	Hepatitis C Virus Disease [virs]	59
+1461	Hepatitis C Virus-Related Hepatocellular Carcinoma [neop]	76
+2460	Hepatitis C [dsyn]	393
+2523	Hepatitis C virus RNA positive [lbtr]	21
+1722	Hepatitis C virus antibody negative [lbtr]	10
+941	Hepatitis C virus antibody positive [lbtr]	28
+3602	Hepatitis C virus carrier [fndg]	19
+3259	Hepatitis C virus genotype 1 [virs]	17
+3993	Hepatitis C virus genotype [fndg]	57
+1504	Hepatitis C virus group [virs]	29
+2281	Hepatitis C virus infection [dsyn]	524
+2451	Hepatitis C virus positive [lbtr]	110
+2577	Hepatitis C virus status [clna]	15
+2968	Hepatitis C viruses [virs]	17
+126	Hepatitis VIRUS POSITIVE [lbtr]	19
+2667	Hepatitis Virus [virs]	37
+167	Hepatitis Viruses [virs]	53
+2685	Hepatobiliary Diseases [dsyn]	12
+2806	Hepatobiliary Malignancy [neop]	10
+2979	Hepatobiliary malignancies [neop]	13
+2146	Hepatoblastomas [neop]	18
+3812	Hepatocarcinogenesis [neop]	291
+4231	Hepatocellular Adenomas [neop]	25
+3254	Hepatocellular Carcinoma cell [cell]	107
+1214	Hepatocellular Carcinomas [neop]	275
+3185	Hepatocellular Injury [patf]	11
+1320	Hepatocellular [qlco]	205
+525	Hepatocellular dysplasia [fndg]	11
+3277	Hepatocyte [cell]	119
+1693	Hepatocytes [cell]	223
+713	Hepatolithiasis [dsyn]	62
+4124	Hepatology [bmod]	112
+3347	Hepatoma [neop]	53
+1427	Hepatomas [neop]	10
+134	Hepatotoxicity [inpo]	40
+3934	Hereditary haemochromatosis [dsyn]	25
+560	Heterogeneity [qlco]	83
+3699	Heterogeneous [qlco]	87
+1259	Heterozygosity [orga]	24
+4617	Heterozygotes [orga]	10
+4533	Heterozygous [orga]	21
+1934	High Grade [qlco]	58
+2104	High Prevalence [qnco]	214
+2041	High Risk Populations [popg]	18
+1519	High dose [qnco]	31
+1384	High frequency [tmco]	76
+1309	High grade dysplasia [comd]	15
+4347	High grade dysplastic nodule [neop]	17
+3381	High intensity [clas]	17
+1846	High recurrence rate [fndg]	57
+3589	High resolution [lbpr]	22
+3644	High risk factors [fndg]	30
+512	High sensitivity [lbpr]	23
+4081	Higher [qlco]	1112
+350	Highest [qlco]	202
+2070	Highly [qlco]	273
+1391	Highly active anti-retroviral therapy [topp]	24
+1748	Highly sensitive [qlco]	12
+1794	Highly significant [qlco]	13
+4021	Hilar Cholangiocarcinoma [neop]	68
+1990	Hilum [bpoc]	13
+4688	Hispanics [popg]	20
+1742	Histogenesis [ortf]	12
+4200	Histologic Grade [clas]	20
+1843	Histologic [ftcn]	165
+121	Histological [ftcn]	285
+3179	Histological finding [fndg]	35
+4651	Histological grade [clas]	37
+531	Histological type [clas]	13
+2937	Histologically [ftcn]	178
+21	Histology [bmod]	183
+3108	Histopathologic Examination [bmod]	19
+111	Histopathologic [bmod]	76
+1418	Histopathology finding [lbtr]	25
+3906	Historical [inpr]	28
+3604	Histories [ocdi]	12
+2625	History [ocdi]	395
+1727	Hold [idcn]	32
+1612	Homoeostasis [biof]	24
+4429	Homogeneity [qlco]	10
+229	Homogeneous [qlco]	31
+397	Homolog [gngm]	13
+3089	Homozygote [orga]	10
+2808	Homozygotes [orga]	16
+2030	Homozygous [orga]	50
+2053	Hongkong [geoa]	23
+1397	Hope [menp]	45
+687	Hormonal [qlco]	13
+3964	Hormones [horm]	10
+1405	Hospital Mortality [qlco]	31
+3481	Hospital Mortality rate [qlco]	10
+2009	Hospital Stay [tmco]	72
+3841	Host [orgm]	136
+942	Host response [ortf]	14
+2419	Household [famg]	10
+3916	Huh7 [gngm]	24
+3886	Human Cell Line [cell]	14
+4015	Human Immunodeficiency Virus [virs]	61
+3726	Human Papilloma Virus [virs]	16
+1061	Human Pathology [bmod]	12
+123	Human [humn]	475
+4511	Human cells [lbtr]	33
+3840	Human immunodeficiency virus infection, NOS [dsyn]	20
+1215	Human tissue [tisu]	11
+1918	Humans [humn]	102
+1127	Hybridization [genf]	17
+4268	Hygiene [bmod]	13
+2379	Hyperbilirubinaemia [dsyn]	24
+1654	Hyperinsulinaemia [dsyn]	16
+4152	Hyperlipidaemia, NOS [dsyn]	43
+3855	Hypermethylation [genf]	30
+276	Hyperplastic [patf]	16
+219	Hypertension, Portal [dsyn]	109
+1484	Hypertension, arterial [dsyn]	10
+2786	Hypervascular [qlco]	67
+4720	Hypoalbuminaemia [dsyn]	16
+4671	Hypothesis [idcn]	111
+4398	Hypoxic [patf]	13
+1740	ICC [neop]	23
+2884	IFN-ALPHA [gngm]	16
+753	III [inpr]	138
+2363	IMMUNOBLOT [lbpr]	10
+1904	IMMUNOPRECIPITATION [lbpr]	11
+4882	IMMUNOSUPPRESSIVE THERAPY [topp]	26
+4738	IMMUNOTHERAPY [topp]	14
+2022	IMPACT [gngm]	599
+9	INCLUSION [celc]	54
+3701	INCOMPLETE [qnco]	53
+4817	INDETERMINATE [idcn]	24
+82	INDIA [geoa]	35
+3787	INDIAN [popg]	14
+125	INFANT [aggp]	24
+400	INFERIOR [spco]	26
+4102	INFLAMMATION [patf]	266
+2513	INFLAMMATORY BOWEL DISEASE [dsyn]	47
+2906	INFORMATION [idcn]	355
+949	INHERITED [ftcn]	13
+1933	INHIBITION [menp]	97
+2448	INSULIN RESISTANCE [patf]	157
+4593	INTERMEDIATE [spco]	94
+1716	INTERMITTENT [tmco]	11
+2624	INTERPRETATION [inpr]	56
+4895	INTRAHEPATIC BILE DUCT [bpoc]	25
+4597	IR [geoa]	10
+2926	IRAN [geoa]	34
+4174	IRELAND [geoa]	107
+3985	ITALIAN [lang]	89
+2179	ITALY [geoa]	107
+4922	IU [nnon]	13
+2818	IU/L [qnco]	54
+2087	IU/mL [qnco]	61
+3805	IV [geoa]	125
+2852	Iatrogenic [qlco]	14
+87	Ide [fish]	34
+2484	Ideal [qlco]	36
+4770	Identical [qlco]	37
+3221	Identifiable [qlco]	40
+2840	Identification [menp]	254
+1129	Identified [qlco]	1287
+216	Identifying patient [hlca]	14
+811	Ill [sosy]	33
+3823	Illness [sosy]	17
+1870	Image Analysis [lbpr]	15
+1351	Image [inpr]	259
+4067	Imaging Characteristics [qlco]	15
+3677	Imaging Feature [qlco]	44
+2069	Imaging Study [diap]	62
+2697	Imaging Techniques [diap]	42
+3408	Imaging [diap]	457
+2464	Imaging modality [ftcn]	11
+3299	Imaging, Magnetic Resonance [diap]	194
+1732	Imbalance [sosy]	14
+833	Immediate [tmco]	47
+333	Immediately [tmco]	41
+3413	Immigrant [popg]	13
+1358	Immigrants [popg]	21
+2439	Immigration [acty]	11
+4588	Immune Response [ortf]	45
+2068	Immune System [bdsy]	28
+1166	Immune [ftcn]	96
+2330	Immunisation [topp]	18
+4100	Immunity [phsf]	16
+1454	Immunoassay [lbpr]	13
+803	Immunoblot Assay [lbpr]	27
+2973	Immunofluorescence [lbpr]	13
+2585	Immunohistochemical [lbpr]	213
+4480	Immunohistochemistry [diap]	218
+1604	Immunological [ftcn]	33
+3362	Immunopathology [bmod]	10
+979	Immunosuppression [topp]	83
+2160	Impacted [anab]	12
+2409	Impaired [ftcn]	58
+2972	Impaired glucose tolerance [dsyn]	11
+1694	Impaired liver function [patf]	10
+3191	Impairment [ftcn]	31
+1939	Implantation [topp]	15
+2888	Implanted [medd]	28
+3394	Implementation [acty]	57
+3285	Important [qlco]	1132
+108	Improved [qlco]	394
+86	Improvement [cnce]	192
+4892	Improves [qlco]	96
+4046	Improving [qlco]	97
+4338	In Situ [spco]	18
+3445	In Vitro Model [resa]	10
+1660	In Vitro [inpr]	124
+355	In Vivo Model [resa]	11
+96	In Vivo [spco]	126
+3511	In [qnco]	149
+3382	In the Field [spco]	28
+2290	In-Hospital Mortality [qlco]	19
+2880	Inactivation [ftcn]	41
+2234	Inactive [qlco]	34
+149	Inadequate [qlco]	41
+4443	Inappropriate [qlco]	13
+2645	Incidence Rate [qnco]	182
+2394	Incidences [qnco]	88
+2997	Incident [idcn]	83
+1015	Incidental [ftcn]	37
+1943	Including [ftcn]	1338
+3278	Inclusion Criteria [qlco]	58
+4722	Income [qnco]	26
+3907	Inconclusive [idcn]	14
+609	Inconsistent [qlco]	36
+284	Increased Cancer Risk [qnco]	18
+915	Increased [qnco]	1551
+56	Increased hepatocellular carcinoma risk [fndg]	11
+2303	Increases [qnco]	238
+452	Increasing [ftcn]	477
+2413	Increment [qnco]	19
+2475	Incremental [qnco]	23
+4335	Independent [idcn]	1500
+2152	Index [inpr]	224
+4744	Indexes [inpr]	11
+2999	Indicated [fndg]	411
+18	Indications [idcn]	127
+2472	Indicators [irda]	54
+2332	Indices [lbpr]	38
+1094	Indirect [qlco]	27
+1830	Individualized [qlco]	30
+978	Indolent [ftcn]	10
+305	Induced [ftcn]	499
+1568	Inducible [ftcn]	18
+2984	Inducing [ftcn]	53
+2729	Induction [ftcn]	87
+4106	Industrialized Countries [qlco]	11
+3568	Infancy [tmco]	11
+4022	Infants [aggp]	29
+2807	Infected [fndg]	552
+4109	Infection, Surgical Site [patf]	11
+4016	Infection, Viral [dsyn]	59
+2482	Infections [patf]	150
+2515	Infections, Viral [dsyn]	52
+2153	Infectious Agents [orgm]	25
+3452	Infectious Diseases [dsyn]	24
+2680	Inference [menp]	10
+3585	Inferior Vena Cava [bpoc]	24
+14	Infiltrating [patf]	36
+2726	Infiltration [patf]	86
+1016	Inflamed [ftcn]	10
+4072	Inflammatory Response [patf]	20
+3698	Inflammatory [ftcn]	156
+2240	Inflammatory pseudotumour [neop]	12
+1402	Inflammatory reaction [patf]	10
+4708	Influence [cnce]	237
+1805	Informative [qlco]	10
+541	Informed Consent [rnlw]	37
+1145	Infrastructure [clas]	17
+1965	Infrequent [tmco]	25
+1930	Infrequently [tmco]	13
+4238	Infusion [topp]	27
+4537	Ingestion [biof]	12
+3075	Inhibited [qlco]	91
+1412	Inhibiting [acty]	30
+4455	Inhibitor [qlco]	71
+2355	Inhibitory [acty]	24
+2666	Initial [tmco]	334
+1469	Initially [tmco]	72
+1663	Initiate [idcn]	62
+94	Initiation [menp]	63
+3246	Inject [ftcn]	48
+3483	Injection therapy [topp]	12
+2644	Injection, intravenous [ftcn]	11
+1256	Injury [inpo]	80
+1343	Inoperable [qlco]	20
+4461	Inpatient [podg]	13
+0	Inpatients [podg]	17
+1753	Inserted [hlca]	11
+3821	Insertion [topp]	19
+2528	Insight [menp]	58
+2018	Instance [idcn]	20
+25	Institutional Review Board Approval [inpr]	11
+4009	Institutional Review Board [prog]	28
+3681	Insufficient [qlco]	45
+4624	Insulin Sensitivity [patf]	13
+2341	Intact [qlco]	14
+3774	Intake [ftcn]	52
+2345	Integral [qnco]	14
+3222	Integration [genf]	97
+1473	Intended [qlco]	19
+242	Intense [qlco]	27
+217	Intensity [qlco]	60
+1972	Intention [menp]	32
+2917	Inter- [spco]	17
+861	Interaction [ftcn]	255
+4381	Interactions, Gene-Environment [genf]	12
+4470	Interactive [ftcn]	13
+3274	Interest [menp]	79
+3749	Interface [mnob]	14
+1602	Interference [ftcn]	14
+222	Interferon Therapy [topp]	122
+948	Internal [spco]	34
+1582	Internal medicine [bmod]	12
+1243	Internally [spco]	19
+2158	International Agency for Research on Cancer [hcro]	17
+3142	International Classification of Diseases [inpr]	15
+3184	International [idcn]	106
+2826	International normalised ratio [lbpr]	20
+3064	Interquartile Range [qnco]	33
+1222	Interval [tmco]	97
+595	Interventional Radiology [bmod]	12
+1112	Interventional [topp]	17
+4521	Interview [acty]	50
+4430	Interviews [acty]	17
+2032	Intestinal [bpoc]	23
+2427	Intra [tmco]	59
+3317	Intraabdominal [blor]	15
+2925	Intraabdominal hemorrhage [patf]	10
+2991	Intraarterial [spco]	17
+3193	Intractable [ftcn]	14
+1396	Intraductal Papillary Neoplasm [neop]	20
+1426	Intrahepatic Bile Ducts [bpoc]	29
+271	Intrahepatic Cholangiocarcinoma [neop]	220
+227	Intrahepatic Cholangiocarcinomas [neop]	26
+479	Intrahepatic [spco]	465
+2710	Intrahepatic duct [bpoc]	13
+3814	Intraoperative Blood loss [patf]	56
+4057	Intraoperative [tmco]	157
+3074	Intraperitoneal [spco]	12
+2916	Intratumoral [spco]	36
+2803	Intravenous [spco]	18
+1221	Intrinsic [spco]	14
+905	Introduction [hlca]	147
+2368	Invasion [fndg]	646
+1531	Invasive [qlco]	73
+2883	Invasiveness [qlco]	22
+4353	Inverse Association [cnce]	20
+4691	Inverse [qlco]	22
+2141	Investigation [hlca]	154
+1999	Investigations [hlca]	79
+1331	Investigators [prog]	20
+1009	Involvement [ftcn]	110
+3558	Involving [ftcn]	117
+2955	Iranian [popg]	14
+2253	Iron Overload [dsyn]	47
+4469	Irradiation [npop]	12
+1765	Irregular [qlco]	41
+1945	Ischaemia, NOS [patf]	11
+2013	Ischemia-Reperfusion Injury [inpo]	12
+3852	Ischemic [ftcn]	13
+239	Iso [fish]	15
+2361	Isoform [aapp]	12
+3824	Isoforms [aapp]	13
+2619	Isointense [idcn]	16
+4630	Isolated [ftcn]	100
+2119	Issue [fndg]	174
+1182	Item [enty]	19
+2702	JAPAN [geoa]	214
+16	JAUNDICE [patf]	83
+2788	JAUNDICE, OBSTRUCTIVE [dsyn]	35
+4485	JNK [moft]	11
+4683	JOINT [bsoj]	17
+3636	January [qlco]	513
+1467	Judge [prog]	25
+4074	July [qlco]	107
+1864	Junction [spco]	11
+3845	June [tmco]	121
+4767	KAPOSIS SARCOMA [neop]	24
+3802	KG [geoa]	14
+4423	KI67 [gngm]	10
+3357	KIDNEY [bpoc]	44
+2734	KIDNEYS [bpoc]	13
+812	KIT [medd]	10
+569	KRAS [gngm]	11
+2692	Kaplan-Meier Analysis [qnco]	76
+3133	Kaplan-Meier Estimate [qnco]	11
+910	Kaplan-Meier Survival Curves [qnco]	12
+1053	Kappa [inpr]	34
+574	Keep [ftcn]	25
+440	Keyword [inpr]	23
+4085	Ki-67 [lbpr]	32
+4600	Kind [qlco]	31
+1424	Kinetics [npop]	10
+3595	Knowledge [inpr]	222
+550	Known [qlco]	614
+4384	Korea [geoa]	55
+697	Kupffer Cells [cell]	11
+1423	L3 [blor]	24
+611	LARGE [qnco]	541
+1528	LARYNX [bpoc]	20
+3531	LED [mnob]	129
+4194	LEFT [spco]	85
+1277	LEUKAEMIA [neop]	16
+4808	LI [geoa]	13
+250	LIFE THREATENING [fndg]	40
+1505	LIKELIHOOD RATIO [qnco]	13
+177	LISS [lbpr]	110
+4747	LIVER CARCINOMA [neop]	17
+1379	LIVER CIRRHOSIS [dsyn]	577
+4165	LIVER DAMAGE [patf]	99
+4176	LIVER DISEASE [dsyn]	585
+3164	LIVER FAILURE [dsyn]	177
+717	LIVER FUNCTIONS [ortf]	10
+1095	LIVER INJURY [inpo]	120
+1072	LIVER MASS [dsyn]	18
+3723	LIVER TRANSPLANT [topp]	137
+1353	LIVER [bpoc]	2214
+4208	LIVER sample [tisu]	28
+4202	LLC [celc]	15
+2662	LOBECTOMY [topp]	19
+260	LOCAL [spco]	304
+1758	LOCALIZED [spco]	51
+1983	LONG-TERM FOLLOW-UP [hlca]	66
+1966	LOWER [spco]	843
+2616	LT [geoa]	14
+3252	LTD [ortf]	355
+808	LUNG [bpoc]	113
+2467	LUNGS [bpoc]	22
+1409	LYMPH NODE [bpoc]	25
+4467	LYMPH NODES [bpoc]	32
+1868	LYMPHOMA [neop]	43
+4367	La [elii]	12
+1876	Labeled [qlco]	12
+3383	Labeling Index [lbtr]	20
+163	Labeling [ocac]	16
+4226	Laboratory Data [idcn]	51
+2279	Laboratory Tests [lbpr]	34
+2049	Lacking [qlco]	86
+2864	Language [lang]	14
+914	Lanugo [bpoc]	69
+1961	Laparoscopic Surgery [topp]	14
+1465	Laparoscopic [diap]	78
+2548	Laparoscopic approach [spco]	17
+3260	Laparoscopy [diap]	29
+447	Laparotomy [topp]	41
+4924	Large Mass [fndg]	13
+3443	Large amount [qnco]	15
+1408	Large tumor [qlco]	50
+468	Large tumour [qlco]	98
+706	Larger [qnco]	232
+1821	Largest [qnco]	61
+2566	Last [qlco]	204
+1975	Late Diagnosis [qlco]	17
+383	Late Phase [tmco]	21
+2541	Late Recurrence [fndg]	56
+1107	Late [tmco]	172
+3539	Late onset [qlco]	11
+1782	Late stage [tmco]	31
+4148	Latent [qlco]	22
+592	Later [tmco]	98
+2177	Leading [tmco]	400
+3046	Leakage [patf]	10
+815	Left lateral [spco]	22
+3482	Length [qnco]	109
+2682	Lesion size [spco]	18
+385	Less Frequent [fndg]	14
+1688	Less [qnco]	543
+2323	Lesser [qlco]	24
+2	Lethal [fndg]	46
+1775	Levels [qlco]	888
+4020	Life Expectancy [grpa]	42
+3587	Life [idcn]	146
+864	Lifestyle [socb]	91
+549	Lifetime [tmco]	32
+1010	Ligand [chem]	14
+3190	Ligation [topp]	26
+2658	Light [npop]	46
+2872	Likelihood [qnco]	57
+4872	Likely [qlco]	336
+2346	Limitation [ftcn]	15
+2444	Limited [ftcn]	393
+3365	Line [spco]	62
+2232	Lineage [cnce]	10
+3073	Linear Regression [qnco]	11
+1281	Linear [spco]	53
+1047	Link [inpr]	306
+1154	Lipid Metabolism [moft]	18
+2820	Lipid Peroxidation [moft]	11
+2724	Lipid [orch]	41
+4736	Lipids [orch]	19
+4171	List [cnce]	56
+1910	Literature [inpr]	349
+1290	Little [qnco]	211
+1896	Live [qlco]	21
+2511	Liver Biopsy [diap]	212
+3196	Liver Cancer [neop]	461
+3983	Liver Carcinogenesis [neop]	64
+4134	Liver Diseases [dsyn]	188
+1785	Liver Function Tests [lbpr]	46
+3717	Liver Group [lbpr]	36
+1596	Liver Insufficiency [patf]	11
+1869	Liver Metastases [neop]	47
+4103	Liver Metastasis [neop]	33
+499	Liver Regeneration [ortf]	31
+3405	Liver Tissue [bpoc]	116
+4743	Liver Transplantation [topp]	758
+4033	Liver Tumorigenesis [neop]	19
+32	Liver biopsy specimens [tisu]	16
+4289	Liver cell [cell]	19
+4292	Liver cells [cell]	46
+2516	Liver decompensation [dsyn]	15
+3127	Liver fluke infection [dsyn]	18
+1165	Liver function [ortf]	307
+3058	Liver inflammation [dsyn]	29
+1719	Liver malignancies [neop]	17
+3054	Liver neoplasms [neop]	20
+1494	Liver parenchyma [bpoc]	79
+1190	Liver physiology [ortf]	14
+3062	Liver segment [bpoc]	16
+1950	Liver stiffness [fndg]	26
+2512	Liver transplant recipient [fndg]	83
+4269	Liver--Tumors [neop]	127
+1338	Livers [bpoc]	204
+4868	Living Donor [popg]	22
+3310	Living [idcn]	61
+4647	Living donor liver [topp]	92
+2262	Load [idcn]	22
+1407	Loading [acty]	11
+1802	Lobar [qlco]	11
+2168	Lobe [bpoc]	61
+526	Lobular [qlco]	30
+321	Local Therapy [topp]	42
+1264	Local tumor recurrence [neop]	11
+142	Localization [ftcn]	29
+294	Locally [spco]	32
+3331	Location [spco]	96
+3049	Locus [gngm]	56
+3711	Log [inpr]	207
+2850	Logistic Regression [resa]	153
+3535	Long Non-Coding RNA [nnon]	10
+1844	Long Term Survival [fndg]	246
+2756	Long Term [tmco]	522
+1687	Long [qlco]	379
+2693	Long duration [qlco]	23
+4167	Long-Term Effects [phpr]	16
+3065	Long-Term Survivors [podg]	10
+258	Longest [qlco]	11
+2236	Longitudinal Study [resa]	20
+4380	Longitudinal [spco]	37
+3694	Los Angeles [geoa]	13
+4674	Loss [qnco]	149
+3136	Lost [ftcn]	43
+677	Low Grade [qlco]	31
+576	Low Income [grpa]	11
+1429	Low Prevalence [qnco]	24
+3109	Low Risk [fndg]	122
+3949	Low [qlco]	684
+3324	Low dose [qnco]	27
+1106	Low frequency [tmco]	10
+1988	Low platelet count [fndg]	48
+75	Low serum albumin [fndg]	14
+4503	Lowest [qlco]	77
+2085	Lung Cancer [neop]	61
+1806	Lymph Node Dissection [topp]	12
+3972	Lymph Node Involvement [fndg]	14
+2093	Lymph node metastases [neop]	25
+4344	Lymphadenectomy [topp]	18
+4246	Lymphocyte [cell]	43
+4131	Lymphocytes [cell]	26
+1246	Lymphovascular Invasion [fndg]	10
+422	M1 [gngm]	13
+3000	MALE SEX [orga]	103
+4059	MALE [orga]	412
+4396	MALIGNANCIES [neop]	169
+3657	MALIGNANCY [neop]	296
+4294	MALIGNANT [qlco]	313
+4705	MALNUTRITION [dsyn]	10
+2660	MASS SPECTROMETRY [lbpr]	17
+4209	MASS [fndg]	137
+2466	MATCHING [resa]	49
+4463	MEASUREMENT [ftcn]	85
+1979	MEDICARE [gora]	17
+1083	MEDITERRANEAN [popg]	12
+3451	MEDLINE [inpr]	86
+2721	MELANOMA [neop]	24
+212	MELD [clas]	45
+814	MELD score [clna]	76
+3708	MET [dsyn]	117
+353	METABOLIC DISORDERS [dsyn]	25
+1337	METABOLIC SYNDROME [dsyn]	212
+102	METABOLIC [ftcn]	182
+4031	MEXICO [geoa]	16
+2875	MG [geoa]	33
+2206	MICRO [lbpr]	19
+1135	MICROARRAY [mnob]	59
+4446	MILD [qlco]	103
+3151	MILDLY [idcn]	14
+2713	MINUTE [tmco]	17
+2613	MIXED [ftcn]	59
+4864	MO [geoa]	94
+2753	MODIFY [ftcn]	50
+4559	MOLECULAR BASIS [idcn]	15
+2897	MR [gngm]	91
+2458	MRI [diap]	136
+3518	MU [geoa]	38
+418	MUCOSA [tisu]	12
+3017	MULTIFOCAL [spco]	54
+3327	MULTIPLE [qnco]	454
+2075	Macro [cnce]	12
+1036	Macrophage [cell]	20
+1361	Macrophages [cell]	28
+1692	Macroscopic [qlco]	66
+3318	Macroscopic blood vessel [bpoc]	26
+1976	Magnetic Resonance [npop]	49
+4850	Main [qlco]	405
+2113	Maintain [acty]	63
+3160	Maintained [ftcn]	56
+4781	Maintenance [acty]	43
+4388	Make [ftcn]	362
+2274	Male Gender [orga]	109
+3326	Male predominance [fndg]	15
+3596	Males [orga]	285
+2954	Malignant Neoplasms [neop]	14
+263	Malignant cells [cell]	13
+3180	Malignant disease [dsyn]	33
+4758	Malignant liver tumors [neop]	26
+4885	Malignant tumour [neop]	29
+2187	Mammalian [mamm]	22
+4719	Man [popg]	95
+2699	Managed [ocac]	46
+911	Management [ocac]	498
+1914	Managing [ocac]	31
+407	Mandatory [ftcn]	38
+3879	Manifest [ftcn]	16
+4712	Map [mnob]	16
+2254	Mapping [acty]	11
+3548	March [qlco]	151
+2582	Margin [spco]	141
+234	Marginal [spco]	29
+2539	Marked [qlco]	80
+1658	Markedly [qlco]	85
+4580	Marker [clna]	478
+612	Markers, Viral [qlco]	22
+1202	Massive [qlco]	34
+3789	Material [sbst]	110
+253	Materials [sbst]	342
+2649	Maternal [famg]	23
+2524	Matrix [spco]	16
+1699	Mature [tmco]	13
+4316	Maximal [qlco]	27
+2683	Maximum [qnco]	98
+3082	May [tmco]	117
+972	Mayo [geoa]	25
+1937	Mean Survival Time [qnco]	11
+4512	Mean score [qnco]	12
+1517	Meaning [idcn]	17
+1431	Means [cnce]	67
+3386	Measure [qnco]	71
+2533	Measured [qlco]	292
+461	Measures [qnco]	104
+851	Mechanism [ftcn]	193
+2108	Mechanisms [ftcn]	469
+1700	Median Survival Time [tmco]	57
+1793	Median [spco]	921
+4298	Mediate [socb]	24
+1521	Mediating [socb]	20
+3096	Medical History [fndg]	20
+2966	Medical Records [inpr]	99
+1410	Medical [hlca]	188
+1912	Medical care [fndg]	12
+4177	Medical therapy [topp]	10
+193	Medication [phsu]	15
+967	Medications [phsu]	32
+855	Medicine [phsu]	63
+1621	Medium [inpr]	35
+2787	Meet [phpr]	29
+599	Meeting [acty]	47
+1953	Member [popg]	41
+634	Membrane [tisu]	29
+1419	Men [popg]	426
+2600	Mesenchymal Hamartoma [dsyn]	10
+4168	Mesenchymal [qlco]	18
+1485	Meta [euka]	15
+3104	Meta-Analysis [inpr]	135
+3005	Metabolic Disease [dsyn]	13
+4270	Metabolic Diseases [dsyn]	17
+4604	Metabolism [orgf]	63
+1346	Metabolite [bacs]	19
+2815	Metabolites [bacs]	31
+501	Metabolomics [bmod]	11
+4518	Metastases [neop]	182
+1537	Metastasis [neop]	381
+344	Metastatic Lesion [fndg]	14
+1873	Metastatic [ftcn]	130
+4278	Metastatic hepatocellular carcinoma [neop]	33
+1798	Metastatic liver tumors [neop]	12
+2285	Methods [inpr]	3099
+1081	Methylation [moft]	57
+2933	Mice [mamm]	182
+2912	Mice, Knockout [mamm]	17
+4918	Mice, Nude [mamm]	20
+754	Mice, Transgenic [mamm]	43
+664	Microarray Analysis [lbpr]	17
+1075	Microscopic [qlco]	74
+3590	Microscopic blood vessel [bpoc]	26
+3570	Microspheres [medd]	14
+3466	Microvascular [ftcn]	169
+2554	Microvessel Density [qlco]	13
+579	Microwave [npop]	12
+1192	Microwave ablation [topp]	22
+3795	Microwave coagulation therapy [topp]	10
+4220	Mid [spco]	17
+4414	Middle Aged [aggp]	10
+889	Middle [spco]	28
+3608	Migrants [popg]	10
+2143	Migration [socb]	64
+2131	Mild to moderate [qlco]	10
+367	Million [qnco]	115
+1865	Minimal [qlco]	66
+2000	Minimally Invasive [fndg]	26
+2185	Minimum [qlco]	31
+2703	Minor [popg]	78
+3584	Minority [popg]	46
+1734	Missed [qlco]	14
+226	Missing [fndg]	18
+3027	Mitochondria [celc]	23
+2632	Mitochondrial [celc]	38
+4036	Mixture [sbst]	17
+1636	Modality [idcn]	107
+645	Mode [ftcn]	78
+1022	Model for End-Stage Liver Disease [clas]	75
+2038	Model for end-stage liver disease score [clna]	56
+3665	Modeling [resa]	37
+3427	Models [inpr]	199
+4337	Models, Experimental [inpr]	14
+924	Moderate [qlco]	130
+1885	Moderately [qlco]	110
+1162	Modest [inpr]	26
+4673	Modification [ftcn]	55
+156	Modified [ftcn]	90
+2103	Modulated [spco]	13
+4333	Modulating [spco]	26
+1117	Modulation [spco]	42
+4577	Mole [neop]	22
+4541	Molecular Analysis [mbrt]	20
+2522	Molecular Biology [bmod]	13
+2796	Molecular Diagnosis [lbpr]	13
+797	Molecular Pathology [ocdi]	28
+2293	Molecular [qlco]	383
+4154	Molecule [sbst]	14
+1237	Molecules [sbst]	36
+3078	Monitoring [hlca]	122
+2374	Mono [popg]	15
+3647	Monthly [tmco]	12
+148	Morbidities [qnco]	13
+4227	Morbidity [qnco]	454
+4830	Morphologic change [anab]	11
+2870	Morphology [qlco]	91
+1179	Morphometry [lbpr]	11
+3550	Mortality [qnco]	884
+3143	Mortality rate [qnco]	121
+398	Mortality, Excess [qnco]	11
+224	Most Recent [tmco]	18
+2298	Most significant [qlco]	35
+4119	Mostly [qnco]	107
+3332	Mother [famg]	20
+2211	Mothers [famg]	26
+3779	Mount [mnob]	16
+2132	Mouse Liver [tisu]	12
+3849	Mouse Model [emod]	45
+2463	Mouse, NOS [mamm]	56
+3463	Much [qnco]	125
+1398	Mucinous [qlco]	17
+895	Multi [qnco]	93
+2385	Multi-disciplinary team [hlca]	11
+1300	Multicenter Study [resa]	47
+1380	Multicentric [spco]	127
+413	Multidetector Computed Tomography [diap]	14
+963	Multidisciplinary [ocac]	30
+4024	Multifactorial [fndg]	37
+3473	Multifactorial etiology [idcn]	12
+1062	Multimodality [diap]	12
+1557	Multinodular [qlco]	59
+3947	Multiple Births [famg]	10
+1143	Multiple lesions [fndg]	25
+160	Multiple tumors [neop]	77
+1702	Multiplication [qnco]	18
+693	Multiplicity [qnco]	29
+2275	Multivariate Analyses [qnco]	254
+2639	Murine [mamm]	34
+2793	Mutagenesis [moft]	18
+888	Mutagens [hops]	23
+3099	Mutant [comd]	49
+3343	Mutated [comd]	41
+3741	Mutation [genf]	152
+502	Mutations [genf]	244
+2631	Myofibroblasts [cell]	10
+2798	NAFLD [dsyn]	23
+200	NAS [orgt]	10
+3468	NASOPHARYNGEAL CARCINOMA [neop]	13
+4499	NAUSEA [sosy]	11
+155	NC [geoa]	13
+2607	NECK [blor]	12
+1086	NECROSIS [ortf]	104
+192	NEEDLE [medd]	34
+4486	NEOPLASIA [neop]	36
+1089	NEOPLASM [neop]	43
+186	NEOPLASMS, NOS [neop]	66
+4799	NETHERLANDS [geoa]	12
+336	NEUROBLASTOMA [neop]	19
+1491	NEVER [tmco]	45
+2044	NEW ZEALAND [geoa]	11
+3203	NEW [qlco]	665
+1152	NEXT GENERATION SEQUENCING [mbrt]	12
+4143	NM [celf]	12
+3670	NODULE [acab]	119
+373	NON-NEOPLASTIC [dsyn]	58
+1006	NORMAL [qlco]	342
+3280	NORTH AMERICAN [fndg]	13
+3338	NS [geoa]	17
+3757	NUCLEUS [celc]	46
+3039	Na+ [elii]	19
+1703	Nation [orgt]	15
+4364	National Cancer Institute [hcro]	16
+973	National Health Insurance [hlca]	29
+34	Native [ftcn]	28
+545	Natural History [ocdi]	173
+3419	Natural Killer Cells [cell]	10
+1659	Natural [ftcn]	65
+3700	Nature [idcn]	89
+4478	Near [fndg]	30
+792	Nearly [qlco]	67
+890	Necropsy [diap]	17
+3189	Necrotic [ortf]	28
+3464	Need [qlco]	331
+3370	Needed [qlco]	310
+2518	Needles [medd]	12
+1274	Needs [qlco]	79
+1632	Negative [qlco]	489
+3938	Negative margin [fndg]	13
+4113	Negligible [qlco]	12
+1031	Neoadjuvant [topp]	31
+950	Neonatal [prog]	18
+1513	Neoplasms, Hepatic [neop]	13
+2046	Neoplastic [qlco]	75
+1661	Neoplastic cells [cell]	11
+465	Nested Case-control Study [resa]	27
+2469	Neuroendocrine [bdsy]	16
+3830	Neutrophile [cell]	34
+3631	Neutrophils [cell]	14
+3833	New Agents [clas]	16
+1	New Drugs [phsu]	18
+4405	New infection [tmco]	13
+2547	Nine [qnco]	176
+4718	Nineteen [qnco]	27
+785	Ninety [qnco]	66
+1964	Nodal [spco]	32
+4857	Node [bpoc]	51
+2362	Nodular [qlco]	78
+2213	Nodular lesions [fndg]	19
+2348	Nodules [acab]	345
+3663	Noise [phpr]	10
+578	Nomenclature [inpr]	11
+4255	Nomogram [inpr]	13
+3098	Non - drinker [inbe]	13
+26	Non-Hispanic [popg]	21
+2560	Non-Malignant [qlco]	14
+2936	Non-Surgical [ftcn]	40
+396	Non-alcoholic cirrhosis NOS [dsyn]	22
+1908	Non-alcoholic fatty liver [dsyn]	28
+4215	Non-cirrhotic [qlco]	183
+553	Non-infected [ftcn]	16
+1686	Non-invasive [ftcn]	164
+2140	Non-recurrent [tmco]	21
+923	Non-specific [qlco]	41
+1282	Nonalcoholic Fatty Liver Disease [dsyn]	346
+1400	Nonalcoholic Steatohepatitis [dsyn]	264
+4454	Nonmalignant [qlco]	11
+993	Normal Cell [cell]	10
+1619	Normal Range [qnco]	12
+439	Normal Tissue [tisu]	62
+760	Normalization [resa]	30
+3671	Normalized [resa]	13
+2297	North America [geoa]	26
+4424	North [spco]	33
+2652	Northeast [spco]	32
+3831	Northeastern [spco]	16
+1777	Northern [spco]	50
+2257	Not Eligible [fndg]	13
+1733	Not available [idcn]	22
+1743	Not significant [fndg]	45
+3024	Not statistically significant [fndg]	49
+3499	Not well [fndg]	74
+2762	Note [clna]	156
+2395	Novel [qlco]	380
+1101	November [tmco]	61
+1527	Now [tmco]	194
+838	Nuclear [spco]	59
+761	Nucleotide [nnon]	29
+1641	Nucleotides [nnon]	13
+794	Numbers [qnco]	93
+1074	Numerous [qnco]	71
+4865	Nutrition [bmod]	21
+1366	Nutritional Status [fndg]	11
+1298	Nutritional [qlco]	18
+1342	OBESE [dsyn]	79
+799	OBESITY [dsyn]	341
+1212	OBSERVATIONAL [resa]	33
+408	OBSTRUCTION [patf]	22
+1057	OCCUPATION [ocdi]	14
+2856	ONCOLOGIST [prog]	11
+4144	ONGOING [idcn]	72
+1640	OPISTHORCHIASIS [dsyn]	30
+4535	ORG [prog]	16
+4348	OS [bpoc]	25
+3041	OUTER [spco]	11
+681	OVARY [bpoc]	13
+1816	OVERWEIGHT [sosy]	46
+2914	Objective [inpr]	619
+3113	Observational Study [resa]	33
+2188	Observe [ftcn]	26
+1021	Observed [ftcn]	994
+2208	Obtain [ftcn]	80
+1857	Obtained [ftcn]	445
+1841	Occasional [tmco]	19
+989	Occasionally [tmco]	24
+715	Occlusion [ortf]	17
+1711	Occult [idcn]	32
+4058	Occult hepatitis B infection [dsyn]	23
+953	Occupational Exposure [inpo]	17
+3541	Occupational [ftcn]	16
+3980	Occurred [acty]	440
+4330	October [qlco]	108
+1924	Odds Ratio [qnco]	451
+657	Odds Ratios [qnco]	142
+3892	Oesophagus [bpoc]	46
+3037	Offered [fndg]	38
+4627	Often [tmco]	436
+870	Oil [orch]	12
+3790	Old [tmco]	531
+135	Old age [fndg]	173
+194	Older Group [popg]	15
+67	On [ftcn]	35
+678	Once [tmco]	22
+4548	Oncogene [gngm]	30
+1446	Oncogenes [gngm]	28
+4728	Oncogenesis [neop]	37
+4041	Oncologic [bmod]	23
+505	Oncologists [prog]	11
+1287	Oncology [neop]	50
+4439	One month [tmco]	25
+4582	One year [tmco]	46
+122	Onset [qnco]	107
+1801	Open [spco]	55
+1394	Open surgery [spco]	14
+3305	Operable [qlco]	13
+2749	Operation Time [tmco]	35
+1571	Operation [hlca]	157
+617	Operative Blood loss [patf]	18
+3924	Operative Time [tmco]	49
+3224	Operative [tmco]	149
+28	Operator [inpr]	19
+4099	Opisthorchis Viverrini Infection [dsyn]	22
+2184	Opisthorchis [euka]	10
+1460	Opisthorchis viverrini [euka]	51
+2452	Opposite [spco]	21
+3066	Optimal [qlco]	197
+3491	Optimization [acty]	10
+368	Optimum [qlco]	12
+4754	Option [ftcn]	119
+618	Options [ftcn]	118
+2294	Oral Cavity [bsoj]	21
+635	Oral Glucose Tolerance Test [diap]	10
+3991	Oral [spco]	48
+2583	Orally [spco]	14
+4855	Order [inpr]	221
+2430	Organ Transplantation [topp]	13
+2264	Organ [bpoc]	107
+2336	Organisms [orgm]	14
+1472	Organization [phsf]	13
+533	Original [idcn]	57
+3549	Orthotopic Liver Transplant [topp]	12
+2657	Orthotopic Liver Transplantation [topp]	113
+3933	Orthotopic [spco]	18
+1251	Others [fndg]	110
+1751	Out [spco]	270
+3591	Outcome Measure [qnco]	10
+1803	Outcome Measures [qnco]	32
+486	Outlines [inpr]	10
+3532	Outpatient [podg]	15
+169	Outpatients [podg]	16
+1923	Outside [spco]	52
+2819	Over [spco]	113
+2575	Overcome [acty]	35
+1569	Overexpression [genf]	123
+2974	Overlapping [topp]	18
+4756	Oxidation [moft]	14
+3444	Oxidative Stress [comd]	98
+3296	Oxidative [ftcn]	39
+449	P-Value [qnco]	45
+2292	P53 [gngm]	115
+3033	PAIN [sosy]	24
+1905	PAKISTAN [geoa]	23
+658	PANCREAS [bpoc]	63
+3736	PANCREATIC CANCER [neop]	46
+586	PANCREATIC CARCINOMA [neop]	16
+1288	PANCREATITIS [dsyn]	19
+3551	PARAFFIN-EMBEDDED [tisu]	17
+3926	PARASITE [euka]	17
+1435	PARTIAL [qnco]	66
+3778	PCR [mbrt]	113
+3888	PCR, Nested [mbrt]	17
+1436	PER1 [gngm]	11
+3641	PERCENT [qnco]	170
+3116	PERFORATION [fndg]	10
+3597	PERIPHERAL [spco]	95
+546	PESTICIDES [hops]	11
+5	PG [lbpr]	12
+3023	PHARYNX [bpoc]	17
+473	PHYSICAL EXAMINATION [hlca]	24
+4729	PHYSICIAN [prog]	15
+3664	PIVKA-II [aapp]	15
+4239	PLAN [dsyn]	18
+829	PLASMA [bdsu]	91
+2073	PLATELET [cell]	51
+4774	PLEURAL EFFUSION [dsyn]	37
+299	PNEUMONIA [dsyn]	11
+2276	PNEUMOTHORAX [dsyn]	14
+3243	PNPLA3 [gngm]	22
+4605	POINT [qnco]	199
+1838	POLYMERASE CHAIN REACTION [mbrt]	131
+2319	POLYMORPHISM [genf]	97
+3126	PORPHYRIA CUTANEA TARDA [dsyn]	20
+671	PORTAL VEIN [bpoc]	188
+3424	POSTERIOR [spco]	10
+1817	POWER [hcpp]	49
+2126	PREGNANCY [orgf]	32
+1978	PREVENT [phsu]	365
+4888	PRIMARY PREVENTION [topp]	30
+714	PROBE [medd]	28
+1369	PROGNOSES [hlca]	26
+2938	PRONE [spco]	25
+528	PROSTATE [bpoc]	31
+4715	PROXIMAL [spco]	42
+826	PTEN [gngm]	15
+572	PULMONARY EMBOLISM [dsyn]	10
+2260	Pacific Islanders [popg]	11
+2967	Pair [qlco]	74
+746	Paired [qlco]	58
+2110	Palliative Therapy [bmod]	10
+2874	Palliative Treatment [bmod]	24
+4070	Palliative [hcro]	44
+3398	Pancreatic Adenocarcinoma [neop]	18
+4789	Pancreatic Ductal Adenocarcinoma [neop]	14
+669	Pancreatic [bpoc]	50
+2272	Pancreaticoduodenectomy [topp]	16
+916	Pancreatoduodenectomy [topp]	10
+4787	Panel [idcn]	48
+1439	Paper [mnob]	102
+2365	Papers [mnob]	32
+3837	Papillary [qlco]	22
+30	Paraffin Embedded Tissue [tisu]	35
+2545	Parallel [qlco]	74
+2081	Parameter [spco]	55
+2771	Parameters [fndg]	342
+4737	Parasites [euka]	20
+4926	Parenchyma [bpoc]	92
+680	Parenchymal cell [cell]	10
+1610	Parental [idcn]	12
+314	Part [spco]	173
+4418	Partial Hepatectomy [topp]	79
+2447	Partial Response [fndg]	20
+4690	Partial liver resection [topp]	11
+4612	Participating [ftcn]	23
+2594	Particles [chvs]	12
+2654	Past [tmco]	208
+127	Pathogen [orgm]	32
+3165	Pathogenic [orgm]	55
+2801	Pathologic findings [fndg]	71
+4668	Pathologic stage [clna]	10
+3523	Pathological Examination [ftcn]	53
+4082	Pathological [bmod]	254
+1471	Pathologies [bmod]	45
+3183	Pathologist [prog]	35
+265	Pathologists [prog]	60
+3870	Pathology Report [inpr]	32
+3740	Pathology [bmod]	1286
+4101	Pathology department [hcro]	16
+2567	Pathology diagnosis [ftcn]	29
+381	Pathology study [clna]	15
+639	Pathology, Clinical [bmod]	42
+3425	Pathology, Surgical [bmod]	63
+2842	Pathway Analysis [inpr]	13
+4820	Pathway [moft]	104
+1589	Pathways [moft]	147
+951	Patient Care [hlca]	16
+180	Patient Outcome [idcn]	60
+1420	Patient Selection [resa]	40
+4342	Patient data [inpr]	19
+4731	Pattern [spco]	293
+1250	Patterns [spco]	264
+254	Peak [qnco]	49
+537	Pedicle [bpoc]	11
+4701	Peer Review [hlca]	10
+620	People [popg]	181
+1013	Percentage [qnco]	148
+4814	Percutaneous Transhepatic Biliary Drainage [topp]	14
+4438	Percutaneous [spco]	232
+3393	Percutaneous approach [spco]	10
+3659	Percutaneous procedures [topp]	11
+4181	Performance Status [clna]	19
+1364	Performance [inbe]	113
+4477	Performed [ftcn]	1480
+3986	Perfusion [topp]	34
+2251	Peri [tmco]	23
+2122	Perihilar Cholangiocarcinoma [neop]	16
+726	Perinatal [tmco]	17
+2767	Perineural Invasion [fndg]	20
+980	Periodic [tmco]	20
+4252	Periodically [tmco]	14
+2060	Periodicals [inpr]	53
+2471	Perioperative [tmco]	165
+61	Peripheral Blood [bdsu]	27
+55	Peripheral Cholangiocarcinoma [neop]	13
+508	Peritoneal [bpoc]	21
+2896	Peritumoral [spco]	31
+3356	Permit [rnlw]	23
+3207	Persistence [menp]	31
+2137	Persistent [tmco]	97
+2909	Persistent infection [dsyn]	17
+190	Person [popg]	86
+2794	Personal [orga]	24
+4447	Personalized Medicine [topp]	14
+1637	Personalized [qlco]	28
+4112	Persons [popg]	104
+4090	Pet [anim]	29
+3842	Pharmacologic [bmod]	14
+4849	Pharmacological [bmod]	30
+1159	Phase [tmco]	190
+2241	Phases [tmco]	39
+3853	Phenomena [phpr]	11
+1440	Phenomenon [phpr]	31
+3519	Phenotype [orga]	60
+2761	Phenotypes [orga]	56
+3359	Phosphorylation [moft]	29
+399	Phylogenetic Analysis [resa]	14
+4399	Physical Activity [dora]	14
+287	Physical [hlca]	18
+2423	Physicians [prog]	39
+3141	Physiologic [ftcn]	11
+4387	Physiological [ftcn]	25
+2601	Physiology [bmod]	20
+1463	Pigs [mamm]	11
+2722	Pilot Study [resa]	28
+3237	Pivot [medd]	30
+1142	Place [spco]	76
+882	Placebo [topp]	18
+2199	Placement [hlca]	22
+427	Plane [spco]	10
+2783	Planned [ftcn]	23
+1199	Planning [menp]	41
+2428	Plasma glucose [lbpr]	11
+4832	Plasma sample [bdsu]	14
+4343	Plateau [qnco]	10
+4527	Platelet Count [lbpr]	141
+640	Platelet Counts [lbpr]	41
+563	Platelets [cell]	29
+266	Platform [resd]	15
+3379	Play [dora]	316
+1311	Plays [dora]	192
+1614	Plus [ftcn]	82
+2031	Point Mutations [comd]	16
+755	Policies [inpr]	13
+3722	Policy [inpr]	26
+2414	Polymorphic [qlco]	19
+4504	Pool [geoa]	20
+4060	Pooled [sbst]	71
+4	Poor outcome [fndg]	113
+2436	Poor prognosis [fndg]	307
+4601	Poorly [qlco]	182
+426	Poorly differentiated [qlco]	52
+472	Population Attributable Risk [qnco]	15
+4619	Population Based Study [resa]	98
+3869	Population-Based Registry [inpr]	19
+3361	Populations [qnco]	183
+2507	Portal Pressure [orgf]	10
+3898	Portal Vein Thrombosis [dsyn]	115
+2441	Portal Venous [bpoc]	45
+4349	Portal [blor]	134
+4224	Portal fibrosis [patf]	10
+2893	Portal inflammation [fndg]	11
+4481	Portion [spco]	39
+2424	Portography [diap]	14
+4050	Position [spco]	27
+2592	Positive Margins [fndg]	14
+1627	Positive Surgical Margin [fndg]	19
+4442	Positive margin [fndg]	18
+2595	Positron Emission Tomography [diap]	20
+2737	Possibly [qlco]	97
+1416	Post [tmco]	353
+3962	Postoperative Complications [patf]	129
+225	Postoperative Period [tmco]	22
+4519	Postoperative [tmco]	612
+1530	Postoperative chemotherapy [topp]	19
+2196	Pre [tmco]	207
+330	Pre-Therapy [tmco]	11
+340	Pre-existing [qlco]	19
+2043	Pre-operative [tmco]	30
+4358	Pre-operative chemotherapy [topp]	11
+1957	Pre-operative evaluation [diap]	19
+1148	Precancerous [qlco]	14
+1450	Precancerous lesions [neop]	17
+3355	Preceding [tmco]	10
+3208	Precipitating Factors [clna]	10
+853	Precision [tmco]	78
+3182	Preclinical [qlco]	15
+4197	Precursor [idcn]	48
+403	Predictability [menp]	24
+3525	Predicted [idcn]	193
+3999	Prediction [idcn]	216
+3093	Predictive Value [qlco]	65
+1181	Predisposing Factors [tmco]	27
+3295	Predisposition [clna]	14
+1227	Predominant [qlco]	107
+1522	Predominate [qlco]	11
+105	Preexisting [qlco]	22
+3292	Prefecture [geoa]	10
+4900	Preferred [idcn]	36
+3680	Pregnant Women [popg]	21
+3944	Preliminary [tmco]	45
+4419	Preliminary results [idcn]	10
+3052	Premalignant Lesion [neop]	17
+2313	Preoperative [tmco]	510
+3004	Preoperative diagnosis [fndg]	22
+3780	Preparation [acty]	21
+4666	Prepared [fndg]	22
+4315	Prescribed [hlca]	11
+3528	Present [qnco]	1085
+3080	Presentation [idcn]	145
+442	Presented [idcn]	280
+2827	Presenting [idcn]	113
+221	Preservation [lbpr]	15
+2923	Preserved [lbpr]	63
+257	Pretreatment [sbst]	63
+1187	Prevalences [qnco]	180
+1755	Preventable [inpr]	25
+2500	Prevention [topp]	285
+1859	Previous [tmco]	331
+1704	Primary Care [hlca]	12
+2526	Primary Endpoint [irda]	37
+1642	Primary Hepatocellular Carcinoma [neop]	146
+1669	Primary Liver Cancers [neop]	26
+745	Primary Tumour [neop]	66
+4890	Primary [qlco]	466
+3901	Primary disease [dsyn]	12
+2707	Primary liver Malignancy [neop]	11
+3319	Primary liver cancer [neop]	136
+97	Primary site [spco]	11
+433	Primer [nnon]	19
+536	Principal [qlco]	44
+4008	Prior [tmco]	87
+4014	Priorities [tmco]	11
+187	Priority [tmco]	31
+3358	Probabilities [qnco]	33
+152	Probability [qnco]	119
+587	Probable [qnco]	28
+4029	Probably [idcn]	109
+3534	Probes [medd]	15
+650	Problem [fndg]	173
+3070	Problems [idcn]	73
+2325	Procedure [topp]	176
+3378	Procedure-related [fndg]	11
+3272	Process [bpoc]	254
+1378	Processing [acty]	10
+4329	Product [enty]	17
+703	Production [ocac]	66
+3	Products [enty]	37
+2350	Profile [lbpr]	209
+4493	Profound [qlco]	12
+1247	Progenitor [famg]	14
+4266	Prognostic Factor [clna]	485
+4288	Prognostic Marker [qlco]	70
+406	Prognostic [inpr]	492
+2982	Prognostic biomarker [qlco]	27
+1017	Prognostic score [qnco]	26
+727	Program [cnce]	151
+204	Programs [inpr]	89
+54	Progression [patf]	639
+3290	Progression-Free Survival [qnco]	27
+231	Progressive [ftcn]	94
+3620	Progressive liver disease [fndg]	18
+4915	Project [cnce]	28
+4196	Projected [inpr]	19
+1594	Proliferating [ftcn]	18
+1335	Proliferation [patf]	187
+3402	Proliferative [patf]	43
+4640	Prolonged [tmco]	139
+813	Prominent [qlco]	48
+3215	Promote [acty]	163
+4626	Promoting [acty]	58
+3529	Promotion [acty]	26
+2329	Propensity Score [qnco]	42
+2023	Prophylactic [phsu]	19
+4812	Proportion [qnco]	292
+2343	Proportional [qlco]	146
+1478	Proposed [qlco]	166
+2284	Prospective Cohort Study [resa]	57
+1161	Prospective Studies [resa]	52
+3072	Prostate Cancer [neop]	23
+3875	Protection [fndg]	35
+2169	Protective Factors [inbe]	22
+4341	Protein Expression [genf]	74
+2780	Protein level [lbtr]	50
+1952	Proteomics [bmod]	26
+2747	Prothrombin.activity [lbpr]	17
+2892	Protocol [inpr]	72
+2052	Protocols [inpr]	37
+3351	Proven [qlco]	190
+2578	Provided [acty]	155
+4699	Provider [prog]	11
+929	Province [geoa]	50
+516	Provisional [idcn]	13
+735	Proximity [spco]	11
+1040	PubMed [inpr]	113
+4487	Public Health [bmod]	135
+3506	Published [ocac]	528
+278	Publishing [ocac]	90
+2668	Puncture [inpo]	13
+4075	PurE [moft]	28
+3737	Purpose [ftcn]	570
+2326	Put [acty]	22
+3484	Qualitative [qlco]	22
+2754	Quality Adjusted Life Years [tmco]	12
+4205	Quality [qlco]	123
+695	Quantification [qnco]	25
+173	Quantify [qnco]	82
+4080	Quantitative RTPCR [mbrt]	13
+3298	Quantitative Real Time PCR [mbrt]	13
+1229	Quantitative Real Time Polymerase Chain Reaction [mbrt]	13
+1730	Quantitative [qnco]	106
+3036	Quantity [qnco]	15
+1714	Quarter [qnco]	18
+925	Quartile [qlco]	12
+3391	Query [inpr]	13
+4665	Question [inpr]	84
+4609	Questionnaire [inpr]	86
+4913	Questionnaires [inpr]	21
+2166	Quintile [clna]	11
+2899	R- [spco]	158
+78	R1 [gngm]	32
+2969	RABBIT [mamm]	14
+4476	RACE [popg]	58
+1936	RADIOLOGIC FINDING [fndg]	18
+3308	RADIOLOGIST [prog]	16
+4563	RANDOM SAMPLE [resa]	14
+1088	RANDOM [resa]	78
+1497	RAS [gngm]	27
+1585	RAT [mamm]	45
+4389	RATIO [qnco]	337
+646	RAW [diap]	32
+3478	READER [prog]	29
+492	RECEIVED [qlco]	542
+884	RECOVERY [acty]	45
+1561	RECTUM [bpoc]	12
+2266	RECURRENT [tmco]	118
+3767	REGENERATION [ortf]	53
+2051	REGENERATIONS [ortf]	54
+962	REGIONAL [spco]	75
+4141	RENAL CELL CARCINOMA [neop]	19
+1541	RES [fndg]	17
+116	RESPIRATORY [ftcn]	13
+4040	RETINOBLASTOMA [neop]	12
+4007	RFA [gora]	16
+793	RFLP [comd]	27
+3460	RIGHT [spco]	95
+3755	RNA Interference [genf]	14
+4910	RNA [nnon]	58
+215	ROC Curve [qnco]	13
+1819	ROUND [spco]	11
+2003	ROUTE [ftcn]	28
+1349	RT [bpoc]	25
+2591	RURAL [fndg]	30
+961	Races [popg]	25
+415	Radiation [npop]	52
+4714	Radiation dose [topp]	13
+1196	Radical [chvs]	42
+3336	Radical resection [topp]	38
+4261	Radical therapy [topp]	11
+673	Radio [inpr]	14
+740	Radioembolization [topp]	16
+1623	Radiofrequency Ablation Therapy [topp]	30
+1544	Radiofrequency Ablation [topp]	374
+3253	Radiographic [npop]	22
+3626	Radioimmunoassay [lbpr]	13
+3435	Radiologic [bmod]	41
+3107	Radiologists [prog]	70
+3697	Radiology [bmod]	93
+1708	Raised [qlco]	28
+731	Randomization [resa]	10
+3826	Randomized [resa]	76
+1280	Range [qnco]	695
+2212	Rank [inpr]	158
+3621	Rapid [qlco]	77
+4160	Rapid progression [fndg]	18
+1093	Rapidly [qlco]	93
+10	Rare Disease [dsyn]	24
+3903	Rare [tmco]	343
+1993	Rarely [qlco]	106
+1164	Rat Liver [bpoc]	15
+3218	Rates, Death [qnco]	19
+1575	Rationale [idcn]	35
+3262	Ratios [qnco]	71
+3330	Rats [mamm]	59
+334	Reach [orgf]	109
+668	Reaching [orgf]	19
+1940	Reaction [ftcn]	51
+2227	Reactive [qlco]	61
+1268	Reactivity [ftcn]	10
+4120	Real Time PCR [mbrt]	47
+3865	Real Time Polymerase Chain Reaction [mbrt]	28
+3721	Real Time [tmco]	34
+758	Real [qlco]	41
+3911	Reason [idcn]	45
+4891	Recall [menp]	16
+2948	Receive [qlco]	268
+1344	Receiver Operating Characteristic [qnco]	136
+2410	Receiver Operating Characteristics [qnco]	20
+3635	Receiver [mnob]	23
+117	Recently [tmco]	322
+2004	Recipient [humn]	173
+3271	Recognition [menp]	54
+3197	Recommendation [idcn]	17
+548	Recommended [idcn]	154
+1421	Reconstructed [qlco]	10
+2220	Reconstruction [mcha]	35
+4030	Record [inpr]	163
+2296	Records [inpr]	120
+2576	Recruitment [acty]	26
+3703	Recurrence Risk [qnco]	24
+983	Recurrence free survival [fndg]	218
+2334	Recurrent Disease [dsyn]	33
+4092	Recurrent Hepatocellular Carcinoma [neop]	104
+3467	Recurrent Tumors [neop]	23
+66	Recurrent hepatitis C [dsyn]	10
+3956	Recurrent tumour [neop]	29
+4571	Reduced [qlco]	349
+49	Reducing [qlco]	114
+1970	Reduction [npop]	169
+181	Reference [inpr]	93
+3825	Referral [hlca]	49
+247	Reflecting [menp]	27
+4843	Refractory [ftcn]	14
+1302	Regimen [topp]	44
+2393	Region [geoa]	355
+3989	Regional Therapy [topp]	15
+2913	Registered [hlca]	38
+386	Registration [hlca]	23
+547	Registries [inpr]	18
+4568	Registry [inpr]	73
+4898	Regression Analyses [inpr]	30
+1208	Regression Analysis [inpr]	162
+39	Regression [patf]	329
+788	Regular [qlco]	76
+4166	Regulated [gora]	130
+2138	Regulation [gora]	111
+2759	Regulator [medd]	42
+2879	Rejection [socb]	38
+4107	Relapse [phpr]	63
+2181	Relate [orch]	40
+514	Related [qlco]	1666
+1647	Relation [famg]	83
+935	Relations [qlco]	12
+1633	Relationship [qlco]	463
+801	Relationships [qlco]	85
+1186	Relative Risk [qnco]	141
+1071	Relative [famg]	150
+3084	Relatives [famg]	11
+2288	Release [hlca]	33
+968	Relevance [qlco]	90
+3232	Relevant [qlco]	224
+7	Reliability [qnco]	23
+3936	Remaining [qlco]	190
+1345	Remission [fndg]	17
+3582	Remnant [emst]	77
+4359	Remote [spco]	13
+4005	Removal [topp]	32
+2388	Removed [qlco]	50
+1003	Renal Insufficiency [dsyn]	16
+3161	Renal [bpoc]	38
+4210	Renal dysfunction [dsyn]	21
+2382	Renal function [ortf]	11
+2300	Reoperation [topp]	13
+4500	Repair, NOS [orgf]	30
+3819	Repeat [ftcn]	58
+4457	Repeated [ftcn]	72
+865	Replace [ftcn]	17
+4479	Replaced [ftcn]	16
+4795	Replacement [topp]	16
+1611	Replication [genf]	91
+2535	Report [inpr]	353
+1786	Reported [inpr]	715
+1174	Reporter [prog]	18
+1455	Reporting [hlca]	48
+93	Reports [inpr]	193
+3244	Represent [acty]	369
+1012	Representative [acty]	28
+248	Reproducibility [qlco]	18
+3328	Reproductive Factors [fndg]	46
+3266	Required [ftcn]	279
+3940	Requirement [ftcn]	53
+506	Research [resa]	264
+1434	Researchers [prog]	30
+2911	Resectable Hepatocellular Carcinoma [neop]	29
+4827	Resectable [qlco]	86
+3436	Reserve [acty]	1036
+2171	Reside [acty]	22
+2514	Residence [spco]	39
+3303	Resident [prog]	70
+4135	Residual [qlco]	45
+3607	Residual tumour [neop]	18
+2931	Residue [cnce]	10
+1599	Resistance [menp]	55
+2261	Resistant [ftcn]	46
+3106	Resolution [patf]	28
+3092	Resolve [cnce]	14
+2042	Resolved [patf]	24
+1605	Resource [idcn]	19
+2596	Resources [idcn]	24
+4056	Response Evaluation Criteria in Solid Tumors [inpr]	13
+112	Response Rate [tmco]	39
+2267	Response [orga]	369
+897	Responsible [fndg]	132
+4189	Responsive [ftcn]	22
+2271	Rest [dora]	16
+4249	Restricted [ftcn]	39
+1121	Restriction Fragment Length Polymorphism [comd]	34
+85	Restriction [ftcn]	20
+1995	Retained [ftcn]	17
+791	Retention [menp]	78
+647	Retrospective Cohort Study [resa]	99
+2491	Retrospective Studies [resa]	19
+1141	Retrospective Study [resa]	278
+555	Return [qlco]	17
+2746	Returned [qlco]	11
+626	Revealed [qlco]	722
+3709	Reverse Transcriptase Polymerase Chain Reaction [mbrt]	11
+2358	Reverse Transcription Polymerase Chain Reaction [mbrt]	31
+4675	Reverse Transcription [genf]	25
+3247	Reverse [ftcn]	45
+3002	Reversible [ftcn]	15
+1260	Review, Systematic [inpr]	97
+2250	Reviewer [qlco]	17
+661	Revised [topp]	15
+1804	Revision [tmco]	16
+2824	Rich [qlco]	17
+2809	Right liver [bpoc]	10
+2305	Rigor [sosy]	12
+495	Ring [spco]	14
+4274	Risk Assessment [hlca]	28
+3276	Risk Factor [qnco]	790
+1778	Risk Factors [qnco]	3516
+110	Risk Ratio [qnco]	58
+2373	Risk Ratios [qnco]	10
+4717	Risk Reduction [inbe]	15
+2356	Risks [idcn]	158
+2686	Risks, Relative [qnco]	40
+2990	River [npop]	11
+3236	Robust [qlco]	39
+3029	Rodent [mamm]	21
+2637	Rodents [mamm]	14
+1548	Roles [socb]	187
+2565	Rose [plnt]	15
+4293	Routine [qlco]	152
+1188	Rule [idcn]	30
+2039	Rupture [phpr]	38
+1296	Rupture, Spontaneous [patf]	13
+1453	Ruptured [ftcn]	14
+288	S2 [blor]	12
+1617	SALVAGE [topp]	39
+3100	SAME [qlco]	317
+3167	SAS [orch]	51
+3970	SAUDI ARABIA [geoa]	11
+985	SCORE [qnco]	260
+4653	SD [mamm]	48
+2630	SE [geoa]	34
+3905	SECONDARY PREVENTION [topp]	19
+2495	SEER [hcro]	14
+2563	SEGMENT [spco]	113
+4440	SENSITIVITY AND SPECIFICITY [qnco]	79
+1411	SERUM [bdsu]	658
+3929	SEVERE [qlco]	268
+1489	SIZES [spco]	10
+1902	SMALL [qnco]	448
+151	SMOKING [inbe]	159
+1257	SMOOTH MUSCLE ACTIN [gngm]	16
+2339	SNP [nusq]	25
+307	SNPs [nusq]	13
+2748	SO [geoa]	87
+1067	SOLE [blor]	25
+966	SOUTH KOREA [geoa]	10
+1076	SPAIN [geoa]	27
+3672	SPECIES [cnce]	37
+1921	SPIN [gngm]	12
+285	SPLEEN [bpoc]	23
+1393	SPLENECTOMY [topp]	22
+4323	SPLENOMEGALY [fndg]	10
+3022	SPP [gngm]	10
+2479	SPS [gngm]	14
+1747	STABLE [qlco]	77
+4324	STANDING [phsf]	18
+1893	STOMACH [bpoc]	65
+1118	STROKE [dsyn]	12
+235	SUPERFICIAL [spco]	10
+4751	SUPERIOR [spco]	98
+3306	SURFACE [spco]	53
+2468	SURVIVE [phsu]	103
+628	SUSPICION [menp]	46
+4558	SUSTAINED VIROLOGIC RESPONSE [fndg]	122
+143	SUVmax [qnco]	10
+238	SVR [phsf]	15
+3569	SWEDEN [geoa]	13
+1609	Sacrifice [idcn]	18
+2247	Safety [hcpp]	192
+4105	Sample Size [qnco]	27
+3118	Sample [sbst]	315
+675	Sampling [diap]	33
+3967	San Francisco [geoa]	37
+2489	Sarcomas [neop]	11
+2016	Satellite Nodule [fndg]	40
+4073	Satellite [spco]	29
+4775	Satisfactory [qlco]	38
+1931	Satisfied [menp]	12
+1308	Save [mcha]	13
+1116	Scale, NOS [medd]	94
+4339	Scan [diap]	75
+1172	Scanner [medd]	12
+2784	Scanning [diap]	19
+419	Scattered [spco]	15
+3301	Schedule [inpr]	10
+2823	Scheduled [inpr]	16
+4730	Schedules [inpr]	10
+3843	Scheme [inpr]	13
+2890	Schistosomal [ftcn]	10
+1942	Schistosomiasis [dsyn]	21
+2534	Science [ocdi]	137
+1005	Scientific [ocdi]	39
+4187	Scope [cnce]	12
+89	Scores [qnco]	126
+1085	Screening [hlca]	388
+1173	Searched [acty]	91
+3094	Second Malignancy [neop]	10
+688	Second [qnco]	246
+269	Secondly [qnco]	10
+3045	Secreted [celf]	18
+4901	Section, NOS [topp]	94
+478	Seeding [lbpr]	20
+4133	Seen [qlco]	321
+3101	Segmental [spco]	21
+2987	Segmentectomy [topp]	26
+2105	Select [acty]	87
+3808	Selected [acty]	476
+1263	Selection Bias [qnco]	11
+4746	Selection Criteria [qlco]	64
+1097	Self [idcn]	20
+146	Senescence [fndg]	12
+4395	Sensitive [patf]	91
+2679	Sensitivities [fndg]	15
+1490	Sensitivity [patf]	280
+3047	Sent [ftcn]	12
+3827	Seoul [geoa]	13
+1185	Separate [qlco]	52
+2370	Separated [fndg]	24
+1500	Sepsis [dsyn]	33
+2995	September [tmco]	94
+3816	Septic [ftcn]	10
+2681	Sequence [nusq]	112
+3552	Sequences [nusq]	60
+298	Sequencing [lbpr]	38
+2998	Sequential [idcn]	33
+455	Sera [bdsu]	78
+1620	Series [qnco]	203
+662	Serious Adverse Event [fndg]	10
+4735	Serious [qlco]	105
+4809	Seroconversion [npop]	27
+1018	Serologic [ftcn]	40
+4880	Serological [ftcn]	69
+4079	Serology [bmod]	27
+1845	Seronegative [lbtr]	30
+2615	Seropositive [qlco]	96
+3706	Seroprevalence [resa]	49
+2083	Serum Albumin [aapp]	54
+4010	Serum Biomarkers [qlco]	19
+3032	Serum Creatinine [lbpr]	15
+4777	Serum Markers [qlco]	40
+4370	Serum alanine level [lbpr]	13
+2836	Serum alanine levels [lbpr]	12
+3615	Serum albumin level [lbpr]	41
+999	Serum alpha-fetoprotein [lbpr]	120
+1588	Serum alpha-fetoprotein level [lbtr]	41
+878	Serum bilirubin NOS [lbpr]	20
+1510	Serum sample [bdsu]	80
+3414	Service [ocac]	14
+1618	Session [evnt]	91
+3743	Set [menp]	125
+3050	Setting [ftcn]	244
+4528	Seven [qnco]	320
+3981	Seventeen [qnco]	39
+2378	Seventh [qnco]	13
+1008	Seventy [qlco]	124
+88	Several Births [famg]	12
+3799	Several [qnco]	492
+1853	Several cancer [neop]	25
+2719	Several markers [clna]	10
+203	Severe Disease [fndg]	51
+1387	Severely [qlco]	15
+2935	Severity [qlco]	228
+4886	Sex Differences [orga]	11
+1278	Sex Ratio [qnco]	12
+3168	Sex [orgf]	422
+3979	Sexual [bhvr]	28
+1629	Sexual transmission [ftcn]	11
+3792	Shape [spco]	20
+971	Share [socb]	35
+3411	Sharing [socb]	11
+2860	Sharp [fndg]	16
+4578	Shift [ftcn]	26
+2922	Short Hairpin RNA [nnon]	11
+887	Short-term [tmco]	78
+2705	Shortened [qlco]	17
+4237	Shunt [fndg]	16
+2121	Side [spco]	24
+3713	Sign [fndg]	33
+4646	Signal Transduction [celf]	11
+839	Signal [phpr]	87
+1897	Signaling Pathways [moft]	42
+1381	Signaling [celf]	80
+4242	Signature [amas]	29
+1788	Significantly high [qnco]	601
+3316	Silent [qlco]	20
+3605	Similarity [qlco]	33
+3437	Simple [qlco]	139
+1126	Simulation [resa]	12
+2738	Simultaneous [tmco]	41
+4829	Since [tmco]	50
+4437	Single Nucleotide Polymorphism [nusq]	15
+816	Single Nucleotide Polymorphisms [nusq]	66
+534	Single [popg]	561
+2536	Single lesion [fndg]	12
+382	Single tumor [neop]	11
+594	Single tumour [neop]	30
+3533	Sinusoidal [spco]	26
+1014	Site [spco]	103
+1395	Sites [spco]	110
+3662	Six [qnco]	419
+158	Six months [tmco]	21
+1529	Sixteen [qnco]	52
+4645	Sixth [qnco]	23
+3090	Sixty [qnco]	118
+4724	Sixty-Nine [qnco]	14
+3960	Size [spco]	395
+1230	Skin [bdsu]	28
+4229	Slice [sbst]	12
+338	Slight [qlco]	23
+1780	Slightly [qlco]	60
+883	Slow [qlco]	37
+880	Slow progression [fndg]	10
+133	Slowly [qlco]	12
+2620	Small Lesion [fndg]	22
+4807	Small tumour [qlco]	10
+1749	Smaller [qlco]	116
+4473	Smoke [hops]	23
+4091	Smoking, Tobacco [inbe]	34
+4716	Smooth [qlco]	14
+3006	Social [ftcn]	15
+4636	Societies [orgt]	15
+2881	Socioeconomic Status [qlco]	17
+2310	Solid [qlco]	39
+2162	Solid organ [bpoc]	13
+2420	Solitary Nodule [fndg]	12
+904	Solitary [qnco]	121
+3818	Solitary tumour [neop]	19
+2945	Sometimes [tmco]	58
+2384	Somewhat [inpr]	13
+3684	Sons [famg]	20
+458	Source [fndg]	65
+4838	South [spco]	31
+3753	Southeast Asia [geoa]	34
+206	Southern [spco]	63
+1437	Space [spco]	16
+3742	Span [cnce]	11
+3354	Special [qlco]	110
+1084	Specialist [prog]	14
+3922	Specialists [prog]	15
+3683	Specialized Center [hcro]	14
+2670	Specialty [bmod]	10
+2490	Specific [qlco]	689
+1443	Specific virus [dsyn]	11
+4332	Specificity [qnco]	202
+209	Specimen [sbst]	52
+4377	Spectrum [qnco]	184
+749	Splenic [bpoc]	13
+4595	Split [ftcn]	12
+4726	Spontaneous [ftcn]	43
+76	Spontaneous bacterial peritonitis [dsyn]	16
+2723	Sporadic [tmco]	25
+3025	Spread [qlco]	96
+4157	Squamous Cell Carcinoma [neop]	21
+4063	Stability [qlco]	24
+524	Stable Disease [fndg]	22
+2415	Stage 0 [inpr]	14
+2462	Stage 1 [inpr]	14
+2389	Stage 2 [inpr]	12
+2387	Stage 3 [inpr]	15
+491	Stage 4 [inpr]	17
+4883	Stage B [inpr]	17
+2895	Stage C [inpr]	12
+2066	Stage I [inpr]	31
+3162	Stage II [inpr]	28
+3601	Stage III [inpr]	35
+511	Stage [tmco]	474
+4536	Staged, NOS [fndg]	28
+246	Stages [qlco]	79
+2947	Staging System [inpr]	45
+3594	Staging [ftcn]	167
+2571	Stain [irda]	14
+4064	Stained [qlco]	59
+2672	Staining [lbpr]	184
+2157	Standard Deviation [qnco]	17
+47	Standard [qlco]	196
+789	Standardization [resa]	16
+4279	Standardized Mortality Ratio [qnco]	13
+2558	Standardized Uptake Value [qnco]	12
+1503	Start [tmco]	71
+1026	Started [qlco]	36
+689	State [geoa]	100
+3848	Statement [idcn]	17
+2618	Statistic [qnco]	18
+4695	Statistical Significance [qnco]	59
+1701	Statistical [ocdi]	69
+1025	Statistically Significant [qnco]	231
+614	Statistically [ocdi]	112
+2159	Statistics [ocdi]	57
+3409	Status [qlco]	382
+1241	Steady [qlco]	14
+3883	Steatohepatitis [dsyn]	128
+768	Steatosis [patf]	224
+2588	Stem Cells [cell]	15
+741	Stem [plnt]	16
+1670	Stenosis [qlco]	14
+4780	Stent [medd]	10
+840	Step [cnce]	47
+2375	Steroid [orch]	16
+2538	Steroids [orch]	16
+2106	Stimulated [npop]	28
+4632	Stimulating [npop]	10
+2391	Stimulation [topp]	24
+1515	Stimuli [phpr]	11
+2218	Stone [bdsu]	24
+1909	Stones [bdsu]	30
+4677	Stop [acty]	11
+1373	Storage [spco]	19
+665	Store [ftcn]	10
+748	Stored [ftcn]	25
+1357	Strain [inpo]	15
+428	Strains [inpo]	33
+1639	Stratification [resa]	113
+1178	Stratified [qlco]	147
+470	Strength [qnco]	19
+130	Stress [fndg]	48
+4667	Stricture [patf]	26
+251	Strictures [patf]	26
+4052	Stroma [bpoc]	13
+1252	Strong [qlco]	293
+1385	Structural [spco]	26
+4158	Structure [spco]	37
+1197	Student [popg]	11
+3432	Studies, Epidemiological [resa]	70
+1800	Studies, Genome-Wide Association [mbrt]	13
+4382	Study Design [resa]	92
+3945	Study Objective [idcn]	16
+1915	Study Participant [grup]	11
+2848	Study Population [popg]	64
+4844	Study Subject [grup]	24
+1872	Study [mnob]	3640
+2634	Study, Followup [resa]	14
+4768	Study, Prospective [resa]	142
+943	Sub- [spco]	45
+1289	Sub-Saharan Africa [geoa]	34
+641	Subcapsular [spco]	30
+3674	Subclinical [qlco]	13
+2202	Subcutaneous [spco]	15
+4611	Subgroup Analysis [resa]	98
+2352	Subject [grup]	569
+4893	Submitted [ftcn]	36
+2904	Suboptimal [qlco]	16
+1836	Subpopulation [popg]	16
+3255	Subsequent [tmco]	147
+4253	Subset [clas]	97
+1321	Substances [sbst]	11
+2186	Substitution [idcn]	13
+1994	Substrate [mnob]	11
+1109	Subtlety [clna]	13
+2822	Subtype [clas]	61
+3323	Subunit [aapp]	19
+3121	Success [socb]	64
+3088	Successful [socb]	104
+4490	Suffering [mobd]	39
+2831	Sufficient [qlco]	60
+4567	Suggest [idcn]	1238
+4271	Suitable [qlco]	96
+3978	Sum [qnco]	29
+1163	Supplement [food]	17
+2689	Supplementation [topp]	17
+3820	Support, NOS [medd]	233
+154	Supported [cnce]	25
+970	Supportive Care [topp]	25
+4693	Suppressed [ftcn]	48
+4790	Suppression [patf]	69
+3341	Suppressive [ftcn]	13
+2671	Suppressor [mnob]	18
+2380	Surface Antigen [imft]	15
+2627	Surg [tmco]	49
+3910	Surgeon [prog]	29
+1140	Surgeons [prog]	48
+3265	Surgery [bmod]	589
+846	Surgical Management [hlca]	28
+3048	Surgical Margin [bpoc]	29
+2730	Surgical Margins [bpoc]	21
+648	Surgical Procedure [hlca]	26
+1319	Surgical Procedures [hlca]	31
+2503	Surgical [hlca]	357
+4340	Surgical approach [ftcn]	29
+1744	Surgical specimen [sbst]	23
+2871	Surgical techniques [hlca]	30
+2629	Surgically [hlca]	89
+4137	Surrogate [famg]	25
+1098	Surrounded [spco]	13
+4819	Surrounding [spco]	99
+98	Surveillance Program [resa]	36
+2781	Survey [inpr]	106
+4513	Surveys [inpr]	16
+4162	Survival Analysis [resa]	57
+4464	Survival Rate [qnco]	230
+4232	Survival Rates [qnco]	331
+1842	Survival Rates, Cumulative [qnco]	48
+469	Survival [acty]	1701
+3418	Survival time [clna]	73
+1839	Survivals, Disease-Free [qnco]	11
+2900	Survivors [podg]	45
+1756	Susceptibility [clna]	134
+1054	Susceptible [orga]	44
+450	Suspected [qlco]	103
+984	Suspicious [idcn]	23
+228	Sustained [ftcn]	139
+1721	Swedish [popg]	12
+261	Switch [mnob]	13
+2079	Symptom [sosy]	25
+4554	Symptomatic [ftcn]	58
+3507	Synchronous [tmco]	18
+3241	Syndrome [dsyn]	59
+446	Synergistic [qlco]	69
+565	Synthesis [biof]	29
+2342	Synthesized [acty]	10
+4404	Synthetic [acty]	19
+843	Syringes [medd]	11
+4371	System [ftcn]	322
+387	System, Healthcare [hcro]	10
+1070	Systemic Chemotherapy [topp]	34
+3178	Systemic Therapy [topp]	18
+91	Systemic [ftcn]	89
+300	T Cell [cell]	12
+36	T Stage [clas]	17
+630	T cells [cell]	19
+3923	T-Cells, Regulatory [cell]	10
+3422	T1 [gngm]	69
+4002	TAIWAN [geoa]	163
+3648	TC [elii]	11
+3750	TEMPORAL [spco]	43
+4846	TEN [dsyn]	125
+374	TG [lbpr]	11
+1365	THAILAND [geoa]	58
+2510	THICK [qlco]	14
+1514	THRESHOLD [qlco]	37
+1382	THROMBI [patf]	10
+3813	THROMBOSIS [patf]	43
+1926	TIME [tmco]	874
+530	TIP [gngm]	23
+3013	TISSUE [tisu]	243
+4905	TNM Staging [clas]	12
+3919	TOLERABILITY [resa]	10
+747	TOPIC [ftcn]	47
+3428	TRANS [idcn]	10
+3856	TRANSFER [menp]	10
+2205	TRANSPLANTS [tisu]	22
+497	TREATMENT OUTCOMES [qlco]	22
+1168	TRENDS [tmco]	154
+2638	TRUE [qlco]	59
+750	TT [geoa]	28
+733	TUBERCULOSIS [dsyn]	16
+2222	TURKEY [geoa]	16
+4263	TYPE [qlco]	417
+3739	Tag, NOS [neop]	11
+1899	Taiwanese [popg]	41
+4851	Take [hlca]	102
+4707	Taken [cnce]	140
+1677	Target Gene [gngm]	28
+3666	Target Population [popg]	10
+1662	Target [ftcn]	300
+2725	Targeted Therapy [topp]	37
+1001	Targeted [ftcn]	90
+585	Targeting [ftcn]	74
+159	Tattooing [hlca]	15
+4321	Tattoos [fndg]	10
+517	Teaching [edac]	11
+896	Team [grup]	16
+4415	Technical [ftcn]	62
+2386	Technique [ftcn]	182
+3171	Technology [ocdi]	41
+3838	Term [orgf]	98
+820	Terminal [qlco]	14
+4212	Termination [inpr]	10
+3102	Terminology [inpr]	17
+4544	Tertiary [qnco]	33
+4314	Test [lbpr]	326
+2691	Testing [ftcn]	109
+777	Tests [lbpr]	117
+4218	Texas [geoa]	17
+2054	Text [inpr]	14
+2107	Thai [popg]	16
+1291	Then [tmco]	231
+3847	Theoretical [idcn]	14
+2996	Theory [idcn]	14
+2434	Therapeutic Effect [clna]	21
+2402	Therapeutic Effects [clna]	13
+1389	Therapeutic Efficacy [qlco]	19
+2440	Therapeutic Intervention [topp]	19
+3756	Therapeutic Interventions [topp]	12
+842	Therapeutic [topp]	461
+1925	Therapeutic response [clna]	10
+309	Therapeutics [topp]	23
+2130	Therapies [topp]	138
+4804	Thickness [qlco]	13
+3977	Thin [qlco]	16
+1206	Thirteen [qnco]	52
+4853	Thirty Nine [qnco]	22
+523	Thirty [qnco]	198
+1884	Thought [menp]	71
+435	Thousand [qnco]	96
+2111	Three months [tmco]	15
+313	Three-dimensional [spco]	19
+2799	Thrombotic [patf]	12
+4517	Thrombus [patf]	39
+4472	Thyroid, NOS [bpoc]	13
+1741	Time Interval [tmco]	16
+483	Time Period [tmco]	32
+3772	Time Point [tmco]	15
+554	Time, Prothrombin [lbpr]	55
+444	Timely [qlco]	24
+2688	Timing [tmco]	35
+2568	Tissue Damage [inpo]	12
+2602	Tissue Microarray [resd]	42
+4822	Tissue Sample [tisu]	40
+3339	Tissue diagnosis [clas]	10
+2765	Tissue section [tisu]	10
+3242	Tissue specific [bdsu]	10
+2647	Tissue specimens [tisu]	10
+610	Tissues [tisu]	255
+4764	Titer [qnco]	14
+1984	Titre [qnco]	25
+191	Tobacco Consumption [inbe]	11
+2492	Tobacco use NOS [fndg]	16
+1774	Together [qlco]	87
+4402	Tokyo [geoa]	12
+2421	Tolerance [fndg]	20
+4637	Tool [mnob]	202
+4492	Top [spco]	14
+3715	Total Cholesterol [lbpr]	19
+275	Total Score [qnco]	13
+4462	Total Volume [qnco]	16
+2287	Total bilirubin level [lbpr]	13
+3653	Township [qnco]	19
+2442	Toxic effect [inpo]	12
+4306	Toxicology [bmod]	15
+1725	Trabecula [tisu]	18
+4311	Track [mnob]	10
+371	Tract [bpoc]	49
+1124	Traditional [ftcn]	58
+136	Train [mnob]	11
+3751	Training [edac]	25
+3140	Transactivation [genf]	12
+3744	Transarterial Chemoembolization [topp]	188
+4753	Transarterial [spco]	21
+2903	Transarterial embolisation [topp]	17
+4623	Transcatheter [spco]	132
+4596	Transcript [nnon]	17
+2076	Transcription [genf]	37
+4276	Transcriptional [genf]	41
+3416	Transcriptome [nusq]	17
+3146	Transcripts [nnon]	23
+4159	Transducer [medd]	11
+4111	Transection [topp]	23
+965	Transfection [mbrt]	23
+1538	Transformed [patf]	24
+3815	Transfused [idcn]	14
+4902	Transfusion [topp]	111
+3407	Transfusions [topp]	15
+2694	Transfusions, Blood [topp]	30
+4136	Transgene [gngm]	12
+4867	Transgenic Model [emod]	11
+1041	Transgenic [anim]	13
+2669	Transhepatic [spco]	15
+171	Transient Elastography [diap]	23
+3637	Transient [popg]	32
+2129	Transition [comd]	42
+2942	Transjugular Intrahepatic Portasystemic Shunt [topp]	10
+114	Translation [inpr]	10
+4357	Translational Research [resa]	10
+2278	Translational [genf]	18
+4482	Translocation [comd]	11
+3018	Transmitted [patf]	22
+4889	Transplant Recipients [podg]	35
+894	Transplant [topp]	215
+2455	Transplantation [topp]	407
+4219	Transplantations, Liver [topp]	14
+3622	Transversion [comd]	14
+3412	Treated [ftcn]	868
+2846	Treating [ftcn]	90
+802	Treatment Effect [fndg]	11
+1606	Treatment Efficacy [qlco]	20
+1886	Treatment Outcome [qlco]	20
+2550	Treatment Regimen [topp]	11
+211	Treatments [topp]	176
+104	Trend [tmco]	159
+388	Trial [resa]	107
+124	Trigger [clna]	50
+3371	Triglyceride level [lbtr]	11
+402	Triple [qnco]	33
+3600	Tumor Angiogenesis [neop]	13
+876	Tumor Biology [resa]	17
+4669	Tumor Burden [diap]	26
+3969	Tumor Marker [bacs]	30
+4546	Tumor Markers [bacs]	53
+2245	Tumor Microenvironment [npop]	16
+774	Tumor Pathology [bmod]	29
+2701	Tumor Sample [tisu]	29
+3134	Tumor Staging [diap]	22
+2074	Tumor Suppression [moft]	12
+378	Tumor Suppressor Genes [gngm]	43
+4684	Tumor Suppressor [gngm]	24
+822	Tumor liver tissues [neop]	11
+174	Tumorigenesis [neop]	102
+2907	Tumors [neop]	795
+416	Tumour Grading [diap]	11
+401	Tumour Invasiveness [patf]	10
+139	Tumour NOS [neop]	1562
+360	Tumour Type [inpr]	42
+608	Tumour ablation [topp]	26
+2242	Tumour cell [cell]	32
+3642	Tumour cells, NOS [cell]	96
+3673	Tumour invasion [fndg]	30
+1906	Tumour location [neop]	36
+4304	Tumour marker level [lbpr]	10
+183	Tumour necrosis [neop]	47
+1877	Tumour progression [neop]	148
+3914	Tumour size [spco]	532
+4147	Tumour stage [clna]	92
+2898	Tumour stages [clas]	10
+295	Tumour status [qlco]	11
+3810	Tumour suppressor gene [gngm]	23
+4193	Tumour thrombus [dsyn]	59
+3952	Tumour tissue [tisu]	114
+4800	Tumour volume [qnco]	29
+267	Twelve [qnco]	61
+2745	Twenty Five [qnco]	24
+4297	Twenty Four [qnco]	29
+2001	Twenty One [qnco]	21
+3490	Twenty-Nine [qnco]	17
+2369	Twice [inpr]	39
+2830	Type 1 [clas]	26
+1033	Type 2 [clas]	20
+357	Type 3 [clas]	11
+4403	Type I [clas]	20
+1960	Type II Diabetes [dsyn]	75
+1850	Type II [clas]	26
+2656	Types [qlco]	243
+4629	Typical [qlco]	86
+2216	U S [geoa]	32
+3238	U/L [qnco]	48
+1240	U/mL [qnco]	19
+1283	UICC [inpr]	19
+1034	UK [geoa]	29
+4489	ULTRASOUND [diap]	201
+1312	UNDERSTOOD [menp]	149
+1194	UNITED STATES [geoa]	222
+977	UNITS [qnco]	29
+3250	UNKNOWN [qlco]	236
+3019	UP [geoa]	55
+1649	UPPER [spco]	47
+907	URINE [bdsu]	20
+4852	USA [geoa]	66
+3997	Ultrasonography [diap]	177
+4649	Ultrasound examination [diap]	36
+296	Ultrasound guidance [diap]	24
+1624	Ultrasound guided biopsy [diap]	14
+3031	Ultrastructure [idcn]	13
+3367	Unable [fndg]	26
+4233	Unaffected [cnce]	16
+4088	Uncertain [fndg]	55
+542	Uncertainty [fndg]	27
+981	Unchanged [fndg]	21
+1651	Unclassified [clas]	11
+2221	Uncommon [qlco]	97
+2114	Unconditional [qlco]	28
+490	Uncontrolled [qlco]	14
+1835	Under [spco]	10
+2338	Understand [menp]	71
+1665	Understanding [menp]	306
+2217	Undetectable [clna]	38
+1151	Undiagnosed [fndg]	10
+2147	Undifferentiated [qlco]	13
+356	Unexpected [inpr]	13
+4273	Unfavorable [qlco]	62
+994	Uni [food]	20
+4096	Unifocal [spco]	14
+619	Uniform [qlco]	19
+2096	Union [clas]	10
+3686	Unique [qlco]	128
+417	Unit [qnco]	67
+3639	United Network for Organ Sharing [prog]	20
+3617	Unlikely [cnce]	16
+2150	Unrelated [fndg]	49
+3669	Unresectable [clna]	133
+2010	Unsatisfactory [qlco]	25
+1579	Unusual [qlco]	51
+1180	Up-Regulation [moft]	17
+877	Update [tmco]	110
+919	Upregulation [moft]	34
+1158	Uptake [phsf]	63
+4320	Urban [geoa]	30
+1466	Urgent [tmco]	31
+2485	Urinary [bpoc]	19
+559	Usage [ftcn]	13
+434	Useful [qlco]	436
+1270	Usefulness [qlco]	68
+3509	Users [humn]	19
+2435	Users, Drug [podg]	10
+3086	Usual [qlco]	18
+3021	Usually [qlco]	187
+1710	VACCINATION [topp]	77
+1044	VARICES [dsyn]	20
+4742	VAST [inpr]	26
+3083	VEIN [bpoc]	13
+3269	VENOUS THROMBOEMBOLISM [patf]	10
+4366	VI [geoa]	12
+2817	VIETNAM [geoa]	14
+2128	VIRAL HEPATITIS [dsyn]	181
+1271	VIRUSES [virs]	139
+2082	Valid [qlco]	21
+1833	Validation [resa]	117
+1203	Validity [qnco]	21
+2611	Value [qnco]	409
+4779	Values [qlco]	249
+2655	Variability [cnce]	58
+1130	Variable [qlco]	114
+2237	Variance [qlco]	22
+2901	Variant [qlco]	81
+743	Variation [qlco]	92
+2086	Variations, Genetic [npop]	12
+223	Varies [inpr]	54
+3858	Variety [cnce]	141
+1038	Various [irda]	499
+2673	Vascular [bpoc]	331
+945	Vascularity [fndg]	20
+1495	Vector [nnon]	15
+1791	Vegetables [food]	10
+4284	Venous Invasion [fndg]	38
+302	Venous [bpoc]	29
+3747	Verified [ftcn]	30
+1691	Verify [ftcn]	22
+2167	Version [ftcn]	29
+2259	Vertical [spco]	31
+4553	Very Important [fndg]	21
+1542	Very Poor [inpr]	23
+395	Very [qlco]	163
+2173	Very high [fndg]	39
+2573	Very little [inpr]	10
+1672	Very low [fndg]	35
+256	Very rare [fndg]	22
+2960	Vessel [bpoc]	30
+1607	Vessels [bpoc]	42
+683	Veterans Affairs [orgt]	12
+2727	Veterans [popg]	19
+3144	Viability, Cell [celf]	13
+1948	Viable [qlco]	49
+2628	View [spco]	59
+4854	Viewpoint [inpr]	13
+42	Viral Disease [dsyn]	12
+4873	Viral Genome [gngm]	12
+3076	Viral Hepatitis B [dsyn]	19
+3891	Viral Load [fndg]	116
+3508	Viral [ftcn]	320
+3014	Viral hepatitis B virus [virs]	33
+4497	Viral hepatitis C [dsyn]	13
+184	Viremia [dsyn]	47
+3959	Virologic Response [fndg]	20
+4258	Virologic [ftcn]	22
+1176	Virological [ftcn]	71
+1191	Virus, Woodchuck Hepatitis [virs]	10
+4560	Virus-Related Carcinoma [neop]	11
+564	Visible [qlco]	32
+4313	Visit [bhvr]	33
+4556	Visual [ftcn]	10
+4001	Visualization [menp]	23
+4507	Visualized [ftcn]	15
+655	Vital [qlco]	32
+4420	Volumetry [diap]	10
+1916	WASHOUT [tmco]	39
+4598	WEEKS [tmco]	154
+3231	WEIGHTLOSS [fndg]	46
+1377	WHITE [popg]	53
+1082	WILSON DISEASE [dsyn]	18
+2416	WOMAN [popg]	51
+372	WWW [mnob]	20
+3908	Waist Circumference [clna]	10
+4334	Waiting List [inpr]	36
+2975	Wall [mnob]	19
+4086	Wash [acty]	11
+4874	Weak [qlco]	37
+1784	Web [mnob]	31
+4495	Weekly [tmco]	16
+1468	Weight [orga]	50
+3731	Well Differentiated Hepatocellular Carcinoma [neop]	55
+4018	Well Differentiated [qlco]	77
+4186	Well [qlco]	454
+3453	Well defined [qlco]	57
+4514	West [spco]	37
+2144	Western Europe [geoa]	11
+3955	Western World [idcn]	12
+2163	Western [spco]	136
+1376	Western blot analysis [lbpr]	28
+2270	Whites [popg]	26
+1567	Whole [qnco]	85
+4097	Whole liver [bpoc]	14
+2263	Wide [spco]	193
+2432	Widespread [qlco]	47
+1059	Width [qnco]	10
+4047	Wild Type Mouse [mamm]	19
+1553	Wild [inpr]	21
+1507	Wildtype [gngm]	71
+3287	Withdrawal [acty]	10
+3300	Wnt Pathway [moft]	18
+2312	Women [popg]	384
+2405	Word [idcn]	21
+4149	Work [ocac]	105
+361	Work-up [diap]	35
+4502	Working [ocac]	18
+4045	World Health Organization [hcro]	25
+2857	World [popg]	238
+80	Worsened [fndg]	17
+1325	Worsening [qlco]	20
+582	Worst [qlco]	17
+3877	Wound Healing [orgf]	13
+708	Wound Infection [patf]	12
+2411	X-ray [ftcn]	10
+115	YEAR [tmco]	1543
+1428	YEARS [tmco]	1949
+1128	Yearly [tmco]	19
+3958	Young [tmco]	279
+1248	Zero [qnco]	25
+1563	Zone [spco]	47
+4053	a t [topp]	13
+3501	abdominal computed tomography [diap]	12
+623	absence [ftcn]	379
+3281	accelerate [ftcn]	30
+1556	accelerates [ftcn]	20
+3560	accessibility [qlco]	14
+4017	acquiring [tmco]	17
+4123	actions [ftcn]	19
+3859	activating [acty]	28
+1318	active hepatitis [fndg]	28
+1847	adapted [orch]	16
+2320	adduct [chvs]	12
+781	adducts [chvs]	19
+1888	administrative [ftcn]	10
+568	admitted [hlca]	101
+1657	advanced disease [fndg]	112
+4422	adverse effects [ftcn]	30
+3195	adverse events [patf]	61
+1653	aetiology [ftcn]	15
+4760	afb [bact]	37
+1862	aggressive Malignancy [neop]	12
+982	aggressive [mobd]	158
+377	alarming [medd]	10
+2210	albumin levels [lbtr]	17
+730	allograft [topp]	24
+176	allowed [socb]	42
+2641	allowing [socb]	34
+4772	alpha fetoprotein levels [lbtr]	41
+2915	alpha-1 anti-trypsin deficiency [dsyn]	12
+4170	americans [popg]	11
+4689	amounts [qnco]	21
+2477	animal model [emod]	23
+1216	animal studies [anim]	10
+1079	anti-apoptosis [celf]	17
+1763	antibody positive [lbtr]	10
+918	anticoagulation [topp]	12
+4763	aor [medd]	17
+1004	apparent [idcn]	63
+4308	applicable [qlco]	55
+4531	applications [hlca]	41
+3915	approaching [spco]	12
+2760	arising [qlco]	102
+3135	arrested [dsyn]	112
+3172	asian countries [geoa]	31
+1119	assessments [hlca]	22
+2877	assist [socb]	27
+3440	associated Diseases [ftcn]	13
+4862	associated disease [patf]	16
+131	ballooning [topp]	11
+1928	base [inch]	39
+2867	based case study [resa]	38
+2587	baseline [bodm]	230
+886	betel quid [food]	12
+4155	bile leakage [patf]	57
+998	biliary cancer [neop]	18
+2768	biliary carcinoma [neop]	15
+1056	biliary diseases [dsyn]	12
+4496	bilirubin levels [lbpr]	12
+751	binds [acty]	11
+2653	biochemical tests [lbpr]	10
+917	biomarker Discovery [resa]	11
+3026	biopsied [diap]	14
+3895	birthweight [orga]	12
+3829	blocks [patf]	11
+3156	blood samples [bdsu]	49
+3213	body [humn]	40
+1667	bound [spco]	13
+1279	boys [aggp]	12
+343	brought [ftcn]	19
+1269	brush cytology [medd]	12
+2700	budd-chiari syndrome [dsyn]	25
+4032	c myc [gngm]	20
+875	cDNA [nnon]	14
+4361	cancer cells [cell]	49
+4877	cancer genes [gngm]	16
+920	cancer progression [neop]	25
+1796	cancer recurrence [neop]	22
+591	cancer registries [inpr]	21
+2921	cancer sites [spco]	14
+2433	cancer stage [diap]	10
+2537	cardiovascular events [fndg]	12
+4225	cardiovascular risk factor [dsyn]	19
+1512	carried [acty]	197
+4451	carriers [fndg]	151
+859	case control [hlca]	67
+2170	case report [inpr]	78
+92	categorized [acty]	97
+763	causality [ftcn]	70
+3950	cent [qnco]	14
+4686	centers [spco]	120
+4911	centres [spco]	32
+1438	challenges [hlca]	60
+3992	chances [qlco]	12
+3235	chb [dsyn]	34
+765	chemically induced [patf]	13
+1987	chemo [topp]	16
+1825	chemoembolisation [topp]	175
+4190	chi square [qnco]	14
+196	chinese [lang]	143
+3233	choice [inbe]	126
+3011	cholangeitis [dsyn]	76
+1635	chronic Hepatitis C virus infection [dsyn]	140
+43	chronic hepatic [dsyn]	10
+510	chronic hepatitis b viral infection [dsyn]	148
+311	chronic infections [dsyn]	30
+1458	cigarette smoking [hops]	78
+3392	cirrhotics [qlco]	43
+2360	classify [clas]	26
+1573	clinical Feature [clna]	145
+2651	clinical aspects [clna]	18
+4648	clinical characteristics [clna]	129
+328	clinicians [prog]	61
+1738	co-morbidity [idcn]	50
+4602	code [ocac]	22
+144	codes [clas]	10
+1370	cofactors [bacs]	15
+2740	cohorts [popg]	98
+1131	coil [spco]	10
+57	collaborative [socb]	12
+3131	collections data [resa]	16
+3544	colony [qnco]	14
+268	combined treatment [topp]	14
+243	commercial [inpr]	24
+2775	comparative analysis [resa]	23
+423	compatible [idcn]	23
+4672	competitive [socb]	11
+4441	complicate [ftcn]	21
+3966	complicating [ftcn]	22
+674	compromise [fndg]	27
+100	concept [idcn]	44
+2072	concomitant disease [patf]	12
+1150	concordance [socb]	29
+3638	condition [dsyn]	261
+3313	conducting [inbe]	12
+2457	confirmation [qlco]	52
+964	confirmed [qlco]	482
+3353	confirming [qlco]	23
+4532	confirms [qlco]	33
+3761	conflicting [inbe]	23
+4445	congenital [qlco]	10
+600	consequences [ftcn]	80
+676	considerations [fndg]	23
+50	considered [idcn]	701
+3263	contact [ftcn]	34
+38	contained [ftcn]	51
+4625	contamination [hcpp]	31
+4837	contraindications [qlco]	20
+2603	contrast material [irda]	11
+4352	contrast tomography [diap]	23
+1496	control [qlco]	889
+3773	controlling [phpr]	52
+3009	controversies [socb]	12
+1854	controversy [socb]	186
+1430	copies/mL [qnco]	11
+1754	counts [qnco]	14
+437	coverage [idcn]	15
+2400	covering [medd]	14
+1707	covers [medd]	12
+1626	cross sections [spco]	22
+213	data base [inpr]	270
+4035	de novo [idcn]	68
+921	deaths [orgf]	214
+4564	debate [acty]	51
+1697	decisionmaking [menp]	20
+3139	decisions [menp]	32
+769	defects [ftcn]	25
+2095	definition [idcn]	65
+3561	degrees C [qnco]	14
+659	degrees [qnco]	39
+3374	demanding [topp]	13
+1534	demographic [ocdi]	141
+4466	demographic characteristics [grpa]	34
+4842	demographic variables [grpa]	10
+1551	depend [medd]	174
+205	derivatives [chvs]	10
+4696	des(gamma-carboxy)prothrombin [aapp]	53
+1305	des-gamma-carboxyprothrombin [aapp]	12
+168	detect [fndg]	267
+3688	determination [lbpr]	68
+3974	determinations [gora]	23
+3057	detoxify [orgf]	11
+2465	diabetics [fndg]	11
+1818	diagnosing [fndg]	64
+3187	diagnostic methods [diap]	10
+3995	diameters [qnco]	31
+1304	differentiate [qlco]	57
+4071	differentiating [qlco]	44
+1479	difficulties [fndg]	20
+460	discrepancies [fndg]	10
+1103	disease control [topp]	10
+3971	disease rate [qnco]	11
+3114	disease recurrence [fndg]	30
+4383	disease severity [qlco]	23
+2878	displayed [ftcn]	73
+4362	displays [ftcn]	12
+3211	document [inpr]	22
+2735	donation [qnco]	14
+1020	donor liver [popg]	28
+2758	donor organs [bpoc]	11
+1328	doubled [ftcn]	16
+873	doubling [ftcn]	12
+3377	drain [topp]	20
+4859	dropout [popg]	11
+521	dying [orgf]	14
+1442	dysfunction [ftcn]	36
+3488	early disease [tmco]	10
+4782	early identification [topp]	12
+3257	education level [edac]	13
+2148	effective [qlco]	480
+2139	effective treatment [qlco]	124
+3925	elevated Aminotransferase [fndg]	26
+3349	elevations [spco]	14
+2779	emergent [idcn]	47
+1487	employing [fndg]	17
+2525	enable [menp]	35
+3776	enables [menp]	30
+2778	encoded [menp]	23
+3854	endpoints [qlco]	28
+4925	enriched [food]	17
+3284	envelope [celc]	11
+2084	environmental risk factors [qlco]	50
+2674	epoxide [orch]	11
+51	errors [qlco]	12
+1631	escape [menp]	14
+4248	esophageal cancer [neop]	28
+818	establish [qlco]	115
+79	establishing [qlco]	31
+1334	estimates [qnco]	94
+593	estimating [qnco]	33
+2952	estimation [menp]	56
+960	etc. [idcn]	21
+903	etiologic agent [sbst]	24
+2337	etiologies [ftcn]	70
+4565	etiology [ftcn]	434
+1037	evolved [ftcn]	17
+759	ex vivo [ftcn]	15
+3472	exacerbate [fndg]	20
+2156	examinations [hlca]	60
+1096	examining [fndg]	29
+3832	exception [idcn]	52
+3404	excision [topp]	18
+1433	exert [orgf]	22
+19	exerts [orgf]	15
+4331	exhibiting [inpr]	21
+858	expenses [qnco]	15
+476	experience [menp]	399
+4400	experimental animal [anim]	10
+2530	experimental studies [resa]	15
+2832	expertise [qlco]	13
+1685	exposures [inpo]	47
+621	expression level [qnco]	107
+1666	expressions [topp]	44
+365	female patients [orga]	49
+3044	fibrogenesis [orgf]	36
+2949	fibrose [patf]	41
+2802	final diagnosis [qlco]	35
+2033	findings [ftcn]	754
+4216	fitted [sosy]	10
+2766	focusing [clna]	63
+2077	follow [tmco]	38
+2599	formation [biof]	165
+2239	forms [qlco]	97
+249	fragment [ftcn]	15
+1133	fragments [ftcn]	12
+862	free [ftcn]	378
+4412	fucosylation [moft]	15
+432	function [phsf]	198
+1011	g l [qnco]	23
+2502	g/dL [qnco]	41
+1123	g/day [qnco]	25
+348	g/g [qnco]	14
+4468	gall bladder carcinoma [neop]	43
+1249	gastro intestinal bleeding [patf]	20
+4434	gender differences [orga]	16
+3946	gene mutations [genf]	16
+4713	gene polymorphism [genf]	11
+1066	gene polymorphisms [genf]	24
+732	genetic analysis [lbpr]	19
+425	genetic mutations [genf]	10
+4474	genetic risk factors [qlco]	26
+1483	genotoxicity [comd]	23
+992	geographic difference [idcn]	10
+2172	geographical area [geoa]	18
+2569	glucose metabolism [moft]	12
+1399	glycemia [orch]	15
+835	grade 2 [inpr]	12
+1745	graft loss [patf]	16
+3817	hcv genotype [fndg]	15
+4356	heavy Alcohol intake [mobd]	17
+4207	heavy drinker [mobd]	13
+4309	heavy drinking [mobd]	24
+1726	hemoglobin level [lbtr]	10
+3564	hepatic Arterial [bpoc]	24
+2971	hepatic complications [patf]	35
+2733	hepatic lesion [fndg]	14
+2814	hepatic lesions [fndg]	64
+607	hepatic metastases [neop]	27
+1684	hepatic nodules [fndg]	31
+45	hepatic steatosis [dsyn]	91
+4550	hepatic tumors [neop]	57
+1681	hepatic tumours [neop]	14
+4498	hepatitis active [fndg]	14
+4615	hepatitis b e antigen negative [lbtr]	12
+1359	hepatitis b positive [lbtr]	15
+4547	hepatitis b viral markers [lbpr]	21
+1441	hepatitis b viral reactivation [dsyn]	23
+3055	hepatitis virus c [virs]	11
+2136	hepatitis virus infection [virs]	41
+3465	hepatobiliary [bdsy]	172
+3586	hepatocyte apoptosis [celf]	12
+448	hepatocyte proliferation [celf]	15
+3297	hepatoma cell [cell]	35
+850	hierarchies [ftcn]	11
+4530	high platelet count [fndg]	11
+3375	high risks [qlco]	21
+2226	high-risk group [popg]	55
+118	histologic examination [lbpr]	63
+3229	histological diagnosis [diap]	20
+1444	histopathology [ftcn]	188
+3387	hospital death [fndg]	12
+4336	hospitalisation [hlca]	52
+4037	hospitalized patients [podg]	11
+2176	hot spot [dsyn]	10
+1299	human cell lines [cell]	29
+1977	human study [resa]	11
+4545	human tissues [tisu]	25
+3480	imaging modalities [ftcn]	27
+821	immune responses [ortf]	23
+1007	immunodeficiency virus [virs]	10
+3312	immunoreactivity [moft]	21
+535	in vitro study [resa]	16
+4884	included [ftcn]	1048
+1815	incorporation [ftcn]	11
+2791	increased iron [fndg]	11
+3796	increasing incidence [ftcn]	39
+4004	indication [idcn]	113
+3517	indicator [irda]	77
+2314	individual risk factors [clna]	11
+4328	ineffective [idcn]	20
+694	infecting [fndg]	10
+2742	infestation [dsyn]	14
+2695	infiltrated [patf]	10
+1336	inflammatory cells [cell]	16
+2204	inhibitors [chvf]	47
+2643	injected drug use [inbe]	21
+3352	injection [topp]	104
+77	injections [topp]	31
+2572	injuries [qlco]	11
+1540	innovativeness [menp]	25
+1958	insights [menp]	80
+2772	institute [orgt]	71
+4835	institutions [idcn]	35
+1586	integrity [qlco]	15
+1580	intent [menp]	97
+3496	interferon alpha therapy [topp]	11
+3120	interpreted [ftcn]	17
+1525	intervals [tmco]	67
+1955	intervention [hlca]	88
+2529	interventions [hlca]	87
+996	intracellular [celc]	38
+3040	intravenous drug use [inbe]	22
+3893	intravenous drug users [fndg]	11
+3791	introduce [ftcn]	69
+4906	investigate [ftcn]	663
+466	investigated [ftcn]	705
+2273	investigating [ftcn]	40
+1797	isolates [bacs]	20
+1959	justify [ftcn]	43
+3097	kDa [qnco]	14
+4077	kPa [qnco]	15
+1947	kg-m [qnco]	46
+2963	killed [socb]	17
+1720	knock out [inpo]	12
+323	lack [qlco]	250
+3015	landscape [spco]	23
+4322	large Population [grpa]	32
+3346	large group [grpa]	10
+503	learn [menp]	12
+1501	lesions [fndg]	541
+3554	lifestyle Modification [socb]	14
+106	limit [ftcn]	54
+4792	limitations [ftcn]	60
+841	limiting [ftcn]	29
+4117	limits [ftcn]	27
+724	lines [spco]	76
+642	linkage [moft]	32
+198	literature review [inpr]	45
+2621	liver biopsies [diap]	58
+362	liver development [biof]	22
+3752	liver disorders [dsyn]	13
+4373	liver graft [topp]	16
+4302	liver lesion [fndg]	73
+244	liver masses [dsyn]	13
+3304	liver nodules [fndg]	14
+2994	liver resection [topp]	399
+2233	liver resections [topp]	72
+27	liver steatosis [dsyn]	23
+3385	liver surgery [topp]	62
+4241	liver tissues [bpoc]	70
+3707	liver transplants [topp]	32
+3784	liver tumour [neop]	55
+4561	liver tumours [neop]	18
+2094	lobes [bpoc]	14
+1213	locations [spco]	22
+3998	logistic [ocac]	43
+1211	logistic regression analysis [resa]	229
+319	long-term study [resa]	11
+3735	long-term treatment [hlca]	21
+1448	low albumin [fndg]	19
+927	lowering [spco]	14
+2450	lymph node metastasis [neop]	87
+2711	m2 [qnco]	10
+3505	mL/min [qnco]	12
+2498	mRNA Expression [genf]	48
+1226	mU/L [qnco]	68
+316	machinery [mnob]	11
+3420	magnitude [qnco]	34
+2862	major surgery [topp]	14
+2859	majority [socb]	251
+304	male patient [orga]	11
+2690	male patients [orga]	62
+4608	malignant tumors [neop]	45
+326	malignant tumours [neop]	16
+529	manifestation [ftcn]	68
+4711	manifestations [ftcn]	69
+3462	manifested [ftcn]	21
+3538	match [resa]	17
+4465	matched [resa]	306
+2351	measurements [ftcn]	75
+738	measuring [qlco]	56
+1998	mediated [socb]	171
+3515	mediates [socb]	16
+2089	medical Treatment [topp]	14
+4365	meta-analyses [resa]	33
+1330	metastatic disease [neop]	33
+2174	metastatic tumors [neop]	22
+3801	methodology [inpr]	220
+1787	methylated [phsu]	18
+3968	mg day [qnco]	10
+2696	mg dl [qnco]	81
+2519	mg kg [qnco]	19
+3234	mimics [topp]	11
+1470	minutes [tmco]	32
+3245	mmHG [qnco]	13
+297	mmol/L [qnco]	10
+663	modalities [idcn]	128
+1849	modulate [spco]	43
+107	molecular markers [clna]	14
+2978	molecular pathway [moft]	23
+4914	monitor [hlca]	113
+153	monoclonal [fndg]	13
+602	morphological [spco]	65
+2829	mortality rates [qnco]	105
+3540	most likely [idcn]	31
+2581	multiple regression [qlco]	44
+2125	mutants [comd]	25
+2677	named [inpr]	17
+3038	national [popg]	200
+2011	negative predictive value [qnco]	57
+2988	network [popg]	47
+1175	networks [ftcn]	18
+1578	new therapy [fndg]	29
+1723	newly [idcn]	110
+4126	nodes [bpoc]	18
+1981	non b hepatitis [dsyn]	15
+1049	non smokers [fndg]	12
+926	nonsmokers [fndg]	10
+4894	normal Liver parenchyma [fndg]	16
+2509	normal Liver tissue [fndg]	25
+3957	normal control [qlco]	24
+2965	normal liver [fndg]	89
+3704	normal liver tissues [fndg]	22
+4114	novel Therapies [topp]	17
+2324	novel Treatment [topp]	11
+1690	objectives [inpr]	294
+4778	observations [resa]	48
+4903	occurrence [ftcn]	324
+1177	oncogen [hops]	69
+4524	operate [ftcn]	84
+2214	operations [ftcn]	26
+3693	opinion [menp]	14
+3614	organs [bpoc]	78
+1029	origin [clas]	112
+3155	origins [clas]	17
+770	oval cell [cell]	12
+4638	ovarian cancer [neop]	14
+451	overall survival rate [qnco]	287
+716	overexpress [genf]	62
+3627	overlap [topp]	24
+3125	overview [inpr]	98
+1746	p16 [gngm]	20
+4917	p53 Gene [gngm]	43
+3918	p53 Mutation [comd]	39
+1577	p53 tumor suppressor gene [gngm]	21
+471	pTNM stage [clna]	10
+3194	paediatric [bmod]	70
+4659	palliation [bmod]	22
+68	paradigm [resa]	21
+2353	parasitic infection [dsyn]	11
+4863	parenteral [topp]	26
+2006	participants [popg]	131
+3941	partners [famg]	11
+2816	past history [qlco]	16
+3798	pathogenesis [ftcn]	406
+922	pathological condition [patf]	13
+1242	pathology specimens [bdsu]	16
+3588	pathophysiology [ftcn]	84
+1590	patient Objective [topp]	11
+3395	patient characteristics [clna]	50
+2092	patient condition [fndg]	11
+2366	pay [qnco]	29
+605	peaks [qnco]	12
+4195	percutaneous ethanol injection [topp]	62
+1883	persistently [idcn]	40
+2584	pg/mL [qnco]	13
+3800	picture [mnob]	22
+3988	plasma concentration [qnco]	11
+824	played [fndg]	35
+4448	playing [dora]	17
+3067	polymorphisms [genf]	129
+986	population studies [resa]	10
+4549	porcine [mamm]	16
+3388	portal tracts [bpoc]	16
+4529	portal vein embolization [topp]	25
+3695	positive predictive value [qnco]	53
+4049	possess [mobd]	17
+4132	post resection [topp]	29
+3689	post transfusion [tmco]	10
+4681	post treatment [tmco]	57
+772	postmortem [diap]	11
+4766	potentials [qlco]	10
+1414	powers [hcpp]	24
+3562	practice [menp]	167
+2318	practices [menp]	37
+692	pre treatment [tmco]	26
+4840	predictions [idcn]	14
+3619	predictive [qlco]	269
+195	predictive factor [inpr]	128
+3209	predisposing [ftcn]	25
+3035	premalignant [neop]	14
+4923	presently [idcn]	16
+504	prev [inpr]	19
+1646	prevention strategies [inpr]	15
+1184	preventive [ftcn]	73
+2155	preventive measures [inpr]	28
+1824	primary Malignancy [neop]	28
+140	primary cancer [neop]	20
+429	primary malignancies [neop]	16
+22	primary treatment [topp]	18
+1155	primary tumors [neop]	52
+4214	prime [ftcn]	10
+1205	procedures [inpr]	117
+2951	progress [ftcn]	213
+1432	progressed [ftcn]	55
+3625	progresses [ftcn]	35
+4413	progressive disease [neop]	25
+3616	projections [inpr]	10
+2773	promise [idcn]	177
+1971	prompt [ftcn]	25
+1863	prompted [ftcn]	11
+4866	properties [qlco]	68
+3469	prophylaxis [inpr]	46
+2868	proposal [idcn]	17
+1266	prospective [resa]	219
+1132	proteomic [bmod]	32
+3227	pulmonary [bpoc]	19
+4516	purposes [ftcn]	27
+3454	qPCR [mbrt]	10
+1210	qRT-PCR [mbrt]	15
+3745	radiation disease [dsyn]	10
+518	radiation therapy [inpr]	22
+2317	radiofrequency [npop]	53
+264	radiology Diagnosis [diap]	12
+4125	radiotherapy [inpr]	74
+4121	ranked [inpr]	12
+4417	ranks [inpr]	17
+1622	reality [idcn]	11
+1317	reasons [idcn]	52
+3806	recombinant [orgm]	42
+1762	recommend [idcn]	45
+4094	recommendations [idcn]	74
+4406	recovered [qlco]	26
+1533	recur [phpr]	14
+1761	recurred [phpr]	34
+3593	recurrences [phpr]	137
+2201	recurs [phpr]	16
+1452	reductions [npop]	22
+4346	referred [ftcn]	98
+3350	refers [ftcn]	10
+1565	reflect [menp]	82
+48	reflected [menp]	44
+699	reflects [menp]	35
+4392	regenerating [ftcn]	10
+3249	regimens [inpr]	27
+3990	regional differences [fndg]	11
+3158	regulators [medd]	18
+4825	regulatory [rnlw]	48
+2091	relapsed [tmco]	17
+3771	relative death [fndg]	68
+2743	reliable [inpr]	113
+2833	remove [qlco]	16
+1851	removes [qlco]	62
+3174	replacing [ftcn]	13
+3611	resected [topp]	239
+2340	resection [topp]	1095
+1982	resection margins [bpoc]	53
+4140	resections [topp]	123
+170	responses [orga]	58
+4325	retransplantation [topp]	22
+2219	retrospective [resa]	343
+1875	revealing [qlco]	16
+4802	reveals [qlco]	37
+2531	reviewed [inpr]	582
+1673	reviewing [inpr]	17
+293	reviews [inpr]	78
+3954	right sided [spco]	11
+2470	rights [qlco]	942
+2919	risk Group [popg]	24
+3461	risk analysis [qlco]	22
+1035	routes [spco]	35
+734	rtpcr [mbrt]	56
+4592	rural area [spco]	24
+1225	s l [qnco]	14
+2617	sampled [diap]	10
+1855	scenario [ftcn]	17
+2344	scenarios [ftcn]	10
+484	scholar [prog]	12
+940	scored [qnco]	33
+3320	scoring [qnco]	92
+1898	screen [hlca]	144
+3169	search [inpr]	215
+707	secondary [neop]	127
+4011	secondary group [popg]	12
+2123	secondary tumors [neop]	12
+4217	secretion [biof]	27
+500	selection [genf]	205
+3154	self reported [resa]	14
+702	sequelae [patf]	26
+2882	serial [inpr]	57
+4376	serum ALT [lbpr]	29
+1772	serum concentration [qnco]	49
+2844	serum total bilirubin [lbpr]	13
+4576	shRNA [nnon]	12
+3334	shared [socb]	40
+2406	shares [socb]	10
+538	short [qlco]	237
+1327	side effects [ftcn]	48
+3137	signal intensity [qnco]	42
+3061	signaling pathway [celf]	21
+4262	signalling [biof]	22
+430	signs [ftcn]	61
+210	silence [mobd]	32
+1811	simultaneously [tmco]	46
+3163	site specific [spco]	10
+4870	slides [resd]	34
+3878	small size [fndg]	32
+2886	small tumors [qlco]	36
+4483	smokers [fndg]	34
+2851	snail [euka]	11
+2265	society [orgt]	81
+2792	socioeconomic [cnce]	16
+3624	solid tumors [neop]	28
+1306	soluble [celc]	15
+3782	somatic mutations [comd]	27
+1218	sonography [diap]	47
+3504	sources [fndg]	31
+4634	spatial [gngm]	14
+3781	specialized [qlco]	18
+3283	specimens [sbst]	205
+4142	spots [sosy]	13
+997	staging systems [inpr]	31
+766	standard therapy [topp]	19
+4076	standards [inpr]	13
+1709	statistical analysis [resa]	73
+3876	stenting [medd]	18
+1874	steps [cnce]	30
+3882	stopped [qlco]	14
+4054	strategies [menp]	339
+2546	strategy [menp]	218
+2422	stratifying [qlco]	17
+4732	striking [ocac]	31
+3572	stromas [bpoc]	10
+1113	structures [spco]	38
+3746	study data [resa]	10
+3545	subgroup [virs]	91
+3676	subgroups [virs]	104
+4506	subtypes [clas]	73
+70	successful treatment [clna]	20
+178	suffer [mobd]	22
+347	suffered [mobd]	41
+487	suggestive [ftcn]	39
+1149	summary [inpr]	149
+931	superiority [socb]	13
+3376	supply [idcn]	17
+638	suppress [ftcn]	38
+2134	suppresses [ftcn]	22
+1889	suppressing [ftcn]	18
+2918	surgical Technique [inpr]	15
+1326	surgical complications [fndg]	15
+4146	surgical intervention [fndg]	21
+596	surgical patients [podg]	13
+1363	surgical resection [topp]	338
+2483	surgical treatment [hlca]	90
+4025	surveillance [ftcn]	328
+2598	survivals [acty]	47
+4685	symptoms [ftcn]	160
+2112	synergism [moft]	26
+3917	systematic [ftcn]	76
+2431	systemic Treatment [topp]	11
+643	t test [inpr]	10
+2959	tailored [prog]	24
+1810	techniques [inpr]	97
+3384	technologies [ocdi]	38
+3606	temperature [orga]	15
+1625	tested [inpr]	265
+4831	therapeutic agents [mnob]	12
+3337	therapy [ftcn]	676
+2520	thermal ablation [topp]	23
+3103	threat [idcn]	12
+1462	thrombocytopaenia [fndg]	26
+1265	times [tmco]	132
+2071	toxic [inpo]	31
+2687	toxicities [inpo]	17
+1354	toxicity [qlco]	58
+1297	transformation [celf]	113
+4179	translate [ocac]	11
+3912	transmission [idcn]	144
+1555	transplanted [topp]	101
+3431	treatment [ftcn]	1894
+2741	treatment option [topp]	24
+4725	treatment options [topp]	73
+3503	triggers [clna]	16
+1293	tumor growth [neop]	66
+1236	tumor recurrence [neop]	282
+1676	tumor resection [topp]	23
+4539	tumour liver [neop]	29
+1891	tumour metastasis [neop]	32
+786	tumours [neop]	126
+1562	turnover [qnco]	12
+557	twenty [aggp]	165
+3931	unadjusted [ftcn]	14
+2493	undefined [idcn]	18
+2717	univariate analysis [resa]	369
+2058	unknown etiology [fndg]	19
+3400	untreated [fndg]	91
+2120	utility [orgt]	92
+1967	utilization [ftcn]	22
+1115	vaccinated [fndg]	18
+3547	variables [qlco]	337
+539	variants [qlco]	67
+2993	variations [qlco]	98
+3943	variceal Bleeding [patf]	37
+2048	variceal hemorrhage [patf]	11
+4540	vascular occlusion [dsyn]	13
+1523	vertical transmission [patf]	16
+3020	viability [qlco]	14
+4702	villages [geoa]	18
+3783	viral replication [celf]	41
+2841	virol [orch]	21
+3417	virus infection [dsyn]	68
+1167	viruses, Hepatitis B [virs]	18
+3368	vitamin k antagonist [topp]	13
+3077	volumes [qnco]	19
+2704	wait [ftcn]	18
+4048	waiting time [tmco]	28
+1459	weighted [orga]	94
+273	workers [ftcn]	21
+3629	worse [qlco]	206
+2782	worsen [qlco]	11
+3760	worsens [qlco]	14
+685	write [ocdi]	17
+2555	xenograft [topp]	14
+1728	yr [tmco]	57
+854	{Graft} [bodm]	79
+3510	{Non-patient} [clna]	99
+4927	{RE} [qnco]	90
