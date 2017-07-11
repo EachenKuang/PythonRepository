@@ -1,0 +1,7 @@
+Annual [tmco]    
+Risk Factors [qnco]    
+Cholangiocarcinoma [neop]    
+CCA [cgab]    
+Region [geoa]    
+THAILAND [geoa]    
+Study [mnob]    

@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+arising [qlco]    
+Patients [podg]    
+ALCOHOLIC LIVER DISEASE [dsyn]    
+METABOLIC SYNDROME [dsyn]    

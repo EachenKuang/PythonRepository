@@ -1,0 +1,8 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+AFRICAN AMERICAN [popg]    
+Non-Hispanic [popg]    
+WHITE [popg]    
+Patients [podg]    
+Hepatitis C [dsyn]    
+CIRRHOSIS [dsyn]    

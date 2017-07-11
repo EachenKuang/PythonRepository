@@ -1,0 +1,8 @@
+SMOKING [inbe]    
+OBESITY [dsyn]    
+Important [qlco]    
+Risk Factors [qnco]    
+American [popg]    
+Patients [podg]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Case-Control Study [resa]    

@@ -1,0 +1,6 @@
+Independent [idcn]    
+Risk Factors [qnco]    
+predictive [qlco]    
+SCORE [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Hepatitis B, Chronic [dsyn]    

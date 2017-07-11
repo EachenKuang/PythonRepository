@@ -1,0 +1,4 @@
+treatment [ftcn]    
+strategies [menp]    
+HEPATOCELLULAR CARCINOMA [neop]    
+CIRRHOSIS [dsyn]    

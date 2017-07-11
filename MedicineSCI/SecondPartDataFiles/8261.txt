@@ -1,0 +1,4 @@
+ARTERY [bpoc]    
+Inoperable [qlco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Risk Factors [qnco]    

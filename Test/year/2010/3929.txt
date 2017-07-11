@@ -1,0 +1,6 @@
+Surgery [bmod]    
+SMALL [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Risk Factors [qnco]    
+IMPACT [gngm]    
+Survival [acty]    

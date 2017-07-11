@@ -1,0 +1,4 @@
+Immunohistochemical [lbpr]    
+DIAGNOSIS [fndg]    
+Focal Nodular Hyperplasia [dsyn]    
+Inflammatory Hepatocellular Adenoma [neop]    

@@ -1,0 +1,7 @@
+aggressive [mobd]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Radiofrequency Ablation [topp]    
+Technique [ftcn]    
+heat effect [dsyn]    
+sink [mnob]    
+Response [orga]    

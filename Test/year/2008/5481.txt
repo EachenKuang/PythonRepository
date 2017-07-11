@@ -1,0 +1,7 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+CIRRHOSIS [dsyn]    
+NAFLD [dsyn]    
+Multicentric [spco]    
+Case-Control Study [resa]    

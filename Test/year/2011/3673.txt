@@ -1,0 +1,6 @@
+clinical Feature [clna]    
+Risk Factors [qnco]    
+Seeding [lbpr]    
+Percutaneous [spco]    
+Radiofrequency Ablation [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    

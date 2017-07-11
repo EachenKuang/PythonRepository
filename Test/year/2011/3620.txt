@@ -1,0 +1,7 @@
+Risk Factors [qnco]    
+Curative [cnce]    
+resection [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    
+TAIWAN [geoa]    
+VOL [qnco]    
+PG [lbpr]    

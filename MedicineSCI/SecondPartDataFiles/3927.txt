@@ -1,0 +1,6 @@
+DIABETES MELLITUS, TYPE II [dsyn]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Risk Factors [qnco]    
+Encephalopathy, Hepatic [dsyn]    
+Patients [podg]    
+End Stage Liver Disease [dsyn]    

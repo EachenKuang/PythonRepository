@@ -1,0 +1,8 @@
+Risk Factors [qnco]    
+Pattern [spco]    
+Onset [qnco]    
+treatment [ftcn]    
+liver resection [topp]    
+Peri [tmco]    
+HILAR [spco]    
+Intrahepatic Cholangiocarcinoma [neop]    

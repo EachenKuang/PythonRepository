@@ -1,0 +1,4 @@
+Viral Gene [gngm]    
+environmental risk factors [qlco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+EGYPT [geoa]    

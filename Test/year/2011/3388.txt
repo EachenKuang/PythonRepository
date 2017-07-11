@@ -1,0 +1,6 @@
+LIVER CIRRHOSIS [dsyn]    
+HEPATOCELLULAR CARCINOMA [neop]    
+MEXICO [geoa]    
+IMPACT [gngm]    
+Chronic infection [dsyn]    
+hepatitis viruses b [dsyn]    

@@ -1,0 +1,8 @@
+Pathology [bmod]    
+LIVER [bpoc]    
+Children [aggp]    
+Pepper [plnt]    
+Pepper [plnt]    
+Contribution [acty]    
+rights [qlco]    
+Reserve [acty]    

@@ -1,0 +1,5 @@
+PD-L1 [gngm]    
+P53 [gngm]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Relationship [qlco]    
+Pathology, Clinical [bmod]    

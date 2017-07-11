@@ -1,0 +1,7 @@
+Genetic Variation [npop]    
+Risk Factors [qnco]    
+HEPATITIS B [dsyn]    
+Hepatitis C [dsyn]    
+Related [qlco]    
+CHRONIC HEPATITIS [dsyn]    
+HEPATOCELLULAR CARCINOMA [neop]    

@@ -1,0 +1,6 @@
+Acute Porphyria [dsyn]    
+occurrence [ftcn]    
+ACUTE [tmco]    
+attacks [socb]    
+Precipitating Factors [clna]    
+associated Diseases [ftcn]    

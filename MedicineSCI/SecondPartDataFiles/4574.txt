@@ -1,0 +1,7 @@
+Cumulative [qlco]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+End Stage Liver Disease [dsyn]    
+secondary [neop]    
+Nonalcoholic Steatohepatitis [dsyn]    

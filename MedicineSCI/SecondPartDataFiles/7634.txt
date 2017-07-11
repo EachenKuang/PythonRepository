@@ -1,0 +1,5 @@
+Prevention [topp]    
+occurrence [ftcn]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+CIRRHOSIS [dsyn]    

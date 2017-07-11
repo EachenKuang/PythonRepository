@@ -1,0 +1,8 @@
+Incidence Rate [qnco]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+advanced disease [fndg]    
+LIVER [bpoc]    
+Hepatitis C [dsyn]    
+Trial [resa]    

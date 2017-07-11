@@ -1,0 +1,7 @@
+Comparison [acty]    
+Risk Factors [qnco]    
+Intra [tmco]    
+Extrahepatic Cholangiocarcinoma [neop]    
+UNITED STATES [geoa]    
+Population Based Study [resa]    
+case control [hlca]    

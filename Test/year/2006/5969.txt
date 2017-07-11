@@ -1,0 +1,2 @@
+Diabetes [dsyn]    
+HEPATOCELLULAR CARCINOMA [neop]    

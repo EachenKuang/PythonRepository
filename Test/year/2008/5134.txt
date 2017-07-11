@@ -1,0 +1,7 @@
+Risk Factors [qnco]    
+Hospital Mortality [qlco]    
+Initial [tmco]    
+Hepatic [blor]    
+resection [topp]    
+Patients [podg]    
+Primary Hepatocellular Carcinoma [neop]    

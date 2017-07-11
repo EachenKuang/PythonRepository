@@ -1,0 +1,7 @@
+East [spco]    
+West [spco]    
+Pathology [bmod]    
+Agreement [socb]    
+Precancerous lesions [neop]    
+LIVER [bpoc]    
+Early Hepatocellular Carcinoma [neop]    

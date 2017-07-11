@@ -1,0 +1,8 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Living donor liver [topp]    
+Transplantation [topp]    
+Single [popg]    
+Centre [spco]    
+experience [menp]    
+retrospective [resa]    

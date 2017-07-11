@@ -1,0 +1,7 @@
+Efficacy [qlco]    
+therapy [ftcn]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Liver Study [lbpr]    
+Transplantation [topp]    
+Tumour necrosis [neop]    
+Pathology [bmod]    

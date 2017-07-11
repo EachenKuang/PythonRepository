@@ -1,0 +1,8 @@
+Intrahepatic [spco]    
+DISTANT [spco]    
+Radiofrequency Ablation [topp]    
+Single [popg]    
+SMALL [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Risk Factors [qnco]    
+Patterns [spco]    

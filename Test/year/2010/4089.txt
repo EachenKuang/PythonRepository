@@ -1,0 +1,6 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+Correlation [qlco]    
+RADIOLOGIC FINDING [fndg]    
+Pre [tmco]    
+Transplant [topp]    
+Pathology [bmod]    

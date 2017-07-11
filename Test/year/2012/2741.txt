@@ -1,0 +1,8 @@
+Hepatocellular [qlco]    
+Proliferation [patf]    
+METABOLIC SYNDROME [dsyn]    
+Risk Factors [qnco]    
+Increased [qnco]    
+Non-cirrhotic [qlco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Case-Control Study [resa]    

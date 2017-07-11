@@ -1,0 +1,7 @@
+CURRENT [tmco]    
+TRENDS [tmco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Retrospective Study [resa]    
+Risk Factors [qnco]    
+Urban [geoa]    
+Setting [ftcn]    

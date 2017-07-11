@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+-- Japanese [popg]    
+Patients [podg]    
+LIVER CIRRHOSIS [dsyn]    
+HEPATITIS C VIRUS [virs]    

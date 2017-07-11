@@ -1,0 +1,5 @@
+TRENDS [tmco]    
+Cancer Mortality [qnco]    
+Asia [geoa]    
+Africa [geoa]    
+Oceania [geoa]    

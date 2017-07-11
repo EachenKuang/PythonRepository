@@ -1,0 +1,6 @@
+Cohort Study [qnco]    
+Risk Factors [qnco]    
+Age-at-Onset [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+HEPATITIS B VIRUS [virs]    
+carriers [fndg]    

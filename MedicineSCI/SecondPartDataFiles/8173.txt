@@ -1,0 +1,5 @@
+Study [mnob]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Cirrhotic [qlco]    
+Patients [podg]    
+Risk Factors [qnco]    

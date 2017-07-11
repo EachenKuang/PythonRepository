@@ -1,0 +1,4960 @@
+Usual [qlco]    	2
+Poor outcome [fndg]    	2
+Optimal [qlco]    	7
+Population Based Study [resa]    	3
+Child-Pugh Class B [inpr]    	1
+Novel [qlco]    	5
+Hilum [bpoc]    	3
+Pathogen [orgm]    	3
+ELECTRICAL FITTERS [prog]    	1
+Accuracy [qlco]    	5
+Parenteral transmission [ftcn]    	1
+Mode [ftcn]    	3
+Oncogenes [gngm]    	2
+PAX3 [gngm]    	1
+BILIARY TRACT [bpoc]    	2
+mCi [qnco]    	2
+POSTPARTUM [tmco]    	1
+Microwave [npop]    	3
+ARTERIAL THROMBOSIS [patf]    	1
+Treatment, Multimodal [topp]    	1
+considered [idcn]    	25
+normal liver [fndg]    	5
+Instill [ftcn]    	1
+APPEAR [qlco]    	32
+Quality [qlco]    	2
+Secondary lysosome [celc]    	1
+Large Mass [fndg]    	1
+LEFT [spco]    	8
+Infected tumours [neop]    	1
+Eighth [qnco]    	2
+Intractable [ftcn]    	1
+acquiring [tmco]    	2
+geographical area [geoa]    	1
+ANGIOGRAPHY [diap]    	4
+Exploration [topp]    	1
+esophageal cancer [neop]    	4
+coverage [idcn]    	1
+Hospital Mortality [qlco]    	1
+mate [famg]    	1
+SMOKING [inbe]    	16
+Recruitment [acty]    	1
+CII [rnlw]    	1
+Diagnostic Procedure [diap]    	1
+Electrodes [medd]    	1
+Class [inpr]    	13
+Essential [qlco]    	5
+Proportional [qlco]    	8
+Morphometry [lbpr]    	8
+Silent [qlco]    	8
+Scores [qnco]    	9
+Biliary Fistula [patf]    	3
+compounded [qlco]    	1
+Fibrosis, Liver [dsyn]    	11
+Certainty [qlco]    	1
+Delta [inpr]    	1
+Insulin-Like Growth Factor 2 Receptor Gene [gngm]    	2
+Palliative Therapy [bmod]    	1
+Menopause Age [fndg]    	1
+Transcatheter [spco]    	19
+Primary Tumour [neop]    	3
+Issue [fndg]    	9
+Screening [hlca]    	28
+Cohort Effect [qlco]    	2
+Carcinogen [hops]    	9
+Elevated alpha-fetoprotein [fndg]    	3
+inhibitors [chvf]    	1
+NEUROPATHY [dsyn]    	1
+Tumour screening [diap]    	1
+Single tumour [neop]    	2
+restricting [ftcn]    	1
+High Power Field [qnco]    	1
+Cost [qnco]    	10
+DNA Repair [genf]    	2
+Degradation [ftcn]    	1
+Activation [acty]    	7
+Disease period [patf]    	2
+Single lesion [fndg]    	2
+detect [fndg]    	13
+REGENERATION [ortf]    	5
+Habits [inbe]    	2
+Flaviviruses [virs]    	1
+American Society of Clinical Oncology [pros]    	1
+Survival Rates, Cumulative [qnco]    	1
+INT [orch]    	1
+Rare [tmco]    	11
+Staining [lbpr]    	10
+metastatic tumour [neop]    	1
+Evaluation [hlca]    	21
+Morbidity [qnco]    	31
+Cisplatin/Doxorubicin [topp]    	1
+Carcinogen effect [inpo]    	1
+Electron [qnco]    	1
+Full [qlco]    	5
+Staging [ftcn]    	14
+Form [qlco]    	16
+Endogenous endophthalmitis [dsyn]    	5
+injection [topp]    	5
+Resected Mass [fndg]    	1
+Modulated [spco]    	1
+JOINT [bsoj]    	1
+Chronic Viral Hepatitis [dsyn]    	13
+Transfusions, Blood [topp]    	2
+alanine aminotransferase activity [moft]    	2
+Flora, Intestinal [orgm]    	1
+Hepatocarcinogenesis [neop]    	21
+Vertical [spco]    	1
+segmental resection [topp]    	5
+Infections [patf]    	8
+Urinary [bpoc]    	1
+resect [topp]    	1
+Alaska Natives [popg]    	2
+partners [famg]    	1
+Reactivity [ftcn]    	2
+arising [qlco]    	5
+GREECE [geoa]    	4
+intervention studies [inpr]    	1
+Adolescence [tmco]    	1
+Reagent [irda]    	2
+ERA [dsyn]    	7
+ATROPHY [patf]    	5
+HIGH RISK [qlco]    	38
+assessments [hlca]    	1
+IVA [dsyn]    	1
+Linkage Disequilibrium [qnco]    	2
+Hemodynamics [ortf]    	3
+NEW [qlco]    	39
+Few [qnco]    	8
+collaborative [socb]    	3
+Panel [idcn]    	2
+Middle-aged women [aggp]    	1
+a t [topp]    	1
+Indecision [fndg]    	1
+New Association [fndg]    	1
+Patient Treatment [inpr]    	3
+Major medical [idcn]    	1
+network [popg]    	1
+Homology [gngm]    	2
+Contiguous [spco]    	1
+NODULE [acab]    	6
+Nucleolar Organizer Region [nusq]    	1
+Soft tissue tumour [neop]    	1
+TAE [topp]    	2
+TT virus [virs]    	6
+linkage [moft]    	1
+Dietary [food]    	6
+NS [geoa]    	2
+Village [geoa]    	4
+Grading [clas]    	9
+discrepancies [fndg]    	2
+pathogenesis [ftcn]    	16
+Imaging, Magnetic Resonance [diap]    	10
+Chronic (viral) hepatitis B [dsyn]    	1
+Post [tmco]    	16
+patient Objective [topp]    	1
+Steroid [orch]    	1
+X Chromosome [celc]    	1
+Experimental Design [resa]    	1
+TEN [dsyn]    	7
+Deletion [comd]    	9
+AE [imft]    	1
+Microscopic [qlco]    	19
+Encoding [idcn]    	5
+hepatic lesions [fndg]    	4
+defects [ftcn]    	4
+Abscesses [dsyn]    	2
+Viral hepatitis B virus [virs]    	1
+VAST [inpr]    	1
+Acquired [tmco]    	2
+thyroid cancers [neop]    	1
+Cholangiopancreatography, Magnetic Resonance [diap]    	1
+origin [clas]    	7
+RIGHT [spco]    	10
+1 Month [tmco]    	1
+PARENT [idcn]    	1
+Inflamed [ftcn]    	1
+Parenchyma [bpoc]    	9
+Dependent [qlco]    	8
+Randomized [resa]    	10
+Suspicious [idcn]    	1
+SPIN [gngm]    	1
+HEPATOMEGALY [sosy]    	1
+MILK [bdsu]    	1
+Human immunodeficiency virus disease [dsyn]    	1
+Hepatic Tissue [bpoc]    	5
+Give [ftcn]    	5
+Not well [fndg]    	5
+Chronic venous insufficiency [dsyn]    	1
+Services [ocac]    	1
+signal intensity [qnco]    	5
+Sis. [cnce]    	1
+Estrogen Receptor Status [clna]    	1
+Not significant [fndg]    	3
+4 Days [tmco]    	1
+elevated bilirubin [fndg]    	1
+Status [qlco]    	12
+Therapeutic response [clna]    	2
+Inadequate [qlco]    	1
+Problem [fndg]    	3
+Critical [qlco]    	3
+infestation [dsyn]    	1
+virus infection [dsyn]    	4
+limit [ftcn]    	5
+Extrahepatic [spco]    	13
+General Public [popg]    	1
+Nearly [qlco]    	4
+recurred [phpr]    	1
+Adrenal cortical tumor [neop]    	1
+Radiology studies [diap]    	1
+reviewed [inpr]    	17
+Recognition [menp]    	4
+Viral life cycle [biof]    	1
+normal Liver tissue [fndg]    	1
+SMOOTH MUSCLE ACTIN [gngm]    	3
+Retrieval [hlca]    	2
+LIT [gngm]    	1
+neoplasias [neop]    	2
+Fibrolamellar Carcinoma [neop]    	1
+modalities [idcn]    	8
+COLL [inpr]    	5
+Positive Margins [fndg]    	1
+Unique [qlco]    	1
+Grade III [qlco]    	2
+Diet [food]    	5
+LU [bdsy]    	1
+Coarse [qlco]    	2
+Pathological [bmod]    	11
+Classification [clas]    	6
+Sequences [nusq]    	6
+SPIRAL CT [diap]    	6
+Activated [acty]    	3
+Order [inpr]    	13
+Invasiveness [qlco]    	2
+Sub- [spco]    	2
+Hepatitis C virus RNA positive [lbtr]    	5
+Cellular [cell]    	8
+Adequate [qlco]    	1
+Fulminant Hepatic Failure [dsyn]    	1
+7 - 9 [fndg]    	2
+Metastatic Liver tumour [neop]    	1
+Systemic Chemotherapy [topp]    	3
+Tuner [mnob]    	1
+Composition [clna]    	1
+Dysplasia [patf]    	4
+Arterial [bpoc]    	17
+Oxidative Stress [comd]    	2
+Blood hormone levels [lbtr]    	1
+Magnetic Field [npop]    	2
+Evolving [ftcn]    	2
+small tumors [qlco]    	3
+strategies [menp]    	15
+Tomography, Helical Computed [diap]    	5
+Affect [menp]    	9
+septums [clas]    	1
+Management [ocac]    	18
+superoxide dismutase activity [moft]    	1
+Spectrum [qnco]    	5
+sources [fndg]    	1
+Prediction [idcn]    	5
+HYPERTENSION [dsyn]    	1
+Relapse [phpr]    	4
+Portion [spco]    	2
+Rapid progression [fndg]    	2
+Consequence [ftcn]    	5
+BLOOD TRANSFUSION [topp]    	14
+Geographic Region [geoa]    	3
+Decreased [qnco]    	17
+Mitochondria [celc]    	3
+Ill [sosy]    	3
+Reinfection [ftcn]    	1
+Arterial Hypervascularization [fndg]    	1
+Differentiated [celf]    	9
+Metastases [neop]    	14
+Metastasis [neop]    	19
+GSTT2 [gngm]    	1
+Applied [ftcn]    	5
+Researchers [prog]    	2
+CANADIAN [fndg]    	1
+High frequency [tmco]    	4
+Parental [idcn]    	1
+Xq [nusq]    	3
+Regression Analysis [inpr]    	6
+EAR [bpoc]    	1
+Responsive [ftcn]    	3
+Adverse Effect [patf]    	3
+toxicities [inpo]    	2
+Tumorigenesis [neop]    	3
+Transversion [comd]    	3
+Caudate Lobe [bpoc]    	1
+Thirteen [qnco]    	2
+Reports [inpr]    	10
+major Operative procedure [topp]    	1
+Peripheral Blood [bdsu]    	2
+hcv genotype 4 [virs]    	2
+Episodes [tmco]    	3
+Physiological [ftcn]    	1
+-17p13 [comd]    	1
+Spreading [qlco]    	3
+Solitary fibrous tumour [neop]    	1
+Injection, subcutaneous [ftcn]    	2
+Dilatation [patf]    	5
+RAW [diap]    	1
+Steroids [orch]    	2
+TIN [elii]    	1
+Computer assisted image analysis [mcha]    	1
+CHRONIC HEPATITIS [dsyn]    	26
+Primary Hepatic Lymphoma [neop]    	1
+Cofactor [bacs]    	1
+Alaska [geoa]    	1
+Suboptimal [qlco]    	1
+1 Week [tmco]    	1
+Evolution [genf]    	8
+Peptides [aapp]    	1
+second Malignant tumour [neop]    	1
+Gestational Age [orga]    	1
+SO [geoa]    	5
+15 Minutes [tmco]    	3
+literature review [inpr]    	2
+Group I [inpr]    	5
+Nodular tumours [neop]    	1
+Disrupted [qlco]    	1
+L3 [blor]    	6
+French Franc [qnco]    	2
+Gene Expression [genf]    	1
+Baseline Survey [resa]    	1
+Acid [chem]    	2
+Anti HBe positive [lbtr]    	3
+Overcome [acty]    	1
+NORMAL [qlco]    	15
+Stop Codons [nusq]    	1
+ALCOHOL CONSUMPTION [inbe]    	13
+primary Malignant tumour [neop]    	2
+IV [geoa]    	12
+Main bile duct [bpoc]    	1
+routines [qlco]    	1
+recidivism [inbe]    	1
+Hypothesis [idcn]    	8
+P-Value [qnco]    	2
+Possible diagnosis [qlco]    	1
+recur [phpr]    	2
+Half [qnco]    	4
+Prophylactic treatment [topp]    	2
+Opisthorchis felineus [euka]    	1
+Group A [clas]    	9
+synergism [moft]    	1
+carini, Pneumocystis [fngs]    	1
+Gene Alteration [genf]    	1
+Vegetable intake [fndg]    	1
+Schistosomiasis [dsyn]    	11
+Genesis [gngm]    	1
+Markers, Viral [qlco]    	1
+Side Effect [patf]    	1
+Hepatitis B Virus Disease [virs]    	2
+lowered [spco]    	2
+EXTRAHEPATIC BILE DUCT [bpoc]    	7
+Gastric Mucosa [tisu]    	1
+Positive Surgical Margin [fndg]    	3
+PREVENT [phsu]    	23
+Cytoplasmic [celc]    	6
+CO [geoa]    	5
+justify [ftcn]    	4
+adapted [orch]    	1
+26-50% [fndg]    	1
+Infusion [topp]    	1
+Save [mcha]    	2
+NEOPLASMS, NOS [neop]    	2
+ANGIOMA [neop]    	1
+Retention [menp]    	6
+Mice [mamm]    	4
+injuries [qlco]    	1
+Monitoring [hlca]    	3
+College [mnob]    	3
+Sent [ftcn]    	2
+Densitometry [lbpr]    	1
+Size [spco]    	17
+ALLELE [gngm]    	8
+Lymphatic Invasion [fndg]    	1
+estimating [qnco]    	1
+dysfunction [ftcn]    	5
+simultaneously [tmco]    	1
+Curative Surgery [topp]    	1
+Community acquired [qlco]    	1
+oval cell [cell]    	1
+Phlebosclerosis [dsyn]    	1
+Pathway [moft]    	2
+INTERMEDIATE [spco]    	4
+NS5 protein, hepatitis C virus [aapp]    	5
+condition [dsyn]    	11
+Preserved [lbpr]    	1
+HEPATOCELLULAR CARCINOMA [neop]    	940
+Relaxation [acty]    	1
+ex vivo [ftcn]    	4
+Recurrent hepatitis [dsyn]    	1
+Skeletal System [bdsy]    	1
+Disease status [clna]    	1
+Associations [menp]    	5
+Residue [cnce]    	1
+HYPERPLASIA [patf]    	1
+Fractions [qnco]    	5
+HCV RNA positive [lbtr]    	1
+newly [idcn]    	4
+SMALL [qnco]    	35
+Leading [tmco]    	16
+4q [nusq]    	7
+Entire [qnco]    	1
+Mid [spco]    	1
+Components [mnob]    	3
+Node [bpoc]    	1
+Proven [qlco]    	5
+hepatic tumors [neop]    	2
+bilirubin levels [lbpr]    	1
+May [tmco]    	3
+Chronic Inflammation [patf]    	4
+Childhood [tmco]    	3
+13q [nusq]    	9
+Maintain [acty]    	1
+Blood sampling [diap]    	1
+Hawaii [geoa]    	2
+UNOS [prog]    	1
+Details [qlco]    	2
+virol [orch]    	1
+Repeated [ftcn]    	2
+11q13 [celc]    	1
+Periodically [tmco]    	2
+Chronic Pancreatitis [dsyn]    	2
+Terminal Liver Disease [dsyn]    	1
+Create [acty]    	2
+Moderate [qlco]    	8
+Needed [qlco]    	10
+Pathologies [bmod]    	1
+Endogenous [ftcn]    	2
+Lipid metabolisms [moft]    	1
+Minimal [qlco]    	9
+Extravasation [patf]    	1
+ERAS [gngm]    	8
+Satellite Nodule [fndg]    	2
+High Prevalence [qnco]    	9
+DYSPLASIAS [patf]    	3
+Mucinous Tumour [neop]    	1
+Patient Care [hlca]    	1
+VARICES [dsyn]    	2
+Consideration [fndg]    	4
+Hb s Ag negative [lbtr]    	2
+DRUG OVERDOSE [inpo]    	1
+Short duration [qlco]    	3
+Longitudinal Study [resa]    	2
+Specific [qlco]    	25
+systematic [ftcn]    	2
+Histological grade [clas]    	2
+HBcAg [imft]    	1
+Centrilobular [spco]    	1
+Genomic Segment [cnce]    	1
+Great [qnco]    	13
+Peliosis [dsyn]    	1
+Injury [inpo]    	2
+Containing [ftcn]    	7
+Chronic inflammatory reaction [patf]    	1
+Segmentectomies [topp]    	3
+Large tumor [qlco]    	4
+Screening methods [hlca]    	1
+Three-Dimensional Image [mnob]    	1
+LOBECTOMY [topp]    	1
+Changing [ftcn]    	1
+Twelfth [qnco]    	2
+Logics [idcn]    	1
+specific group [qlco]    	1
+CD34 [lbpr]    	11
+ALAGILLE SYNDROME [cgab]    	1
+Chromosome Arm [nusq]    	1
+Heterozygosity [orga]    	8
+6 chromosome [celc]    	1
+Renal transplant [topp]    	1
+immunodeficiency virus [virs]    	2
+Heating [eehu]    	1
+Pathognomonic sign [sosy]    	1
+Clonal Expansion [patf]    	1
+biliary stenting [medd]    	1
+Females [orga]    	17
+Light Microscopic examination [lbpr]    	2
+Tumour thrombus [dsyn]    	1
+Anatomic [qlco]    	5
+Mitotic Activity [fndg]    	1
+Test [lbpr]    	21
+Either [fndg]    	25
+CD4 [lbpr]    	1
+Behaviours [inbe]    	1
+Surrounding [spco]    	6
+Maintenance [acty]    	1
+Milliampere [qnco]    	1
+crops [bpoc]    	2
+Partial Hepatectomy [topp]    	4
+Likelihood [qnco]    	3
+measurements [ftcn]    	5
+Primary [qlco]    	21
+High recurrence rate [fndg]    	3
+Glasses [medd]    	1
+Pathologic TNM classification [clas]    	1
+Epidemiologic [bmod]    	5
+GENETIC MARKERS [genf]    	1
+Liposomes [orch]    	6
+Malignant Cell [cell]    	1
+control [qlco]    	80
+Last [qlco]    	9
+birthweight [orga]    	2
+Serum alpha-fetoprotein level [lbtr]    	4
+Long Term [tmco]    	27
+Mallory Bodies [fndg]    	1
+Future [tmco]    	8
+Biomarker [clna]    	2
+Markedly [qlco]    	4
+Forming [ftcn]    	4
+Event [evnt]    	2
+Early death [fndg]    	1
+ABLATION, CHEMICAL [topp]    	1
+Copy Number [qnco]    	1
+Unsatisfactory [qlco]    	1
+K-ras Gene [gngm]    	3
+Schistosomal [ftcn]    	1
+ranked [inpr]    	1
+skills [inbe]    	1
+Swedish [popg]    	1
+most likely [idcn]    	1
+non b hepatitis [dsyn]    	1
+B virus infection [dsyn]    	1
+Gene [gngm]    	17
+DRUG ABUSE, INTRAVENOUS [mobd]    	1
+Supplementation [topp]    	1
+Standardization [resa]    	1
+Maize [plnt]    	1
+Environmental Epidemiology [bmod]    	1
+BASAL [spco]    	1
+8p [nusq]    	6
+Irregular [qlco]    	4
+contour [inch]    	1
+Dose-response relationship [biof]    	3
+Inactive [qlco]    	4
+Acute viral hepatitis [dsyn]    	1
+5 mm [fndg]    	2
+1A [inpr]    	5
+Blood Loss, Postoperative [patf]    	1
+Egyptians [popg]    	1
+Death Certificate [mnob]    	4
+CHRONIC [tmco]    	29
+BONE [bpoc]    	1
+In Situ [spco]    	1
+Processor [mnob]    	2
+Genital [bdsy]    	1
+toxic [inpo]    	1
+HBE [gngm]    	1
+Marrow [food]    	2
+PCR [mbrt]    	8
+ng/h [qnco]    	1
+fails [ftcn]    	1
+mission [orgt]    	2
+ASCENDING CHOLANGITIS [dsyn]    	1
+Survey [inpr]    	3
+operations [ftcn]    	3
+Excessive Alcohol intake [fndg]    	3
+HIV Infection [dsyn]    	1
+Risks [idcn]    	4
+parasitic infection [dsyn]    	5
+Usefulness [qlco]    	3
+1980s [tmco]    	9
+Denial [mobd]    	1
+Chromosome region [cell]    	1
+Sex Differences [orga]    	4
+Slightly [qlco]    	5
+Nodular [qlco]    	19
+South [spco]    	6
+Minimal change [fndg]    	2
+Seventh [qnco]    	2
+Stages [qlco]    	7
+Hepatitis C virus carrier [fndg]    	1
+Understand [menp]    	2
+Since [tmco]    	1
+limiting [ftcn]    	1
+NOAEL [diap]    	1
+liver nodules [fndg]    	1
+Favorable [qlco]    	5
+Fixed [qlco]    	4
+Continuous Infusion [topp]    	2
+Semiquantitative Method [ocac]    	1
+HCC [neop]    	35
+TNM category [clas]    	1
+GOLD STANDARD [qlco]    	1
+Blocking [mobd]    	1
+Survival Rate [qnco]    	8
+Malignant Liver neoplasms [neop]    	1
+Clonal [tisu]    	1
+Therapeutic [topp]    	13
+Artifacts [hcpp]    	1
+Subtype [clas]    	18
+Alcoholic liver cirrhosis [dsyn]    	7
+Enhancer [nnon]    	1
+Combine [mnob]    	2
+Hypermethylation [genf]    	1
+Capsules [bodm]    	1
+Long-Term Effects [phpr]    	2
+form type [inpr]    	3
+User [idcn]    	1
+MICROGRAPHIA [fndg]    	1
+Extend [ftcn]    	1
+Physical environment [spco]    	2
+ULTRASOUND [diap]    	8
+Liver Cirrhosis, Experimental [emod]    	1
+Children [aggp]    	19
+post resection [topp]    	4
+Tumour Genes [gngm]    	1
+Replication [genf]    	2
+diagnostic methods [diap]    	1
+audience [popg]    	1
+JAUNDICE, OBSTRUCTIVE [dsyn]    	4
+Numbers [qnco]    	1
+Contribute [acty]    	13
+Chromosome 9 [celc]    	1
+grind [topp]    	1
+departure [idcn]    	1
+youth [tmco]    	1
+In Vitro Assay [resa]    	1
+possession [qnco]    	2
+Satellitosis [fndg]    	1
+liquids [sbst]    	1
+Energy [fndg]    	1
+Age groups [aggp]    	2
+Continue [idcn]    	2
+Seronegative [lbtr]    	3
+Respondents [popg]    	1
+Low dose [qnco]    	2
+condition patient [fndg]    	1
+Poorly [qlco]    	8
+Schistosoma mansonii [euka]    	3
+Diagnostic Accuracy [qlco]    	1
+Assay [lbpr]    	6
+Genetic changes [resa]    	2
+NEO [gngm]    	1
+displayed [ftcn]    	3
+Imaging Procedures [diap]    	1
+Transient [popg]    	5
+Materials [sbst]    	9
+human hepatitis C virus [virs]    	2
+unknown etiology [fndg]    	1
+Eligible [idcn]    	3
+Help [qlco]    	7
+Accounting [ocac]    	3
+Recurrent hepatitis C [dsyn]    	1
+U/mL [qnco]    	2
+Medical referral [ocac]    	1
+ENTER [ftcn]    	1
+Cholangiogram [diap]    	1
+Gastroenterologists [prog]    	1
+Alcohol intake [inbe]    	13
+Restriction [ftcn]    	1
+Hepatic nodule [fndg]    	1
+Group V [inpr]    	1
+Copy [mnob]    	8
+Variation [qlco]    	4
+Degree [qlco]    	14
+Africa, Northern [geoa]    	1
+Somewhat [inpr]    	1
+EXOMPHALOS [cgab]    	1
+Perfusion index [qnco]    	4
+Risk Ratios [qnco]    	1
+Subunit [aapp]    	1
+Ethnicity [popg]    	2
+Tissues [tisu]    	10
+ACTUAL [qlco]    	4
+Mothers [famg]    	1
+BISMUTH [elii]    	1
+klatskin tumors [neop]    	1
+Molecular biology Techniques [lbpr]    	1
+Effectiveness [qlco]    	6
+Aspiration [hlca]    	1
+interventions [hlca]    	2
+GALLSTONES [dsyn]    	2
+therapy duration [tmco]    	1
+Caucasian [popg]    	4
+Hepatotoxicity [inpo]    	3
+January [qlco]    	14
+Extended [ftcn]    	3
+METABOLIC DISORDERS [dsyn]    	2
+2 Weeks [tmco]    	2
+Patient status [fndg]    	1
+CROUP [dsyn]    	2
+tumour liver [neop]    	2
+regulatory [rnlw]    	2
+Asia, Western [geoa]    	1
+Sex Workers [prog]    	1
+CIRRHOSIS [dsyn]    	202
+Reaction [ftcn]    	1
+Fine [qlco]    	1
+Psychosocial [ftcn]    	1
+cardiovascular risk factor [dsyn]    	2
+positive predictive value [qnco]    	3
+Perioperative [tmco]    	12
+Fresh [qlco]    	3
+Primary carcinoma of liver [neop]    	6
+Southeast Asia [geoa]    	2
+tailed [bpoc]    	1
+Hepatitis VIRUS POSITIVE [lbtr]    	3
+Late stage [tmco]    	6
+Series [qnco]    	14
+End [spco]    	22
+Segmental liver resection [topp]    	1
+Irradiation [npop]    	1
+Pulse Sequence [spco]    	1
+Growth pattern [fndg]    	4
+Diagnostic procedures [diap]    	1
+Advance [medd]    	3
+Streptozotocin Diabetes Mellitus [emod]    	1
+Genetic mutation [genf]    	1
+Liver Cancer [neop]    	54
+Arrangement [spco]    	1
+Host [orgm]    	8
+SUSTAINED VIROLOGIC RESPONSE [fndg]    	2
+nontreatment [hlca]    	1
+Unknown Primary Tumour [neop]    	1
+Adjunctive [topp]    	1
+Very [qlco]    	6
+Thousand [qnco]    	1
+Relationships [qlco]    	6
+Official [qlco]    	1
+mU/L [qnco]    	3
+confirmation [qlco]    	4
+overlap [topp]    	1
+Alone GROUP [resa]    	1
+MICRO [lbpr]    	1
+Tumors, Granular Cell [neop]    	4
+Tumor screening [diap]    	1
+DNA, Viral [nnon]    	1
+Low Prevalence [qnco]    	3
+Primary indication [idcn]    	1
+Cord blood samples [bdsu]    	1
+OCP [dsyn]    	1
+Confidence Limit [qnco]    	1
+American Cancer Society [pros]    	14
+Advanced age [popg]    	1
+Academic [orgt]    	7
+p53 Genes [gngm]    	1
+Cytologic [ftcn]    	3
+Risk Assessment [hlca]    	1
+Adenomatous Polyposis Coli [neop]    	5
+ASC [inpr]    	3
+Virology [bmod]    	2
+Response [orga]    	29
+Infrequent [tmco]    	1
+MG [geoa]    	3
+Occult carcinoma [neop]    	1
+Event-Free Survival [qnco]    	3
+Literature [inpr]    	7
+Events [evnt]    	11
+pancreas surgery [topp]    	1
+low folate [fndg]    	1
+Clearance [qlco]    	15
+AG [geoa]    	7
+Permit [rnlw]    	1
+retransplantation [topp]    	2
+body [humn]    	1
+Autoimmune [patf]    	1
+Nitrite [chvs]    	10
+Avoidance [menp]    	1
+Qualifying [qlco]    	1
+anti-social behaviour [mobd]    	1
+Spiral computed tomography scan [diap]    	1
+Isolated [ftcn]    	7
+Mutant [comd]    	7
+Highly significant [qlco]    	2
+Pregnant [fndg]    	1
+Receiver [mnob]    	1
+Organic Solvents [orch]    	1
+Acceptable [qlco]    	1
+Hepatic virus [dsyn]    	1
+Dimension [qnco]    	3
+ELECTRODE [medd]    	1
+Palliative Treatment [bmod]    	2
+report study [inpr]    	1
+cholangeitis [dsyn]    	3
+Block [patf]    	2
+Elimination [phsf]    	3
+Orthotopic Liver Transplant [topp]    	3
+Biliary System [bpoc]    	1
+Cancer Risk [qnco]    	2
+LIVER FAILURE [dsyn]    	7
+ABLATION [topp]    	9
+Pathognomonic [cnce]    	1
+logistic regression analysis [resa]    	4
+SPLENECTOMY [topp]    	1
+American Joint Committee on Cancer [inpr]    	1
+Upper gastrointestinal haemorrhage [patf]    	1
+Twice Weekly [tmco]    	2
+Regular [qlco]    	5
+HYPER [mobd]    	2
+Combination [qlco]    	15
+Epithelial [qlco]    	4
+Equal To [qlco]    	1
+Good [qlco]    	8
+RATIO [qnco]    	16
+Probably [idcn]    	8
+Surgeon [prog]    	1
+Question [inpr]    	3
+Routine [qlco]    	6
+Nucleoside [nnon]    	1
+ivalon [orch]    	1
+Long Term Survival [fndg]    	12
+routes [spco]    	1
+IM [idcn]    	2
+effective [qlco]    	26
+Worst [qlco]    	1
+Genus Helicobacter [bact]    	1
+Selection Criteria [qlco]    	1
+small sized [fndg]    	1
+BACTERIAL VAGINOSIS [dsyn]    	1
+Disorders [dsyn]    	6
+Solitary [qnco]    	5
+Frequently [tmco]    	25
+Fine-needle aspirate [bdsu]    	3
+TUBERCULOSIS [dsyn]    	2
+PERICARDIAL TAMPONADE [dsyn]    	1
+Grades [clas]    	1
+Resources [idcn]    	3
+Co-Carcinogenesis [resa]    	1
+Periodic [tmco]    	4
+Systemic [ftcn]    	1
+Undifferentiated [qlco]    	5
+Case Reports [inpr]    	3
+Carcinoma, metastatic [neop]    	1
+COMPLETE [qlco]    	20
+Checked [acty]    	1
+teenagers [aggp]    	2
+Vaginal [bpoc]    	1
+Hyperplasia, nodular regenerative [patf]    	5
+biological risk factors [qlco]    	1
+limited use [phsu]    	1
+Treatment Efficacy [qlco]    	1
+long-term treatment [hlca]    	1
+Six [qnco]    	27
+infect [fndg]    	1
+Apoptosis Induction [celf]    	1
+COUNTRY [geoa]    	3
+Intravenous [spco]    	3
+In Vitro [inpr]    	2
+Focus [spco]    	4
+serum Anti Hbc [lbpr]    	1
+-- Breast Cancer [neop]    	5
+Broad [spco]    	2
+secure [bodm]    	1
+Hemorrhagic necrosis [patf]    	1
+Unresectable Hepatoblastoma [neop]    	3
+Distant Metastasis [clas]    	6
+Study Design [resa]    	5
+animal model [emod]    	1
+Program [cnce]    	9
+Persons [popg]    	12
+Hepatocyte Antigen [imft]    	2
+mg day [qnco]    	1
+OBESE [dsyn]    	1
+Siderosis [dsyn]    	1
+NUCLEUS [celc]    	5
+Parameters [fndg]    	16
+INCLUSION [celc]    	1
+Fibrosis stage [clna]    	7
+Chewing [ortf]    	5
+Zone [spco]    	1
+Bile Duct Tumors [neop]    	1
+Serum alanine level [lbpr]    	1
+Initiation [menp]    	3
+U/mg protein [qnco]    	7
+Registers [inpr]    	1
+adeno-associated virus [virs]    	1
+angiomas [neop]    	1
+Social [ftcn]    	2
+Seroconversion [npop]    	5
+Armed Forces [prog]    	1
+Inclusive [ftcn]    	1
+Day 1 [tmco]    	1
+Biopsy.needle [diap]    	1
+GENETIC [topp]    	10
+Binding [acty]    	1
+Imbalance [sosy]    	2
+Graft infection [patf]    	1
+short telomeres [comd]    	1
+Frozen Section [tisu]    	2
+sinusoids [bsoj]    	1
+Minor Axis [spco]    	3
+Survival time [clna]    	2
+code [ocac]    	2
+Geography [ocdi]    	5
+17p [nusq]    	4
+Albumin concentration [lbtr]    	1
+HEPATITIS C VIRUS [virs]    	197
+Mediating [socb]    	1
+reflected [menp]    	5
+Missed [qlco]    	1
+Matrix [spco]    	4
+ranks [inpr]    	2
+Introduction [hlca]    	3
+Recurrence Risk [qnco]    	3
+Smoking, Tobacco [inbe]    	4
+POLYMORPHISM [genf]    	15
+Attenuated [qlco]    	1
+Liver Angiosarcoma [neop]    	1
+Unresectable [clna]    	14
+Histologic [ftcn]    	29
+Final [qlco]    	2
+TISSUE [tisu]    	15
+Surgical specimen [sbst]    	1
+waiting time [tmco]    	1
+Ova [cell]    	1
+Detail [qlco]    	1
+treatment complications [patf]    	1
+mEq/mL [qnco]    	1
+F2 [qnco]    	3
+Oxidative [ftcn]    	2
+NR [geoa]    	8
+Associated Viral infection [virs]    	1
+Diagnostic [fndg]    	18
+telomerase activity [genf]    	14
+Heterozygous [orga]    	4
+Transduction [orgf]    	2
+BILE [bdsu]    	4
+Tumour Type [inpr]    	1
+Set Up [acty]    	1
+Single strand [qlco]    	1
+liver resections [topp]    	3
+Liver Metastasis [neop]    	3
+Vector [nnon]    	3
+gradients [qnco]    	1
+Healthy Control [qlco]    	8
+Differential [qlco]    	1
+Discussion [topp]    	1
+5 6 [fndg]    	5
+Liver Metastases [neop]    	7
+Aberrant [qlco]    	8
+Elements [elii]    	2
+p16 [gngm]    	3
+Alcoholism, chronic [mobd]    	1
+Phlebotomy [diap]    	2
+Electron Microscopy [lbpr]    	1
+establish [qlco]    	5
+Southern Blotting [mbrt]    	1
+Coffee intake [fndg]    	1
+gallbladder polyps [neop]    	1
+Venous Invasion [fndg]    	9
+complicating [ftcn]    	1
+Asses [mamm]    	1
+Constitutional [idcn]    	1
+Thiazolidinedione Antidiabetic Agent [chvf]    	1
+Blood Flow [orgf]    	6
+Restriction Fragment Length Polymorphism [comd]    	1
+Left liver lobe [bpoc]    	1
+Address [inpr]    	3
+Virus-RNA [virs]    	1
+West [spco]    	1
+tumours [neop]    	16
+Natural History [ocdi]    	15
+colorectal surgeons [bmod]    	1
+arrested [dsyn]    	8
+Developing Countries [qlco]    	5
+Beta [plnt]    	2
+Serum sample [bdsu]    	6
+General Population [popg]    	12
+FOODS [food]    	3
+Imaging Techniques [diap]    	3
+Variability [cnce]    	5
+villages [geoa]    	2
+BREAST [bpoc]    	1
+GB Virus C/ Hepatitis G Virus [virs]    	2
+Provided [acty]    	2
+Health policies [rnlw]    	1
+Archives [mnob]    	7
+Gene Mutation [genf]    	2
+BC [geoa]    	2
+Immunosuppressions [topp]    	1
+First Phase [inpr]    	2
+metastatic cancer [neop]    	1
+Pancreatico- [bpoc]    	2
+contained [ftcn]    	1
+Sequencing [lbpr]    	2
+Endothelial Cell [cell]    	4
+Cell Cycle Regulation [celf]    	1
+Infrequently [tmco]    	1
+Education [edac]    	2
+cope [inbe]    	1
+DOSE [qnco]    	8
+Old [tmco]    	31
+Necrotic tumour [neop]    	1
+Homogeneous [qlco]    	2
+Overexpression [genf]    	1
+Household [famg]    	2
+Hemodynamic [ortf]    	1
+Child-Pugh Classification [inpr]    	3
+Oral [spco]    	2
+BEAN [food]    	1
+PESTICIDES [hops]    	1
+Surgically [hlca]    	2
+Marker [clna]    	21
+Quality Assurance [ocac]    	1
+pTNM stage [clna]    	1
+Accidental [ftcn]    	1
+pay [qnco]    	2
+Laparoscopy [diap]    	1
+Later [tmco]    	9
+Separate [qlco]    	2
+8q [nusq]    	3
+Serologic [ftcn]    	1
+ovarian cancer [neop]    	1
+Yupik Eskimo [popg]    	1
+Cellular material [celc]    	1
+NAUSEA [sosy]    	2
+mIU [qnco]    	1
+predisposing [ftcn]    	1
+Beverages [food]    	3
+post treatment [tmco]    	3
+Cutting [topp]    	1
+Regimen [topp]    	8
+Granular [qlco]    	4
+needle liver biopsy [diap]    	3
+International Union Against Cancer [inpr]    	1
+Mitochondrial [celc]    	2
+Base Pair [moft]    	1
+Tumor liver tissues [neop]    	1
+Radiographic [npop]    	1
+Cancer Prevention [topp]    	3
+Intrahepatic Cholangiocarcinoma [neop]    	14
+diagnostic problem [fndg]    	1
+3 4 [fndg]    	6
+bile duct injuries [inpo]    	1
+Detoxification [orgf]    	3
+ALT [neop]    	18
+FARM [geoa]    	1
+AST [tmco]    	9
+serum concentration [qnco]    	3
+Hepatocyte [cell]    	13
+VOMITING [sosy]    	1
+Concomitant [tmco]    	11
+Congenital Heart failure [dsyn]    	1
+Advanced Malignancy [neop]    	1
+17q [nusq]    	1
+Embolization [topp]    	8
+Statistical Power [resa]    	1
+Chance [qlco]    	3
+Models, Experimental [inpr]    	1
+Tumor Suppressor Genes [gngm]    	7
+Sixteen [qnco]    	3
+Sustained [ftcn]    	17
+Almost [qlco]    	11
+intracellular localization [celf]    	2
+HAMARTOMA [neop]    	1
+Age Group [aggp]    	1
+Hepatitis C Viral Infections [virs]    	1
+Parasites [euka]    	1
+Recurrent hepatitis B [dsyn]    	1
+confirmed [qlco]    	7
+SE [geoa]    	2
+B Cell Type [cell]    	1
+MEDITERRANEAN [popg]    	4
+Longevity [tmco]    	1
+Supported [cnce]    	1
+Cases [ftcn]    	206
+Liver Carcinogenesis [neop]    	12
+Short Oligonucleotide Mass Analysis [resa]    	2
+Short-term [tmco]    	1
+structures [spco]    	1
+Influence [cnce]    	13
+participants [popg]    	6
+exposures [inpo]    	5
+Glandular Pattern [fndg]    	1
+DONOR [popg]    	1
+Genetic Engineering [mbrt]    	1
+Clinical evaluation [hlca]    	1
+Hepatectomy [topp]    	39
+LM [bpoc]    	1
+Chromosomes, Human [celc]    	1
+Freely [qlco]    	1
+Mortality rate [qnco]    	7
+Index [inpr]    	9
+2 times [fndg]    	1
+donor liver [popg]    	1
+Destructive [inbe]    	1
+Stratification [resa]    	1
+Segmental [spco]    	3
+etiologic agent [sbst]    	1
+Current Treatment [topp]    	1
+somatic mutations [comd]    	1
+Liver parenchyma [bpoc]    	4
+contexts [fndg]    	1
+ASIAN [popg]    	2
+Real [qlco]    	4
+Extent [spco]    	14
+Therapeutic Intervention [topp]    	1
+Referrals [hlca]    	1
+Nitrate [chvs]    	10
+surgical resection [topp]    	16
+Common Toxicity Criteria [inpr]    	2
+Truck [mnob]    	2
+Higher [qlco]    	69
+selection [genf]    	12
+insights [menp]    	4
+Portal Cirrhosis [dsyn]    	1
+Liver Transplantation [topp]    	54
+considerations [fndg]    	1
+Hbe Ag positive [lbtr]    	3
+Fisher [mamm]    	1
+serial [inpr]    	1
+Eastern [spco]    	2
+Implanted [medd]    	6
+Government employees [prog]    	1
+Slowly progressive [fndg]    	1
+Response, Antibody [biof]    	1
+Presented [idcn]    	10
+Genotype [orga]    	60
+0.016" [qnco]    	1
+Anti-HBs [lbpr]    	3
+Loss of Heterozygosity Analysis [mbrt]    	2
+enriched [food]    	1
+Columnar Cells [cell]    	1
+Present [qnco]    	55
+immunogenic [ftcn]    	1
+Chromosomal [celc]    	4
+ICC [neop]    	3
+diagnosing [fndg]    	2
+examining [fndg]    	1
+Personal [orga]    	2
+human study [resa]    	1
+Interview [acty]    	6
+renal transplants [topp]    	1
+MULTIPLE MYELOMA [neop]    	4
+HCV RNA [lbpr]    	12
+Committee [grup]    	2
+Functions [ftcn]    	3
+SUPERIOR [spco]    	3
+Aflatoxins [hops]    	10
+HFE [gngm]    	4
+1970s [tmco]    	1
+Stored [ftcn]    	5
+Cancer Family [famg]    	1
+Pathway, Biosynthetic [moft]    	1
+Microsomal [qlco]    	1
+Extrahepatic bile duct cancer [neop]    	1
+small tumours [qlco]    	2
+Survival Rates [qnco]    	13
+Laboratory Data [idcn]    	6
+EYE [bpoc]    	3
+Autoimmune Hepatitis [dsyn]    	2
+twenty [aggp]    	8
+Platelets [cell]    	1
+Cytomegalovirus immediate-early [fndg]    	1
+Biliary Cyst [acab]    	1
+Clone [cell]    	1
+Various [irda]    	23
+Transfusion [topp]    	8
+Delayed [tmco]    	1
+Viral Carcinogenesis [neop]    	1
+CANADA [geoa]    	5
+Sensitive [patf]    	3
+Internally [spco]    	1
+Physical [hlca]    	3
+Potentiation [topp]    	1
+Hepatomas [neop]    	1
+Mutagens [hops]    	1
+Cell Type [cell]    	1
+histopathology [ftcn]    	3
+Difficult [qlco]    	15
+Cell Proliferation [celf]    	1
+TURKEY [geoa]    	10
+1B [inpr]    	15
+Sinusoidal endothelium [tisu]    	3
+Chronic Hepatitis B CARRIER [fndg]    	2
+HYPOXIA [patf]    	1
+DIALYSIS CENTER [hcro]    	1
+Decision [menp]    	2
+S1 [fndg]    	1
+Demonstrates [acty]    	1
+Hepatic iron index [clna]    	1
+CYP2C19 Gene [gngm]    	3
+Target Gene [gngm]    	1
+Pathology [bmod]    	69
+Upward [spco]    	1
+Fibrotic [ftcn]    	2
+Cell Cycle [celf]    	2
+Mutations, Germline [genf]    	1
+Tag, NOS [neop]    	3
+Genomic [gngm]    	9
+Monte Carlo [qnco]    	1
+Malignant liver tumors [neop]    	1
+PORTAL VEIN [bpoc]    	4
+DIABETES MELLITUS [dsyn]    	9
+Proportion [qnco]    	19
+Equal [qlco]    	36
+Classified [clas]    	20
+Radioimmunoassay [lbpr]    	1
+EUROPEAN [popg]    	5
+Ultrasonogram [diap]    	1
+LED [mnob]    	4
+Magnetic Resonance Angiography [diap]    	2
+Ideal [qlco]    	2
+INFORMATION [idcn]    	23
+3-d images [mnob]    	1
+Tumor Angiogenesis [neop]    	1
+Indicated [fndg]    	15
+Multimodality Therapy [topp]    	1
+FORMER [tmco]    	4
+Strictures [patf]    	2
+education level [edac]    	1
+Study Subject [grup]    	1
+AGGRESSIVENESS [mobd]    	2
+Tumour cell [cell]    	1
+Reconstructed [qlco]    	1
+Radiation Research [resa]    	1
+Organ failure [sosy]    	2
+demographic [ocdi]    	5
+Parvovirus B19 [virs]    	1
+VE [geoa]    	4
+Easy [qlco]    	2
+chances [qlco]    	2
+RECOVERY [acty]    	1
+Fibrosis score [clna]    	2
+Extracapsular [spco]    	1
+Surgery, Unnecessary [topp]    	2
+Microvilli [celc]    	1
+Pancreatic [bpoc]    	3
+Examined [fndg]    	31
+ALT, ELEVATED [fndg]    	1
+etiology [ftcn]    	39
+Proliferative Index [qnco]    	1
+Neovascularisation [patf]    	2
+Group C [clas]    	7
+Risk Factors [qnco]    	214
+Child-Pugh Class C [inpr]    	1
+errors [qlco]    	2
+C3H/HeN Mouse [mamm]    	1
+Humans [humn]    	12
+Chronic Cholangitis [dsyn]    	1
+Cups [medd]    	1
+Best [qlco]    	9
+Contents [cnce]    	1
+Deposits [ftcn]    	2
+6 Days [tmco]    	1
+Hepatic vasculature [bpoc]    	1
+Histiocytosis, Langerhans-Cell [neop]    	1
+Hemangioendothelioma [neop]    	2
+Anti HCV titer [lbpr]    	1
+pmol/mg [qnco]    	2
+Blood products [phsu]    	2
+Centre [spco]    	9
+Mean score [qnco]    	3
+American College of Surgeons [pros]    	2
+KS [geoa]    	1
+Begin [tmco]    	3
+Qualitative Research [resa]    	1
+Near [fndg]    	3
+-- Japanese [popg]    	9
+secondary [neop]    	3
+HEALTHY SUBJECTS [popg]    	2
+Endometrial [spco]    	1
+Microsatellite instability [diap]    	4
+Pharmacoepidemiology [bmod]    	1
+BRAIN [bpoc]    	1
+challenges [hlca]    	1
+Surgical Margins [bpoc]    	1
+Invasion [fndg]    	28
+Hepatitis infections [dsyn]    	1
+Recurrent Tumors [neop]    	4
+Predominate [qlco]    	2
+Common Neoplasm [neop]    	1
+15-19 [fndg]    	1
+Biosynthetic [biof]    	1
+exhibiting [inpr]    	2
+Lymph Node Dissection [topp]    	1
+neoplastic transformation [neop]    	1
+Susceptible [orga]    	1
+LI [geoa]    	4
+Fifteen [qnco]    	3
+Publisher [ocdi]    	1
+adduct [chvs]    	1
+concept [idcn]    	1
+Patient Selection [resa]    	1
+Outpatient [podg]    	1
+laboratory testing [lbpr]    	1
+Range [qnco]    	43
+Brachytherapy [topp]    	1
+On [ftcn]    	1
+Guide [prog]    	3
+spots [sosy]    	3
+forms [qlco]    	6
+Amount [qnco]    	6
+IMMUNOPRECIPITATION [lbpr]    	1
+suppress [ftcn]    	1
+Three Times Weekly [tmco]    	1
+Label [mnob]    	1
+Precision [tmco]    	5
+Macroscopic [qlco]    	8
+ABSCESS [dsyn]    	2
+CX32 [gngm]    	5
+fenestration [topp]    	1
+Survivors [podg]    	14
+cigarette use [inbe]    	1
+MR [gngm]    	8
+Completely [qlco]    	5
+S2 [blor]    	1
+Loss of Heterozygosity [genf]    	20
+Undiagnosed [fndg]    	1
+Viral Gene [gngm]    	1
+Retrospective Study [resa]    	6
+Cl - [elii]    	7
+Human Immunodeficiency Virus Infections [dsyn]    	1
+clinical characteristics [clna]    	11
+Survival [acty]    	139
+HEPATITIS [dsyn]    	38
+Placebo [topp]    	1
+subgroups [virs]    	1
+Grade 5 [inpr]    	1
+Inducing [ftcn]    	3
+Satellite [spco]    	2
+CLINICAL STUDY [resa]    	1
+Investigation [hlca]    	6
+Hepatic Surgery [topp]    	1
+Noncompliance [fndg]    	1
+Neoplasms, Hepatic [neop]    	2
+Blood [tisu]    	19
+Hepatic surface [blor]    	4
+Hepatitis B antigen [imft]    	6
+Adenocarcinoma, Papillary [neop]    	1
+Cholangiocarcinomas [neop]    	4
+Hepatitis Viruses [virs]    	5
+Affects [menp]    	2
+CIRRHOSIS LIVER [dsyn]    	2
+Occasional drinker [fndg]    	1
+Br. [cnce]    	8
+Rank [inpr]    	12
+metastatic disease [neop]    	5
+Hepatic Cells [cell]    	1
+Ducts [bpoc]    	2
+Extended resections [topp]    	1
+Neighbor [popg]    	1
+Testing [ftcn]    	7
+Europe [geoa]    	8
+Tumour, benign [neop]    	1
+SPP [gngm]    	3
+Specimen length [qnco]    	1
+normal liver tissues [fndg]    	1
+Left side [spco]    	2
+Labeling Index [lbtr]    	13
+ectasias [patf]    	1
+Highly sensitive [qlco]    	1
+Pattern [spco]    	25
+Atypical [qlco]    	4
+Abscess drainage NOS [topp]    	1
+Compensated [qlco]    	4
+Indications [idcn]    	11
+1-2 times [fndg]    	1
+Extremely [qlco]    	5
+Central America [geoa]    	1
+Hepatitis C virus genotype 1 [virs]    	1
+False Positive Rate [qnco]    	1
+commercial [inpr]    	1
+Chromosomal Rearrangement [comd]    	1
+compatible [idcn]    	1
+Worsening [qlco]    	1
+Nineteen [qnco]    	3
+One Thousand [qnco]    	1
+expression level [qnco]    	2
+Simultaneous [tmco]    	3
+Improving [qlco]    	3
+Great tumor [qlco]    	1
+Products [enty]    	3
+End Stage Liver Disease [dsyn]    	4
+Histological [ftcn]    	30
+Young [tmco]    	15
+Extension [ftcn]    	1
+Icteric [patf]    	1
+Limited [ftcn]    	20
+Mind [menp]    	1
+genotoxicity [comd]    	1
+Kaplan-Meier Estimate [qnco]    	1
+Architectural Distortion [fndg]    	1
+Rats, Sprague-Dawley [mamm]    	1
+ONGOING [idcn]    	2
+localize [spco]    	1
+Multiple tumors [neop]    	5
+ECHO [topp]    	8
+NLS [amas]    	1
+Gap [spco]    	1
+HEPATITIS A VIRUS [virs]    	5
+Liver function [ortf]    	13
+Work [ocac]    	2
+Stage I [inpr]    	10
+Complete removal [topp]    	1
+Child-Pugh [inpr]    	11
+Optimization [acty]    	2
+POINT [qnco]    	3
+shifted [ftcn]    	2
+Homozygotes [orga]    	5
+Appropriate [qlco]    	4
+risk Group [popg]    	1
+Adenocarcinomas [neop]    	3
+Cholangiocarcinoma [neop]    	58
+Epidemiology, Molecular [bmod]    	1
+Cirrhotic [qlco]    	78
+Stratified [qlco]    	2
+Ultrasound examination [diap]    	3
+5th [qnco]    	1
+Basin [medd]    	1
+2 5 [qnco]    	5
+Educational Level [fndg]    	2
+Acupuncture [bmod]    	1
+successful programs [qlco]    	1
+Mucosal [tisu]    	3
+yr [tmco]    	9
+Fifty Nine [qnco]    	1
+associated Diseases [ftcn]    	1
+Abdominal wall muscle [bpoc]    	1
+LIVER CELL DAMAGE [patf]    	1
+UGT1A9 [gngm]    	2
+Classifications [clas]    	1
+Project [cnce]    	1
+Density [qnco]    	14
+LIVER [bpoc]    	249
+Combinations [mnob]    	1
+Bile ductal wall [bpoc]    	1
+CI-18 [gngm]    	2
+Restriction Fragment Length Polymorphism Analysis [lbpr]    	2
+MALIGNANCY [neop]    	17
+Cervical cancer [neop]    	2
+V 2 [inpr]    	1
+Childhood Cancer [neop]    	3
+free [ftcn]    	25
+Apoptotic [qlco]    	3
+Local tumor recurrence [neop]    	1
+Signal [phpr]    	3
+Employment [qlco]    	1
+Ever [tmco]    	2
+revealing [qlco]    	2
+Clinical examination [hlca]    	1
+Wedge [spco]    	3
+Probes [medd]    	1
+Bladder Cancers [neop]    	1
+Comparison [acty]    	12
+Controlled Clinical Trial [inpr]    	1
+TIME [tmco]    	37
+Relatives [famg]    	1
+APO-1 [gngm]    	1
+Action [ftcn]    	2
+Beta blockers [phsu]    	4
+Fixation [topp]    	2
+dot blot [lbpr]    	1
+RETINOBLASTOMA [neop]    	1
+Related [qlco]    	140
+Cumulative Survival Rate [qnco]    	5
+gastro intestinal bleeding [patf]    	4
+portal tracts [bpoc]    	6
+carriers [fndg]    	17
+THROMBOSIS [patf]    	1
+Transcripts [nnon]    	2
+High resolution [lbpr]    	1
+Surgical approach [ftcn]    	2
+Intra [tmco]    	10
+BLISTERS [patf]    	1
+Real Time [tmco]    	2
+Alcohol Drinking [inbe]    	3
+Intratumoral [spco]    	16
+Sound [npop]    	1
+Inoperable [qlco]    	4
+Chronic Disease [dsyn]    	1
+Absent [ftcn]    	3
+Virological [ftcn]    	4
+Medical Problem [fndg]    	1
+LYMPH NODES [bpoc]    	1
+Colorectal Metastases [neop]    	5
+Hormonal [qlco]    	1
+Iron Reduction [fndg]    	2
+study data [resa]    	1
+BELGIUM [geoa]    	1
+Hepatocellular dysplasia [fndg]    	1
+controversy [socb]    	5
+Reflecting [menp]    	1
+Irradiated [topp]    	1
+Tumors, Sex Cord-Stromal [neop]    	1
+Abscess, Hepatic [dsyn]    	1
+Serological [ftcn]    	4
+-- Thyroid Cancer [neop]    	2
+Attractive [qlco]    	1
+Colorectal Metastasis [neop]    	3
+Molds [fngs]    	1
+Vesicular [qlco]    	1
+Yearly [tmco]    	1
+COIL gene [gngm]    	7
+Infection, Viral [dsyn]    	3
+Raised [qlco]    	2
+Late Phases [tmco]    	2
+Non-specific [qlco]    	3
+Relevant [qlco]    	2
+Serum alanine levels [lbpr]    	2
+INCOMPLETE [qnco]    	1
+experience [menp]    	13
+Stage 4 [inpr]    	1
+Glutathione S-Transferase Theta 1 Gene [gngm]    	1
+Gelfoam [medd]    	1
+Attenuate [acty]    	2
+wait [ftcn]    	1
+Extended family member [famg]    	1
+Age Distribution [qnco]    	2
+Hematogenous [qlco]    	1
+Treating [ftcn]    	3
+hepatitis virus c [virs]    	1
+Genital Tract Infections [dsyn]    	2
+Experiments [resa]    	1
+MACHINE-TOOL OPERATORS [prog]    	1
+Synthesis [biof]    	2
+Comprise [acty]    	5
+Doses [qnco]    	2
+hyperplastic nodules [patf]    	1
+DISTANT [spco]    	13
+B-Cell Non-Hodgkin Lymphoma [neop]    	2
+Scattered [spco]    	1
+Human hepatitis B virus infection [virs]    	2
+Adrenocortical [qlco]    	1
+Fatal [qlco]    	7
+Lakes [geoa]    	6
+Characterized [acty]    	15
+Less [qnco]    	42
+Variable [qlco]    	7
+Genotype Analysis [lbpr]    	3
+Guidance [hlca]    	2
+Pediatric Hepatoblastoma [neop]    	1
+Fetal [emst]    	1
+Non-functioning [fndg]    	1
+SCID Mice [mamm]    	1
+Transplantations [topp]    	2
+Layer [bpoc]    	1
+URINE [bdsu]    	4
+Transjugular Intrahepatic Portasystemic Shunt [topp]    	1
+Antiviral [phsu]    	2
+Contribution [acty]    	5
+Regression [patf]    	11
+Invasive bladder cancer [neop]    	2
+alpha-1 anti-trypsin deficiency [dsyn]    	1
+fibrogenesis [orgf]    	3
+Vehicle [bodm]    	2
+Codon [nusq]    	12
+Aspiration Biopsy, Fine-Needle [diap]    	1
+Enhancement [topp]    	6
+Inclusions [celc]    	1
+Stroma [bpoc]    	1
+Decreasing [qlco]    	2
+Life Expectancy [grpa]    	3
+NECROSIS [ortf]    	9
+Central region [geoa]    	2
+Iodide [inch]    	1
+June [tmco]    	6
+Genetic Abnormalities [fndg]    	2
+Fresh Tissue [tisu]    	1
+Early Diagnosis [diap]    	11
+Immunohistochemistry [diap]    	16
+SPAIN [geoa]    	6
+Discipline [hlca]    	1
+Hepatocellular Carcinomas [neop]    	30
+focusing [clna]    	2
+Genome Scan [mbrt]    	1
+Repair, NOS [orgf]    	1
+Intrahepatic Cholangiocarcinomas [neop]    	4
+Highly [qlco]    	10
+HEREDITARY [ftcn]    	1
+screen [hlca]    	13
+Conduct [inbe]    	23
+Liver Tissue [bpoc]    	9
+Confluent [qlco]    	1
+Sinusoid [bsoj]    	2
+Focused [spco]    	3
+T Cell [cell]    	1
+BLADDER [bpoc]    	1
+GIVEN [cnce]    	9
+Cholangitis, Sclerosing [dsyn]    	1
+Morphogenesis [orgf]    	1
+failing [ftcn]    	1
+Tissue Sample [tisu]    	1
+Metabolism [orgf]    	2
+Including [ftcn]    	38
+adducts [chvs]    	2
+Hepatocytes [cell]    	7
+Visible [qlco]    	1
+Sera [bdsu]    	5
+Primary Liver Cancers [neop]    	2
+Larger [qnco]    	7
+Prolonged [tmco]    	10
+MAMMARY GLAND [bpoc]    	1
+Challenge [clna]    	4
+Massive necrosis [patf]    	1
+Infected [fndg]    	41
+nodes [bpoc]    	1
+Tests [lbpr]    	5
+Serotypes [inpr]    	1
+Cell nuclei [celc]    	3
+Cost Effectiveness Analysis [ocac]    	2
+Values, Normal [qnco]    	1
+Colorectal Cancer [neop]    	7
+Transfused [idcn]    	2
+Item [enty]    	1
+Nutritional [qlco]    	1
+Inject [ftcn]    	4
+late-stage cancer [tmco]    	1
+Catheterization [topp]    	1
+FAILURE [ftcn]    	6
+Specify [qlco]    	1
+blood samples [bdsu]    	2
+referred [ftcn]    	8
+donor organs [bpoc]    	1
+Southern [spco]    	4
+Intended [qlco]    	2
+Benefits [qnco]    	1
+Annual [tmco]    	9
+LIVER INJURY [inpo]    	4
+Process [bpoc]    	18
+6 9 [fndg]    	3
+limits [ftcn]    	1
+Male predominance [fndg]    	2
+yu [plnt]    	1
+Relation [famg]    	7
+Eighty Nine [qnco]    	1
+Dosage [qnco]    	1
+Carrier [fndg]    	3
+Serious [qlco]    	4
+radiation disease [dsyn]    	1
+Acquisition [acty]    	2
+Cancer Research [resa]    	2
+large Population [grpa]    	2
+Rare Disorders [dsyn]    	1
+Synergistic [qlco]    	4
+Narrow margin [clna]    	1
+Bridge [medd]    	2
+Degeneration, fatty [patf]    	1
+Persistent [tmco]    	11
+Corn [plnt]    	1
+Fourth [qnco]    	6
+Increment [qnco]    	1
+Indented [spco]    	1
+Update [tmco]    	3
+target group [popg]    	3
+Programs [inpr]    	2
+Proposed [qlco]    	12
+Adults [aggp]    	13
+Established [qlco]    	23
+high platelet count [fndg]    	2
+toxin biosynthesis [moft]    	1
+Excretion Rate [qnco]    	1
+Concentrations [menp]    	6
+Prognostic [inpr]    	14
+hcv genotype [fndg]    	3
+Late Recurrence [fndg]    	11
+admitted [hlca]    	8
+isotope dilution Technique [lbpr]    	1
+Postoperative Complications [patf]    	5
+Hepatic inflammation [fndg]    	2
+Inclusion Criteria [qlco]    	2
+Preventive Intervention [topp]    	1
+3 groups [inpr]    	5
+MUSCLE [tisu]    	1
+FED [dsyn]    	1
+List [cnce]    	4
+CX26 [gngm]    	6
+escape [menp]    	1
+prenatal [aggp]    	1
+Maximum [qnco]    	3
+Suppression [patf]    	4
+Modification [ftcn]    	1
+packs [medd]    	2
+cirrhotics [qlco]    	1
+Satisfactory [qlco]    	2
+ST [geoa]    	1
+Tokyo [geoa]    	2
+CELL CELL INTERACTION [celf]    	1
+Haemangioma, NOS [neop]    	2
+Uncertainty [fndg]    	3
+aflatoxin metabolism [moft]    	1
+Remnant [emst]    	7
+Regional lymph node metastasis [fndg]    	1
+Accelerated [ftcn]    	4
+Macroglossia [cgab]    	1
+chronic hepatitis b viral infection [dsyn]    	6
+Normal Cell [cell]    	2
+Common Tumors [neop]    	2
+Dyslipidemia [dsyn]    	2
+Primary Lesion [dsyn]    	2
+STABLE [qlco]    	5
+CENTRAL [spco]    	6
+Image Analysis [lbpr]    	1
+U/L [qnco]    	1
+Clonal Evolution [neop]    	1
+reliable [inpr]    	6
+genetic association [ocdi]    	1
+PT [bmod]    	1
+Alpha 1 [aapp]    	1
+bone Scintigraphy [diap]    	1
+Hepatic schistosomiasis [dsyn]    	1
+CLOSTRIDIUM [bact]    	1
+procedures [inpr]    	5
+Studies, Epidemiological [resa]    	3
+Ultrasound guided biopsy [diap]    	3
+Metabolic Disease [dsyn]    	1
+heavy Alcohol intake [mobd]    	2
+Conversion [ftcn]    	1
+Repeat [ftcn]    	2
+4 - 6 [qnco]    	5
+AT-1 [gngm]    	1
+Cycle [tmco]    	2
+Others [fndg]    	5
+groundnut [food]    	1
+ULTRASOUND PROCEDURES [diap]    	1
+Graft Survival [ortf]    	1
+Test Result [fndg]    	1
+Northern Europe [geoa]    	1
+Chronic alcohol abuse [mobd]    	2
+MASS [fndg]    	9
+contrast tomography [diap]    	2
+R- [spco]    	5
+Discrete [qlco]    	1
+emergent [idcn]    	2
+Cancer liver [neop]    	3
+Molecular Pathology [ocdi]    	1
+Doppler [diap]    	1
+Southeastern [spco]    	1
+Cross-Sectional Study [resa]    	2
+Lymphoproliferative disease [neop]    	1
+Radical therapy [topp]    	1
+Wnt Pathway [moft]    	1
+Industries [ocac]    	1
+Detailed [qlco]    	6
+General [spco]    	2
+Heterogeneous [qlco]    	6
+Modality [idcn]    	3
+Asian origin [fndg]    	1
+FAMILY HISTORY [fndg]    	2
+CHINA [geoa]    	8
+Mitotic Index [lbtr]    	12
+CERVIX [bpoc]    	1
+Localised [spco]    	1
+Supportive Care [topp]    	1
+Non-Surgical [ftcn]    	1
+Example [cnce]    	2
+Consistency [qlco]    	1
+Cholangiocellular Carcinomas [neop]    	9
+contaminates [ftcn]    	1
+At risk [qlco]    	3
+conducting [inbe]    	2
+Luteinized Thecomas [neop]    	1
+GalNAcT [gngm]    	2
+Chronic Active Hepatitis [dsyn]    	5
+Significantly high [qnco]    	38
+Component [mnob]    	3
+limitations [ftcn]    	2
+ALCOHOLIC [podg]    	8
+Low [qlco]    	50
+cristae [bpoc]    	1
+Peripheral Cholangiocarcinoma [neop]    	8
+baseline [bodm]    	15
+Distal Bile Duct Carcinoma [neop]    	1
+Unusual [qlco]    	2
+SAME [qlco]    	23
+Discuss [socb]    	10
+Cancer, Stomach [neop]    	3
+cell injury [comd]    	1
+Grade [clas]    	7
+Thoracic Surgery [bmod]    	1
+Translocations [comd]    	2
+Thalassaemia NOS [dsyn]    	1
+5 - 9 [fndg]    	3
+SEGMENT [spco]    	4
+chronic Hepatitis C virus infection [dsyn]    	12
+PAX [gngm]    	1
+Cohort Study [qnco]    	3
+MISCELLANEOUS [qlco]    	1
+UGT1A9 Gene [gngm]    	1
+Little [qnco]    	7
+Vague [qlco]    	1
+Separated [fndg]    	1
+Negative margin [fndg]    	2
+HGV [virs]    	9
+Radiology techniques [diap]    	1
+primary Malignancy [neop]    	1
+Iron excess [dsyn]    	2
+uterus cervix [blor]    	1
+Primary Hepatocellular Carcinoma [neop]    	5
+Gastrointestinal Neoplasms [neop]    	1
+Mortality, Excess [qnco]    	1
+conflicting [inbe]    	1
+treatment options [topp]    	1
+Passive hemagglutination assay [lbpr]    	1
+adopt [fndg]    	1
+Categories [inpr]    	4
+Tumour Histological Types [neop]    	1
+Unconditional [qlco]    	2
+Increased Cancer Risk [qnco]    	1
+reality [idcn]    	1
+Design [acty]    	14
+Imprecision [phpr]    	1
+deaths [orgf]    	4
+DNA repair protein [moft]    	2
+Sites [spco]    	5
+Diagnosis, Differential [diap]    	9
+markings [qlco]    	1
+intraarterial administration [topp]    	1
+Cytotoxic T Cells [cell]    	1
+Countries [geoa]    	11
+centres [spco]    	1
+Deleted [acty]    	5
+Formulation [resa]    	1
+contact [ftcn]    	1
+Passive Hemagglutination test [lbpr]    	1
+Efficiency [qnco]    	2
+sample collection [lbpr]    	1
+statistical analysis [resa]    	2
+Shortened [qlco]    	1
+Improvement [cnce]    	10
+Aims [idcn]    	39
+Gene transfer [topp]    	2
+Usually [qlco]    	18
+Hepatitis C virus antibody negative [lbtr]    	3
+Group [idcn]    	115
+Clinical Studies [resa]    	1
+INFLAMMATION [patf]    	9
+Lost [ftcn]    	3
+Affected patterns [clna]    	1
+19p [nusq]    	2
+PANCREATITIS [dsyn]    	2
+Clinical Decision-Making [diap]    	1
+Single Stranded DNA Virus [virs]    	1
+BDC [neop]    	4
+Viewpoint [inpr]    	1
+Log [inpr]    	14
+Setting [ftcn]    	11
+post resections [topp]    	1
+Specimen [sbst]    	1
+Trabecula [tisu]    	2
+Unfavorable [qlco]    	4
+Fraction [qnco]    	10
+Technology Development [inpr]    	1
+genetic mutations [genf]    	1
+Assessment [hlca]    	10
+gene p53 [gngm]    	1
+RFLP [comd]    	1
+Basis [ftcn]    	3
+reflects [menp]    	5
+Cytogenetic Analysis [mbrt]    	1
+injections [topp]    	4
+descriptions [inpr]    	1
+Percutaneous Needle Biopsy [topp]    	1
+Computed Tomography [diap]    	28
+Nonmalignant [qlco]    	1
+hepatobiliary [bdsy]    	12
+Group 3 [inpr]    	3
+Adenocarcinoma, metastatic [neop]    	2
+BILE DUCT CARCINOMA [neop]    	2
+Vascular [bpoc]    	15
+Thin [qlco]    	2
+Liver cell proliferation [celf]    	1
+HEPATOBLASTOMA [neop]    	30
+Hepatitis C virus IB [imft]    	1
+MET [dsyn]    	2
+Gastric [bpoc]    	1
+reveals [qlco]    	1
+Advocate [ocdi]    	4
+south Eastern Asia [geoa]    	1
+Destroy [idcn]    	2
+Cancer-Free [fndg]    	2
+LEFT VENTRICLE [bpoc]    	1
+Patient Outcome [idcn]    	2
+Second Phase [inpr]    	2
+smears [diap]    	1
+Swine [mamm]    	2
+Biopsies [diap]    	6
+Material [sbst]    	4
+False Positive [lbtr]    	1
+MEASUREMENT [ftcn]    	3
+Note [clna]    	7
+Channel [spco]    	1
+Working Group [popg]    	1
+Titer [qnco]    	3
+Ease [menp]    	2
+Past [tmco]    	13
+Models [inpr]    	4
+Neoplasia stage [clna]    	1
+portal thrombosis [dsyn]    	1
+Elective Surgery [topp]    	1
+Lysosomes [celc]    	1
+Biomarkers [clna]    	3
+Total Hepatectomy [topp]    	2
+MIXED [ftcn]    	4
+Contrast Medium [irda]    	1
+Bile Reflux [dsyn]    	1
+Touch [topp]    	1
+Serum Markers [qlco]    	1
+Precancerous [qlco]    	1
+Superinfections [dsyn]    	1
+stand [fndg]    	2
+Ultrastructure [idcn]    	1
+Harbor [mnob]    	1
+DUCT [bpoc]    	1
+Substances [sbst]    	1
+Report [inpr]    	14
+Values [qlco]    	8
+DCP [hcro]    	3
+Concern [idcn]    	10
+Excess [qlco]    	4
+Chemoprevention [topp]    	3
+Non-Malignant [qlco]    	2
+Charts [inpr]    	1
+Reported [inpr]    	33
+FEMALE SEX [orga]    	1
+Liver Study [lbpr]    	1
+Infected pancreatic pseudocyst [dsyn]    	1
+Alanine Aminotransferase level [lbtr]    	1
+patient condition [fndg]    	1
+Common Variable Immune Deficiency [dsyn]    	1
+Controlled Study [resa]    	1
+Extrahepatic Bile Duct Tumors [neop]    	2
+common procedure [topp]    	1
+Silent Mutations [genf]    	1
+Comprehensive [qlco]    	2
+Published [ocac]    	12
+PERIPHERAL [spco]    	1
+Benign Diseases [fndg]    	1
+impressions [inbe]    	1
+intervals [tmco]    	5
+Liver segment [bpoc]    	1
+Haemodialysis [topp]    	4
+surgical resection margins [bpoc]    	1
+Hepadnaviruses [virs]    	1
+Halo [medd]    	4
+Statistically Significant [qnco]    	13
+Superfamily [cnce]    	1
+Biliary drainage [topp]    	1
+Viral [ftcn]    	39
+Metabolized [celf]    	1
+Fur [mnob]    	2
+Medical therapy [topp]    	2
+Serum Chemistry [lbpr]    	1
+Complication, infection [dsyn]    	2
+Section, NOS [topp]    	12
+Nested Polymerase Chain Reaction [mbrt]    	1
+Smooth [qlco]    	2
+polymorphisms [genf]    	10
+Double [ftcn]    	1
+Outlook [menp]    	1
+follow [tmco]    	1
+Position [spco]    	1
+Bile fluid [bdsu]    	4
+Fulminant hepatitis [dsyn]    	1
+sonography [diap]    	10
+Decrease [qlco]    	8
+Characteristics [qlco]    	29
+Option [ftcn]    	2
+Syndrome [dsyn]    	1
+OVER 60 [fndg]    	1
+Hepatic Transplantation [topp]    	2
+AUSTRIA [geoa]    	2
+base [inch]    	5
+Combined therapy [topp]    	1
+suppressing [ftcn]    	1
+Mesenchymal [qlco]    	2
+SUPEROXIDE DISMUTASE, COPPER-ZINC [gngm]    	2
+Integral [qnco]    	2
+UGT1A7 [gngm]    	11
+Normal concentration [fndg]    	2
+Risks, Relative [qnco]    	5
+Link [inpr]    	11
+variceal hemorrhage [patf]    	1
+Exposed [clna]    	16
+Texture [qlco]    	1
+Adrenal rest tumour [neop]    	3
+CAF [gngm]    	1
+NEOPLASM [neop]    	3
+Acute hepatic porphyria [dsyn]    	5
+Phases [tmco]    	1
+Cancer Mortality [qnco]    	1
+Clones [cell]    	8
+Chromosomal region [cell]    	2
+Investigations [hlca]    	4
+Adulthood [tmco]    	1
+Minor [popg]    	7
+Availability [ftcn]    	5
+Portal venous thrombosis [fndg]    	2
+Bear [mamm]    	2
+Involvement [ftcn]    	7
+negatives [qlco]    	1
+Identifiable [qlco]    	1
+MILD [qlco]    	9
+RECEIVED [qlco]    	23
+Induced [ftcn]    	31
+Ocular [bpoc]    	1
+mL/min [qnco]    	3
+NEOPLASIA [neop]    	5
+HIV2 [virs]    	1
+Stained [qlco]    	7
+Hepatocellular Carcinoma cell [cell]    	2
+Pre [tmco]    	15
+Virus hepatitis b [dsyn]    	1
+Increases [qnco]    	6
+pTNM classification [clas]    	2
+Certain [qlco]    	15
+July [qlco]    	3
+Meta-Analysis [inpr]    	6
+radiography [ftcn]    	1
+vaccinating [fndg]    	1
+Pedigree [inpr]    	1
+TNM Staging System [clas]    	3
+Task [ocac]    	1
+standard therapy [topp]    	1
+Severe Disease [fndg]    	8
+Intraarterial Infusion [topp]    	1
+Insertion [topp]    	1
+COLITIS, ULCERATIVE [dsyn]    	3
+LIVER CARCINOMA [neop]    	3
+Latent [qlco]    	1
+Prospective Cohort Study [resa]    	1
+Clonal Deletion [ortf]    	2
+sequelae [patf]    	1
+Spearman Correlation Test [inpr]    	1
+Chronology [inpr]    	3
+BILE DUCT [bpoc]    	2
+Implementation [acty]    	1
+Tenth [qnco]    	2
+Idiopathic portal hypertension [dsyn]    	5
+pmol [qnco]    	1
+Study [mnob]    	208
+CHILD [aggp]    	6
+Pathogenic [orgm]    	1
+Responsible [fndg]    	5
+Intraluminal [spco]    	1
+Counsel [prog]    	1
+ganglioside metabolism [moft]    	1
+Technique, Molecular Diagnostic [mbrt]    	1
+Endothelial [tisu]    	4
+GY [geoa]    	2
+1 - 9% [fndg]    	4
+Costs [qnco]    	3
+Temperature Gradient Gel Electrophoresis [lbpr]    	1
+Mole [neop]    	1
+PARAFFIN-EMBEDDED [tisu]    	2
+Wilms tumour [neop]    	1
+Twenty-Nine [qnco]    	1
+Diagnostic Criteria [inpr]    	1
+Large amount [qnco]    	1
+Interest [menp]    	2
+0.018" [qnco]    	2
+2000s [tmco]    	71
+Late [tmco]    	13
+Hyperbaric Oxygen Therapy [topp]    	1
+transformation [celf]    	7
+neighboring [spco]    	1
+Resolve [cnce]    	1
+disease stages [diap]    	1
+UNITED STATES [geoa]    	15
+1950s [tmco]    	1
+ESTROGEN, INCREASED [fndg]    	1
+Abdominal ultrasound [diap]    	1
+Korea [geoa]    	6
+Correlation [qlco]    	34
+methodology [inpr]    	8
+Animals [anim]    	6
+Diffusion [npop]    	2
+Observed [ftcn]    	54
+Circumscribed [spco]    	2
+Local Therapy [topp]    	2
+Technical [ftcn]    	1
+Clinical/Radiologic [ftcn]    	1
+Genetic diseases [fndg]    	1
+Coinfection [dsyn]    	14
+Bomb, Atomic [mnob]    	6
+specimens [sbst]    	8
+Safety [hcpp]    	5
+Hepatic Iron deposition [dsyn]    	1
+Compound [qlco]    	2
+disease risk [fndg]    	1
+LONG-TERM FOLLOW-UP [hlca]    	8
+Smoke [hops]    	2
+Hepatitis B virus infection [virs]    	23
+Production [ocac]    	1
+Colectomy [topp]    	1
+Representative [acty]    	1
+Discordant [cnce]    	2
+albumin levels [lbtr]    	1
+Schistosoma [euka]    	1
+Hilar Cholangiocarcinoma [neop]    	6
+T1 [gngm]    	5
+establishing [qlco]    	1
+BANGLADESH [geoa]    	1
+Hepato-renal [bpoc]    	1
+PIVKA-II [aapp]    	5
+Sub-Saharan Africa [geoa]    	2
+Abscess, Liver [dsyn]    	5
+Conventional angiography [diap]    	1
+majority [socb]    	12
+DNA damage response [celf]    	1
+kill [socb]    	1
+Microparticle [celc]    	1
+Pathologist [prog]    	2
+Dimensions [qnco]    	1
+Trial [resa]    	1
+Normal liver histology [fndg]    	1
+liver needle biopsy [diap]    	1
+Immunosuppressive drugs [clna]    	1
+Collecting [ftcn]    	1
+Africa [geoa]    	5
+Hepatitis C [dsyn]    	36
+A-2 [gngm]    	1
+therapy [ftcn]    	49
+Tattooing [hlca]    	1
+resection margins [bpoc]    	11
+Precursor [idcn]    	2
+Cystic Lesion [fndg]    	1
+Equivalent [qlco]    	1
+individual risk factors [clna]    	1
+OESOPHAGEAL VARICES [acab]    	1
+Error [qlco]    	2
+Pekin duck [bird]    	2
+CYTOMEGALOVIRUS INFECTION [dsyn]    	2
+Autoimmune liver disease [dsyn]    	1
+Lymph Node Involvement [fndg]    	1
+Extrahepatic Bile Duct Carcinoma [neop]    	1
+Encounter [bhvr]    	2
+Culture [idcn]    	2
+Protection [fndg]    	4
+Workers, Field [prog]    	1
+INTRAHEPATIC BILE DUCT [bpoc]    	3
+Tumour invasion [fndg]    	4
+Transition [comd]    	3
+Adjuvant Therapy [topp]    	4
+Tumour volume [qnco]    	1
+Hepatic adenoma [neop]    	5
+Three-dimensional [spco]    	1
+Affiliated [qlco]    	2
+12q [nusq]    	1
+Cell Communication [celf]    	1
+dose response Association [biof]    	1
+Marked [qlco]    	3
+Tumor Mass [fndg]    	2
+Image [inpr]    	21
+Open surgery [spco]    	1
+HA [geoa]    	1
+Preferences [idcn]    	1
+REGENERATIONS [ortf]    	7
+GSTM1 [gngm]    	3
+Dilated [fndg]    	2
+Sensitivity [patf]    	16
+MATCHING [resa]    	1
+Restricted [ftcn]    	4
+Branch [bpoc]    	1
+Deficiency [ftcn]    	1
+Characteristics, Biological [grpa]    	1
+United States Food and Drug Administration [hcro]    	1
+Leiomyosarcomas [neop]    	1
+fibrose [patf]    	5
+Rigor [sosy]    	1
+vancomycin resistant Enterococcal infection [dsyn]    	2
+Coagulation [ortf]    	6
+English [lang]    	1
+Recurrent Hepatocellular Carcinoma [neop]    	3
+Pacific Islands [geoa]    	1
+Valencia [fish]    	1
+Tumour stage I [inpr]    	1
+Reduction [npop]    	5
+TNM classification [clas]    	4
+formation [biof]    	6
+Chemicals [chem]    	3
+GERMANY [geoa]    	10
+Strong [qlco]    	11
+Chart Review [hlca]    	1
+Inflammatory [ftcn]    	11
+Dietary Factors [ftcn]    	1
+Space [spco]    	1
+side effects [ftcn]    	2
+Incidence Rate [qnco]    	12
+Detectable [clna]    	7
+Methylation [moft]    	3
+Portal [blor]    	15
+National Cancer Institute [hcro]    	3
+prerequisite [idcn]    	1
+Recurrent Disease [dsyn]    	1
+One year [tmco]    	2
+CAPSULE [bodm]    	4
+pre operative therapy [tmco]    	2
+Lifetime [tmco]    	4
+Hazard Ratio [qnco]    	8
+Synthetic [acty]    	1
+Unaffected [cnce]    	3
+Hepatitis C screening [topp]    	1
+Women [popg]    	39
+VIRAL HEPATITIS [dsyn]    	4
+Width [qnco]    	3
+Pathological Examination [ftcn]    	2
+Retarded [qlco]    	1
+FUNGAL INFECTION [dsyn]    	2
+ROUTE [ftcn]    	2
+Unresolved [qlco]    	1
+Group S [inpr]    	2
+Subtotal resection [topp]    	1
+Segmentectomy [topp]    	2
+prophylaxis [inpr]    	5
+Angiosarcomas [neop]    	1
+Transplant [topp]    	2
+molecular markers [clna]    	1
+Capability [qlco]    	4
+Bile ducts [bpoc]    	4
+Encephalopathy, Hepatic [dsyn]    	3
+Embolization Therapy [topp]    	3
+Sons [famg]    	4
+Haematology NOS [bmod]    	1
+Medium [inpr]    	1
+{Graft} [bodm]    	2
+clinical aspects [clna]    	1
+SC [geoa]    	3
+Discriminate [qlco]    	4
+Epitope [imft]    	1
+Oral contraceptive use [fndg]    	2
+In Vivo Imaging [lbpr]    	1
+Somatic [cell]    	1
+Histopathologic [bmod]    	3
+Pooled [sbst]    	2
+striking [ocac]    	3
+INFANT [aggp]    	5
+Treatment, Neoadjuvant [topp]    	1
+Account # [clna]    	16
+Locus [gngm]    	6
+VIRAL DISEASES [dsyn]    	1
+Recipient [humn]    	2
+Sponge [euka]    	1
+transmission [idcn]    	12
+Geographical feature [spco]    	2
+HEPATITIS B SURFACE ANTIGEN POSITIVE [lbtr]    	9
+Surveillance Program [resa]    	6
+Group 1 [inpr]    	11
+resolving [fndg]    	1
+Transarterial Chemoembolization [topp]    	1
+Incidences [qnco]    	7
+Digestion [orgf]    	2
+CLONORCHIS SINENSIS [euka]    	1
+Above [spco]    	2
+temperature [orga]    	1
+Copyright [inpr]    	11
+Slow [qlco]    	4
+Doxorubicin Preparation [phsu]    	1
+Gradual progression [fndg]    	1
+Childhood Tumor [neop]    	1
+American [popg]    	2
+high-risk group [popg]    	2
+PPB [gngm]    	3
+Modest [inpr]    	1
+medical Treatment [topp]    	1
+20th century [tmco]    	1
+Discovery [acty]    	3
+monitor [hlca]    	9
+univariate analysis [resa]    	26
+liver biopsies [diap]    	4
+liver tumour [neop]    	3
+Intense [qlco]    	2
+CONTRAST ENHANCED MRI [diap]    	1
+SH [geoa]    	1
+Dairy Products [food]    	1
+Pneumocystis carini Pneumonia [dsyn]    	1
+centers [spco]    	8
+Algorithm [inpr]    	2
+enables [menp]    	1
+examinations [hlca]    	3
+HEPATITIS B VIRUS [virs]    	89
+Primary Carcinoma liver [neop]    	5
+9q [nusq]    	1
+Bacterium [bact]    	5
+Dead [orgf]    	1
+Tumour regression [neop]    	1
+Ignore [idcn]    	1
+Accepted [qlco]    	3
+Fragility [comd]    	1
+Numerous [qnco]    	1
+Carry [acty]    	2
+Fifth [qnco]    	6
+Working [ocac]    	3
+DNA Binding Domain [amas]    	1
+Bacteraemia NOS [dsyn]    	1
+Play [dora]    	11
+Isolation [topp]    	2
+Pathology department [hcro]    	1
+Efficient [qlco]    	1
+Weak [qlco]    	2
+primary infection [dsyn]    	1
+Category [inpr]    	3
+Color Doppler ultrasonography [diap]    	10
+Inhibited [qlco]    	2
+negative predictive value [qnco]    	3
+TEMPORAL [spco]    	2
+MOUTH [bsoj]    	1
+Dominant [ftcn]    	5
+Donors [popg]    	1
+surgical intervention [fndg]    	1
+6q [nusq]    	5
+Correlated [qlco]    	31
+In-Hospital Mortality [qlco]    	4
+Punctate [qlco]    	1
+Diagnostic Tests [diap]    	1
+workers [ftcn]    	3
+Promotion [acty]    	3
+General Practice [bmod]    	1
+Sheath [bpoc]    	1
+Resectable Hepatocellular Carcinoma [neop]    	5
+Gonorrhoea [dsyn]    	3
+Liver transplant recipient [fndg]    	2
+peroxidation [phpr]    	1
+shared [socb]    	4
+polymorphic microsatellite markers [diap]    	1
+collective [orgt]    	1
+Hospital Stay [tmco]    	1
+Basel [hcro]    	7
+Sequence [nusq]    	9
+ELISA [lbpr]    	1
+MEDULLOBLASTOMA [neop]    	1
+Enteric [spco]    	1
+metastatic colorectal cancer [neop]    	2
+peaked [qnco]    	3
+DIETS [food]    	1
+human cell lines [cell]    	1
+Increased [qnco]    	77
+Forty [qnco]    	9
+CROP [bpoc]    	1
+Neoadjuvant [topp]    	2
+sustaining [ftcn]    	1
+metastatic neoplasm [neop]    	3
+operate [ftcn]    	4
+Distance [qnco]    	1
+Oligonucleotide [nnon]    	1
+February [qlco]    	1
+Chromophobe cell renal carcinoma [neop]    	1
+HEPATITIS G VIRUS [virs]    	2
+Directly [qlco]    	10
+functional capacity [topp]    	1
+Prospective Studies [resa]    	3
+Squamous Cell Carcinoma [neop]    	1
+Aplastic anaemia NOS [dsyn]    	2
+evolved [ftcn]    	1
+SCORE [qnco]    	16
+Detected [fndg]    	61
+JAUNDICE [patf]    	3
+Necrosis, piecemeal [patf]    	4
+Anti Hbc negative [lbtr]    	2
+case control [hlca]    	3
+Insertional Mutagenesis [genf]    	1
+Vancomycin Resistant Enterococcus [bact]    	2
+Gauge [spco]    	2
+HCCS [gngm]    	36
+Tumors, Granulosa Cell [neop]    	1
+hepatitis virus infection [virs]    	3
+Abstinence [fndg]    	2
+INVESTIGATOR [prog]    	1
+PROXIMAL [spco]    	1
+Sacrifice [idcn]    	1
+recurring [phpr]    	2
+Cell Differentiation [celf]    	2
+Postoperative [tmco]    	48
+Tumour Invasiveness [patf]    	3
+aggressive [mobd]    	5
+Leakage [patf]    	1
+Operative Time [tmco]    	2
+Delivery [topp]    	3
+Outcome Measure [qnco]    	1
+pathogenicity [qlco]    	1
+Equation [cnce]    	1
+Environmental Exposure [inpo]    	1
+HCV status [clna]    	1
+Alleles [gngm]    	4
+signs [ftcn]    	4
+MULTIFOCAL [spco]    	9
+Treatments [topp]    	2
+Alcoholic Beverages [food]    	2
+Decompensation [fndg]    	7
+Clarify [acty]    	10
+County [geoa]    	3
+Surgical Management [hlca]    	2
+Probabilities [qnco]    	3
+CONTINUOUS [idcn]    	3
+Find [fndg]    	2
+OCCUPATION [ocdi]    	2
+Conformal radiotherapy [topp]    	1
+Hepatic [blor]    	105
+Tool [mnob]    	4
+site specific [spco]    	1
+Molecular [qlco]    	13
+Construct [clas]    	1
+Multicenter Study [resa]    	2
+Organization [phsf]    	1
+Typical [qlco]    	3
+City [geoa]    	2
+Relate [orch]    	5
+Enrollment [hlca]    	1
+Educational [prog]    	1
+Prevention [topp]    	12
+Sarcomas [neop]    	1
+Call [menp]    	5
+Mutations, Missense [genf]    	1
+RHABDOMYOSARCOMA [neop]    	5
+Element [elii]    	1
+ALCOHOLIC CIRRHOSIS [dsyn]    	19
+Chromosomal DNA [nnon]    	1
+ALCOHOLISM [mobd]    	10
+Lymph node metastases [neop]    	2
+Thirty Nine [qnco]    	2
+Serum prothrombin time [lbpr]    	1
+Idiopathic Thrombocytopenia [dsyn]    	1
+Pleomorphism [genf]    	1
+mg dl [qnco]    	2
+Herpes simplex 2 [dsyn]    	2
+Survey, Cross-Sectional [resa]    	1
+genetic risk factors [qlco]    	1
+ACCUMULATION [fndg]    	6
+Extracellular Matrix [tisu]    	1
+HEPATOCARCINOMA [neop]    	11
+responses [orga]    	2
+Microwave coagulation therapy [topp]    	2
+controlling [phpr]    	1
+applications [hlca]    	3
+liver tissues [bpoc]    	4
+Cytokeratin [aapp]    	1
+Addiction, Drug [mobd]    	1
+Pathology, Clinical [bmod]    	1
+Idiopathic [ftcn]    	1
+{RE} [qnco]    	5
+Life [idcn]    	14
+Died [orgf]    	22
+palliation [bmod]    	1
+Odds Ratios [qnco]    	26
+Clarified [acty]    	3
+relieving [ftcn]    	1
+Specificity [qnco]    	4
+GB virus C [virs]    	1
+Percentage [qnco]    	8
+Dispersed [spco]    	1
+OC [gngm]    	4
+PRY [geoa]    	1
+Coffee [food]    	6
+PLASMA [bdsu]    	23
+degrees [qnco]    	2
+Portal tract [bpoc]    	2
+Precancerous lesions [neop]    	4
+Varies [inpr]    	2
+Margin [spco]    	10
+Highest [qlco]    	5
+Regulator [medd]    	1
+Small Cell Dysplasia [fndg]    	4
+SPS [gngm]    	1
+worse [qlco]    	13
+Greatly [fndg]    	3
+Slowly progressive disease [fndg]    	1
+Tumour suppressor gene [gngm]    	1
+Admission [hlca]    	4
+RNA Virus [virs]    	4
+Measure [qnco]    	5
+Coinfections [dsyn]    	2
+Able [orga]    	2
+strategy [menp]    	7
+intravenous drug use [inbe]    	1
+Anal [bpoc]    	1
+Pathways [moft]    	3
+Genetic Disorders [dsyn]    	1
+Divergence [spco]    	1
+Assessed [acty]    	24
+Telomeres [celc]    	1
+RACE [popg]    	1
+Carrier Rate [cnce]    	1
+Cell Proliferative Activity [lbtr]    	4
+Addition [ftcn]    	9
+Patterns [spco]    	17
+Survivals, Disease-Free [qnco]    	1
+Hepatitis markers [lbpr]    	1
+Social status [qlco]    	1
+Premenopausal [tmco]    	1
+Biliary [ftcn]    	12
+Diabetes [dsyn]    	19
+Biological [bmod]    	3
+Inpatients [podg]    	2
+Adjustment [inbe]    	7
+Aggressive Clinical Course [fndg]    	1
+Combined [qlco]    	11
+Entered [qlco]    	2
+accelerate [ftcn]    	2
+contaminate [ftcn]    	2
+Reconstruction [mcha]    	2
+adverse events [patf]    	2
+Minimally Invasive [fndg]    	1
+DEATH [orgf]    	20
+Rule [idcn]    	3
+Bacterial [qlco]    	1
+Surgery [bmod]    	34
+August [qlco]    	1
+LYMPHOMA [neop]    	1
+Tortoise [rept]    	1
+Band [medd]    	1
+genetic analysis [lbpr]    	1
+manifested [ftcn]    	1
+Abnormal liver function [patf]    	1
+EXPLANTED [fndg]    	2
+Enzymatic Activity [moft]    	1
+Laparotomy [topp]    	4
+Stimulation [topp]    	1
+mortality rates [qnco]    	5
+Inactivation [ftcn]    	8
+Hepatitis C Virus-Related Hepatocellular Carcinoma [neop]    	8
+1 H [elii]    	1
+REGIONAL [spco]    	6
+Antioxidant [phsu]    	1
+Healthy [qlco]    	2
+Additional Therapy [fndg]    	2
+Presentation [idcn]    	16
+Drainage, NOS [bdsu]    	4
+Drug [phsu]    	2
+Inflammatory Response [patf]    	1
+Ultrasonography [diap]    	34
+AST, ELEVATED [fndg]    	1
+Human Immunodeficiency Virus [virs]    	7
+Gender [orga]    	13
+Aggregation [ftcn]    	2
+Care [acty]    	7
+End stage [qlco]    	3
+IU [nnon]    	2
+acquired condition [dsyn]    	1
+Flow [npop]    	10
+Treatment duration [tmco]    	1
+coexisting condition [dsyn]    	1
+Pivot [medd]    	1
+Gx [gngm]    	1
+Allelic Imbalance [comd]    	2
+FATIGUE [sosy]    	1
+Diagnosed [fndg]    	35
+Objective [inpr]    	31
+Albumin level [lbtr]    	2
+Constantly [qlco]    	1
+PCR, Nested [mbrt]    	1
+diminish [qnco]    	1
+silence [mobd]    	2
+Hybridization [genf]    	2
+Conventional [qlco]    	6
+NASOPHARYNX [bpoc]    	1
+Multicentric [spco]    	12
+Progression [patf]    	36
+Risk Ratio [qnco]    	4
+Technical aspects [inpr]    	1
+Follow-Up Study [resa]    	2
+ELECTRODE, NEEDLE [medd]    	1
+Agents, Contrast [irda]    	1
+Drug Carrier [bodm]    	10
+Iron Overload [dsyn]    	8
+Smaller [qlco]    	5
+Administered [ftcn]    	5
+Common Bile Duct [bpoc]    	1
+Cumulative [qlco]    	26
+Part [spco]    	8
+CI [geoa]    	34
+long term Administration [hlca]    	2
+Birth [orgf]    	5
+histological diagnosis [diap]    	2
+TUMORIGENICITY [patf]    	1
+Water Quality [qlco]    	1
+Lipid Peroxidation [moft]    	3
+progresses [ftcn]    	5
+objectives [inpr]    	8
+Biologically [qlco]    	2
+REVERSE TRANSCRIPTASE PCR [mbrt]    	1
+Keep [ftcn]    	1
+Discover [acty]    	1
+Timing [tmco]    	5
+Bangladeshi [popg]    	2
+Minor Trauma [inpo]    	1
+times [tmco]    	9
+Terminology [inpr]    	2
+Particles [chvs]    	1
+Chromosome Aberrations [comd]    	1
+Attribute [idcn]    	4
+Immunological [ftcn]    	1
+Porphyrin Precursor [phsu]    	1
+Concepts [idcn]    	2
+Steatosis [patf]    	1
+doubling [ftcn]    	1
+Hepatic dysfunction [patf]    	1
+Uncertain [fndg]    	5
+Bifurcation [topp]    	1
+Complete resection [topp]    	6
+Hyperplasia, nodular [patf]    	1
+Imaging [diap]    	15
+Twenty Four [qnco]    	1
+Clinical status [qlco]    	2
+variables [qlco]    	42
+Reliability [qnco]    	1
+Tumour cells, NOS [cell]    	2
+EQ [qlco]    	1
+chronic condition [dsyn]    	1
+Known [qlco]    	22
+Characterization [acty]    	2
+Biphasic [tmco]    	2
+Infiltrative Growth Pattern [fndg]    	1
+SURVIVE [phsu]    	12
+Infectious Diseases [dsyn]    	3
+Concerns [idcn]    	1
+Chemopreventive [qlco]    	1
+Infants [aggp]    	14
+MAPK Signaling Pathway [celf]    	1
+Anti HCV positive [lbtr]    	4
+Hepatitis C Virus Disease [virs]    	13
+consequences [ftcn]    	3
+DIFFUSE [qlco]    	13
+Consistent [idcn]    	9
+History [ocdi]    	29
+Outpatients [podg]    	2
+Child-Pugh Score [inpr]    	7
+Androgen level [lbpr]    	1
+Processing [acty]    	3
+monoclonal [fndg]    	4
+Non-healing [ftcn]    	1
+Unit [qnco]    	1
+Basic [ftcn]    	3
+Cell Membrane [celc]    	1
+SUDANESE [popg]    	1
+Serum albumin level [lbpr]    	1
+DISIDA [irda]    	2
+MINUTE [tmco]    	1
+Transplantation [topp]    	30
+Bile Duct Epithelium [tisu]    	2
+excess iron [dsyn]    	1
+Polypoid [ftcn]    	1
+Left Hepatic Duct [bpoc]    	2
+Nonalcoholic Steatohepatitis [dsyn]    	1
+Initial Step [bodm]    	1
+Performance [inbe]    	3
+GASTROINTESTINAL TRACT [bdsy]    	2
+LOWER [spco]    	49
+Estimated [qnco]    	18
+Cytoplasm [celc]    	4
+Minority [popg]    	4
+Rest [dora]    	1
+Exact [qlco]    	1
+predictive factor [inpr]    	10
+confirming [qlco]    	1
+Decade [qnco]    	10
+Relationship [qlco]    	25
+Probable [qnco]    	1
+UP [geoa]    	2
+Source [fndg]    	4
+Seoul [geoa]    	2
+MODIFY [ftcn]    	5
+CASE-CONTROL STUDIES [resa]    	1
+Content [menp]    	3
+detoxify [orgf]    	2
+Habitual [tmco]    	4
+Intestinal [bpoc]    	1
+suggestive [ftcn]    	2
+discount [qnco]    	2
+Employed [qlco]    	3
+Reserve [acty]    	30
+Duration [tmco]    	25
+Born [orgf]    	2
+Poor prognosis [fndg]    	7
+South Central Asia [geoa]    	1
+Chromosome [celc]    	1
+LISS [lbpr]    	14
+Long [qlco]    	35
+Solitary tumour [neop]    	1
+Treeshrew [mamm]    	6
+Symptomatic [ftcn]    	20
+Combination Therapy [topp]    	7
+Western [spco]    	6
+Familial [famg]    	1
+MRI [diap]    	7
+BACK PAIN, UPPER [sosy]    	1
+Additional information [tmco]    	1
+Hypoxic [patf]    	1
+VIS [topp]    	1
+specialized [qlco]    	1
+Removal [topp]    	3
+Histories [ocdi]    	3
+Canal [bsoj]    	1
+Improves [qlco]    	3
+Geographic [spco]    	2
+LS [geoa]    	3
+Induction [ftcn]    	6
+Pigs [mamm]    	2
+Image Quality [qlco]    	1
+Add [ftcn]    	1
+Drug-induced [ftcn]    	1
+Deamination [npop]    	1
+Chronic Liver Disease [dsyn]    	34
+Dysplastic nodule [anab]    	1
+Largest [qnco]    	2
+Tumors [neop]    	81
+Wedge resections [topp]    	1
+Independent [idcn]    	62
+Intrahepatic Bile Ducts [bpoc]    	3
+ILEUS [dsyn]    	1
+scoring [qnco]    	4
+Seldom [qlco]    	1
+Advanced Stage [qlco]    	14
+Prognostic score [qnco]    	7
+Indices [lbpr]    	2
+Phenotype [orga]    	5
+Lipid [orch]    	1
+HELICOBACTER [bact]    	3
+Seven [qnco]    	20
+Automated [ftcn]    	3
+Expected [inpr]    	7
+VOL [qnco]    	1
+MENT [gngm]    	2
+Immune clearance [phsf]    	2
+Mixture [sbst]    	1
+liver lesion [fndg]    	11
+Serology [bmod]    	8
+Types [qlco]    	13
+Codons [nusq]    	1
+Chromatin [aapp]    	1
+Immunohistochemical [lbpr]    	8
+Benign Disease [fndg]    	2
+Discontinued [fndg]    	1
+Differentiation [celf]    	9
+GBV-C [virs]    	9
+screening test [hlca]    	2
+Pathology, Surgical [bmod]    	5
+Equivalents [qnco]    	1
+6p [nusq]    	1
+Hepatitis C virus group [virs]    	2
+Adverse reactions [patf]    	1
+patent [inpr]    	1
+Body Weight [orga]    	4
+Human Papilloma Virus [virs]    	1
+Esophageal [spco]    	1
+Living [idcn]    	3
+classify [clas]    	3
+Opisthorchis viverrini [euka]    	1
+11p15 [celc]    	2
+Antiviral Drugs [phsu]    	1
+CD8 Lymphocyte [cell]    	1
+Effects [qlco]    	21
+Lobe [bpoc]    	6
+Effort [orgf]    	2
+Excessive [qlco]    	3
+Hepatitis C virus subtype 1b [virs]    	1
+Lower (action) [acty]    	2
+Elevated [qlco]    	21
+Interviews [acty]    	2
+System [ftcn]    	14
+Complete Response [fndg]    	12
+Additional [ftcn]    	12
+Earlier [tmco]    	7
+Serologic test [lbpr]    	1
+Extended Family [famg]    	1
+Cycles [tmco]    	1
+Much [qnco]    	6
+Western Europe [geoa]    	2
+Beverage [food]    	2
+Clinical heterogeneity [fndg]    	1
+Viral Disease [dsyn]    	1
+Definite [qlco]    	4
+1-10 [fndg]    	2
+Dose Volume Histogram [inpr]    	2
+Intraoperative [tmco]    	9
+Operation [hlca]    	3
+Alveolar crest [bpoc]    	1
+AUSTRALIAN [fndg]    	1
+Subcapsular [spco]    	7
+Marker, Viral [qlco]    	1
+Multi [qnco]    	3
+Aflatoxin [hops]    	17
+practice [menp]    	5
+antiulcer drug [phsu]    	1
+Transitional [spco]    	1
+Stains [irda]    	1
+Clear Cell Hepatocellular Carcinoma [neop]    	3
+Historical [inpr]    	2
+Scruple [qnco]    	1
+Attention [menp]    	4
+Abnormal distribution [qlco]    	1
+File [ocac]    	6
+intracellular organelle [celc]    	1
+Mortality [qnco]    	48
+plasma concentration [qnco]    	3
+Al [lbpr]    	12
+Family Study [diap]    	1
+Abdominal [blor]    	2
+2p [nusq]    	1
+Serotype [inpr]    	3
+Retrospective Studies [resa]    	2
+Managed [ocac]    	1
+Take [hlca]    	9
+Large tumour [qlco]    	2
+Early Tumour stage [clas]    	1
+NON-NEOPLASTIC [dsyn]    	1
+Demographic Factors [idcn]    	2
+Failure, Renal [dsyn]    	3
+Alpha-fetoprotein level [lbtr]    	2
+modulate [spco]    	1
+Hemagglutinating Virus of Japan [virs]    	4
+operative methods [ftcn]    	2
+PG [lbpr]    	6
+Arteries [bpoc]    	1
+Well defined [qlco]    	3
+Cross [cnce]    	1
+untreated [fndg]    	8
+RETREATMENT [topp]    	4
+THRESHOLD [qlco]    	1
+Oncology [neop]    	1
+SEVERE [qlco]    	26
+Prefecture [geoa]    	2
+TRANS [idcn]    	1
+Hepatic Diseases [dsyn]    	3
+October [qlco]    	2
+Anomaly [anab]    	1
+HEPATIC FAILURE [dsyn]    	4
+EXPIRED [orgf]    	2
+Solitary lesion [fndg]    	1
+Over [spco]    	2
+Old age [fndg]    	10
+HEPATITIS D [dsyn]    	1
+Histologically [ftcn]    	9
+DE [geoa]    	1
+Health Outcomes [inpr]    	3
+intracellular [celc]    	3
+NEW ZEALAND [geoa]    	1
+Pancreatic Adenocarcinoma [neop]    	1
+Current smoker [clna]    	1
+function [phsf]    	10
+Virus hepatitis c [dsyn]    	1
+undefined [idcn]    	2
+viral replication [celf]    	5
+Detection [topp]    	25
+CANCER [neop]    	52
+Outcome Measures [qnco]    	4
+IC [geoa]    	1
+MENARCHE [orgf]    	4
+suffer [mobd]    	1
+DNA Ploidy [qnco]    	1
+CARCINOMA, MALIGNANT [neop]    	1
+Capsular [spco]    	1
+Inverse [qlco]    	2
+Apparent age [orga]    	1
+gamma glutamyltranspeptidase activity [moft]    	1
+Microscopies [lbpr]    	2
+About [qlco]    	7
+Red Blood Cells [lbpr]    	2
+Invasive [qlco]    	4
+Perimeter [medd]    	1
+variations [qlco]    	5
+Alcoholics [podg]    	3
+Parity [fndg]    	1
+Symptom [sosy]    	2
+Blood loss [patf]    	7
+low exposure [qlco]    	1
+MO [geoa]    	1
+Gas [chvs]    	1
+MALIGNANT [qlco]    	23
+Radiation [npop]    	6
+Genetic Polymorphism [genf]    	1
+Exogenous Factors [ftcn]    	2
+Surgical [hlca]    	26
+IRELAND [geoa]    	4
+Demonstrable [ftcn]    	1
+Granules [bodm]    	1
+institute [orgt]    	1
+proposal [idcn]    	2
+Edge [spco]    	2
+Hepatic stem cell [cell]    	1
+carried [acty]    	15
+Stage III [inpr]    	9
+Intake [ftcn]    	4
+turnover [qnco]    	2
+SENSITIVITY AND SPECIFICITY [qnco]    	6
+Sufficient Quantity [qnco]    	1
+Cholestatic hepatitis [dsyn]    	1
+Stage 2 [inpr]    	2
+Left superior [spco]    	1
+Genome [gngm]    	7
+liver transplants [topp]    	1
+Administration [ocac]    	7
+Genetic Difference [comd]    	1
+envelope [celc]    	2
+hepatic enzyme [lbpr]    	1
+Diagnostic Imaging [diap]    	2
+Cellular Oncogenes [gngm]    	1
+Hepatology [bmod]    	1
+Poorly differentiated [qlco]    	5
+upper endoscopy [diap]    	1
+Herpesviruses [virs]    	1
+MUCOSA [tisu]    	1
+Toxicology studies [resa]    	1
+Pediatric Oncology Group [hcro]    	1
+Abnormalities [cgab]    	4
+Questionnaires [inpr]    	1
+insulin-like growth factor 2 receptor [gngm]    	4
+ELDERLY [popg]    	3
+Modified [ftcn]    	3
+Traditional [ftcn]    	3
+Histological finding [fndg]    	3
+spatial [gngm]    	1
+predictive [qlco]    	9
+recommend [idcn]    	3
+CLINICIAN [prog]    	1
+Once Weekly [tmco]    	1
+Choledochal [bpoc]    	1
+Selected [acty]    	12
+Difference Type [cnce]    	2
+DEGENERATION [patf]    	2
+Malignant liver tumours [neop]    	1
+Well Differentiated [qlco]    	4
+Insight [menp]    	2
+hepatic nodules [fndg]    	1
+Extremely Low birthweight [dsyn]    	3
+Identified [qlco]    	48
+Resectable [qlco]    	11
+In Vivo [spco]    	4
+Activity [ftcn]    	52
+Profile [lbpr]    	9
+Unidentified [qlco]    	3
+Subclone [cell]    	1
+WEEKS [tmco]    	16
+ANS [bdsy]    	1
+Patient Documentation [hlca]    	1
+MULTIPLE [qnco]    	18
+36+ months [fndg]    	1
+First episode [tmco]    	4
+Visit [bhvr]    	1
+INTRATUMOR [ftcn]    	1
+Mutation, somatic [comd]    	2
+bile ductule proliferation [dsyn]    	2
+primary cancer risk [qnco]    	2
+Measured [qlco]    	12
+Local disease [dsyn]    	1
+2q [nusq]    	1
+Preclinical Study [resa]    	1
+View [spco]    	1
+Epidemiologic Studies [resa]    	1
+Arterial Embolization [topp]    	4
+Registered [hlca]    	1
+Medical [hlca]    	10
+Mixed pattern [fndg]    	1
+utility [orgt]    	4
+Cystadenomas [neop]    	2
+Endoplasmic Reticulum [celc]    	1
+Stimulated [npop]    	1
+Men [popg]    	30
+Hereditary haemochromatosis [dsyn]    	9
+recurrences [phpr]    	17
+Started [qlco]    	1
+worsen [qlco]    	1
+Clearing [idcn]    	1
+exposing [clna]    	1
+arterialization [ortf]    	1
+Gap Junctions [bsoj]    	1
+Homogeneity [qlco]    	1
+Region [geoa]    	29
+Reverse [ftcn]    	2
+Genetic Alteration [genf]    	10
+Cancer Epidemiology [ocdi]    	1
+Infections, Viral [dsyn]    	5
+Accessory [mnob]    	1
+Asymptomatic [fndg]    	16
+ORAL MUCOSA [bpoc]    	5
+Curative [cnce]    	20
+Angiogenic [ortf]    	2
+Primary liver cancer [neop]    	39
+Infantile [tmco]    	1
+MTS1 [gngm]    	2
+Early stage [tmco]    	8
+Clinical presentation [inpr]    	1
+Identical [qlco]    	1
+MANUFACTURE [ocac]    	1
+Complete resections [topp]    	1
+RANDOM SAMPLE [resa]    	2
+Radical removal [topp]    	1
+Records [inpr]    	7
+Liver cell [cell]    	2
+PHYSICAL EXAMINATION [hlca]    	2
+Enzyme-Linked Immunosorbent Assay [lbpr]    	6
+Time periods [tmco]    	1
+Light [npop]    	2
+Insensitivity [fndg]    	1
+liver graft [topp]    	1
+potentials [qlco]    	1
+Study Population [popg]    	2
+Expectation [idcn]    	1
+Metastatic/Recurrent [qlco]    	5
+Day 7 [fndg]    	1
+Five [qnco]    	30
+Predisposing Factors [tmco]    	1
+Enlargement [patf]    	1
+Tumor Pathology [bmod]    	2
+ALCOHOLIC HEPATITIS [dsyn]    	1
+morphological [spco]    	3
+Survival Analyses [resa]    	2
+Glutathione s-transferases [moft]    	1
+dg [qnco]    	2
+Viremia [dsyn]    	12
+preventive [ftcn]    	2
+Somewhat Better [qlco]    	1
+Synthesized [acty]    	1
+Pancreatic tumours [neop]    	1
+overview [inpr]    	5
+America [geoa]    	2
+Relative [famg]    	2
+LUNG [bpoc]    	15
+Total body [ffas]    	1
+NL [geoa]    	3
+Appearance [orga]    	16
+geographic difference [idcn]    	1
+Validation [resa]    	2
+intervention [hlca]    	2
+Porphyrias [dsyn]    	1
+Grade 4 [qlco]    	3
+Job [ocdi]    	1
+Ears [bpoc]    	2
+Based [ftcn]    	43
+Automatic [ftcn]    	1
+Telomere Shortening [comd]    	1
+Immediate [tmco]    	1
+Natural [ftcn]    	5
+Factor, Angiogenic [bacs]    	1
+Surrounded [spco]    	1
+Article [inpr]    	9
+Nine [qnco]    	6
+adverse effects [ftcn]    	2
+Incidental [ftcn]    	1
+Seeding [lbpr]    	1
+NEUROBLASTOMA [neop]    	1
+Coagulative Necrosis [patf]    	4
+Malignant disease [dsyn]    	3
+Anti Hbc positive [lbtr]    	2
+Advancement [ftcn]    	1
+Low birthweight [fndg]    	2
+Scale, NOS [medd]    	6
+Thirty [qnco]    	12
+Nomenclature [inpr]    	1
+heavy drinking [mobd]    	8
+Tumour tissue [tisu]    	7
+Morphology [qlco]    	4
+3 5 [qnco]    	2
+Poor metabolizer [fndg]    	4
+Occurrences [tmco]    	1
+Left hepatic artery [bpoc]    	1
+viewpoints [inpr]    	1
+Biologic Factors [bacs]    	3
+Resistance [menp]    	1
+Duck [bird]    	2
+Economic Issue [fndg]    	1
+ACQUIRED IMMUNE DEFICIENCY SYNDROME [dsyn]    	1
+Central Pathology Review [diap]    	1
+tumor recurrence [neop]    	10
+Chi [inpr]    	2
+Preventable [inpr]    	1
+choice [inbe]    	5
+Consecutive [qlco]    	37
+Ability [orga]    	3
+Surgical Manipulation [topp]    	1
+Hepatic Cyst [dsyn]    	2
+Wealthy [qlco]    	1
+Entity [enty]    	3
+Fifty [qnco]    	3
+stromas [bpoc]    	1
+Courses [tmco]    	1
+Nonspecific reactive hepatitis [dsyn]    	1
+Student [popg]    	1
+Focal Nodular Hyperplasia [dsyn]    	6
+grade 1 [inpr]    	4
+clinical Feature [clna]    	2
+Toxicological [ftcn]    	1
+Chronic Diseases [dsyn]    	2
+Proband [famg]    	1
+Doubtful diagnosis [ftcn]    	1
+chinese [lang]    	2
+high lipid [fndg]    	2
+HBe Ag [imft]    	15
+Suggest [idcn]    	61
+liver surgery [topp]    	1
+Replacement [topp]    	2
+Myxoid degeneration [patf]    	1
+Structural [spco]    	3
+hepatic Arterial [bpoc]    	11
+Peritumoral [spco]    	1
+recombinant [orgm]    	1
+Food Frequency Questionnaire [inpr]    	1
+active hepatitis [fndg]    	11
+focus attention [menp]    	1
+Genotype Sex [orga]    	1
+Users [humn]    	1
+pharmacopeia [inpr]    	1
+Polymorphic [qlco]    	2
+Early Recurrence [fndg]    	13
+Performed [ftcn]    	53
+threat [idcn]    	1
+Control Group [grup]    	18
+Cell [cell]    	27
+oncogen [hops]    	7
+CHOLEDOCHOLITHIASIS [dsyn]    	1
+national [popg]    	4
+Approximately [qlco]    	7
+Skin [bdsu]    	1
+Predicted [idcn]    	8
+KIDNEY [bpoc]    	1
+smokers [fndg]    	2
+Substitutions, Amino Acid [genf]    	3
+Ra [spco]    	1
+Comparative Genomic Hybridization [mbrt]    	5
+Deficient [ftcn]    	2
+glutathione S-transferase mu 1 [gngm]    	1
+Injection therapy [topp]    	1
+Return [qlco]    	2
+amounts [qnco]    	2
+mutants [comd]    	1
+POLYMERASE CHAIN REACTION [mbrt]    	11
+Tumor Marker [bacs]    	4
+Discrepancy [fndg]    	1
+Individualized [qlco]    	1
+serum ALT [lbpr]    	1
+Count [qnco]    	2
+Whipple Procedure [topp]    	3
+Externally [spco]    	1
+Greatest [qnco]    	3
+Sporadic [tmco]    	6
+Exogenous [spco]    	1
+Tumour NOS [neop]    	145
+Capacity [qnco]    	6
+UNRESPONSIVENESS [fndg]    	1
+Biliary Cirrhosis, Primary [dsyn]    	9
+Answer [inpr]    	1
+Paraffin-Embedded Specimen [tisu]    	1
+BENIGN [qlco]    	12
+Large Cell Dysplasia [fndg]    	7
+Following [tmco]    	21
+SYPHILIS [dsyn]    	2
+1-7 [gngm]    	5
+Markers, Differentiation [imft]    	1
+Sixty [qnco]    	6
+Hepatitis B virus surface antigen positive [lbtr]    	1
+3 Days [tmco]    	3
+Hepatitis B virus genotype [orga]    	7
+environmental risk factors [qlco]    	2
+Mammary [bpoc]    	1
+Hepatolithiasis [dsyn]    	12
+P53 [gngm]    	17
+Needs [qlco]    	2
+Serum Albumin [aapp]    	3
+Alcoholic Steatohepatitis [dsyn]    	1
+hepatocyte differentiation [celf]    	1
+Granular cell tumour [neop]    	1
+Operative [tmco]    	6
+Chemical Carcinogen [hops]    	1
+Acute Hepatic Failure [dsyn]    	3
+NEONATE [aggp]    	3
+Health Resources [idcn]    	1
+INTRATUMORAL Hemorrhage [dsyn]    	1
+Contrast-Enhanced Spiral CT [diap]    	2
+Sequences, Nucleotide [nusq]    	1
+Point Mutations [comd]    	2
+Biliary disease [dsyn]    	1
+interfering [ftcn]    	1
+Onset [qnco]    	2
+Study, Followup [resa]    	2
+Duck hepatitis B virus [virs]    	3
+Depletion [ftcn]    	3
+Rodents [mamm]    	1
+Night [tmco]    	1
+Blacksmith [fish]    	1
+cigarette smoking [hops]    	5
+Alveolar Rhabdomyosarcoma [neop]    	7
+Mother [famg]    	3
+steroidogenesis [moft]    	2
+Experiment [resa]    	1
+Wide [spco]    	12
+Adenomatous polyposis [neop]    	7
+MALE SEX [orga]    	11
+Much Difficulty [inpr]    	1
+Alteration [idcn]    	11
+Cholangiocellular Carcinoma [neop]    	3
+Apoptosis [celf]    	10
+Extraction [topp]    	1
+isolates [bacs]    	12
+PHYSICAL AGENTS [phob]    	1
+radiofrequency [npop]    	5
+Cystic Duct [bpoc]    	1
+Dissemination [spco]    	3
+Targeted site [geoa]    	2
+Attending [prog]    	1
+Students [popg]    	4
+Signed [inpr]    	1
+Intraarterial [spco]    	5
+betel quid [food]    	6
+Gene Therapy [topp]    	1
+diagnostic techniques [diap]    	1
+Colorectal resection [topp]    	1
+Asians [popg]    	1
+Severely [qlco]    	2
+Receive [qlco]    	4
+Converging [acty]    	1
+Magnetic Resonance [npop]    	7
+Congenital overgrowth [cgab]    	1
+Systemic Therapy [topp]    	1
+Blood Sample [bdsu]    	2
+Reproductive [orgf]    	1
+Protocol [inpr]    	4
+Long term chemotherapy [topp]    	1
+Circular [spco]    	1
+Proliferative [patf]    	16
+Hepatocellular [qlco]    	10
+PANCREATIC CANCER [neop]    	1
+Statistical Methods [resa]    	1
+Oestradiol level [lbpr]    	1
+Phase III Study [resa]    	1
+Decision Analysis [ocdi]    	1
+Decision Analyses [ocdi]    	1
+Serum bilirubin level [lbpr]    	1
+INK4a [gngm]    	1
+heavy drinker [mobd]    	4
+Similarity [qlco]    	1
+Hb s Ag positive [lbtr]    	12
+International Agency for Research on Cancer [hcro]    	2
+Seventeen [qnco]    	1
+Attenuation [acty]    	6
+Confidence Intervals [qnco]    	15
+Seventy [qlco]    	3
+Concentration [menp]    	8
+Gross [qlco]    	5
+BIOPSY [diap]    	17
+resected tumors [topp]    	1
+Lobular [qlco]    	2
+Special [qlco]    	4
+Unifocal [spco]    	1
+Acute Rejection [fndg]    	1
+Study Type [resa]    	1
+Distribution [idcn]    	16
+Nucleotides [nnon]    	1
+Economic [ocdi]    	2
+Habitual drinker [fndg]    	2
+upper Gastro intestinal bleeding [patf]    	2
+INHIBITION [menp]    	7
+Million [qnco]    	2
+Main [qlco]    	29
+Cr [lbpr]    	1
+Sampling Error [qnco]    	3
+Previous [tmco]    	20
+work ups [diap]    	1
+Peri [tmco]    	2
+pathology specimens [bdsu]    	2
+Methods [inpr]    	123
+International Agency [orgt]    	1
+Burden [idcn]    	1
+Pair [qlco]    	4
+Veno-Occlusive Disease [dsyn]    	4
+Formations [spco]    	2
+Postnatal [tmco]    	1
+Surface Antigen [imft]    	2
+Rose [plnt]    	3
+viruses, Hepatitis B [virs]    	1
+Recommended [idcn]    	6
+Hemangiomas [neop]    	2
+THYROID DISEASE, NOS [dsyn]    	1
+Identification [menp]    	6
+Promote [acty]    	2
+Mutation [genf]    	19
+GINGIVA [bpoc]    	1
+H+ [elii]    	4
+techniques [inpr]    	4
+Cell Cycle Genes [gngm]    	1
+WHITE [popg]    	3
+Antero-inferior [spco]    	1
+Neoangiogenesis [patf]    	2
+hepatic metastases [neop]    	2
+impression [inbe]    	1
+Record [inpr]    	6
+Party [cnce]    	1
+Peak [qnco]    	3
+Adenomatous hyperplasia [patf]    	1
+Behaviour, NOS [inbe]    	2
+Term [orgf]    	2
+Death Certificates [mnob]    	2
+bile leakage [patf]    	15
+Corrected [qlco]    	3
+Location [spco]    	7
+past history [qlco]    	1
+stopped [qlco]    	1
+16p [nusq]    	1
+subtypes [clas]    	4
+Ovoid [spco]    	1
+SPLEEN [bpoc]    	1
+Exam [hlca]    	2
+Undetermined [idcn]    	1
+lining [spco]    	1
+CHOLECYSTECTOMY [topp]    	1
+Widespread [qlco]    	4
+Remaining [qlco]    	3
+Dedifferentiation [neop]    	1
+Gene, LacZ [gngm]    	2
+Controlled [ftcn]    	3
+Antigen, soluble [imft]    	1
+Planning [menp]    	3
+findings [ftcn]    	27
+Improved [qlco]    	13
+Tissue diagnosis [clas]    	1
+overall survival rate [qnco]    	2
+relative death [fndg]    	4
+Partum [clna]    	1
+PORPHYRIA CUTANEA TARDA [dsyn]    	5
+Labeled [qlco]    	1
+9p21 [celc]    	4
+Seen [qlco]    	21
+SURFACE [spco]    	3
+magnitude [qnco]    	1
+Tomograms [diap]    	1
+Clonorchiosis [dsyn]    	1
+Unexposed Group [popg]    	1
+Antibiotics [antb]    	2
+Negligible [qlco]    	3
+Epigenetic [bmod]    	2
+Chemical [chem]    	2
+Hepatitis Virus [virs]    	9
+Endobronchial [spco]    	1
+Attempt [evnt]    	6
+Failed [ftcn]    	4
+Lesion feature [clna]    	1
+large group [grpa]    	1
+Human [humn]    	26
+progressed [ftcn]    	4
+suppresses [ftcn]    	5
+Regulated [gora]    	2
+Fecal peritonitis [dsyn]    	1
+thymidine phosphorylase activity [moft]    	8
+Multiplication [qnco]    	2
+Work-up [diap]    	3
+DIABETIC [fndg]    	12
+Several [qnco]    	26
+Very rare [fndg]    	1
+Papillary tumours [neop]    	1
+Histopathologic Examination [bmod]    	1
+10^8/mL [qnco]    	4
+Cellular proliferation [patf]    	1
+Self [idcn]    	1
+Triple [qnco]    	6
+low protein [topp]    	1
+INFLAMMATORY BOWEL DISEASE [dsyn]    	2
+Heterozygotes [orga]    	1
+permission [qlco]    	1
+HDV [virs]    	2
+CANCER, HEPATOCELLULAR [neop]    	14
+Negative [qlco]    	38
+Assign [ftcn]    	1
+remove [qlco]    	2
+Spontaneous [ftcn]    	1
+Self Destructive [inbe]    	1
+end stage disease [dsyn]    	1
+Stage 3 [inpr]    	2
+picture [mnob]    	3
+Hilar lymph nodes [bpoc]    	1
+Benign Tumors [neop]    	9
+Venous [bpoc]    	4
+Gestational trophoblastic lesion [anab]    	1
+Tumor Markers [bacs]    	1
+chemically induced [patf]    	1
+Increasing [ftcn]    	17
+Perinatal [tmco]    	2
+Laboratory Procedure [lbpr]    	1
+Colorectal [spco]    	3
+enzyme activity [moft]    	2
+KIT [medd]    	1
+Seroprevalence [resa]    	4
+matched [resa]    	9
+Recent weight loss [fndg]    	1
+Average [qnco]    	10
+Plastics [sbst]    	1
+Percutaneous Liver Biopsy [diap]    	1
+Organelle [celc]    	1
+Screening Tests [hlca]    	1
+General Practitioners [prog]    	1
+Genetics [bmod]    	2
+Biochemistry [ocdi]    	1
+Research [resa]    	6
+Reason [idcn]    	3
+IMPACT [gngm]    	21
+DNA sequencing [nusq]    	4
+Aged [orga]    	4
+VACCINATION [topp]    	7
+Correct [qlco]    	2
+ENVIRONMENTAL FACTORS [ftcn]    	3
+feelings [menp]    	1
+Referral [hlca]    	4
+Perisinusoidal cell [cell]    	1
+Transforming [patf]    	1
+EGYPT [geoa]    	11
+Nucleotide [nnon]    	2
+BLADDER CANCER [neop]    	3
+Global [spco]    	1
+Reactive [qlco]    	4
+Gastrointestinal [spco]    	2
+investigated [ftcn]    	40
+encoded [menp]    	2
+Side [spco]    	1
+Endoscopic retrograde cholangio-pancreatography [diap]    	7
+AU/mL [qnco]    	3
+Evaluations [hlca]    	1
+Main diagnosis [qlco]    	1
+Households [famg]    	1
+pathological condition [patf]    	1
+associated disease [patf]    	1
+Six Month [tmco]    	1
+radiolabel [irda]    	1
+Portal Venous [bpoc]    	2
+Sexually [bhvr]    	1
+Demographics [ocdi]    	2
+Clinical Virology [bmod]    	2
+Recurrent tumour [neop]    	1
+MALIGNANCIES [neop]    	8
+Serum alpha-fetoprotein [lbpr]    	5
+LARGE [qnco]    	30
+Numerous pathologies [dsyn]    	1
+16q21 [celc]    	4
+Fine-Needle Aspiration Biopsies [diap]    	2
+Close [ftcn]    	1
+modifies [ftcn]    	2
+Gene Locus [gngm]    	1
+Diseases [dsyn]    	14
+extrahepatic biliary tract cancer [neop]    	1
+Uniform [qlco]    	1
+Precipitate [phpr]    	1
+Ninety [qnco]    	2
+normal patients [fndg]    	1
+meta-analyses [resa]    	1
+Enzyme Immunoassay [lbpr]    	4
+Adenomas [neop]    	3
+Clear cell tumour [neop]    	1
+CC [celc]    	3
+Early Hepatocellular Carcinoma [neop]    	1
+Sixth [qnco]    	1
+Cells [cell]    	15
+retrospective [resa]    	11
+liver resection [topp]    	25
+Significance Level [resa]    	1
+Normalized [resa]    	1
+INTERPRETATION [inpr]    	2
+pg/mL [qnco]    	1
+Additive [qlco]    	1
+HEPATOCHOLANGIOCARCINOMA [neop]    	1
+Gingival [bpoc]    	1
+Desmoid tumors [neop]    	1
+alpha fetoprotein levels [lbtr]    	1
+Percutaneous [spco]    	10
+State [geoa]    	3
+witnessed [popg]    	1
+Biopsy gun [medd]    	1
+Imaging Feature [qlco]    	2
+antidiabetic [phsu]    	1
+2 mm [fndg]    	1
+5 Days [tmco]    	2
+flowing liquids [npop]    	1
+RO [geoa]    	4
+Arteriole [bpoc]    	8
+Susceptibility [clna]    	9
+Laboratory techniques [lbpr]    	1
+Encapsulation [phpr]    	1
+Stage [tmco]    	36
+Tertiary Care [hlca]    	1
+Sixty-Nine [qnco]    	1
+Anticipated [fndg]    	2
+RAS [gngm]    	14
+variants [qlco]    	1
+Slow progression [fndg]    	1
+DIRECT SEQUENCING [mbrt]    	3
+Direct [qlco]    	11
+Confocal Microscopy [lbpr]    	1
+Intraabdominal Infections [dsyn]    	1
+Unlikely [cnce]    	2
+relapsed [tmco]    	2
+Titre [qnco]    	12
+alcohol metabolism [moft]    	1
+Active Surveillance [hlca]    	1
+Attempted [evnt]    	1
+Pre-Therapy [tmco]    	1
+Occurred [acty]    	28
+Pre-operative chemotherapy [topp]    	1
+volatile [lbpr]    	1
+Lipid-Laden Macrophage [cell]    	1
+ITALY [geoa]    	14
+Generated [acty]    	3
+Giant [dsyn]    	2
+HepG2 Cells [cell]    	1
+Dual [anim]    	2
+paediatric [bmod]    	3
+Transformed [patf]    	1
+Mechanism [ftcn]    	6
+Sample [sbst]    	22
+combines [mnob]    	2
+Active [ftcn]    	4
+THICK [qlco]    	1
+Asia [geoa]    	17
+Contraceptives, Oral [phsu]    	10
+Divided [ftcn]    	13
+UNKNOWN [qlco]    	7
+Elevated serum transaminase levels [fndg]    	1
+Familial Adenomatous Polyposis [neop]    	6
+Questionnaire [inpr]    	7
+SD [mamm]    	1
+-- Suicide [fndg]    	1
+Chest X-ray [diap]    	1
+lines [spco]    	4
+de novo [idcn]    	8
+demographic characteristics [grpa]    	2
+Heterogeneity [qlco]    	2
+Gap Junction [bsoj]    	1
+Southeast [spco]    	1
+Hepatitis C virus infection [dsyn]    	84
+Bile Ducts, Extrahepatic [bpoc]    	3
+Epidemiological [bmod]    	16
+LTD [ortf]    	24
+exception [idcn]    	1
+HOSPITALIZED [fndg]    	5
+ADENOMA [neop]    	5
+Particle [chvs]    	1
+Papillary Thyroid Carcinoma [neop]    	1
+Site [spco]    	7
+Confocal Laser Scanning Microscopy [lbpr]    	5
+DIAGNOSIS [fndg]    	73
+International [idcn]    	5
+Aspect [qnco]    	3
+Compensated Liver Cirrhosis [dsyn]    	2
+Oxygen Therapy [topp]    	5
+Pilot Study [resa]    	4
+Histological type [clas]    	1
+Product [enty]    	1
+Brown tumour [dsyn]    	1
+Postoperative Period [tmco]    	1
+Skin Cancers [neop]    	1
+Currently [tmco]    	11
+Man [popg]    	6
+Convenience [qlco]    	1
+CL-6 [gngm]    	1
+Several Births [famg]    	1
+Breast Cancer Cell [cell]    	1
+Consistency finding [qlco]    	1
+Value [qnco]    	22
+Operable [qlco]    	1
+Multifactorial etiology [idcn]    	1
+PARTIAL [qnco]    	5
+Incident [idcn]    	8
+slides [resd]    	2
+Immunoassays, Enzyme [lbpr]    	1
+Severe Diseases [fndg]    	1
+Child-Pugh - Grade [inpr]    	1
+Science [ocdi]    	37
+parenteral [topp]    	3
+11q [nusq]    	2
+Contacts [hlca]    	1
+Contributing [acty]    	9
+3-Dimensional [spco]    	1
+disease duration [tmco]    	2
+Medical Records [inpr]    	3
+Rupture [phpr]    	2
+hepatitis viral markers [lbpr]    	3
+thrombocytopaenia [fndg]    	1
+origins [clas]    	2
+Progression-Free Survival [qnco]    	6
+Success [socb]    	3
+Fas Signaling [moft]    	1
+Transplantations, Liver [topp]    	1
+serum Hepatitis B e antigen [lbpr]    	1
+Hepatitis C virus antigen [imft]    	1
+Ordered [qlco]    	1
+Liver nodule [fndg]    	1
+Elective Surgical Procedures [topp]    	1
+Speckled [qlco]    	1
+Comparative Study [inpr]    	1
+metastatic tumors [neop]    	6
+Attitude [menp]    	1
+Geographic Locations [geoa]    	1
+Art [ocdi]    	1
+Subsequent [tmco]    	8
+Plasma sample [bdsu]    	3
+Odds Ratio [qnco]    	56
+absence [ftcn]    	24
+MENOPAUSE [phsf]    	7
+Adjusted [ftcn]    	21
+serum total bilirubin [lbpr]    	1
+Crude Survival [qnco]    	2
+IU/L [qnco]    	6
+Hepatitis C virus RNA negative [lbtr]    	2
+hepatoma cell [cell]    	1
+Reverse Transcription Polymerase Chain Reaction [mbrt]    	3
+Time, Prothrombin [lbpr]    	3
+Association [menp]    	65
+Embryonic Cells [emst]    	1
+Biological Marker [clna]    	2
+Antigen [imft]    	4
+Residual [qlco]    	9
+HEPATIC FIBROSIS [dsyn]    	3
+resected [topp]    	16
+Genes [gngm]    	12
+Occupational Exposure [inpo]    	2
+FRANCE [geoa]    	1
+Massive oedema [sosy]    	1
+Tumour size [spco]    	20
+Standard [qlco]    	1
+gallstone disease [dsyn]    	1
+Adenoviral [virs]    	1
+-- Skin Cancer [neop]    	2
+Excluded [idcn]    	9
+Overall Response [fndg]    	2
+Functional Status [fndg]    	1
+Normal Tissue injury [fndg]    	1
+4 5 [qnco]    	4
+In [qnco]    	7
+Family [famg]    	6
+Implantation [topp]    	7
+projections [inpr]    	1
+Infiltration [patf]    	3
+NEVER [tmco]    	2
+Analytical [resa]    	2
+Exposure to [clna]    	1
+mRNA Expression [genf]    	1
+Purpose [ftcn]    	19
+Transfection [mbrt]    	1
+Carrier state [fndg]    	2
+hepatic portal [bsoj]    	3
+Paint [mnob]    	1
+Chromosomes [celc]    	2
+positive serology [lbtr]    	2
+tumor resections [topp]    	1
+Contiguous Spread [neop]    	1
+Therapeutic Endoscopy [topp]    	1
+Exhibit [inpr]    	4
+Clerical workers [prog]    	1
+Narrow [qlco]    	1
+Embryonal Rhabdomyosarcoma [neop]    	2
+recovered [qlco]    	1
+Encephalopathy [dsyn]    	1
+Stage II [inpr]    	9
+HSD [dsyn]    	1
+Infiltrating [patf]    	10
+Male Gender [orga]    	4
+Control Groups [grup]    	4
+Eleven [qnco]    	4
+Attached [phpr]    	1
+Bile Duct Tumour [neop]    	1
+INDIA [geoa]    	2
+Enabled [menp]    	2
+Strong positive [fndg]    	1
+CHOLANGITIS, PRIMARY SCLEROSING [dsyn]    	52
+Suffering [mobd]    	1
+CLOSTRIDIUM PERFRINGENS [bact]    	2
+Gases [chvs]    	1
+overlapped [topp]    	1
+Genetic Backgrounds [orga]    	1
+Tree Shrews [mamm]    	2
+Flukes, Liver [euka]    	2
+Prognostic Factor [clna]    	25
+Organ [bpoc]    	3
+applicable [qlco]    	4
+Liver--Tumors [neop]    	8
+attacks [socb]    	1
+Immunofluorescence [lbpr]    	1
+Continued [idcn]    	1
+Support, NOS [medd]    	9
+Calcified [qlco]    	2
+Greater [qnco]    	32
+weighted [orga]    	10
+clinical reports [inpr]    	1
+Single-Stranded RNA [nnon]    	1
+Gain [qnco]    	7
+Long duration [qlco]    	5
+Interferon Therapy [topp]    	24
+RETINOPATHY [dsyn]    	1
+Ethanol consumption [inbe]    	1
+Transfusion History [fndg]    	1
+Right Adrenal Gland [bpoc]    	1
+Postoperative chemotherapy [topp]    	2
+Microbiological [inpr]    	1
+TNM Staging [clas]    	1
+Rejection [socb]    	4
+LIGHT MICROSCOPY [lbpr]    	1
+10^6 [qnco]    	1
+Multinodular [qlco]    	1
+Cost Effectiveness [qnco]    	12
+solid tumors [neop]    	2
+In the Field [spco]    	2
+Operative Blood loss [patf]    	2
+CCS [moft]    	2
+p53 tumor suppressor gene [gngm]    	4
+Evaluated [hlca]    	37
+Frequency [qnco]    	33
+Surgical exploration [diap]    	1
+Successful [socb]    	1
+Mild inflammation [fndg]    	1
+Ratios [qnco]    	2
+Bone Metastasis [neop]    	8
+variceal Bleeding [patf]    	2
+Increased lipid [fndg]    	1
+Leydig cell tumors [neop]    	1
+Delay [tmco]    	2
+Progressive [ftcn]    	4
+Specialized surgeon [prog]    	1
+Ligation [topp]    	4
+Nutrients [food]    	1
+Associated procedure [clas]    	1
+Destruction, Thermal [hcpp]    	1
+t-all [neop]    	1
+PSEUDOMONAS AERUGINOSA [bact]    	2
+Finding [sosy]    	4
+Searched [acty]    	2
+Effect, Anti-Carcinogenic [phsf]    	1
+technologies [ocdi]    	1
+Ninety Nine [qnco]    	1
+Biological Markers [clna]    	1
+Affecting [ftcn]    	14
+TRICHOMONIASIS [dsyn]    	2
+nonmelanoma skin cancer [neop]    	1
+Hepatic malignancies [neop]    	1
+Causative_agents [fndg]    	2
+Cea [euka]    	2
+Epidemiology [bmod]    	6
+Stabilized [qlco]    	3
+MILDLY [idcn]    	2
+Radiology [bmod]    	3
+November [tmco]    	4
+Undetectable [clna]    	1
+Placental [emst]    	1
+removes [qlco]    	1
+VENA CAVA [bpoc]    	1
+Mild to moderate [qlco]    	1
+WOMAN [popg]    	2
+Contracts [inpr]    	2
+Reducing [qlco]    	2
+eligibility criteria [qlco]    	1
+gene mutations [genf]    	1
+FUNGI [fngs]    	2
+Non-infected [ftcn]    	1
+million units [qnco]    	2
+Functional [ftcn]    	9
+Predominant [qlco]    	9
+Clinical Laboratory [hlca]    	6
+proliferation index [lbtr]    	1
+Assumed [inpr]    	2
+Length [qnco]    	9
+Theoretical [idcn]    	1
+DR [geoa]    	3
+Clinical Data [inpr]    	2
+Rarely [qlco]    	4
+Robust [qlco]    	1
+METABOLIC [ftcn]    	2
+Agent [chvf]    	6
+Causation [idcn]    	2
+Covered [ftcn]    	1
+0 days [fndg]    	2
+Duck hepatitis B virus infection [virs]    	2
+Psychiatric Disorders [mobd]    	1
+Receiver Operating Characteristic [qnco]    	3
+PERCENT [qnco]    	18
+STANDING [phsf]    	1
+visions [orgf]    	2
+Occupational [ftcn]    	6
+NCI [hcro]    	1
+Hypertension, Portal [dsyn]    	6
+CHLAMYDIA [bact]    	3
+HEPATITIS B [dsyn]    	46
+Farming [ocdi]    	1
+Chromosomal Gain [comd]    	2
+Breakthrough [qlco]    	1
+rights [qlco]    	25
+Tumor Debulking [topp]    	1
+Sinusoidal [spco]    	8
+Stationary [qlco]    	1
+Tract [bpoc]    	10
+Span [cnce]    	2
+Hepatitis B Core Antigen [imft]    	3
+scored [qnco]    	2
+Major Axis [spco]    	1
+Localization [ftcn]    	4
+Paper [mnob]    	4
+GUANINE [nnon]    	1
+ganglioside synthesis [moft]    	1
+LOCALIZED [spco]    	2
+Chemical Industry [orgt]    	1
+Modulator [mnob]    	2
+Initially [tmco]    	2
+Cell-Mediated Cytotoxicity [celf]    	1
+Diameter, Mean [qnco]    	2
+Intrahepatic duct [bpoc]    	2
+Lithiasis [patf]    	1
+Nodular lesions [fndg]    	2
+Renal Cell [cell]    	1
+>90 [qnco]    	8
+Cholestasis [dsyn]    	7
+biochemical tests [lbpr]    	1
+Encode [acty]    	1
+Candidate Genes [gngm]    	1
+Flaviviridae [virs]    	2
+prevention trials [resa]    	1
+Intrahepatic portal vein [bpoc]    	2
+Radiation dose [topp]    	3
+Nature [idcn]    	3
+Cystadenoma [neop]    	1
+Several pathologies [dsyn]    	1
+Continuous capillary vessel [bpoc]    	1
+chromosomal analysis [lbpr]    	1
+Ductopenia [fndg]    	2
+LIVER DISEASE [dsyn]    	35
+HUMAN IMMUNODEFICIENCY VIRUS POSITIVE [lbtr]    	1
+Angiomyolipoma [neop]    	1
+Multivariate Analyses [qnco]    	10
+Grade C [inpr]    	1
+Hepatic injury, NOS [inpo]    	1
+Targeted [ftcn]    	11
+Variety [cnce]    	4
+Biliary anastomosis [topp]    	1
+TYPE [qlco]    	44
+{VP} [qnco]    	3
+3 Months [tmco]    	1
+Hypervascular [qlco]    	3
+Slope [qnco]    	2
+Bearing [medd]    	1
+Twenty Five [qnco]    	1
+Immune Tolerance [patf]    	1
+Compressed [ftcn]    	1
+apparent [idcn]    	1
+subclasses [clas]    	1
+viruses infection [dsyn]    	1
+Abdominal Surgical [topp]    	1
+interferon alpha therapy [topp]    	6
+Study, Prospective [resa]    	13
+Angiogenesis [ortf]    	3
+Cessation [acty]    	3
+Antibiotic Prophylaxis [topp]    	1
+surgical treatment [hlca]    	8
+Attributable [menp]    	5
+Hormonal Therapy [topp]    	1
+Rationale [idcn]    	1
+mild moderate [qlco]    	1
+Wild [inpr]    	1
+Severe Sepsis [dsyn]    	1
+Case-Control Study [resa]    	32
+Radical [chvs]    	4
+observations [resa]    	2
+Friendly [qlco]    	2
+Revealed [qlco]    	28
+Lowest [qlco]    	1
+KIDNEYS [bpoc]    	3
+Elevated serum creatinine [fndg]    	1
+Viruses, Human Papilloma [virs]    	1
+localizations [ftcn]    	1
+Resident [prog]    	2
+Vision condition [fndg]    	1
+Metastatic [ftcn]    	5
+Paraffin Embedded Tissue [tisu]    	2
+differentiate [qlco]    	2
+Efficacy [qlco]    	10
+Group 2 [inpr]    	5
+Policy [inpr]    	4
+HEPATITIS B E ANTIGEN [imft]    	8
+High grade dysplastic nodule [neop]    	1
+Reach [orgf]    	3
+ATHEROSCLEROSIS [dsyn]    	2
+Macrosomia [fndg]    	1
+Protection, Cell [phsf]    	1
+Living donor liver [topp]    	1
+EGYPTIAN [lang]    	6
+Telomere [celc]    	4
+toxicity [qlco]    	6
+Measurable [ftcn]    	1
+Compliance [qnco]    	2
+Inference [menp]    	1
+Simple [qlco]    	4
+CTS [dsyn]    	1
+March [qlco]    	7
+Important [qlco]    	64
+Viral Genome [gngm]    	2
+Non-invasive [ftcn]    	6
+HEMORRHAGE [patf]    	3
+1p [nusq]    	3
+normal control [qlco]    	3
+experimental animal [anim]    	4
+CCA [cgab]    	10
+ANIMAL [anim]    	4
+Microscopic blood vessel [bpoc]    	1
+Endothelial Cells [cell]    	2
+Palliative [hcro]    	6
+Damage [inpo]    	4
+Pathologists [prog]    	3
+Helpful [qlco]    	5
+Bypass [topp]    	1
+Sexual transmission [ftcn]    	1
+MOLECULAR BASIS [idcn]    	1
+Second [qnco]    	10
+Adrenal Cortex [bpoc]    	1
+Uptake [phsf]    	3
+Anatomic Pathology [prog]    	1
+Bilobar [spco]    	1
+etiologies [ftcn]    	2
+Endocrine [bdsy]    	2
+Appearances [qlco]    	1
+low albumin [fndg]    	3
+Whole [qnco]    	2
+Insulin resistance syndrome [dsyn]    	1
+etc. [idcn]    	1
+DIAMETER [qnco]    	15
+Fibrosarcomas [neop]    	1
+Proliferation [patf]    	5
+DNA Sequence [nusq]    	1
+Derived [qlco]    	1
+Signal Transduction [celf]    	1
+Continual [tmco]    	1
+FIBROSIS [patf]    	28
+Inaccurate [qlco]    	1
+Hepatic Arterial Infusion [topp]    	1
+JAPAN [geoa]    	25
+hepatic tumours [neop]    	1
+Immunization Programs [hlca]    	1
+Drinking [inbe]    	1
+liver Abnormalities [cgab]    	1
+DRA [gngm]    	3
+solid tumour [neop]    	1
+Technology [ocdi]    	3
+Gained [qnco]    	3
+Biliary surgery [topp]    	1
+CYP2C19, wild-type [gngm]    	1
+AS [geoa]    	1
+Heavy [qlco]    	3
+Acceleration [phpr]    	1
+Trend [tmco]    	15
+Protocols [inpr]    	2
+Plasma Membrane [celc]    	1
+Rats, Wistar [mamm]    	1
+Animal models [anim]    	1
+Preceding [tmco]    	3
+CANDIDIASIS [dsyn]    	1
+Subject [grup]    	47
+Indian subcontinent [geoa]    	1
+hcv genotype 1 [virs]    	1
+sampled [diap]    	1
+Activities [acty]    	4
+Equilibrium [orgf]    	1
+Possibly [qlco]    	6
+ALCOHOL USE [inbe]    	1
+tumor growth [neop]    	5
+Epithelium [tisu]    	1
+Beta gene product [aapp]    	1
+Criteria [inpr]    	11
+Quality Adjusted Life Years [tmco]    	1
+Start [tmco]    	2
+Viral Hepatitis B [dsyn]    	1
+Model, Linear [qnco]    	1
+Insertion site [spco]    	1
+Tumour necrosis [neop]    	3
+Taken [cnce]    	9
+PULMONARY EMBOLUS [dsyn]    	1
+Preoperative [tmco]    	33
+CURRENT [tmco]    	27
+Initial [tmco]    	14
+Socioeconomic Status [qlco]    	1
+Significantly low [qnco]    	1
+Required [ftcn]    	16
+Chi-Square Test [inpr]    	1
+Cool [qlco]    	1
+Relevance [qlco]    	2
+biliary diseases [dsyn]    	1
+9p [nusq]    	3
+2-3 [resa]    	7
+Conference [hcpp]    	1
+Laboratory Tests [lbpr]    	1
+Orally [spco]    	1
+FAPy [orch]    	1
+Registry [inpr]    	1
+search [inpr]    	6
+ERS [patf]    	3
+Estimate [qnco]    	9
+ER [inbe]    	8
+Hepadnavirus Infection [dsyn]    	1
+Geographic Location [geoa]    	1
+Surrogate Marker [qlco]    	1
+Hormone Replacement Therapy [topp]    	2
+Portal Vein Thrombosis [dsyn]    	8
+Inpatient [podg]    	1
+Qualitative [qlco]    	2
+Anatomical [qlco]    	2
+Hepatitis C Viral infection [virs]    	1
+Dialysis [npop]    	1
+AUSTRALIA [geoa]    	1
+disease recurrence [fndg]    	1
+Carcinogenesis [neop]    	25
+Tumour stage [clna]    	6
+ENSURE [food]    	2
+December [qlco]    	16
+Treated [ftcn]    	81
+SAS [orch]    	2
+VISION LOSS [fndg]    	1
+Shape [spco]    	1
+Clinical setting [spco]    	1
+Cancer Patient [podg]    	2
+educate [edac]    	1
+Sharp [fndg]    	1
+Prevalences [qnco]    	8
+based case study [resa]    	1
+Therapeutic Research [resa]    	1
+HCT [lbpr]    	3
+cofactors [bacs]    	2
+5q [nusq]    	1
+Enhance [acty]    	5
+Retrospective Cohort Study [resa]    	1
+antibody negative [lbtr]    	3
+FAT [orga]    	2
+Approach [spco]    	13
+SECONDARY PREVENTION [topp]    	1
+Peanut butter [food]    	4
+Anatomy [bmod]    	5
+Chronic infection [dsyn]    	20
+COMPLETED [qlco]    	1
+1q [nusq]    	1
+Quantitation [qnco]    	1
+Therapies [topp]    	2
+RNA [nnon]    	5
+Requirement [ftcn]    	2
+Total Score [qnco]    	3
+des(gamma-carboxy)prothrombin [aapp]    	4
+Completion [qlco]    	4
+-- Colon Cancer [neop]    	5
+Malignant Pleural Effusion [dsyn]    	1
+causality [ftcn]    	5
+Computerised tomography [diap]    	1
+venesection [topp]    	1
+final diagnosis [qlco]    	1
+determination [lbpr]    	8
+Abscess formation [fndg]    	2
+PORPHYRIA, VARIEGATE [dsyn]    	1
+Clear [fndg]    	11
+False Negative [lbtr]    	2
+Rat Liver [bpoc]    	1
+Often [tmco]    	23
+Myeloid [qlco]    	1
+BRCA2 [gngm]    	1
+Post-Therapy [tmco]    	1
+Adenomyomatosis [patf]    	1
+Linear [spco]    	3
+RAP [gngm]    	1
+4 Weeks [tmco]    	4
+Reporting [hlca]    	1
+Vena caval [bpoc]    	1
+OCCUPATIONS [ocdi]    	1
+Hepatopathy [dsyn]    	1
+Drive [menp]    	1
+Neoplastic Nodule [fndg]    	1
+Liver decompensation [dsyn]    	1
+Genotypes [orga]    	14
+Rice [food]    	1
+Cellularity [lbpr]    	1
+Approximated [qlco]    	2
+Communities [geoa]    	2
+Tumor Sample [tisu]    	1
+Charges [qnco]    	1
+April [tmco]    	2
+Destruction [topp]    	2
+End Point [qlco]    	2
+Molecular Genetic [bmod]    	1
+Patient number [inpr]    	1
+Eight [qnco]    	14
+UNDERSTOOD [menp]    	5
+Spiral Computed Tomography [diap]    	1
+Patients [podg]    	1195
+EPHX [gngm]    	7
+Dual-Phase Spiral CT [diap]    	1
+Area [geoa]    	29
+Cytotoxic T Cell [cell]    	1
+Relative Risk [qnco]    	27
+Liver Diseases [dsyn]    	7
+metastatic Malignancy [neop]    	1
+Genomic DNA [nnon]    	2
+Cutoff [ftcn]    	2
+Predictive Value [qlco]    	4
+ADENOCARCINOMA, MALIGNANT [neop]    	1
+Ki-67 [lbpr]    	7
+Driving [dora]    	1
+Drug use [mobd]    	3
+ornithine decarboxylase activity [moft]    	8
+IMMUNOGENICITY [resa]    	2
+Synchronous [tmco]    	6
+Less Frequent [fndg]    	1
+RADIATION EXPOSURE [inpo]    	2
+Now [tmco]    	9
+Changed [ftcn]    	5
+Electrospray Ionization Mass Spectrometry [lbpr]    	1
+case report [inpr]    	3
+Ionizing radiation [npop]    	1
+Interaction [ftcn]    	19
+Microcirculation [ortf]    	1
+ACT [topp]    	5
+Southern Blot Hybridization [mbrt]    	1
+Indirect [qlco]    	3
+7 grade [inpr]    	1
+Sometimes [tmco]    	1
+Non-alcoholic cirrhosis NOS [dsyn]    	1
+female patients [orga]    	8
+malignant tumors [neop]    	3
+3 Weeks [tmco]    	2
+Metastatic liver tumors [neop]    	1
+Radiologic [bmod]    	1
+Biochemical [ftcn]    	13
+Hormones [horm]    	1
+Most significant [qlco]    	2
+Logistic Regression [resa]    	7
+increased activity [fndg]    	1
+Geographic Information System [inpr]    	1
+Macro [cnce]    	3
+Contrast [irda]    	30
+Minimal activity [fndg]    	1
+Industrial [ocac]    	1
+Very high [fndg]    	3
+Angiographies [diap]    	4
+prime [ftcn]    	2
+Retained [ftcn]    	2
+Moderately [qlco]    	8
+NEUTROPENIA [dsyn]    	2
+assist [socb]    	2
+Clinical Management [hlca]    	1
+Hepatitis B Infection [dsyn]    	1
+Paired [qlco]    	1
+c group [clas]    	1
+Mayo [geoa]    	2
+Analysis, Cohort [resa]    	1
+subgroup [virs]    	5
+Surg [tmco]    	5
+Staging System [inpr]    	6
+Eighteen [qnco]    	3
+Complication, Intraoperative [patf]    	1
+g/day [qnco]    	3
+biopsied [diap]    	4
+schistosomes [euka]    	1
+Population Surveillance [resa]    	1
+Microbubbles [medd]    	1
+Priority [tmco]    	2
+Median [spco]    	45
+Twelve [qnco]    	5
+Laparoscopic biopsy [diap]    	1
+Resolution [patf]    	1
+Goals [inpr]    	2
+Transplant Recipients [podg]    	1
+Nuclear magnetic resonance [diap]    	1
+Bile duct proliferation [dsyn]    	2
+Solid organ [bpoc]    	1
+Infection, Community-Acquired [dsyn]    	1
+cohesion [npop]    	1
+Stage C [inpr]    	2
+Spread [qlco]    	12
+estimates [qnco]    	10
+Human hepatitis B virus [virs]    	3
+DNA Mismatch Repair [genf]    	1
+ALCOHOLIC LIVER DISEASE [dsyn]    	17
+benign liver tumors [neop]    	1
+Clinical Diagnosis [qlco]    	3
+Food Habits [inbe]    	1
+ATROPHY LIVER [dsyn]    	3
+rtpcr [mbrt]    	7
+Public Health [bmod]    	8
+Dysplastic [patf]    	11
+Carcinomas [neop]    	5
+Hyperchromasia [comd]    	5
+SCHISTOSOMIASIS JAPONICA [dsyn]    	3
+Mutated [comd]    	2
+definition [idcn]    	2
+premalignant [neop]    	1
+Intractable ascites [fndg]    	1
+Septal fibrosis [patf]    	2
+Hepatic metastasis [neop]    	2
+Circulating [ftcn]    	2
+lymph node metastasis [neop]    	7
+Parallel [qlco]    	3
+tumor resection [topp]    	2
+resection [topp]    	120
+LIVER CIRRHOSIS [dsyn]    	84
+PNEUMONITIS, RADIATION [inpo]    	2
+augment [qnco]    	1
+Partial Response [fndg]    	2
+medical Treatments [topp]    	2
+radiography report [inpr]    	1
+ADULT [aggp]    	2
+Chronic Hepatitis C virus [dsyn]    	6
+16S rRNA [nnon]    	1
+Hepatitis C Infection [dsyn]    	4
+Chemotherapy [topp]    	14
+TRUE [qlco]    	1
+Measures [qnco]    	6
+BLEEDING [patf]    	4
+Immune [ftcn]    	1
+Oncogenesis [neop]    	2
+Intra-Arterial Injection [ftcn]    	1
+oncologic Operation [bmod]    	2
+Transcatheter arterial embolization therapy [topp]    	1
+Fulfill [phpr]    	1
+> 2 years [fndg]    	2
+Ductal [qlco]    	2
+HEPATITIS A [dsyn]    	4
+CONSIST [qlco]    	6
+Virologic Response [fndg]    	2
+hepatitis b serology [lbpr]    	2
+Hepatitis C virus genotype [fndg]    	13
+Fluke, Liver [euka]    	1
+biliary cysts [acab]    	1
+Frameshift [comd]    	1
+Laparoscopic [diap]    	3
+DISTRIBUTIONS [spco]    	3
+High antibody titre [fndg]    	1
+CT [geoa]    	4
+Foci [spco]    	2
+Parvoviruses [virs]    	1
+Northern [spco]    	4
+3 6 [fndg]    	8
+Slowly [qlco]    	2
+Low iron diet [topp]    	2
+check ups [fndg]    	1
+Critically Ill [dsyn]    	1
+Complex [qlco]    	4
+ACUTE [tmco]    	7
+Goal [inpr]    	2
+Intercellular Communication [celf]    	1
+Person [popg]    	1
+Tobacco EXPOSURE [fndg]    	1
+primary tumors [neop]    	7
+Taiwanese [popg]    	2
+Persistent infection [dsyn]    	1
+Residence [spco]    	3
+Determinant [ftcn]    	8
+Exercise [dora]    	1
+Seropositive [qlco]    	5
+Throat [bpoc]    	1
+Preliminary results [idcn]    	1
+Hepatic veins [bpoc]    	1
+vertical transmission [patf]    	1
+Deregulated [acty]    	1
+Useful [qlco]    	24
+Clinical course [tmco]    	5
+Hepatitis B, Chronic [dsyn]    	7
+liver tumours [neop]    	2
+chronic infections [dsyn]    	1
+combined treatment [topp]    	1
+Involving [ftcn]    	5
+Ageing [orgf]    	2
+hang [inpo]    	1
+Plate [medd]    	1
+Transmitted [patf]    	3
+warnings [gora]    	1
+Adjuvant Chemotherapy [topp]    	1
+cell damage [comd]    	3
+Extracted [topp]    	2
+PRIMARY PREVENTION [topp]    	3
+allowed [socb]    	1
+Placental Lesion [fndg]    	1
+Orthotopic Liver Transplantation [topp]    	9
+Histology [bmod]    	23
+progress [ftcn]    	13
+Intermittent administration [topp]    	1
+Prominent [qlco]    	3
+3p [nusq]    	1
+Necrotic [ortf]    	1
+Inflammatory condition [dsyn]    	1
+External [spco]    	1
+Histological grading systems [inpr]    	1
+PORPHYRIA [dsyn]    	1
+Common bile duct stones [bdsu]    	1
+Percutaneous approach [spco]    	1
+Livers [bpoc]    	11
+ALCOHOL ABUSE [mobd]    	7
+Tumour present [fndg]    	1
+DEFINITIVE [tmco]    	1
+Diagnostic Imaging Methods [diap]    	1
+resections [topp]    	15
+Minimum [qlco]    	1
+PurE [moft]    	1
+Vascularity [fndg]    	8
+Scheme [inpr]    	2
+Realism [idcn]    	2
+Adenomatous Polyposis Coli, Familial [neop]    	1
+FATTY CHANGE [patf]    	1
+BILIARY TRACT DISEASE, NOS [dsyn]    	1
+African country [geoa]    	2
+Mass Screening [hlca]    	2
+Atrophic [dsyn]    	1
+o blood group [fndg]    	1
+Oncogene Mutation [comd]    	1
+dropout [popg]    	1
+Carcinogens, Environmental [hops]    	1
+Undertaking [ocdi]    	1
+Mitotic [qlco]    	1
+Reproducibility [qlco]    	2
+Clinical findings [sosy]    	2
+Suppressed [ftcn]    	1
+Imaging Study [diap]    	3
+SS [mamm]    	3
+hospitalisation [hlca]    	3
+symptoms [ftcn]    	11
+Technique [ftcn]    	5
+Terminal stage [qlco]    	1
+Gray colour [qlco]    	1
+FOCAL [spco]    	14
+Aware [menp]    	1
+Good prognosis [fndg]    	3
+Median 2 [gngm]    	2
+Agreement [socb]    	3
+progressive disease [neop]    	1
+percutaneous ethanol injection [topp]    	23
+Bile leak [patf]    	1
+Bile Duct Cancer [neop]    	4
+Sex Ratio [qnco]    	1
+BIOLOGIC [bacs]    	4
+Instance [idcn]    	3
+mg/kg/day [qnco]    	1
+Viral Load [fndg]    	19
+Regional Therapy [topp]    	1
+Daily [tmco]    	4
+Phase [tmco]    	23
+Classic [qlco]    	2
+Bile duct Mucosa [bpoc]    	1
+Phenotypes [orga]    	1
+Eighty [qnco]    	7
+tested [inpr]    	17
+Follow-Up Studies [resa]    	2
+clonality [diap]    	1
+debate [acty]    	3
+TAIWAN [geoa]    	5
+survivals [acty]    	2
+Tupaia belangeri chinensis [mamm]    	1
+Hazard [qlco]    	4
+Accurate [qlco]    	6
+sustain [ftcn]    	1
+World [popg]    	16
+Magnetic Resonance Imaging Scan [diap]    	1
+Elevated serum alpha-fetoprotein [fndg]    	1
+FNH [dsyn]    	1
+High dose [qnco]    	2
+RADIATION INJURY [inpo]    	13
+prothrombin time ratio [lbtr]    	1
+PAX7-FKHR Fusion Protein [aapp]    	1
+MU [geoa]    	2
+Microdissection [lbpr]    	2
+ED [idcn]    	1
+Groups [idcn]    	60
+Blood Coagulation [ortf]    	1
+CARCINOMA [neop]    	33
+Dietary intake [orgf]    	1
+Bilirubin level [lbpr]    	1
+Stress [fndg]    	1
+occurrence [ftcn]    	29
+Adjacent [spco]    	4
+Together [qlco]    	2
+Autoimmune disorders [dsyn]    	1
+Platelet Count [lbpr]    	6
+Risk Estimate [qnco]    	1
+Tumour status [qlco]    	1
+Water Pollution [eehu]    	1
+Oncocytes [cell]    	1
+MALE [orga]    	24
+logistic [ocac]    	1
+Chromophobe Cell [cell]    	1
+SUSPICION [menp]    	4
+biliary cancer [neop]    	2
+lesions [fndg]    	58
+Intraabdominal [blor]    	2
+SERUM [bdsu]    	75
+H. pylori [bact]    	1
+PSA [gngm]    	1
+p53 Mutation [comd]    	8
+Ultrasound guidance [diap]    	1
+Female Gender [orga]    	1
+Knowledge [inpr]    	13
+Cancer Diagnostic Technique [diap]    	1
+Telomerase Gene [gngm]    	1
+Behavioral [inbe]    	1
+Organisms [orgm]    	2
+DNA Integration [genf]    	1
+Surgical Procedure [hlca]    	3
+MAL-5 [orch]    	1
+Bile secretion [ortf]    	1
+Progressive liver failure [fndg]    	1
+COMPUTERIZED TOMOGRAPHY [diap]    	9
+Editions [inpr]    	2
+Hepatoma [neop]    	4
+Non-Resectable Hepatocellular Carcinoma [neop]    	1
+Disturbance [qlco]    	3
+Authors [prog]    	20
+Member [popg]    	2
+Amplification [mbrt]    	4
+Exist [cnce]    	11
+Pharmaceutical [bmod]    	1
+Age-Adjusted Incidence Rate [qnco]    	3
+Cluster [inpr]    	2
+Cisplatin/Fluorouracil [topp]    	1
+DAYS [tmco]    	9
+liver surgical resection [topp]    	1
+Arterial blood supply [phsf]    	1
+Prophylactic [phsu]    	1
+chemoembolisation [topp]    	29
+PCR analysis [lbpr]    	2
+Antiviral Therapy [topp]    	2
+Calculated [ftcn]    	12
+Veterans [popg]    	5
+cancer cells [cell]    	6
+Kinetics [npop]    	1
+determinations [gora]    	3
+Cervical swab [bdsu]    	1
+nitrotyrosine [aapp]    	1
+Professions [ocdi]    	1
+Donor Screening [hlca]    	1
+Papillotomy [topp]    	1
+Elevation [topp]    	4
+Studies, Pilot [resa]    	1
+SUPERINFECTION [dsyn]    	1
+Portal fibrosis [patf]    	3
+Well Differentiated Hepatocellular Carcinoma [neop]    	6
+hospitalized patients [podg]    	1
+secretion [biof]    	2
+reasons [idcn]    	4
+9-10 [fndg]    	1
+3-D [spco]    	3
+MEDLINE [inpr]    	2
+Gross Involvement [fndg]    	1
+Intravenous Drug User [podg]    	1
+Adult Health [prog]    	1
+Advanced [qlco]    	9
+Sharing [socb]    	1
+North [spco]    	2
+Six months [tmco]    	2
+Department [orgt]    	4
+Not Specific [qlco]    	1
+high risks [qlco]    	3
+Surgical techniques [hlca]    	1
+cytokeratins [aapp]    	2
+Neoplastic [qlco]    	1
+Immediately [tmco]    	5
+single strand conformation polymorphism [lbtr]    	1
+Semicircular [qlco]    	1
+Environmental [spco]    	3
+Helicobacter species [bact]    	2
+Impairment [ftcn]    	1
+measuring [qlco]    	3
+depend [medd]    	10
+Vascular wall [bpoc]    	1
+Staged, NOS [fndg]    	1
+Acute Hepatitis [dsyn]    	1
+Liver Regeneration [ortf]    	1
+Degenerative change [patf]    	1
+Wedge Resection [topp]    	3
+III [inpr]    	13
+afb [bact]    	15
+First pass [tmco]    	1
+Time Activity Curve [qnco]    	4
+acute exacerbation [fndg]    	2
+Fatty metamorphosis [patf]    	2
+Amenable [qlco]    	2
+Suspected [qlco]    	5
+properties [qlco]    	2
+regimens [inpr]    	2
+Lung Cancer [neop]    	4
+Uni [food]    	1
+Felon [patf]    	1
+Phase II Study [resa]    	2
+Problems [idcn]    	3
+Insufficient [qlco]    	4
+NEEDLE [medd]    	9
+Application [hlca]    	3
+Not statistically significant [fndg]    	3
+shunting [topp]    	1
+Probability [qnco]    	13
+Department of Veterans Affairs [hcro]    	2
+Recurrence free survival [fndg]    	1
+Percutaneous Treatment [topp]    	1
+ANTERIOR [ftcn]    	1
+SPECIES [cnce]    	1
+hepatic complications [patf]    	5
+Streptozotocin Diabetes [emod]    	2
+Chromatographic analysis [lbpr]    	1
+radiotherapy [inpr]    	24
+Relief [fndg]    	1
+multiple regression [qlco]    	3
+Liver malignancies [neop]    	1
+presently [idcn]    	1
+Reference [inpr]    	5
+Current Therapy [topp]    	1
+Make [ftcn]    	19
+HEPATIC causes [idcn]    	1
+Common Tumour [neop]    	1
+infects [fndg]    	1
+Variance [qlco]    	1
+POWER [hcpp]    	1
+Resistant [ftcn]    	2
+TOLUENE [orch]    	2
+Heavy smoking [fndg]    	1
+EG [geoa]    	1
+Normal liver function [fndg]    	1
+Motor Vehicles [mnob]    	1
+Exposures, Environmental [inpo]    	1
+Concurrent [tmco]    	1
+YEARS [tmco]    	183
+Coupled [ftcn]    	3
+named [inpr]    	3
+CT Scans [diap]    	4
+contamination [hcpp]    	3
+Prior [tmco]    	3
+Groove [bsoj]    	2
+Generation [tmco]    	7
+Hepatocellular carcinoma, clear cell type [neop]    	1
+Twice [inpr]    	1
+AIL [neop]    	2
+Intrahepatic [spco]    	67
+Lipid Droplets [celc]    	1
+Junior [idcn]    	1
+Schistosoma japonicum [euka]    	2
+Saline [sbst]    	1
+Premature [fndg]    	1
+High risk Sexual Activity [fndg]    	1
+Metabolic Disorder [dsyn]    	1
+Causing [ftcn]    	3
+Three months [tmco]    	1
+ITALIAN [lang]    	6
+Curative treatment [fndg]    	10
+Genetically Engineered Mouse [emod]    	1
+Histologic Grade [clas]    	1
+Distribution pattern [spco]    	1
+Metabolites [bacs]    	3
+Percutaneous methods [topp]    	1
+0.014" [qnco]    	2
+Presenting [idcn]    	3
+Means [cnce]    	1
+1960s [tmco]    	2
+HEPATIC NEOPLASIA [neop]    	1
+reflect [menp]    	7
+Anastomosis [acab]    	6
+Conclusions [idcn]    	105
+Health [idcn]    	9
+Surgical Procedures [hlca]    	2
+Local-Regional [spco]    	1
+Cytological [ftcn]    	4
+painless jaundice [fndg]    	1
+Well [qlco]    	26
+Kaplan-Meier Analysis [qnco]    	1
+oncologic Disease [neop]    	1
+Attribution [menp]    	1
+Cell Lines [cell]    	1
+appropriateness [qlco]    	1
+expressions [topp]    	3
+HIV [virs]    	1
+tonic [phsu]    	1
+transplanted [topp]    	2
+ASCITES [fndg]    	6
+Marginal [spco]    	4
+asian countries [geoa]    	1
+0.022" [qnco]    	3
+B Viruses [virs]    	4
+Subset [clas]    	4
+Sex [orgf]    	16
+Complications [patf]    	24
+TUBE [medd]    	1
+Reduced [qlco]    	7
+Architectures [ocdi]    	1
+Mechanisms [ftcn]    	16
+PIE [dsyn]    	1
+Hepatic Insufficiency [patf]    	1
+Molecular Analysis [mbrt]    	1
+Low platelet count [fndg]    	3
+REGAIN [food]    	1
+Comet Assay [mbrt]    	1
+MBq [qnco]    	2
+ESOPHAGEAL VARICES [acab]    	5
+PRESINUSOIDAL PORTAL HYPERTENSION [dsyn]    	1
+Gray [qnco]    	3
+Hepatitis C virus positive [lbtr]    	24
+IMMUNOLOGY [bmod]    	1
+reactive oxygen species generation [biof]    	2
+genetic Investigation [hlca]    	1
+Alpha Value [qlco]    	1
+Designated [ftcn]    	1
+RECURRENT [tmco]    	5
+Cut [inpo]    	3
+imprinting [menp]    	1
+Radiofrequency Ablation [topp]    	16
+TRENDS [tmco]    	3
+Screening Examination [diap]    	2
+steps [cnce]    	2
+Course [tmco]    	16
+CHOLELITHIASIS [dsyn]    	2
+Impaired [ftcn]    	2
+Sexual [bhvr]    	1
+Statistical [ocdi]    	2
+LIVER NECROSIS [dsyn]    	1
+Consumption [acty]    	11
+Cranial [bpoc]    	1
+Removed [qlco]    	1
+Single [popg]    	39
+Type B Virus [virs]    	3
+INFECTIOUS PROCESS [patf]    	1
+chemo [topp]    	1
+Hepatitis B Surface Antigen carrier [fndg]    	4
+LIVER MASS [dsyn]    	1
+16q [nusq]    	8
+long-term study [resa]    	1
+Frame [nusq]    	1
+Palliative Care [bmod]    	2
+PIGMENT [orga]    	1
+Represent [acty]    	16
+exert [orgf]    	3
+Recently [tmco]    	3
+Curve [spco]    	7
+short [qlco]    	11
+Exposure NOS [inpo]    	42
+Solvents [irda]    	1
+practices [menp]    	1
+Transcatheter Treatment [topp]    	1
+Mapping [acty]    	2
+Endoscopic [diap]    	3
+Quantify [qnco]    	3
+After [tmco]    	2
+Weight [orga]    	4
+Enucleation [topp]    	3
+Stage 0 [inpr]    	1
+DNA Damage [comd]    	4
+Mild Disease [fndg]    	2
+Unrelated [fndg]    	4
+Population Attributable Risk [qnco]    	2
+persistently [idcn]    	1
+Pre-Malignant [qlco]    	5
+Refused [idcn]    	1
+TT virus infection [virs]    	4
+Need [qlco]    	10
+mg kg [qnco]    	2
+illegal drug use [inbe]    	1
+Common tumours [neop]    	1
+ABDOMINAL PAIN [sosy]    	4
+Experimental [qlco]    	8
+stenting [medd]    	1
+reviews [inpr]    	1
+Depth [spco]    	1
+Knowledgeable [fndg]    	1
+Understanding [menp]    	6
+Chronic hepatitis C [dsyn]    	54
+tumours liver [neop]    	1
+indication [idcn]    	5
+NOSE [bpoc]    	1
+Shell [bpoc]    	1
+Sexual behaviour [bhvr]    	1
+Parameter [spco]    	3
+advanced disease [fndg]    	4
+HEPATITIS B CARRIER [fndg]    	1
+Multiply [ftcn]    	1
+Sum [qnco]    	2
+Occupational Exposures [inpo]    	2
+staging systems [inpr]    	1
+Cure [cnce]    	8
+prospective [resa]    	9
+Roles [socb]    	6
+Low Grade [qlco]    	3
+French [lang]    	3
+One week [tmco]    	1
+RANDOM [resa]    	3
+Hepatitis virus b [virs]    	3
+Loss [qnco]    	21
+Thought [menp]    	1
+Cancer Cell [cell]    	3
+indicator [irda]    	1
+Immunohistochemical stains [lbpr]    	1
+Informative [qlco]    	2
+summary [inpr]    	14
+Quarter [qnco]    	1
+included [ftcn]    	22
+Non-cirrhotic [qlco]    	16
+Pretreatment [sbst]    	8
+Microscopic Involvement [fndg]    	1
+Eligibility [hlca]    	1
+Stop Codon Mutation [fndg]    	2
+Excellent [qlco]    	4
+Fungal [fngs]    	3
+Neuroendocrine [bdsy]    	3
+Histopathology finding [lbtr]    	1
+Hope [menp]    	3
+Collected [idcn]    	14
+Treatment Outcome [qlco]    	3
+progressing [ftcn]    	1
+Nodal [spco]    	1
+Hazards [qlco]    	2
+Iatrogenic [qlco]    	2
+Early Detection [diap]    	10
+Fold [spco]    	5
+Passive [qlco]    	1
+Cell Growth [celf]    	2
+heme biosynthesis [moft]    	1
+Open [spco]    	1
+Province [geoa]    	1
+THROMBOEMBOLISM [patf]    	1
+Cancer risk assessment [hlca]    	2
+Hepatitis C virus antibody positive [lbtr]    	12
+Liver cells [cell]    	3
+Extended hepatic resection [topp]    	5
+Cervical [blor]    	2
+Cystic [qlco]    	3
+NJ [geoa]    	1
+Surgical finding [fndg]    	1
+Lifestyle [socb]    	3
+Lymphoproliferative Diseases [neop]    	1
+YEAR [tmco]    	121
+1990s [tmco]    	9
+Gastroenterology [bmod]    	6
+Place [spco]    	4
+Hepatocellular Malignancy [neop]    	1
+Ethical Issues [idcn]    	1
+Aspiration, Fine Needle [diap]    	1
+Rats [mamm]    	21
+Procedure [topp]    	7
+Liver Biopsy [diap]    	10
+Cooking [dora]    	1
+Core [spco]    	8
+Tumor Suppressors [gngm]    	3
+clumping [qlco]    	1
+Permits [rnlw]    	1
+Hongkong [geoa]    	3
+Hyperplasias, Focal Nodular [dsyn]    	2
+Pathologic findings [fndg]    	9
+Ectatic [fndg]    	1
+Then [tmco]    	8
+expenses [qnco]    	1
+Neuroendocrine Tumors [neop]    	1
+makers [prog]    	1
+ABNORMAL [qlco]    	9
+Plays [dora]    	2
+Cytosolic [celc]    	1
+Uncommon [qlco]    	1
+RT [bpoc]    	3
+hepatitis b surface [lbpr]    	1
+Missense Mutation [genf]    	1
+Relative sites [spco]    	1
+Maternal Transmission [patf]    	4
+Age-Years [tmco]    	6
+mL/kg [qnco]    	1
+Germline Mutation [genf]    	1
+Tubular [spco]    	1
+ailments [sosy]    	2
+Evaluate [hlca]    	30
+GSTT1 [gngm]    	4
+disease complication [patf]    	1
+Hepatic virus infection [dsyn]    	1
+society [orgt]    	1
+type dna [mbrt]    	1
+Prophylactic therapy [inpr]    	2
+orthopedic condition [dsyn]    	1
+Statistically [ocdi]    	4
+Township [qnco]    	3
+Extensive [qlco]    	8
+Alive [idcn]    	4
+Positive margin [fndg]    	4
+Promoting [acty]    	3
+Actuary [prog]    	6
+FKHR [gngm]    	1
+Wildtype [gngm]    	12
+Low Risk [fndg]    	12
+Existentialism [inpr]    	1
+treatment [ftcn]    	142
+Pre-condition [cnce]    	2
+parts per million [qnco]    	1
+Likely [qlco]    	20
+SUDAN [geoa]    	5
+HEART [bpoc]    	1
+Obtained [ftcn]    	28
+Obtain [ftcn]    	5
+Integration [genf]    	6
+Nodules [acab]    	40
+Entry [inpr]    	4
+Degenerative [patf]    	1
+diagnostic Surgical [diap]    	2
+Haemochromatosis [dsyn]    	6
+Food [food]    	5
+High Histologic grade [qlco]    	1
+Attended [ftcn]    	1
+HYPERTRIGLYCERIDEMIA [dsyn]    	2
+Complicated [ftcn]    	3
+HFE GENE [gngm]    	4
+STOMACH [bpoc]    	3
+Depressions [mobd]    	1
+Normalization [resa]    	7
+Documented [hlca]    	6
+Preliminary [tmco]    	4
+VRE [bact]    	15
+lack [qlco]    	10
+Chemopreventive Agents [phsu]    	1
+Black Americans [popg]    	1
+Cholangiography [diap]    	6
+Wedge Hepatectomy [topp]    	1
+Hepatic tumour [neop]    	5
+Host response [ortf]    	1
+histologic examination [lbpr]    	1
+Host Defense Mechanism [ortf]    	1
+AUTOPSY [diap]    	2
+Mediterranean Region [geoa]    	1
+Alpha1 [qlco]    	1
+LIVER DAMAGE [patf]    	4
+Family Members [famg]    	1
+Community [geoa]    	5
+Genotypic [orga]    	1
+Vectors [nnon]    	1
+Cancer Diagnostic Method [diap]    	1
+Watchful Waiting [hlca]    	1
+CHC [gngm]    	6
+Clinical Significance [fndg]    	11
+DRUG ABUSE [mobd]    	1
+Approaches [spco]    	7
+data base [inpr]    	6
+Interval [tmco]    	9
+Disease-Free Survival [qnco]    	33
+Mostly [qnco]    	4
+BEFORE [tmco]    	1
+Survival Analysis [resa]    	1
+Euro [qnco]    	1
+Contraindication [qlco]    	1
+La [elii]    	1
+Interactive [ftcn]    	1
+HEPATOCELLULAR DAMAGE [patf]    	1
+prophylactic antibiotic [fndg]    	1
+Occlusive [ftcn]    	1
+environmental Causes [ftcn]    	2
+powers [hcpp]    	1
+American Society of Hematology [pros]    	1
+Viable [qlco]    	1
+peaks [qnco]    	1
+Affected [ftcn]    	5
+Epidemiological Factors [ftcn]    	2
+Homozygous [orga]    	8
+Awareness [menp]    	1
+CARDIOMYOPATHY [dsyn]    	1
+Preclinical [qlco]    	1
+amps [qnco]    	1
+Immune Response [ortf]    	1
+Compared [acty]    	80
+Antiangiogenesis [topp]    	1
+CARCINOGENS [hops]    	2
+Disease patient [fndg]    	1
+Surgical Margin [bpoc]    	5
+introduce [ftcn]    	3
+mark [qlco]    	1
+Mutations [genf]    	49
+intent [menp]    	5
+Time Period [tmco]    	1
+PEI [inpr]    	1
+Strain [inpo]    	1
+Complication [patf]    	11
+Benefit [qnco]    	10
+Staple [medd]    	1
+VIRUSES [virs]    	8
+Grouped [spco]    	5
+K-12 [qlco]    	1
+LOCAL [spco]    	31
+Very Often [inpr]    	1
+Sepsis [dsyn]    	4
+Out [spco]    	17
+SENSITIVITY SPECIFICITY [qnco]    	1
+g l [qnco]    	2
+HCV [virs]    	95
+Enhanced [acty]    	21
+Alone [qnco]    	25
+Immune System [bdsy]    	10
+High Grade [qlco]    	2
+Liver Cirrhoses [dsyn]    	1
+SINGAPORE [geoa]    	1
+Context [fndg]    	3
+Bacterial Infection [dsyn]    	1
+Co-infection [dsyn]    	3
+Alpha [inpr]    	5
+Differential Groups [lbpr]    	1
+compromise [fndg]    	2
+machinery [mnob]    	1
+Risk Factor [qnco]    	47
+People [popg]    	6
+Scan [diap]    	4
+Harvest [hlca]    	2
+healthcare professionals [prog]    	1
+Multifactorial [fndg]    	1
+LUNGS [bpoc]    	3
+counts [qnco]    	2
+Donor organ [bpoc]    	1
+nuclear antigen [imft]    	1
+Severity [qlco]    	15
+Males [orga]    	20
+Nuclear [spco]    	8
+Lacking [qlco]    	3
+GROWTH [orgf]    	11
+TC [elii]    	3
+Premalignant Lesion [neop]    	2
+Genetic polymorphisms [genf]    	3
+Pre-operative evaluation [diap]    	2
+Pale [fndg]    	1
+Prepared [fndg]    	1
+2b [inpr]    	1
+Lymph nodal status [qlco]    	1
+recommendations [idcn]    	1
+FEMALE [orga]    	11
+Metastatic hepatocellular carcinoma [neop]    	2
+Environment [spco]    	2
+tissue homeostasis [orgf]    	1
+Indicators [irda]    	2
+HILAR [spco]    	5
+Lobar [qlco]    	2
+CH [geoa]    	7
+Target [ftcn]    	3
+Altered [ftcn]    	7
+Beginning [tmco]    	3
+Solid [qlco]    	1
+Levels [qlco]    	89
+mediated [socb]    	3
+complicate [ftcn]    	1
+DATE [tmco]    	9
+Populations [qnco]    	4
+Epithelioid haemangioendothelioma [neop]    	2
+SINGLE DOSE TOXICITY [rnlw]    	1
+cd34 cells [cell]    	5
+Malignant cells [cell]    	3
+Suitable [qlco]    	4
+Porphyrias, Hepatic [dsyn]    	1
+Computed [lbpr]    	3
+promise [idcn]    	3
+Gall Bladder [bpoc]    	2
+Recurrent cholangitis [dsyn]    	1
+FALL [fndg]    	1
+10^3 [qnco]    	2
+Composite [qlco]    	1
+Assigned [ftcn]    	3
+Diversity [qlco]    	1
+recurs [phpr]    	1
+Cancer Registry [inpr]    	1
+Cyst, Hydatid [dsyn]    	1
+Variant [qlco]    	10
+Platelet Counts [lbpr]    	1
+Cancers [neop]    	22
+organs [bpoc]    	6
+Quantitative [qnco]    	4
+Hepatoblastomas [neop]    	3
+Addresses [inpr]    	1
+investigate [ftcn]    	25
+East [spco]    	1
+surveillance [ftcn]    	12
+Defined [inpr]    	23
+Solitary Nodule [fndg]    	1
+Available [ftcn]    	20
+Protective Factors [inbe]    	1
+male patients [orga]    	3
+Tumor specimens [tisu]    	1
+primary malignant tumours [neop]    	1
+disease severity [qlco]    	2
+Regimen B [topp]    	4
+contraindications [qlco]    	2
+EQUIVOCAL [qlco]    	1
+tables [mnob]    	1
+HYPERCHOLESTEROLEMIA [dsyn]    	3
+Rapidly [qlco]    	3
+HEPATIC ARTERY [bpoc]    	5
+Drugs [phsu]    	9
+Papillary [qlco]    	1
+Cancer Diagnosis [diap]    	1
+Sufficient [qlco]    	5
+Distributed [ftcn]    	4
+HIV1 [virs]    	1
+Alternative [cnce]    	2
+p53 Gene [gngm]    	12
+Hepatic atrophy [dsyn]    	3
+Biliary Obstruction [dsyn]    	3
+Aid [mnob]    	1
+High Grade Lesion [fndg]    	1
+Southwestern [spco]    	1
+Ingested [biof]    	1

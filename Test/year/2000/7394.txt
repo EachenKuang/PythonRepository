@@ -1,0 +1,4 @@
+Epidemiology [bmod]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Viral [ftcn]    
+Risk Factors [qnco]    

@@ -1,0 +1,8 @@
+YEAR [tmco]    
+Old [tmco]    
+OBESE [dsyn]    
+Man [popg]    
+liver lesion [fndg]    
+History [ocdi]    
+Haemochromatosis [dsyn]    
+LYMPHOMA [neop]    

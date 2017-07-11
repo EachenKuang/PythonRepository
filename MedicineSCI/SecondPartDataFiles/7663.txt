@@ -1,0 +1,5 @@
+Patients [podg]    
+CIRRHOSIS [dsyn]    
+2b [inpr]    
+Genotype [orga]    
+HEPATITIS C VIRUS [virs]    

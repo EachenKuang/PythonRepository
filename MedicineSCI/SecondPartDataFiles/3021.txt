@@ -1,0 +1,7 @@
+standards [inpr]    
+practice [menp]    
+Guidelines [inpr]    
+thermal ablation [topp]    
+Primary [qlco]    
+secondary tumors [neop]    
+LUNG [bpoc]    

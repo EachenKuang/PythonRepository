@@ -1,0 +1,7 @@
+Acute Hepatic Failure [dsyn]    
+Related [qlco]    
+Risk Factors [qnco]    
+Transcatheter [spco]    
+Arterial [bpoc]    
+chemoembolisation [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    

@@ -1,0 +1,7 @@
+pathogenesis [ftcn]    
+primary cancer [neop]    
+Intrahepatic [spco]    
+Epithelial [qlco]    
+Meta-Analysis [inpr]    
+Risk Factors [qnco]    
+Intrahepatic Cholangiocarcinoma [neop]    

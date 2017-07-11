@@ -1,0 +1,8 @@
+chemoembolisation [topp]    
+Induced [ftcn]    
+Tumour necrosis [neop]    
+Correlation [qlco]    
+HRI [gngm]    
+Pathology [bmod]    
+cirrhotics [qlco]    
+HEPATOCELLULAR CARCINOMA [neop]    

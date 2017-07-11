@@ -1,0 +1,6 @@
+DIAGNOSIS [fndg]    
+Cholangiocarcinoma [neop]    
+Patients [podg]    
+PSC [dsyn]    
+Sight [orgf]    
+Cytology [lbpr]    

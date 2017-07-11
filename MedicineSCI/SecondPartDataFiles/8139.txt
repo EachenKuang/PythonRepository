@@ -1,0 +1,4 @@
+Gross pathology [lbtr]    
+HEPATOCELLULAR CARCINOMA [neop]    
+demographic [ocdi]    
+Environmental [spco]    

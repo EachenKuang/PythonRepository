@@ -1,0 +1,4 @@
+clinical Feature [clna]    
+HEPATOCELLULAR CARCINOMA [neop]    
+etiology [ftcn]    
+Risk Factors [qnco]    
