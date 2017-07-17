@@ -43,10 +43,10 @@ def load():
     dictionary = corpora.Dictionary.load('./tmp/all_doucment.dict')
     corpus = corpora.BleiCorpus('./tmp/corpus.blei')
 
-    lda = models.LdaModel(corpus,id2word=dictionary,num_topics=10,per_word_topics=True)
+    lda = models.LdaModel(corpus, id2word=dictionary, num_topics=10, per_word_topics=True)
     print lda.id2word
     print '----------------------------------------------------'
-    list = lda.get_document_topics(corpus,per_word_topics=True)
+    list = lda.get_document_topics(corpus, per_word_topics=True)
     pprint(list[2])
 
 
@@ -150,13 +150,15 @@ for i in range(10):
 # print di
 # models.LdaModel.show_topics()
 
+"""字典可视化的方法"""
 # dictionary = corpora.Dictionary.load('./temp/all_doucment.dict')
 # dictionary.save_as_text('./temp/dict_old', sort_by_word=True)
 # dictionary.filter_extremes(no_below=10, no_above=0.5, keep_n=None, keep_tokens=None)
 # dictionary.save_as_text('./temp/dict', sort_by_word=True)
 # dictionary.save('./temp/dict.dict')
 
-#------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------
 '''
 dictionary = corpora.Dictionary.load('./temp/dict.dict')
 print dictionary.id2token
@@ -171,10 +173,12 @@ with open("item_list.txt",'w')as ww:
 lda1 = models.LdaModel.load('./temp/_2000-2001lda_moedel')
 show = lda1.show_topics(num_words=400, formatted=False)
 dict_show = dict(show)
-#dict_show[i] 第i个主题
+# dict_show[i] 第i个主题
 list = []
 for i in dict(dict_show[0]).iterkeys():
     list.append(str(i))
     print i
 print list
 set(list)
+
+models.LdaModel.get_document_topics()

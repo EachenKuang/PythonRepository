@@ -4,7 +4,7 @@
 # Author: Eachen Kuang
 # Date:  2017.6.4
 # Goal: new LDA model
-# Other:
+# Other:计算余弦相似度
 # '''
 import logging
 from gensim import models
@@ -18,6 +18,7 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 
 # 计算余弦值
 # 传入参数：  a = [num1,num2,num3,...] b = [num1,num2,num3,...]
+
 
 def cossim(a, b):
     dot_product = 0.0
@@ -33,15 +34,15 @@ def cossim(a, b):
         return dot_product/((normA*normB)**0.5)
 
 # 读取lda模型
-lda1 = models.LdaModel.load('./temp/_2000-2001lda_moedel')
-lda2 = models.LdaModel.load('./temp/_2002-2003lda_moedel')
-lda3 = models.LdaModel.load('./temp/_2004-2005lda_moedel')
-lda4 = models.LdaModel.load('./temp/_2006-2007lda_moedel')
-lda5 = models.LdaModel.load('./temp/_2008-2009lda_moedel')
-lda6 = models.LdaModel.load('./temp/_2010-2011lda_moedel')
-lda7 = models.LdaModel.load('./temp/_2012-2013lda_moedel')
-lda8 = models.LdaModel.load('./temp/_2014-2015lda_moedel')
-lda9 = models.LdaModel.load('./temp/_2016-2017lda_moedel')
+lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
+lda2 = models.LdaModel.load('./timewindow_in3/_2002-2003-2004lda_model')
+lda3 = models.LdaModel.load('./timewindow_in3/_2004-2005-2006lda_model')
+lda4 = models.LdaModel.load('./timewindow_in3/_2006-2007-2008lda_model')
+lda5 = models.LdaModel.load('./timewindow_in3/_2008-2009-2010lda_model')
+lda6 = models.LdaModel.load('./timewindow_in3/_2010-2011-2012lda_model')
+lda7 = models.LdaModel.load('./timewindow_in3/_2012-2013-2014lda_model')
+lda8 = models.LdaModel.load('./timewindow_in3/_2014-2015-2016lda_model')
+lda9 = models.LdaModel.load('./timewindow_in3/_2016-2017lda_model')
 
 # 读取phi矩阵，用于全矩阵运算
 phi1 = np.array(lda1.expElogbeta)
@@ -69,9 +70,9 @@ show6 = lda6.show_topics(num_words=40, formatted=False)
 topic_dict6 = dict(show6)
 show7 = lda7.show_topics(num_words=40, formatted=False)
 topic_dict7 = dict(show7)
-show8 = lda8.show_topics(num_words=40,formatted=False)
+show8 = lda8.show_topics(num_words=40, formatted=False)
 topic_dict8 = dict(show8)
-show9 = lda9.show_topics(num_words=40,formatted=False)
+show9 = lda9.show_topics(num_words=40, formatted=False)
 topic_dict9 = dict(show9)
 
 
@@ -81,28 +82,28 @@ topic_dict9 = dict(show9)
 #
 # print models.interfaces.matutils.cossim(topic_dict[2],topic_dict[1])
 # print cossim(phi[2],phi[1])
-wbk = xlwt.Workbook()
 
-sheet = wbk.add_sheet('sheet 1')
+wbk = xlwt.Workbook()
+sheet = wbk.add_sheet("sheet 1")
 for i in range(10):
     for j in range(10):
-        print(i,j)
+        print(i, j)
         sim1 = models.interfaces.matutils.cossim(topic_dict1[i], topic_dict2[j])
         sheet.write(i+1, j+1, str(sim1))
-        sim2 = cossim(phi1[i],phi2[j])
+        sim2 = cossim(phi1[i], phi2[j])
         sheet.write(i + 1, j + 14, str(sim2))
         # print(cossim(phi1[i],phi2[j]))
 
-# sheet = wbk.add_sheet('sheet 2')
+sheet = wbk.add_sheet('sheet 2')
 for i in range(10):
     for j in range(10):
-        print(i,j)
+        print(i, j)
         sim1 = models.interfaces.matutils.cossim(topic_dict2[i], topic_dict3[j])
         sheet.write(i+1, j+1, str(sim1))
-        sim2 = cossim(phi2[i],phi3[j])
+        sim2 = cossim(phi2[i], phi3[j])
         sheet.write(i + 1, j + 14, str(sim2))
 
-# sheet = wbk.add_sheet('sheet 3')
+sheet = wbk.add_sheet('sheet 3')
 for i in range(10):
     for j in range(10):
         print(i, j)
@@ -111,7 +112,7 @@ for i in range(10):
         sim2 = cossim(phi3[i], phi4[j])
         sheet.write(i + 1, j + 14, str(sim2))
 
-# sheet = wbk.add_sheet('sheet 4')
+sheet = wbk.add_sheet('sheet 4')
 for i in range(10):
     for j in range(10):
         print(i, j)
@@ -120,7 +121,7 @@ for i in range(10):
         sim2 = cossim(phi4[i], phi5[j])
         sheet.write(i + 1, j + 14, str(sim2))
 
-# sheet = wbk.add_sheet('sheet 5')
+sheet = wbk.add_sheet('sheet 5')
 for i in range(10):
     for j in range(10):
         print(i, j)
@@ -129,7 +130,7 @@ for i in range(10):
         sim2 = cossim(phi5[i], phi6[j])
         sheet.write(i + 1, j + 14, str(sim2))
 
-# sheet = wbk.add_sheet('sheet 6')
+sheet = wbk.add_sheet('sheet 6')
 for i in range(10):
     for j in range(10):
         print(i, j)
@@ -138,7 +139,7 @@ for i in range(10):
         sim2 = cossim(phi6[i], phi7[j])
         sheet.write(i + 1, j + 14, str(sim2))
 
-# sheet = wbk.add_sheet('sheet 7')
+sheet = wbk.add_sheet('sheet 7')
 for i in range(10):
     for j in range(10):
         print(i, j)
@@ -147,7 +148,7 @@ for i in range(10):
         sim2 = cossim(phi7[i], phi8[j])
         sheet.write(i + 1, j + 14, str(sim2))
 
-# sheet = wbk.add_sheet('sheet 8')
+sheet = wbk.add_sheet('sheet 8')
 for i in range(10):
     for j in range(10):
         print(i, j)
