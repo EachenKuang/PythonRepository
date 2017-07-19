@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
 import logging
+import gensim
 from gensim import models
 from gensim import corpora
 import numpy as np
@@ -184,7 +185,7 @@ with open("item_list.txt",'w')as ww:
 bow = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
 # models.LdaModel.get_document_topics(bow, minimum_probability=None, minimum_phi_value=None, per_word_topics=False)
 
-lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
+# lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
 # string = lda1.get_document_topics(bow, minimum_probability=None, minimum_phi_value=None, per_word_topics=False)
 # print string[0]
 # lda1.show_topics(num_topics=10, num_words=10, log=True, formatted=True)
@@ -192,5 +193,15 @@ lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
     # id2word
     # .show_topics(num_topics=10, num_words=10, log=True, formatted=True)
 
-docTopicProbMat = lda1[bow]
-print docTopicProbMat[0]
+# docTopicProbMat = lda1[bow]
+#
+# print docTopicProbMat[0]
+
+# numpy_matrix = gensim.matutils.corpus2dense(bow, num_terms=bow.length)
+
+print bow.length, bow.fname, bow.index, bow.index.__len__(), bow.id2word, bow.__len__()
+print bow.docbyoffset(bow.index[0])
+print bow.docbyoffset(bow.index[1])
+
+
+#遍历下所有的
