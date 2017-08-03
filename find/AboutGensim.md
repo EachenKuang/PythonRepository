@@ -36,6 +36,45 @@ print bow.index.__len__()    #517 长度
 print bow.id2word
 print bow.__len__()    #517 长度
 ```
+## 2017.8.3
+
+使用`gensim.matutils.corpus2csc`可以将一个corpus转化为一个csc的三元组列表
+使用`gensim.matutils.corpus2dense`可以将一个corpus转化为一个dense矩阵
+```python
+import scipy.sparse
+bow = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
+scipy_csc_matrix = gensim.matutils.corpus2csc(corpus=bow)
+scipy_dence_matrix = gensim.matutils.corpus2dense(corpus=bow, num_terms=bow.id2word.__len__())
+print scipy_csc_matrix
+print scipy_dence_matrix[0].__len__()
+print scipy_csc_matrix.dtype, scipy_csc_matrix.get_shape
+```
+
+下面是对于`corpus2dense`的源码解释
+```python
+def corpus2dense(corpus, num_terms, num_docs=None, dtype=np.float32):
+    """
+    Convert corpus into a dense np array (documents will be columns). You
+    must supply the number of features `num_terms`, because dimensionality
+    cannot be deduced from the sparse vectors alone.
+
+    You can optionally supply `num_docs` (=the corpus length) as well, so that
+    a more memory-efficient code path is taken.
+
+    This is the mirror function to `Dense2Corpus`.
+
+    """
+    if num_docs is not None:
+        # we know the number of documents => don't bother column_stacking
+        docno, result = -1, np.empty((num_terms, num_docs), dtype=dtype)
+        for docno, doc in enumerate(corpus):
+            result[:, docno] = sparse2full(doc, num_terms)
+        assert docno + 1 == num_docs
+    else:
+        result = np.column_stack(sparse2full(doc, num_terms) for doc in corpus)
+    return result.astype(dtype)
+```
+
 
 
 
