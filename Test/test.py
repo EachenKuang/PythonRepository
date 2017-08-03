@@ -182,7 +182,7 @@ with open("item_list.txt",'w')as ww:
 # print list
 # set(list)
 
-bow = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
+# bow = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
 # models.LdaModel.get_document_topics(bow, minimum_probability=None, minimum_phi_value=None, per_word_topics=False)
 
 # lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
@@ -199,9 +199,24 @@ bow = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
 
 # numpy_matrix = gensim.matutils.corpus2dense(bow, num_terms=bow.length)
 
-print bow.length, bow.fname, bow.index, bow.index.__len__(), bow.id2word, bow.__len__()
-print bow.docbyoffset(bow.index[0])
-print bow.docbyoffset(bow.index[1])
+# print bow.length, bow.fname, bow.index, bow.index.__len__(), bow.id2word, bow.__len__()
+# print bow.docbyoffset(bow.index[0])
+# print bow.docbyoffset(bow.index[1])
 
 
 #遍历下所有的
+
+# corpora.BleiCorpus
+
+import scipy.sparse
+# bow = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
+# scipy_csc_matrix = gensim.matutils.corpus2csc(corpus=bow)
+# scipy_dence_matrix = gensim.matutils.corpus2dense(corpus=bow, num_terms=bow.id2word.__len__())
+# print scipy_csc_matrix
+# print scipy_dence_matrix[0].__len__()
+# print scipy_csc_matrix.dtype, scipy_csc_matrix.get_shape
+
+lda = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
+# models.LdaModel.get_topic_terms(0, 20)
+raw = lda.get_topic_terms(0, 20)
+print raw[0][0]

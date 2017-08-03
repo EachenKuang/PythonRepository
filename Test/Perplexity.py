@@ -3,7 +3,7 @@
 """
 Author: Eachen Kuang
 Date:  2017.7.11
-Goal: Perplexity
+Goal: Perplexity 困惑度画图计算
 Other:
 """
 
