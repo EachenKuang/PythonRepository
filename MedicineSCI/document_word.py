@@ -37,6 +37,7 @@ def multiply_document_word_matrix():
     result = np.matrix(df.T)*np.matrix(df)
     pd.DataFrame(result).to_csv('result_0_1.csv')
 
+
 def select_topic_from_matrix():
     topic1 = open('topic8', 'r')
     topic2 = open('topic6', 'r')

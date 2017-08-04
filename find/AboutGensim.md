@@ -75,7 +75,9 @@ def corpus2dense(corpus, num_terms, num_docs=None, dtype=np.float32):
     return result.astype(dtype)
 ```
 
+## 2017.8.4
 
+今天下载了新的数据，并且准备入库
 
 
 
