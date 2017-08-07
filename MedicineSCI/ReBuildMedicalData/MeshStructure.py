@@ -33,7 +33,7 @@ with open("d2017.bin", "r") as readMesh:
 
             except:
                 wrong += 1
-                print(wrong,sql)
+                print(wrong, sql)
 
             MH_value = ''
             MN_value = ''
@@ -45,11 +45,11 @@ with open("d2017.bin", "r") as readMesh:
                 continue
             newline = line.split(" = ")
             if newline[0] == "MH":
-                #col_name = "MH"
+                # col_name = "MH"
                 MH_value = newline[1]
             elif newline[0] == "ENTRY":
-                #需要处理有多个ENTRY的情况，多个ENTRY用分号分隔开
-                #col_name = "ENTRY"
+                # 需要处理有多个ENTRY的情况，多个ENTRY用分号分隔开
+                # col_name = "ENTRY"
                 ENTRY_line = newline[1].split('|')[0]
                 ENTRY_value += ENTRY_line + ";"
             elif newline[0] == "MN":
@@ -61,10 +61,6 @@ with open("d2017.bin", "r") as readMesh:
                 AN_value = newline[1]
             else:
                 continue
-
-
-
-
 
 
 

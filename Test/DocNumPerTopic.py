@@ -20,6 +20,12 @@ def find_max_in_list(doc_topic_list):
 
 
 def num_doc_per_topic(corpus, lda):
+    """
+    计算每个主题中文档数目
+    :param corpus:语料库
+    :param lda: LDA模型
+    :return: a_list:主题文档数目的list
+    """
     # 通过lad[document]来判断该文档属于lda的哪个topic
     # 返回一个list，保存
     a_list = [0] * Global.TOPIC_NUM  # 全局变量，这边默认为10
@@ -27,9 +33,12 @@ def num_doc_per_topic(corpus, lda):
         # print lda[corpus.docbyoffset(corpus.index[i])][0]
         temper = find_max_in_list(lda[corpus.docbyoffset(corpus.index[i])][0])
         a_list[temper] += 1
-    print corpus.__len__(), a_list
+    # print corpus.__len__(), a_list
     return a_list
-corpus = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
-lda = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
 
-num_doc_per_topic(corpus, lda)
+# 先写一个示例，用一个corpus与一个LdaModel来测试，之后在使用循环解决所有问题
+corpus_exam = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
+lda_exam = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
+
+num_doc_per_topic(corpus_exam, lda_exam)
+
