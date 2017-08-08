@@ -89,8 +89,15 @@ def main():
                    '-' + data_in_folds_year[i * 2 + 2])
 
 
-if __name__ == '__main__':
-    main()
+#增加1999-2000 时间窗。
+def test():
+    path = "./year/1999/"
+    # read_from_raw(path)
+    make_store(read_from_raw(path), "1999-2000")
+
+test()
+# if __name__ == '__main__':
+#     main()
 
 
 
