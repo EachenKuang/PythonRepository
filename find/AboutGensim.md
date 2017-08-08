@@ -99,3 +99,20 @@ for (element1,element2) in zip(list1,list2):
     function(element1,element2)
 ```
 就OK了。 
+
+## 补充
+在使用[gensim](http://radimrehurek.com/gensim/index.html)的时候,我需要获得两个矩阵：document——topic矩阵以及topic-word矩阵。
+后者相对于前者来说比较好实现。使用
+
+1.Per-document topic probability matrix:
+Apply a transformation to your corpus.
+
+```
+docTopicProbMat = lda[corpus]
+```
+2.Per-topic word probability matrix:
+
+```
+K = lda.num_topics
+topicWordProbMat = lda.print_topics(K)
+```
