@@ -80,4 +80,22 @@ def corpus2dense(corpus, num_terms, num_docs=None, dtype=np.float32):
 今天下载了新的数据，并且准备入库
 
 
+## 2017.8.8
 
+今天在处理两个相同长度的list，遇到了一些困难。
+我先写了这样的语句：  
+
+```python
+for element1,element2 in list1,list2:
+    function(element1,element2)
+```
+然后发现行不通。  
+
+想着想着，应该怎样做呢？
+后来，灵机一动，想到一个`zip`函数
+然后将代码改成了如下：  
+```python
+for (element1,element2) in zip(list1,list2):
+    function(element1,element2)
+```
+就OK了。 
