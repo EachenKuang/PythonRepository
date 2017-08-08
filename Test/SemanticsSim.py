@@ -121,7 +121,7 @@ def main():
                 print str(i)+str(i+1)+'topic'
                 print(j, k)
                 sim1 = Innovation.inno(list_all[i][j], list_all[i+1][k], dic_MN, dic_AN, dic_EN)
-                sheet.write(j+1,k+1, str(sim1))
+                sheet.write(j+1, k+1, str(sim1))
 
     wbk.save("topic_evolution_semanticSim.xls")
 if __name__ == '__main__':
