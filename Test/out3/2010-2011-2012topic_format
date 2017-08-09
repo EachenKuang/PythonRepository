@@ -1,0 +1,410 @@
+topic0
+Study [mnob] 0.00907057595455
+Increased [qnco] 0.00768836522186
+CANCER [neop] 0.00737519537518
+Risk Factors [qnco] 0.00664535447919
+Levels [qlco] 0.00618845659388
+YEAR [tmco] 0.00529240422829
+Compared [acty] 0.0052021630235
+Methods [inpr] 0.00493772564866
+Survival [acty] 0.00474384656777
+CIRRHOSIS [dsyn] 0.00472719451142
+Cases [ftcn] 0.0045495042544
+CI [geoa] 0.00449035264677
+control [qlco] 0.0042836009967
+YEARS [tmco] 0.00426378205957
+Related [qlco] 0.00412642100471
+Cholangiocarcinoma [neop] 0.00393204823549
+Conclusions [idcn] 0.00389541098882
+LIVER [bpoc] 0.0038398013294
+Infected [fndg] 0.00346250499303
+Based [ftcn] 0.00343650886637
+Suggest [idcn] 0.00341678478972
+Including [ftcn] 0.00329751140672
+Group [idcn] 0.00318862406933
+Independent [idcn] 0.0031811317256
+Identified [qlco] 0.00302500136204
+Pathology [bmod] 0.00284241360115
+Invasion [fndg] 0.00281159444345
+Present [qnco] 0.00277118324879
+HCV [virs] 0.00272849649125
+included [ftcn] 0.00269750996063
+Induced [ftcn] 0.00266676089261
+Observed [ftcn] 0.00265629185391
+DIAGNOSIS [fndg] 0.00259067202
+Association [menp] 0.00255549036512
+Mutations [genf] 0.00254868187478
+Detected [fndg] 0.00252953555842
+Marker [clna] 0.00252536776809
+Tumour NOS [neop] 0.00246963245324
+Tumors [neop] 0.00246946317295
+Performed [ftcn] 0.00244988450827
+topic1
+Risk Factors [qnco] 0.0119337431714
+Group [idcn] 0.0107660444873
+Nonalcoholic Fatty Liver Disease [dsyn] 0.00920352687913
+Cases [ftcn] 0.00785592627399
+Study [mnob] 0.00738373127053
+LIVER [bpoc] 0.00629096537912
+Methods [inpr] 0.0058174403169
+HEPATITIS C VIRUS [virs] 0.0057927592478
+YEARS [tmco] 0.00557303330871
+Tumour NOS [neop] 0.00547574398797
+CIRRHOSIS [dsyn] 0.00528818146017
+Radiofrequency Ablation [topp] 0.00502744409765
+Groups [idcn] 0.00502236780339
+Survival [acty] 0.00494053482208
+DIAGNOSIS [fndg] 0.00465346607068
+Including [ftcn] 0.00443500272081
+Based [ftcn] 0.00431786423154
+treatment [ftcn] 0.00376499605497
+CANCER [neop] 0.00367792747781
+Conclusions [idcn] 0.0035866259281
+Compared [acty] 0.00357910789704
+Cholangiocarcinoma [neop] 0.00350952878331
+Increased [qnco] 0.00350346392484
+Liver Transplantation [topp] 0.00335036627926
+Treated [ftcn] 0.0032086772267
+HEPATITIS B VIRUS [virs] 0.00314338589801
+Related [qlco] 0.00307579365467
+CI [geoa] 0.00300536734395
+Pathology [bmod] 0.00299220312778
+Important [qlco] 0.00293331786362
+Hepatic [blor] 0.00288969353387
+control [qlco] 0.00285104189416
+Mortality [qnco] 0.00283270648234
+Performed [ftcn] 0.00280502157283
+FIBROSIS [patf] 0.00280231045428
+Tumors [neop] 0.00266793447834
+YEAR [tmco] 0.00256578022235
+Median [spco] 0.00245045586731
+Low [qlco] 0.00244217141808
+Independent [idcn] 0.00241793951211
+topic2
+Survival [acty] 0.0160381136007
+Risk Factors [qnco] 0.00999653668374
+Study [mnob] 0.00952304478529
+Methods [inpr] 0.00805026983861
+YEARS [tmco] 0.0064323822173
+treatment [ftcn] 0.00630501977684
+CIRRHOSIS [dsyn] 0.00600007259061
+HEPATITIS C VIRUS [virs] 0.00539638971586
+Cases [ftcn] 0.00474066190128
+LIVER [bpoc] 0.00471248466984
+Margin [spco] 0.00466821902081
+Tumour NOS [neop] 0.00440714098802
+Mortality [qnco] 0.00439439692121
+Independent [idcn] 0.00410882108197
+resection [topp] 0.00410634713741
+Related [qlco] 0.00408797287971
+Compared [acty] 0.00399891382543
+Median [spco] 0.00398791897089
+HEPATITIS B VIRUS [virs] 0.0039193348353
+YEAR [tmco] 0.00379013085187
+Increased [qnco] 0.00354731278345
+Treated [ftcn] 0.0035190362709
+Group [idcn] 0.00347288368967
+DIAGNOSIS [fndg] 0.00342322699544
+Groups [idcn] 0.0033898371438
+Liver Transplantation [topp] 0.00325058846935
+Hazard Ratio [qnco] 0.00322304506095
+rights [qlco] 0.00319016628121
+Higher [qlco] 0.00317639446016
+Performed [ftcn] 0.0030283692651
+CI [geoa] 0.00300745887389
+Transplantation [topp] 0.00298698885142
+Conclusions [idcn] 0.00295000072893
+Based [ftcn] 0.00294404044047
+Reserve [acty] 0.00280587775859
+Postoperative [tmco] 0.0027870146525
+Evaluated [hlca] 0.00264335898644
+Nodules [acab] 0.0026183908132
+Genotype [orga] 0.00257723943085
+ABLATION [topp] 0.00257116967563
+topic3
+Risk Factors [qnco] 0.00792529089196
+Cases [ftcn] 0.00752292730242
+Study [mnob] 0.00735868431629
+treatment [ftcn] 0.00714479494243
+YEARS [tmco] 0.0070574859231
+Arterial [bpoc] 0.006904581475
+Transcatheter [spco] 0.00643945683978
+DIAGNOSIS [fndg] 0.00631667570259
+Radiofrequency Ablation [topp] 0.00601932916562
+chemoembolisation [topp] 0.00569978461881
+HEPATITIS B VIRUS [virs] 0.00549785710818
+Tumour NOS [neop] 0.0051921968987
+LIVER [bpoc] 0.00519106823691
+Group [idcn] 0.00493016856159
+Invasion [fndg] 0.00491859918117
+Methods [inpr] 0.00480593822232
+Compared [acty] 0.00418517097539
+Cholangiocarcinoma [neop] 0.00398816176257
+Pathology [bmod] 0.00380459809519
+Survival [acty] 0.00371937992255
+resection [topp] 0.00370477559792
+Related [qlco] 0.0035410850736
+Independent [idcn] 0.00348314773621
+Specific [qlco] 0.00347227997477
+Increased [qnco] 0.00339196341778
+Hepatic [blor] 0.00337270898992
+YEAR [tmco] 0.00330969641464
+Performed [ftcn] 0.00319365931621
+Identified [qlco] 0.00306365067284
+Including [ftcn] 0.00304229866593
+LOCAL [spco] 0.00299542279429
+Conclusions [idcn] 0.00290470884677
+Diagnosed [fndg] 0.00270090609847
+included [ftcn] 0.0026959058698
+Criteria [inpr] 0.00266454807151
+CIRRHOSIS [dsyn] 0.0026235331688
+CANCER [neop] 0.00258245567925
+Postoperative [tmco] 0.00256040803895
+Liver Transplantation [topp] 0.00254070315397
+Present [qnco] 0.00241967067929
+topic4
+Risk Factors [qnco] 0.0135285986585
+HCC [neop] 0.00987349022854
+Study [mnob] 0.00895504594056
+Survival [acty] 0.00885519695226
+Related [qlco] 0.00726589304244
+Group [idcn] 0.00699042784935
+Cases [ftcn] 0.00656152067116
+Methods [inpr] 0.00646123556928
+LIVER [bpoc] 0.00638192122831
+CIRRHOSIS [dsyn] 0.00522766970066
+Independent [idcn] 0.00513033056896
+Hepatectomy [topp] 0.00508040892841
+treatment [ftcn] 0.00494458087474
+Radiofrequency Ablation [topp] 0.00472547427207
+HEPATITIS B VIRUS [virs] 0.00436257466533
+YEARS [tmco] 0.00422209501241
+CI [geoa] 0.00384111464253
+Compared [acty] 0.00373080290449
+YEAR [tmco] 0.00354291338192
+Groups [idcn] 0.00348851375097
+HCV [virs] 0.00334191053284
+Screening [hlca] 0.00333784672649
+Invasion [fndg] 0.003294731204
+Association [menp] 0.00328939308149
+HEPATITIS C VIRUS [virs] 0.0030276786918
+Including [ftcn] 0.0029899936664
+Conclusions [idcn] 0.00291880228846
+resection [topp] 0.00285986020324
+control [qlco] 0.00283838585022
+Tumour NOS [neop] 0.00280680631315
+Genotype [orga] 0.00274631751891
+Increased [qnco] 0.00269759886087
+Performed [ftcn] 0.00268860408395
+Risk Factor [qnco] 0.00267272093294
+Intrahepatic Cholangiocarcinoma [neop] 0.00264364238558
+Present [qnco] 0.0026105522427
+Diabetes [dsyn] 0.00260586103996
+Observed [ftcn] 0.00260025107345
+Hepatitis B, Chronic [dsyn] 0.00247481071373
+HIGH RISK [qlco] 0.00244865987281
+topic5
+CIRRHOSIS [dsyn] 0.0117582553804
+Survival [acty] 0.0104100693541
+LIVER [bpoc] 0.00744638598773
+treatment [ftcn] 0.00737409760272
+Related [qlco] 0.00680357188751
+Study [mnob] 0.0064544436761
+Compared [acty] 0.00637199082464
+Methods [inpr] 0.00597727321449
+Liver Transplantation [topp] 0.00592071939665
+Risk Factors [qnco] 0.00589193133122
+HEPATITIS C VIRUS [virs] 0.00562728535145
+Cases [ftcn] 0.00551197793939
+YEARS [tmco] 0.00463651238062
+Conclusions [idcn] 0.00423820759172
+CHOLANGITIS, PRIMARY SCLEROSING [dsyn] 0.0041495497289
+SERUM [bdsu] 0.00398543193643
+Independent [idcn] 0.00396878517537
+Nonalcoholic Steatohepatitis [dsyn] 0.00342082242318
+Group [idcn] 0.00331958456527
+Cholangiocarcinoma [neop] 0.00328507587007
+Hepatic [blor] 0.00327825719368
+Levels [qlco] 0.00325995164019
+Including [ftcn] 0.00307993364093
+CCA [cgab] 0.00307881491131
+Tumour NOS [neop] 0.00302046963079
+Performed [ftcn] 0.00301073111278
+Image [inpr] 0.00297542090514
+Metastasis [neop] 0.00280337976462
+Progression [patf] 0.00278334201768
+surveillance [ftcn] 0.00267008792903
+Invasion [fndg] 0.00262462424477
+YEAR [tmco] 0.00262170650749
+Induced [ftcn] 0.00257140158457
+Hepatectomy [topp] 0.00254045645819
+CANCER [neop] 0.00248498281956
+Identified [qlco] 0.00247205529196
+Mortality [qnco] 0.00247205516481
+Peritoneal [bpoc] 0.00241631536256
+Higher [qlco] 0.00239522477121
+Hepatocellular Carcinomas [neop] 0.00236985770942
+topic6
+Tumour NOS [neop] 0.0110001883369
+resection [topp] 0.0095075741439
+treatment [ftcn] 0.00918003136214
+Study [mnob] 0.00905409767787
+Survival [acty] 0.00892428447839
+LIVER [bpoc] 0.00846760784286
+Liver Transplantation [topp] 0.00594841264318
+Group [idcn] 0.00550250640706
+Risk Factors [qnco] 0.00514677698835
+CIRRHOSIS [dsyn] 0.00513586762917
+Methods [inpr] 0.00499474418959
+Cases [ftcn] 0.00451440038817
+YEARS [tmco] 0.00418777374881
+Hepatic [blor] 0.00417845365983
+Related [qlco] 0.00417221633363
+HEPATITIS C VIRUS [virs] 0.00416306635668
+Increased [qnco] 0.00415918850529
+YEAR [tmco] 0.00413507136266
+Compared [acty] 0.0039506175357
+Identified [qlco] 0.00391180957584
+Hepatectomy [topp] 0.00376095954135
+Conclusions [idcn] 0.00366564496333
+Radiofrequency Ablation [topp] 0.00330338080471
+Higher [qlco] 0.00326125467306
+Treated [ftcn] 0.00298737122401
+Tumors [neop] 0.0029507584406
+Prognostic Factor [clna] 0.00288688803898
+Criteria [inpr] 0.00288191097312
+Human [humn] 0.00283890627129
+Invasion [fndg] 0.0028248227524
+Range [qnco] 0.00281566178988
+therapy [ftcn] 0.00273640492709
+Nonalcoholic Fatty Liver Disease [dsyn] 0.00268226558115
+Levels [qlco] 0.00263867622852
+Based [ftcn] 0.00261420960502
+Performed [ftcn] 0.00261318167327
+Pathology [bmod] 0.0025963193316
+CANCER [neop] 0.00257967257831
+Postoperative [tmco] 0.00257929772778
+Suggest [idcn] 0.00254423740361
+topic7
+resection [topp] 0.0117684375195
+Survival [acty] 0.00857848234762
+Risk Factors [qnco] 0.00848123124643
+Study [mnob] 0.00763638228127
+Group [idcn] 0.00753586225154
+YEAR [tmco] 0.00737155238613
+Transarterial Chemoembolization [topp] 0.00729074464857
+treatment [ftcn] 0.00673722072107
+Hepatectomy [topp] 0.00644161262875
+Methods [inpr] 0.00573663095605
+Compared [acty] 0.00552317162832
+Hepatic [blor] 0.00541278902123
+Groups [idcn] 0.00540079040676
+YEARS [tmco] 0.00493636291593
+CIRRHOSIS [dsyn] 0.0049215186752
+Conclusions [idcn] 0.00491737559306
+Intrahepatic Cholangiocarcinoma [neop] 0.00491225580158
+LIVER [bpoc] 0.00485073383167
+Tumour NOS [neop] 0.0048441134907
+Mortality [qnco] 0.00456583079597
+therapy [ftcn] 0.00449712982739
+Independent [idcn] 0.0043292741172
+Postoperative [tmco] 0.00408860289199
+Median [spco] 0.00397106251095
+Cases [ftcn] 0.00377959780643
+Disease-Free Survival [qnco] 0.00364020988895
+Liver Transplantation [topp] 0.00355240780871
+Hazard Ratio [qnco] 0.0034701471265
+Related [qlco] 0.00341743518969
+Levels [qlco] 0.00336296717712
+Performed [ftcn] 0.00335439909877
+Criteria [inpr] 0.00332667492014
+HEPATITIS B VIRUS [virs] 0.00322561354718
+Increased [qnco] 0.00317610750081
+ASCITES [fndg] 0.00308809603516
+Preoperative [tmco] 0.00308000210064
+liver resection [topp] 0.00305340518525
+Higher [qlco] 0.00289372560999
+Tumors [neop] 0.00277058554916
+Evaluated [hlca] 0.00274613168151
+topic8
+Study [mnob] 0.0114816034525
+LIVER [bpoc] 0.00837861133647
+Radiofrequency Ablation [topp] 0.00726105843535
+Risk Factors [qnco] 0.0065179905517
+Methods [inpr] 0.00575300414512
+treatment [ftcn] 0.00521809437784
+YEARS [tmco] 0.0051802543144
+HEPATITIS B VIRUS [virs] 0.00505849743441
+Cases [ftcn] 0.0048736165754
+Conclusions [idcn] 0.00472372889745
+Performed [ftcn] 0.00458028728997
+YEAR [tmco] 0.00414114963492
+HEPATITIS C VIRUS [virs] 0.00404603394556
+Identified [qlco] 0.00396481021976
+CIRRHOSIS [dsyn] 0.00390259034699
+Survival [acty] 0.0038103237248
+Median [spco] 0.00374873297746
+Nonalcoholic Steatohepatitis [dsyn] 0.00373638012086
+Independent [idcn] 0.00370461905856
+Pathology [bmod] 0.00369865335077
+Increased [qnco] 0.00357598118329
+Levels [qlco] 0.00339404462496
+Related [qlco] 0.00338096205507
+FIBROSIS [patf] 0.00321149006509
+resection [topp] 0.00313439005167
+LIVER CIRRHOSIS [dsyn] 0.00301641126665
+Compared [acty] 0.00292163284335
+CANCER [neop] 0.00286406741322
+Observed [ftcn] 0.00284114696805
+SERUM [bdsu] 0.00279177849774
+Tumour NOS [neop] 0.00277044072354
+Mortality [qnco] 0.00267651811017
+Treated [ftcn] 0.00264662434109
+lesions [fndg] 0.00249273122556
+Hepatic [blor] 0.00247385051073
+TIME [tmco] 0.00243399477053
+Seeding [lbpr] 0.00242125699236
+Infected [fndg] 0.00240158083864
+Higher [qlco] 0.00237597736409
+Cirrhotic [qlco] 0.00237569216147
+topic9
+Risk Factors [qnco] 0.0156573269652
+YEARS [tmco] 0.00989222899339
+LIVER [bpoc] 0.00902177166792
+Study [mnob] 0.00759288463517
+Related [qlco] 0.00687097501422
+CANCER [neop] 0.00638630118265
+CIRRHOSIS [dsyn] 0.00580147015483
+Methods [inpr] 0.00543274546763
+Mortality [qnco] 0.00513584943443
+YEAR [tmco] 0.00492860618003
+Compared [acty] 0.00486943973503
+HEPATITIS B VIRUS [virs] 0.00481043703387
+HCC [neop] 0.00448868442247
+Cases [ftcn] 0.00425628644056
+Levels [qlco] 0.0041496697175
+Liver Transplantation [topp] 0.00412063653653
+treatment [ftcn] 0.0040571415999
+Independent [idcn] 0.00397559048833
+Radiofrequency Ablation [topp] 0.00381361831126
+Identified [qlco] 0.00379924083282
+Performed [ftcn] 0.00370079068584
+Conclusions [idcn] 0.00365194423787
+DIAGNOSIS [fndg] 0.00360786831848
+Tumour NOS [neop] 0.00359648949262
+Intrahepatic Cholangiocarcinoma [neop] 0.00356054873494
+Hepatectomy [topp] 0.00350856527445
+Increased [qnco] 0.00343652679358
+Survival [acty] 0.00341011954321
+included [ftcn] 0.00324278194225
+Group [idcn] 0.00322456946626
+resection [topp] 0.00321620519121
+Hepatic [blor] 0.00315304343693
+Treated [ftcn] 0.00303515567913
+HEPATITIS C VIRUS [virs] 0.00293339696787
+Reserve [acty] 0.00284978385648
+Groups [idcn] 0.00284554260963
+HCV [virs] 0.00265485092394
+Criteria [inpr] 0.00264587767172
+Negative [qlco] 0.00263572490087
+Nonalcoholic Fatty Liver Disease [dsyn] 0.00261509294162

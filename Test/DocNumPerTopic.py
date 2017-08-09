@@ -7,16 +7,43 @@ Other:计算每个主题中文档数目
 """
 import logging
 import Global
+import heapq
 from gensim import models
 from gensim import corpora
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 
-# 返回dict型list中value最大的key
+# 返回dict型list中value最大的key,value 对
 def find_max_in_list(doc_topic_list):
     temper_dict = dict(doc_topic_list)
-    return max(temper_dict.items(), key=lambda x: x[1])[0]
+    return max(temper_dict.items(), key=lambda x: x[1])
+
+
+def find_top_document(corpus, lda, topn=5):
+    """
+    寻找每个主题中评分最高的n个文档，n默认为5
+    :param corpus: 语料库
+    :param lda: LDA模型
+    :param topn: 数量 默认为5
+    :return: a_list
+    """
+    a_list = [[] for i in range(Global.TOPIC_NUM)]
+
+    # 将每篇文档对应主题的 document_id与概率 结果保存在一个二维数组中
+    for i in range(0, corpus.__len__()):
+        # print lda[corpus.docbyoffset(corpus.index[i])][0]
+        temper = find_max_in_list(lda[corpus.docbyoffset(corpus.index[i])][0])
+        a_list[temper[0]].append((i, temper[1]))
+
+    # 遍历每个主题，利用heapq.nlargest函数计算出最大的n个，重新保存在a_list中
+    for j in range(Global.TOPIC_NUM):
+        temper_dict = dict(a_list[j])
+        # heapq.nlargest(topn, temper_dict.items(), key=lambda x: x[1])
+        a_list[j] = heapq.nlargest(topn, temper_dict.items(), key=lambda x: x[1])
+
+    # print corpus.__len__(), a_list
+    return a_list
 
 
 def num_doc_per_topic(corpus, lda):
@@ -31,7 +58,7 @@ def num_doc_per_topic(corpus, lda):
     a_list = [0] * Global.TOPIC_NUM  # 全局变量，这边默认为10
     for i in range(0, corpus.__len__()):
         # print lda[corpus.docbyoffset(corpus.index[i])][0]
-        temper = find_max_in_list(lda[corpus.docbyoffset(corpus.index[i])][0])
+        temper = find_max_in_list(lda[corpus.docbyoffset(corpus.index[i])][0])[0]
         a_list[temper] += 1
     # print corpus.__len__(), a_list
     return a_list
@@ -71,5 +98,6 @@ corpus_list = [corpus_exam0, corpus_exam1, corpus_exam2, corpus_exam3, corpus_ex
                corpus_exam5, corpus_exam6, corpus_exam7, corpus_exam8, corpus_exam9]
 
 for (lda, corpus) in zip(LDA_list, corpus_list):
-    print num_doc_per_topic(corpus, lda)
+    # print num_doc_per_topic(corpus, lda)
+    print find_top_document(corpus, lda)
 

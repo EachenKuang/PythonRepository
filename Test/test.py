@@ -216,7 +216,45 @@ import scipy.sparse
 # print scipy_dence_matrix[0].__len__()
 # print scipy_csc_matrix.dtype, scipy_csc_matrix.get_shape
 
-lda = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
-# models.LdaModel.get_topic_terms(0, 20)
-raw = lda.get_topic_terms(0, 20)
-print raw[0][0]
+# lda = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
+# corpus = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
+# # models.LdaModel.get_topic_terms(0, 20)
+# for i in range(corpus.__len__()):
+#     print lda[corpus.docbyoffset(corpus.index[i])][0]
+#     print "\n"
+
+# lda = models.LdaModel.load('./timewindow_in3/_1999-2000lda_model')
+# corpus = corpora.BleiCorpus("./timewindow_in3/corpus_1999-2000.blei")
+# show_l = lda.show_topics(num_words=40, formatted=True)
+# show_t = lda.show_topics(num_words=40, formatted=False)
+# print lda.__name__()
+
+from collections import OrderedDict
+
+lda0 = models.LdaModel.load('./timewindow_in3/_1999-2000lda_model')
+lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
+lda2 = models.LdaModel.load('./timewindow_in3/_2002-2003-2004lda_model')
+lda3 = models.LdaModel.load('./timewindow_in3/_2004-2005-2006lda_model')
+lda4 = models.LdaModel.load('./timewindow_in3/_2006-2007-2008lda_model')
+lda5 = models.LdaModel.load('./timewindow_in3/_2008-2009-2010lda_model')
+lda6 = models.LdaModel.load('./timewindow_in3/_2010-2011-2012lda_model')
+lda7 = models.LdaModel.load('./timewindow_in3/_2012-2013-2014lda_model')
+lda8 = models.LdaModel.load('./timewindow_in3/_2014-2015-2016lda_model')
+lda9 = models.LdaModel.load('./timewindow_in3/_2016-2017lda_model')
+
+lda_list = [lda0, lda1, lda2, lda3, lda4, lda5, lda6, lda7, lda8, lda9]
+
+name = ['1999-2000', '2000-2001-2002', '2002-2003-2004', '2004-2005-2006', '2006-2007-2008',
+        '2008-2009-2010', '2010-2011-2012', '2012-2013-2014', '2014-2015-2016', '2016-2017']
+for j in range(10):
+    show = lda_list[j].show_topics(num_words=40, formatted=False)
+    topic_dict = OrderedDict(show)
+    with open('./out3/'+name[j]+'topic_format', 'w') as temp:
+        # temp.write(str(show))
+        for i in range(10):
+            # topic_dict[i]  # topic i 中的对应字段 list
+            topic_dict_each = OrderedDict(topic_dict[i])
+            temp.write('topic'+str(i)+'\n')
+            for id, value in topic_dict_each.iteritems():
+                temp.write(id+' '+str(value)+'\n')
+
