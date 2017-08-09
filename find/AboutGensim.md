@@ -116,3 +116,16 @@ docTopicProbMat = lda[corpus]
 K = lda.num_topics
 topicWordProbMat = lda.print_topics(K)
 ```
+## 2017.8.9
+今天在使用字典dict的时候，遇到了一些问题。
+我首先需要对一个list转化成dict格式，然后按照原始的顺序输出这个dict。但是，由于Python中的dict是无序的，所以输出的会是杂乱无章的。
+然后在不断探索过程中，我发现了一个好的东西——`OrderedDict`  
+```python
+from collections import OrderedDict
+d=OrderedDict()
+for id, value in d.iteritems():
+    temp.write(id+' '+str(value)+'\n')
+```
+使用后，发现输出的排好序的dict
+
+
