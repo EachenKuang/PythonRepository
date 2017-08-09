@@ -52,6 +52,9 @@ def filter_with_list(input_list):
 # end filter_with_list(input_list)
 
 
+
+
+
 def main():
 
     # 读取lda模型 year_in2
@@ -66,27 +69,29 @@ def main():
     # lda9 = models.LdaModel.load('./temp/_2016-2017lda_moedel')
 
     # 读取lda模型 year_in3
+    lda0 = models.LdaModel.load('./timewindow_in3/_1999-2000lda_model')
     lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
-    lda2 = models.LdaModel.load('./timewindow_in3/_2002-2003-2004lda_model')
-    lda3 = models.LdaModel.load('./timewindow_in3/_2004-2005-2006lda_model')
-    lda4 = models.LdaModel.load('./timewindow_in3/_2006-2007-2008lda_model')
-    lda5 = models.LdaModel.load('./timewindow_in3/_2008-2009-2010lda_model')
-    lda6 = models.LdaModel.load('./timewindow_in3/_2010-2011-2012lda_model')
-    lda7 = models.LdaModel.load('./timewindow_in3/_2012-2013-2014lda_model')
-    lda8 = models.LdaModel.load('./timewindow_in3/_2014-2015-2016lda_model')
-    lda9 = models.LdaModel.load('./timewindow_in3/_2016-2017lda_model')
+    # lda2 = models.LdaModel.load('./timewindow_in3/_2002-2003-2004lda_model')
+    # lda3 = models.LdaModel.load('./timewindow_in3/_2004-2005-2006lda_model')
+    # lda4 = models.LdaModel.load('./timewindow_in3/_2006-2007-2008lda_model')
+    # lda5 = models.LdaModel.load('./timewindow_in3/_2008-2009-2010lda_model')
+    # lda6 = models.LdaModel.load('./timewindow_in3/_2010-2011-2012lda_model')
+    # lda7 = models.LdaModel.load('./timewindow_in3/_2012-2013-2014lda_model')
+    # lda8 = models.LdaModel.load('./timewindow_in3/_2014-2015-2016lda_model')
+    # lda9 = models.LdaModel.load('./timewindow_in3/_2016-2017lda_model')
 
     # 用列表保存
     LDA_list = []
+    LDA_list.append(lda0)
     LDA_list.append(lda1)
-    LDA_list.append(lda2)
-    LDA_list.append(lda3)
-    LDA_list.append(lda4)
-    LDA_list.append(lda5)
-    LDA_list.append(lda6)
-    LDA_list.append(lda7)
-    LDA_list.append(lda8)
-    LDA_list.append(lda9)
+    # LDA_list.append(lda2)
+    # LDA_list.append(lda3)
+    # LDA_list.append(lda4)
+    # LDA_list.append(lda5)
+    # LDA_list.append(lda6)
+    # LDA_list.append(lda7)
+    # LDA_list.append(lda8)
+    # LDA_list.append(lda9)
     # print LDA_list
 
     ms = Innovation.MSSQL(host="localhost:59318", user="eachen", pwd="123456", db="mydata")
@@ -102,7 +107,7 @@ def main():
 
     # 初始化模型生成的list  共9个LDA(0,1,2,3,4,5,6,7,8) * 10个topci * list
     list_all = []
-    for i in range(9):
+    for i in range(2):
         print str(i)+'in main'
         temp_list = model2list_topics(LDA_list[i])
         list_all.append(temp_list)
@@ -114,7 +119,7 @@ def main():
 
     # Innovation.inno(,dic_MN, dic_AN, dic_EN)
     wbk = xlwt.Workbook()
-    for i in range(8):
+    for i in range(1):
         sheet = wbk.add_sheet('sheet'+str(i))
         for j in range(10):
             for k in range(10):
@@ -123,6 +128,7 @@ def main():
                 sim1 = Innovation.inno(list_all[i][j], list_all[i+1][k], dic_MN, dic_AN, dic_EN)
                 sheet.write(j+1, k+1, str(sim1))
 
-    wbk.save("topic_evolution_semanticSim.xls")
+    # wbk.save("topic_evolution_semanticSim.xls")
+    wbk.save("test_1999_semanticSim.xls")
 if __name__ == '__main__':
     main()

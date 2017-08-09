@@ -59,6 +59,7 @@ def cal_density(corpus, lda):
 # lda_exam = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
 # cal_density(corpus_exam, lda_exam)
 
+lda0 = models.LdaModel.load('./timewindow_in3/_1999-2000lda_model')
 lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
 lda2 = models.LdaModel.load('./timewindow_in3/_2002-2003-2004lda_model')
 lda3 = models.LdaModel.load('./timewindow_in3/_2004-2005-2006lda_model')
@@ -69,8 +70,9 @@ lda7 = models.LdaModel.load('./timewindow_in3/_2012-2013-2014lda_model')
 lda8 = models.LdaModel.load('./timewindow_in3/_2014-2015-2016lda_model')
 lda9 = models.LdaModel.load('./timewindow_in3/_2016-2017lda_model')
 
-LDA_list = [lda1, lda2, lda3, lda4, lda5, lda6, lda7, lda8, lda9]
+LDA_list = [lda0, lda1, lda2, lda3, lda4, lda5, lda6, lda7, lda8, lda9]
 
+corpus_exam0 = corpora.BleiCorpus("./timewindow_in3/corpus_1999-2000.blei")
 corpus_exam1 = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
 corpus_exam2 = corpora.BleiCorpus("./timewindow_in3/corpus_2002-2003-2004.blei")
 corpus_exam3 = corpora.BleiCorpus("./timewindow_in3/corpus_2004-2005-2006.blei")
@@ -81,7 +83,7 @@ corpus_exam7 = corpora.BleiCorpus("./timewindow_in3/corpus_2012-2013-2014.blei")
 corpus_exam8 = corpora.BleiCorpus("./timewindow_in3/corpus_2014-2015-2016.blei")
 corpus_exam9 = corpora.BleiCorpus("./timewindow_in3/corpus_2016-2017.blei")
 
-corpus_list = [corpus_exam1, corpus_exam2, corpus_exam3, corpus_exam4, corpus_exam5,
+corpus_list = [corpus_exam0, corpus_exam1, corpus_exam2, corpus_exam3, corpus_exam4, corpus_exam5,
                corpus_exam6, corpus_exam7, corpus_exam8, corpus_exam9]
 
 for (lda, corpus) in zip(LDA_list, corpus_list):
