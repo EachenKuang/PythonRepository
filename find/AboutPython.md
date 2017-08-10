@@ -128,4 +128,18 @@ for id, value in d.iteritems():
 ```
 使用后，发现输出的排好序的dict
 
+## 2017.8.10
+###读《Python Cookbook》（第二版）中文版
+`readline`方法，一次读完整个文件，并返回一个各行数据的列表:  
+```python
+for line in input.readline():
+    process(line)
+```
+`readline`方法只有在物理内存足够用的情况下才会很有用。  
+在现在的python中，只需要对这个文件对象执行一个循环，每次取得一行并处理，这样可获得更好的性能和效率：  
+```python
+for line in input:
+    process(line)
+```
+
 
