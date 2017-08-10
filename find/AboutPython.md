@@ -130,7 +130,8 @@ for id, value in d.iteritems():
 
 ## 2017.8.10
 ###读《Python Cookbook》（第二版）中文版
-`readline`方法，一次读完整个文件，并返回一个各行数据的列表:  
+#### 文件读写
+`readline`方法，一次读完整个文件，并返回一个各行数据的列表:  
 ```python
 for line in input.readline():
     process(line)
@@ -141,5 +142,13 @@ for line in input.readline():
 for line in input:
     process(line)
 ```
-
+#### 从zip文件中读取数据
+```python
+import zipfile
+z = zipfile.ZipFile("zipfile.zip", "r")
+for filename in z.namelist():
+    print 'File:', filename
+    bytes = z.read(filename)
+    print 'has', len(bytes), 'bytes'
+```
 
