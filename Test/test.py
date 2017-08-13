@@ -229,6 +229,10 @@ import scipy.sparse
 # show_t = lda.show_topics(num_words=40, formatted=False)
 # print lda.__name__()
 
+
+"""
+
+"""
 from collections import OrderedDict
 
 lda0 = models.LdaModel.load('./timewindow_in3/_1999-2000lda_model')

@@ -1,4 +1,0 @@
-HEPATOCELLULAR CARCINOMA [neop]    
-Risk Factors [qnco]    
-Non-cirrhotic [qlco]    
-LIVER [bpoc]    

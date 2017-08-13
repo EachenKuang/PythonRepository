@@ -1,5 +1,0 @@
-Viral [ftcn]    
-Genotypes [orga]    
-Risk Factors [qnco]    
-HEPATOCELLULAR CARCINOMA [neop]    
-INDIA [geoa]    

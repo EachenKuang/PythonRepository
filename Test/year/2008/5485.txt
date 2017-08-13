@@ -1,5 +1,0 @@
-DIABETES MELLITUS [dsyn]    
-METABOLIC SYNDROME [dsyn]    
-Independent [idcn]    
-Risk Factors [qnco]    
-HEPATOCELLULAR CARCINOMA [neop]    

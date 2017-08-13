@@ -1,7 +1,0 @@
-foodborne [ftcn]    
-Trematodes [euka]    
-Diverse [qlco]    
-Challenge [clna]    
-Group [idcn]    
-neglected [fndg]    
-Parasites [euka]    

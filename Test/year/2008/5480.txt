@@ -1,8 +1,0 @@
-Reduced Sensitivity [fndg]    
-ULTRASOUND [diap]    
-detect [fndg]    
-HEPATOCELLULAR CARCINOMA [neop]    
-OBESE [dsyn]    
-Patients [podg]    
-Pathology [bmod]    
-GOLD STANDARD [qlco]    

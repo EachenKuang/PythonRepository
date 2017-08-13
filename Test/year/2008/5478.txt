@@ -1,6 +1,0 @@
-Study [mnob]    
-Risk Factors [qnco]    
-HEPATOCELLULAR CARCINOMA [neop]    
-Cirrhotic [qlco]    
-Patients [podg]    
-Hepatitis B, Chronic [dsyn]    

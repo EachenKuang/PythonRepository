@@ -34,29 +34,29 @@ def cossim(a, b):
         return dot_product/((normA*normB)**0.5)
 
 
-lda0 = models.LdaModel.load('./timewindow_in3/_1999-2000lda_model')
-lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
-
-phi0 = np.array(lda0.expElogbeta)
-phi1 = np.array(lda1.expElogbeta)
-
-show0 = lda0.show_topics(num_words=40, formatted=False)
-show1 = lda1.show_topics(num_words=40, formatted=False)
-
-topic_dict0 = dict(show0)
-topic_dict1 = dict(show1)
-
-wbk = xlwt.Workbook()
-sheet = wbk.add_sheet("sheet 1")
-for i in range(10):
-    for j in range(10):
-        print(i, j)
-        sim1 = models.interfaces.matutils.cossim(topic_dict0[i], topic_dict1[j])
-        sheet.write(i + 1, j + 1, str(sim1))
-        sim2 = cossim(phi0[i], phi1[j])
-        sheet.write(i + 1, j + 14, str(sim2))
-
-wbk.save("test_on1999.xls")
+# lda0 = models.LdaModel.load('./timewindow_in3/_1999-2000lda_model')
+# lda1 = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
+#
+# phi0 = np.array(lda0.expElogbeta)
+# phi1 = np.array(lda1.expElogbeta)
+#
+# show0 = lda0.show_topics(num_words=40, formatted=False)
+# show1 = lda1.show_topics(num_words=40, formatted=False)
+#
+# topic_dict0 = dict(show0)
+# topic_dict1 = dict(show1)
+#
+# wbk = xlwt.Workbook()
+# sheet = wbk.add_sheet("sheet 1")
+# for i in range(10):
+#     for j in range(10):
+#         print(i, j)
+#         sim1 = models.interfaces.matutils.cossim(topic_dict0[i], topic_dict1[j])
+#         sheet.write(i + 1, j + 1, str(sim1))
+#         sim2 = cossim(phi0[i], phi1[j])
+#         sheet.write(i + 1, j + 14, str(sim2))
+#
+# wbk.save("test_on1999.xls")
 
 
 def main():
