@@ -1,0 +1,6 @@
+Pathology [bmod]    
+Experimental [qlco]    
+Schistosoma mansonii [euka]    
+Eastern [spco]    
+Woodchuck [mamm]    
+Marmota monax [mamm]    

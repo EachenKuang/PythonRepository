@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+Contrast - Induced Nephropathy [dsyn]    
+Transcatheter [spco]    
+Arterial [bpoc]    
+chemoembolisation [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    

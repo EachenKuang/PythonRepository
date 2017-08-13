@@ -1,0 +1,5 @@
+Risk Factors [qnco]    
+Early Recurrence [fndg]    
+Curative [cnce]    
+Hepatectomy [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    

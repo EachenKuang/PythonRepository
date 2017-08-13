@@ -1,0 +1,5 @@
+Nonalcoholic Steatohepatitis [dsyn]    
+Part [spco]    
+METABOLIC SYNDROME [dsyn]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    

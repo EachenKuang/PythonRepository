@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+Contributing [acty]    
+Late Phases [tmco]    
+Intrahepatic [spco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Hepatectomy [topp]    

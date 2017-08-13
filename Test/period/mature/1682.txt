@@ -1,0 +1,5 @@
+Study [mnob]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+Traditional [ftcn]    
+Risk Factors [qnco]    

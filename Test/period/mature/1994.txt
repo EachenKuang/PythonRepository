@@ -1,0 +1,5 @@
+Risk Factors [qnco]    
+Primary [qlco]    
+resection [topp]    
+Patients [podg]    
+HEPATOCELLULAR CARCINOMA [neop]    

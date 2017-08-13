@@ -1,0 +1,7 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+CIRRHOSIS [dsyn]    
+Often [tmco]    
+Undetectable [clna]    
+Risk Factors [qnco]    
+advanced disease [fndg]    
+DIAGNOSIS [fndg]    

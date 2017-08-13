@@ -1,0 +1,7 @@
+Laparoscopic [diap]    
+Microwave coagulation therapy [topp]    
+Solitary [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Performed [ftcn]    
+Laparoscopic [diap]    
+Ultrasonography [diap]    

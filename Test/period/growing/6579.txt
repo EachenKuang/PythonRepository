@@ -1,0 +1,5 @@
+Prognostic [inpr]    
+IMPACT [gngm]    
+DIABETES MELLITUS [dsyn]    
+Patients [podg]    
+HEPATOCELLULAR CARCINOMA [neop]    

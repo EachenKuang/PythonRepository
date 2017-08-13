@@ -1,0 +1,5 @@
+Place [spco]    
+Liver Transplantation [topp]    
+treatment [ftcn]    
+HEPATOCELLULAR CARCINOMA [neop]    
+normal liver [fndg]    

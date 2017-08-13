@@ -1,0 +1,5 @@
+synergism [moft]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+-- Filipino [popg]    
+Case-Control Study [resa]    

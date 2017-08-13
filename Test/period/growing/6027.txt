@@ -1,0 +1,6 @@
+Presentation [idcn]    
+Risk Factors [qnco]    
+Survival [acty]    
+SUDANESE [popg]    
+Patients [podg]    
+HEPATOCELLULAR CARCINOMA [neop]    

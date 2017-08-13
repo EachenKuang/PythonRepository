@@ -1,0 +1,7 @@
+treatment [ftcn]    
+Hepatitis C [dsyn]    
+Elderly patients [podg]    
+Challenge [clna]    
+Future [tmco]    
+Present [qnco]    
+reality [idcn]    

@@ -1,0 +1,4 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+HEPATITIS B SURFACE ANTIGEN POSITIVE [lbtr]    
+carriers [fndg]    

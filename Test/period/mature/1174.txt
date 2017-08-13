@@ -1,0 +1,6 @@
+Hyperlipidaemia, NOS [dsyn]    
+Nonalcoholic Steatohepatitis [dsyn]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+absence [ftcn]    
+CIRRHOSIS [dsyn]    

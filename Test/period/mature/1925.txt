@@ -1,0 +1,4 @@
+Endoscopic [diap]    
+Radiation gastritis [patf]    
+Irradiation [npop]    
+HEPATOCELLULAR CARCINOMA [neop]    

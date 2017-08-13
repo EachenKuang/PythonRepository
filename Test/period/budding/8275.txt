@@ -1,0 +1,6 @@
+Study [mnob]    
+Pathology [bmod]    
+HEPATOCELLULAR CARCINOMA [neop]    
+AUSTRALIAN [fndg]    
+MALAYSIAN [popg]    
+Patients [podg]    

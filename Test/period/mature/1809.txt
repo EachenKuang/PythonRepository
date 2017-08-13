@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+Primary Hepatocellular Carcinoma [neop]    
+BILIARY CIRRHOSIS [dsyn]    
+LARGE [qnco]    
+Scale, NOS [medd]    
+CHINA [geoa]    

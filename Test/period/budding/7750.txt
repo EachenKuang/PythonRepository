@@ -1,0 +1,5 @@
+morphological [spco]    
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+Hemochromatosis, Genetic [dsyn]    

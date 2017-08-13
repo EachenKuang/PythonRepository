@@ -1,0 +1,6 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+ITALY [geoa]    
+MALE SEX [orga]    
+HEPATITIS B VIRUS [virs]    
+Non-infected [ftcn]    

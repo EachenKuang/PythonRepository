@@ -1,0 +1,7 @@
+Risk Factors [qnco]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Patients [podg]    
+Alcoholic fatty liver disease [dsyn]    
+-- Japanese [popg]    
+Multicentric [spco]    
+Survey [inpr]    

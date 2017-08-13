@@ -1,0 +1,5 @@
+Risk Factors [qnco]    
+Survival [acty]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Non-cirrhotic [qlco]    
+Livers [bpoc]    

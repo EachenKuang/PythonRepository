@@ -1,0 +1,3 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+MALE [orga]    
+PORPHYRIA CUTANEA TARDA [dsyn]    

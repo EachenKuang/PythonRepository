@@ -1,0 +1,7 @@
+Risk Factors [qnco]    
+ESOPHAGEAL BLEEDING [patf]    
+preventive [ftcn]    
+Endoscopic [diap]    
+Ligation [topp]    
+Patients [podg]    
+HEPATOCELLULAR CARCINOMA [neop]    

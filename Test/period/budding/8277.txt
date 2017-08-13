@@ -1,0 +1,6 @@
+Pathology [bmod]    
+HEPATOCELLULAR CARCINOMA [neop]    
+JAPAN [geoa]    
+Cases [ftcn]    
+AUTOPSY [diap]    
+YEARS [tmco]    

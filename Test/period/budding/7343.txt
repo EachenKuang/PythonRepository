@@ -1,0 +1,3 @@
+DIABETES MELLITUS [dsyn]    
+etiology [ftcn]    
+HEPATOCELLULAR CARCINOMA [neop]    

@@ -1,0 +1,5 @@
+HEPATOCELLULAR CARCINOMA [neop]    
+COLITIS, ULCERATIVE [dsyn]    
+Chance [qlco]    
+Relationship [qlco]    
+causality [ftcn]    

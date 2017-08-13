@@ -1,0 +1,8 @@
+Predictive Value [qlco]    
+Criteria [inpr]    
+Liver Transplantation [topp]    
+HEPATOCELLULAR CARCINOMA [neop]    
+Derived [qlco]    
+Correlation [qlco]    
+LIVER [bpoc]    
+Pathology [bmod]    
