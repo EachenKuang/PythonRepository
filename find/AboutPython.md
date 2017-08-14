@@ -151,4 +151,55 @@ for filename in z.namelist():
     bytes = z.read(filename)
     print 'has', len(bytes), 'bytes'
 ```
+## 2017.8.14
+### about time
+#### 关于时间差，先考虑timedelta
+```python
+import datetime
+today = datetime.date.today()
+yesterday = today - datetime.timedelta(days=1)
+tomorrow = today + datetime.timedelta(days=1)
+```
+当然，timedelta中的参数也有seconds等
+### 使用decimal用于财务计算
+
+### Python技巧
+#### 列表推导构建列表
+```python
+thenewlist = [x + 23 for x in theoldlist if >5]
+```
+复制一个列表用  
+```python
+L1 = list(L)
+```
+类似地，如果想对每个元素都调用一个函数，并使用函数的返回结果，应该用
+```python
+def f(x):
+    return x**3
+    
+L = [1, 2, 3, 4, 5, 6]
+L1 = map(f, L)
+print L1
+```
+#### 循环访问序列中的元素和索引
+可以使用内建函数enumerate,它接受任何可迭代的参数，并返回一个迭代器。
+```python
+for index, item in enumerate(sequence):
+    pass
+```
+#### 在无须共享引用的条件下创建列表的列表
+创建一个`5*10`的全为0的序列：
+```python
+mutilist = [[0 for col in range(5)] for row in range(10)]
+```
+#### 在行列表中完成对列的删除和排序
+例如，需要一个第二列被删除，第三和第四列互换位置的新列表
+```python
+listOfRows = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+newList = [row[0], rowp[3], rowp[2] for row in listOfRows]
+```
+如果需要在原来的基础上修改列表，则需要写成如下：
+```python
+listOfRows[:] = [row[0], rowp[3], rowp[2] for row in listOfRows]
+```
 
