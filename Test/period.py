@@ -11,7 +11,7 @@ from gensim import models
 from gensim import corpora
 from collections import OrderedDict
 import SemanticsSim
-import density
+import Density
 import DocNumPerTopic
 import os
 
@@ -131,21 +131,21 @@ def semantic_sim(lda_list):
     wbk.save("./period_out/topic_evolution_semanticSim(period).xls")
 
 
-def num_per_topic(lda_list, corpus_list):
+def num_per_topic(corpus_list, lda_list):
     print "num_per_topic is running"
     with open("./period_out/density&numpertopic", "a")as writer:
         writer.write("num_per_topic:")
         for i in range(3):
             # print density.cal_density(lda_list[i], corpus_list[i])
-            writer.write(DocNumPerTopic.num_doc_per_topic(lda_list[i], corpus_list[i]))
+            writer.write(str(DocNumPerTopic.num_doc_per_topic(lda_list[i], corpus_list[i])))
 
 
-def density(lda_list, corpus_list):
+def density(corpus_list, lda_list):
     with open("./period_out/density&numpertopic", "a")as writer:
         writer.write("density:")
         for i in range(3):
             # print density.cal_density(lda_list[i], corpus_list[i])
-            writer.write(density.cal_density(lda_list[i], corpus_list[i]))
+            writer.write(str(Density.cal_density(lda_list[i], corpus_list[i])))
 
 
 def print_topic(lda_list):
@@ -180,7 +180,6 @@ def main():
     num_per_topic(lda_list, corpus_list)
     density(lda_list, corpus_list)
     print_topic(lda_list)
-
 
 if __name__ == '__main__':
     main()
