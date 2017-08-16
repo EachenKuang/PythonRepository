@@ -203,6 +203,6 @@ newList = [row[0], rowp[3], rowp[2] for row in listOfRows]
 listOfRows[:] = [row[0], rowp[3], rowp[2] for row in listOfRows]
 ```
 ## 2017.8.16
-[斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/articles/%E7%89%B9%E5%BE%81%E7%BC%A9%E6%94%BE.html)
+[斯坦福机器学习笔记](https://www.gitbook.com/book/yoyoyohamapi/mit-ml/details)
 
 
