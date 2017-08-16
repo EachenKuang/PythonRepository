@@ -7,7 +7,7 @@ import re
 def create_table():
     dao = Dao.Dao()
     dao.connect()
-    sql = 'CREATE TABLE [dbo].[RawMedicine](' \
+    sql = 'CREATE TABLE [dbo].[RawMedicine2](' \
             '[paperid][numeric](18, 0) IDENTITY(1, 1)NOT NULL, [PT][nvarchar](max)NULL,[AU][nvarchar](max)NULL,' \
             '[AF][nvarchar](max)NULL, [TI][nvarchar](max)NULL, [SO][nvarchar](max)NULL, [LA][nvarchar](max)NULL,' \
             '[DT][nvarchar](max)NULL, [DE][nvarchar](max)NULL,[ID][nvarchar](max)NULL, [AB][nvarchar](max)NULL,' \
@@ -50,7 +50,7 @@ def read_file(filename):
                 if len(value.split(';')) == 2:
                     value = value.replace(';', '')
                 values += value + "'"
-                sql = 'insert into RawMedicine ' + " ( " + names + " ) " + \
+                sql = 'insert into RawMedicine2 ' + " ( " + names + " ) " + \
                       "values " + " ( " + values.replace(';;', ';') + " ); "
                 print(sql)
 
@@ -61,6 +61,9 @@ def read_file(filename):
                 values = ''
             else:
                 temp = i.split(' ')
+                if temp[0] == "MA" or temp[0] == "D2" or temp[0] == "BA" or temp[0] == "BF"\
+                        or temp[0] == "GP":
+                    continue
                 if not temp[0] == '' and not temp[0] == '\n' and not temp[0] == '\r':
                     if not col_name == '':
                         names += col_name + ","
@@ -111,7 +114,7 @@ def sort_strings_with_embedded_numbers(alist):
 # 遍历所有文件名
 files = find_files()
 # 创建表格
-create_table()
+#create_table()
 # 遍历文件, 插入数据
 for f in files:
     print(f)

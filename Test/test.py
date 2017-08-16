@@ -7,7 +7,7 @@ import numpy as np
 import os
 from pprint import pprint
 
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+# logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 
 def save_dict():
@@ -230,7 +230,7 @@ import scipy.sparse
 # print lda.__name__()
 
 
-"""
+
 
 """
 from collections import OrderedDict
@@ -261,4 +261,21 @@ for j in range(10):
             temp.write('topic'+str(i)+'\n')
             for id, value in topic_dict_each.iteritems():
                 temp.write(id+' '+str(value)+'\n')
+"""
 
+"""
+def f(x):
+    return x**3
+
+L = [1, 2, 3, 4, 5, 6]
+L1 = map(f, L)
+print L1
+
+for index, item in enumerate(L):
+    print index, item
+
+d = dict(enumerate(L))
+print d
+
+mutilist = [[0 for col in range(5)] for row in range(10)]
+"""
