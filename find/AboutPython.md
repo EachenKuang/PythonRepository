@@ -205,4 +205,34 @@ listOfRows[:] = [row[0], rowp[3], rowp[2] for row in listOfRows]
 ## 2017.8.16
 [斯坦福机器学习笔记](https://www.gitbook.com/book/yoyoyohamapi/mit-ml/details)
 
+## 2017.8.17
+今天发现，虽然GitHub在书写文件时及其方便，但是它对于数学公式的书写并不友善。  
+无法直接使用LaTeX格式来书写公式。
 
+>GitHub Flavored Markdown 曾经是支持 LaTeX 的，但是现在不支持了。因此若想在 README 或者评论中插入数学公式，就得使用另外的方式。
+>CodeCogs 提供了一个在线 [LaTeX](https://www.codecogs.com/latex/eqneditor.php) 编辑器，可以将输入的数学公式转换为图片，并自动生成 HTML 代码（也支持其他格式）。
+
+在该网站输入你的数学公式后，然后将对应的HTML代码放入你的GitHub的Markdown中即可使用。
+
+例如：
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
+
+实际上的代码是：  
+```html
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
+```
+经过本人测试过，可以直接删除`<a>`，以`<img>`即可，如下：
+```html
+<img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0">
+```
+展示效果如下：  
+<img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0">
+
+#### 总结：
+```html
+<img src="https://latex.codecogs.com/gif.latex?[这部分写下你的数学公式的表达式，就可以展示出对应的数学公式，写公式时不需要中括号]">
+```
+#### 测试
+<img src="https://latex.codecogs.com/gif.latex?f(x)=ax^2+by^3+cz^4">
+
+所以，记住这个网址，在GitHub中写公式就没有什么大问题了。
