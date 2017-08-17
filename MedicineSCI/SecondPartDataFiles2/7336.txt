@@ -1,0 +1,5 @@
+C-reactive protein [aapp, imft]
+Race [popg]
+Ethnicity [popg]
+Gender [orga]
+Make [ftcn]

@@ -1,0 +1,5 @@
+Keep [ftcn]
+Tablets [bodm]
+Pharmacological [bmod]
+adaptation [orgf]
+Long-term drug therapy [topp]

@@ -1,0 +1,8 @@
+Hormone replacement therapy [topp]
+Atherosclerosis [dsyn]
+postmenopausal [tmco]
+Women [popg]
+Ageing [orgf]
+limit [ftcn]
+Therapeutic [topp]
+Benefits [qnco]

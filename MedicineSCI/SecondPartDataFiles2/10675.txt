@@ -1,0 +1,7 @@
+Hormone Replacement Therapy, Post-Menopausal [topp]
+Lipoprotein (a) [aapp, bacs]
+coronary [bpoc]
+Heart disease [dsyn]
+Events [evnt]
+Health [idcn]
+Women [popg]

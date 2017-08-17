@@ -1,0 +1,4 @@
+Age [orga]
+CARDIOVASCULAR [bdsy]
+Substrate [mnob]
+Myocardial Infarction [dsyn]

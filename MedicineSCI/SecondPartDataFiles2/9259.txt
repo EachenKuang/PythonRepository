@@ -1,0 +1,5 @@
+Hormone replacement therapy [topp]
+Acute myocardial infarction [dsyn]
+postmenopausal [tmco]
+Women [popg]
+Diabetes Mellitus [dsyn]

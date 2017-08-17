@@ -1,0 +1,6 @@
+Androgen Deprivation Therapy [topp]
+Men [popg]
+treated [topp]
+high-dose radiation [topp]
+Intermediate Risk [cnce]
+Prostate Cancer [neop]

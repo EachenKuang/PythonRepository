@@ -1,0 +1,4 @@
+Hormone replacement therapy [topp]
+Cardiovascular disease [dsyn]
+Joint [bsoj]
+Statement [idcn]

@@ -1,0 +1,4 @@
+treatment [ftcn]
+coronary heart disease [dsyn]
+Patients [podg]
+Diabetes Mellitus [dsyn]

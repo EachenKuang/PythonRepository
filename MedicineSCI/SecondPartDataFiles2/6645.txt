@@ -1,0 +1,5 @@
+Oral [spco]
+treatment [ftcn]
+postmenopausal [tmco]
+Women [popg]
+Estrogen [horm, phsu, strd]

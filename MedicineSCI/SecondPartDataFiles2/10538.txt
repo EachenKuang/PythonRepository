@@ -1,0 +1,5 @@
+effects [qlco]
+Transdermal [ftcn]
+Hormone replacement therapy [topp]
+CARDIOVASCULAR [bdsy]
+Epidemiological [bmod]

@@ -1,0 +1,5 @@
+Alexandrite laser [medd]
+treatment [ftcn]
+Intraoral [spco]
+Venous [bpoc]
+Vascular Malformations [anab]

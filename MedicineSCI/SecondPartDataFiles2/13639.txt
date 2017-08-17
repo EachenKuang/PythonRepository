@@ -1,0 +1,8 @@
+Erythrocytes [lbpr]
+pathogenesis [ftcn]
+Impaired [ftcn]
+Platelets [cell]
+Patients [podg]
+Disease, Cardiac [dsyn]
+Heart [bpoc]
+Drug Therapy [topp]

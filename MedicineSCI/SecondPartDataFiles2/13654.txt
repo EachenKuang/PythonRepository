@@ -1,0 +1,8 @@
+Delayed [tmco]
+Cardiac Diseases [dsyn]
+Following [tmco]
+Combined [qlco]
+polychemotherapy [topp]
+radiotherapy [inpr]
+Patients [podg]
+Hodgkin Disease [neop]

@@ -1,0 +1,6 @@
+Lipids [lipd]
+Prognostic Factor [clna]
+deaths [orgf]
+coronary heart disease [dsyn]
+Fatal [qlco]
+Myocardial Infarction [dsyn]

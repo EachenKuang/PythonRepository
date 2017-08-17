@@ -1,0 +1,4 @@
+vascular [bpoc]
+Menopause [phsf]
+IMPACT [gngm]
+Hormone replacement therapy [topp]

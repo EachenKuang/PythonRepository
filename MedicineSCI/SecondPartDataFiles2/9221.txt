@@ -1,0 +1,4 @@
+Molecular [qlco]
+Unique [qlco]
+Nature [idcn]
+Selective Estrogen Receptor Modulators [horm, phsu]

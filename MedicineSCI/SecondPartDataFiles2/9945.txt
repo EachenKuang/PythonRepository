@@ -1,0 +1,4 @@
+clinical characteristics [clna]
+coronary heart disease [dsyn]
+Women [popg]
+gender differences [orga]

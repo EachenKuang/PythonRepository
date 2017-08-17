@@ -1,0 +1,4 @@
+radiation disease [dsyn]
+CARDIOVASCULAR [bdsy]
+manifestations [ftcn]
+Management [ocac]

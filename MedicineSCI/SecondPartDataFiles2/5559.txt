@@ -1,0 +1,7 @@
+Pharmacist [prog]
+Events, Adverse Drug [inpo]
+Medication Errors [qlco]
+Outpatients [podg]
+Cardiovascular disease [dsyn]
+VOL [qnco]
+PG [lbpr]

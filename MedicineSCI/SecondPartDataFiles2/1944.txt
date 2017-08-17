@@ -1,0 +1,6 @@
+Prognostic Factor [clna]
+Patients [podg]
+Aortic Stenosis [dsyn]
+Report [inpr]
+chart [medd]
+Study [mnob]

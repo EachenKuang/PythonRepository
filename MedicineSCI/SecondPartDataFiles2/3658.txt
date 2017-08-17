@@ -1,0 +1,6 @@
+relapsed [tmco]
+Seminoma [neop]
+surveillance [ftcn]
+treatment [ftcn]
+choice [inbe]
+radiotherapy [inpr]

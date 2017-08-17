@@ -1,0 +1,7 @@
+Roles [socb]
+Classic [qlco]
+Current [tmco]
+Prognostic Factor [clna]
+pulmonary [bpoc]
+Hypertension [dsyn]
+left heart [blor]

@@ -1,0 +1,6 @@
+Efficacy [qlco]
+Crataegutt [bacs, phsu]
+Heart Diseases [dsyn]
+Ischaemic [ftcn]
+hypertensive [fndg]
+origin [clas]

@@ -1,0 +1,3 @@
+Myocardial Revascularization [topp]
+Drug Therapy [topp]
+ischaemic heart disease [dsyn]

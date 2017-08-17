@@ -1,0 +1,3 @@
+n-3 Fatty Acids [bacs, lipd, phsu]
+Vascular disease [dsyn]
+Thrombosis [patf]

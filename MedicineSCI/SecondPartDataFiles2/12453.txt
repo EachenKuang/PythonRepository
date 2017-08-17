@@ -1,0 +1,7 @@
+diabetic [fndg]
+Dyslipidaemia [dsyn]
+effects [qlco]
+Diabetes [dsyn]
+Diet [food]
+Drug [phsu]
+therapy [ftcn]

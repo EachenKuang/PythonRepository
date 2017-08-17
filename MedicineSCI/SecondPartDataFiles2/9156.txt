@@ -1,0 +1,5 @@
+Hormone replacement therapy [topp]
+Heart disease [dsyn]
+replacing [ftcn]
+VOL [qnco]
+pG2 [gngm]

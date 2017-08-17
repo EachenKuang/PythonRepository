@@ -1,0 +1,6 @@
+Woman [popg]
+History [ocdi]
+Hodgkin Lymphoma [neop]
+Sudden onset [inpr]
+Dyspnea [sosy]
+Shock [patf]

@@ -1,0 +1,8 @@
+Cardiovascular disease [dsyn]
+Benefit [qnco]
+Oral [spco]
+transdermal estrogen [horm, phsu, strd]
+therapy [ftcn]
+Perimenopausal [tmco]
+postmenopausal [tmco]
+Women [popg]

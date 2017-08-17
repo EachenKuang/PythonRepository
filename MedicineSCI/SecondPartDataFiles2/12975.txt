@@ -1,0 +1,8 @@
+Cost [qnco]
+Care [acty]
+contained [ftcn]
+Quality [qlco]
+Care [acty]
+Maintained [ftcn]
+Management [ocac]
+Hypertension [dsyn]

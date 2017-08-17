@@ -1,0 +1,8 @@
+technetium-99m-tetrofosmin [irda, opco]
+Myocardial [spco]
+Imaging [diap]
+Cardiotoxicity [inpo]
+Screening [hlca]
+left sided [spco]
+Breast Cancer [neop]
+Irradiation [npop]

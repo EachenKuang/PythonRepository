@@ -1,0 +1,7 @@
+coronary [bpoc]
+risk factors [qnco]
+Lipids [lipd]
+Smoking [inbe]
+Hypertension [dsyn]
+Estrogen [horm, phsu, strd]
+Elderly [popg]

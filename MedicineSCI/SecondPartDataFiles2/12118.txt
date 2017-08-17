@@ -1,0 +1,7 @@
+Editorial [inpr]
+Critical [qlco]
+Alcohol consumption [inbe]
+Breast Cancer [neop]
+postmenopausal [tmco]
+Estrogen [horm, phsu, strd]
+Administration [ocac]

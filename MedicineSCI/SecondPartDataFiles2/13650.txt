@@ -1,0 +1,4 @@
+Heart disease [dsyn]
+Electrocardiogram [fndg]
+radiotherapy [inpr]
+Breast Cancer [neop]

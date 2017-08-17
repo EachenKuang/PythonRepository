@@ -1,0 +1,6 @@
+treatment [ftcn]
+estrogen deficiency [dsyn]
+symptoms [ftcn]
+Women [popg]
+SURVIVE [phsu]
+Breast [bpoc]

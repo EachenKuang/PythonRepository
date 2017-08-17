@@ -1,0 +1,6 @@
+Amlodipine [orch, phsu]
+Pharmacological [bmod]
+therapeutic use [topp]
+Cardiovascular disease [dsyn]
+VOL [qnco]
+PG [lbpr]

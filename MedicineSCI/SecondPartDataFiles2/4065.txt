@@ -1,0 +1,8 @@
+Birth outcome [clna]
+Women [popg]
+Ulcerative Colitis [dsyn]
+Crohn Disease [dsyn]
+Pharmacoepidemiology [bmod]
+Aspect [qnco]
+anti inflammatory drug [phsu]
+therapy [ftcn]

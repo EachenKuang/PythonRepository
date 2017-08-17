@@ -1,0 +1,6 @@
+Estrogens [horm, phsu, strd]
+Progestins [horm, phsu, strd]
+Heart disease [dsyn]
+Endothelial [tisu]
+function [phsf]
+Benefit [qnco]

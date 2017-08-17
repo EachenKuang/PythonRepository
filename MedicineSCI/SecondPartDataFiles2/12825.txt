@@ -1,0 +1,4 @@
+Coronary artery spasm [dsyn]
+Roles [socb]
+Heart disease [dsyn]
+Commentary [inpr]

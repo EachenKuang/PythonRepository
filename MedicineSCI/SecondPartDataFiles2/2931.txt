@@ -1,0 +1,8 @@
+Family [famg]
+cohesion [npop]
+Perception [menp]
+Patients [podg]
+ischaemic heart disease [dsyn]
+IMPACT [gngm]
+Adherence [ftcn]
+Drug Therapy [topp]

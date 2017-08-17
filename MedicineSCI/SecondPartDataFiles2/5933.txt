@@ -1,0 +1,7 @@
+Efficacy [qlco]
+Escitalopram [orch, phsu]
+Patients [podg]
+Ischaemic [ftcn]
+Heart [bpoc]
+Comorbidities [idcn]
+Depression [mobd]

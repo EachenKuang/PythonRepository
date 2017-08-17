@@ -1,0 +1,8 @@
+effects [qlco]
+Oral [spco]
+Transdermal [ftcn]
+Hormone replacement therapy [topp]
+cardiovascular risk factor [dsyn]
+Health [idcn]
+postmenopausal [tmco]
+Women [popg]

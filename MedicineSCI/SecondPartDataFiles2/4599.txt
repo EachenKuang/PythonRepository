@@ -1,0 +1,4 @@
+ST ELEVATION MYOCARDIAL INFARCTION [fndg]
+acute [tmco]
+Ischaemic [ftcn]
+Stroke [dsyn]

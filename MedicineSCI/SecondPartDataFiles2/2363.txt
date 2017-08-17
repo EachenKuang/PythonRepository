@@ -1,0 +1,8 @@
+IMPACT [gngm]
+Emergency treatment [topp]
+Primary [qlco]
+PCI [topp]
+Coping [inbe]
+coronary heart disease [dsyn]
+STEMI [fndg]
+Patients [podg]

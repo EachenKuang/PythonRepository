@@ -1,0 +1,5 @@
+Hormone replacement therapy [topp]
+Cardiovascular disease [dsyn]
+ROUTE [ftcn]
+Administration [ocac]
+Formulation [resa]

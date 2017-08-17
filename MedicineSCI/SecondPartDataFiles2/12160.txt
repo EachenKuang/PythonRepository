@@ -1,0 +1,3 @@
+Correct [qlco]
+Women [popg]
+Heart disease [dsyn]

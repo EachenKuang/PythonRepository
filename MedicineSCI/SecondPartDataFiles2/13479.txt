@@ -1,0 +1,6 @@
+therapy [ftcn]
+Exercise [dora]
+Response [orga]
+Recovery [acty]
+Acute myocardial infarction [dsyn]
+placebo controlled study [inpr, resa]

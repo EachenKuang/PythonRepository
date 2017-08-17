@@ -1,0 +1,6 @@
+effects [qlco]
+Biological [bmod]
+Sex [orgf]
+Diet [food]
+Heart [bpoc]
+Failure [ftcn]

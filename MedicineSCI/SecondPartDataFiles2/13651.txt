@@ -1,0 +1,4 @@
+effects [qlco]
+Smoking [inbe]
+Drug Therapy [topp]
+Heart Diseases [dsyn]

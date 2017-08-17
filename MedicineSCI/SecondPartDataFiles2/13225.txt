@@ -1,0 +1,4 @@
+radiotherapy [inpr]
+left sided [spco]
+Breast Cancer [neop]
+ischaemic heart disease [dsyn]

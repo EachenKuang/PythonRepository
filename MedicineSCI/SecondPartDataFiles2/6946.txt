@@ -1,0 +1,4 @@
+Local [spco]
+Cardiovascular disease [dsyn]
+pay [qnco]
+Now [tmco]

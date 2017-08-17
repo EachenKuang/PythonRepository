@@ -1,0 +1,8 @@
+Need [qlco]
+Trial [resa]
+Revascularisation [topp]
+aggressive [mobd]
+Medical therapy [topp]
+Patients [podg]
+Asymptomatic ischaemia [dsyn]
+Cardiac [bpoc]

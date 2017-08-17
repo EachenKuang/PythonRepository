@@ -1,0 +1,7 @@
+Targeting [ftcn]
+Lipid-lowering therapy [topp]
+Drug [phsu]
+Primary Prevention [topp]
+coronary [bpoc]
+Update [tmco]
+Table [mnob]

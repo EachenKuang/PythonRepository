@@ -1,0 +1,8 @@
+Prevention [topp]
+Cardiovascular Diseases [dsyn]
+Perimenopausal [tmco]
+Women [popg]
+influential [idcn]
+Hormone replacement therapy [topp]
+Based [ftcn]
+Guideline [inpr]

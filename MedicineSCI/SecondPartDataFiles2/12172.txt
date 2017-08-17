@@ -1,0 +1,5 @@
+CARDIOVASCULAR [bdsy]
+Aspect [qnco]
+Oral contraception [topp]
+hormone replacement [topp]
+therapy [ftcn]

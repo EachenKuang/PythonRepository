@@ -1,0 +1,3 @@
+Drug Therapy [topp]
+Hypertension [dsyn]
+ischaemic heart disease [dsyn]

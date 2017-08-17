@@ -1,0 +1,5 @@
+Interventional [topp]
+treatment [ftcn]
+coronary heart disease [dsyn]
+Peripheral [spco]
+Vascular disease [dsyn]

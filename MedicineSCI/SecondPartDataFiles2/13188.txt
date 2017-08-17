@@ -1,0 +1,5 @@
+pharmacologic therapy [ftcn]
+coronary heart disease [dsyn]
+Life threatening [idcn]
+Ventricular tachyarrhythmia [patf]
+Sudden Cardiac Death [patf]

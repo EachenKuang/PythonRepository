@@ -1,0 +1,4 @@
+Aspirin [orch, phsu]
+Primary [qlco]
+Secondary Prevention [topp]
+Cardiovascular disease [dsyn]

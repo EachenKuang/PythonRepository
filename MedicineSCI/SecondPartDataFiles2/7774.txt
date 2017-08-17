@@ -1,0 +1,5 @@
+Tamoxifen [orch, phsu]
+Prevention [topp]
+Myocardial Infarction [dsyn]
+Humans [humn]
+Pre-clinical [qlco]

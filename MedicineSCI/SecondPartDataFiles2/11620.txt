@@ -1,0 +1,8 @@
+Relationship [qlco]
+Hormone replacement therapy [topp]
+coronary [bpoc]
+Heart disease [dsyn]
+Women [popg]
+Angiographies [diap]
+Evaluation [ftcn]
+symptoms [ftcn]

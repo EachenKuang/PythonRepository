@@ -1,0 +1,5 @@
+Fibrates [orch, phsu]
+treatment [ftcn]
+Hyperlipidaemia [dsyn]
+Efficacy [qlco]
+Safety [hcpp]

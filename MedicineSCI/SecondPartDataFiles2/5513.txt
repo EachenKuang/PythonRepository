@@ -1,0 +1,6 @@
+Chemotherapy [topp]
+Alternative [cnce]
+radiotherapy [inpr]
+treatment [ftcn]
+Stage [tmco]
+Testicular seminoma [neop]

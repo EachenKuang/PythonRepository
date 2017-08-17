@@ -1,0 +1,6 @@
+treatment [ftcn]
+Chronic ischaemic heart disease [dsyn]
+combination drug [phsu]
+Obsidan [orch, phsu]
+PETN [orch, phsu]
+Propranolol [orch, phsu]

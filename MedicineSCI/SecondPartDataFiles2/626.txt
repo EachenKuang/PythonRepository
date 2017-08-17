@@ -1,0 +1,7 @@
+coronary heart disease [dsyn]
+Mediastinal [blor]
+radiotherapy [inpr]
+Lymphoma [neop]
+Calculation [acty]
+Historical Cohort [popg]
+Today [antb, orch]

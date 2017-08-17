@@ -1,0 +1,6 @@
+Epidemic [phpr]
+coronary heart disease [dsyn]
+Scientific [ocdi]
+Foundations [orgt]
+strategies [menp]
+Approaches [spco]

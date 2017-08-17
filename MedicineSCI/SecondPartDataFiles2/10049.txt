@@ -1,0 +1,8 @@
+effects [qlco]
+Estrogens [horm, phsu, strd]
+Selective Estrogen Receptor Modulators [horm, phsu]
+Indicators [irda]
+CARDIOVASCULAR [bdsy]
+Health [idcn]
+postmenopausal [tmco]
+Women [popg]

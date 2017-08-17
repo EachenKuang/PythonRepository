@@ -1,0 +1,3 @@
+Point of care [idcn]
+Ultrasound [diap]
+patient care [hlca]

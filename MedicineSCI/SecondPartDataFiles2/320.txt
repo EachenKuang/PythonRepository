@@ -1,0 +1,7 @@
+Time course [tmco]
+Radiation [npop]
+Induced [ftcn]
+Cardiac [bpoc]
+Mortality [qnco]
+Patients [podg]
+Breast Cancer [neop]

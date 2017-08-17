@@ -1,0 +1,5 @@
+Estrogen [horm, phsu, strd]
+Progestagen [horm, phsu, strd]
+therapy [ftcn]
+postmenopausal [tmco]
+Women [popg]

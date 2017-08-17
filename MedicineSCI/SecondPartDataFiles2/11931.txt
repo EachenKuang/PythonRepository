@@ -1,0 +1,5 @@
+ptca [topp]
+influential [idcn]
+coronary heart disease [dsyn]
+State [geoa]
+Art [ocdi]

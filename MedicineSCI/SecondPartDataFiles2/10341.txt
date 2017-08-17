@@ -1,0 +1,4 @@
+drug therapy treatment [topp]
+Medical [ftcn]
+peripheral arterial disease [dsyn]
+claudication [fndg]

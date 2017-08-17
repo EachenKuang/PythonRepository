@@ -1,0 +1,6 @@
+Patients [podg]
+Stage [tmco]
+Invasive Breast Cancer [neop]
+treatment [ftcn]
+Surgery [bmod]
+radiation therapy [inpr]

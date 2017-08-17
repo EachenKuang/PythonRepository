@@ -1,0 +1,6 @@
+Radiation [npop]
+Induced [ftcn]
+CARDIOVASCULAR [bdsy]
+Cerebrovascular [qlco]
+effects [qlco]
+Animal [anim]

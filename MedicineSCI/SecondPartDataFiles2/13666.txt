@@ -1,0 +1,6 @@
+Efficacy [qlco]
+Kallikrein [aapp, enzy, phsu]
+Protease Inhibitor [bacs, phsu]
+Contrical [aapp, bacs, phsu]
+Combined therapy [topp]
+ischaemic heart disease [dsyn]

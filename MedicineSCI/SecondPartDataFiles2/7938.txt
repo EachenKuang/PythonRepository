@@ -1,0 +1,3 @@
+early-stage breast cancer [neop]
+Heart disease [dsyn]
+Lung Cancer [neop]

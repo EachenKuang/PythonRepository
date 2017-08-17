@@ -1,0 +1,3 @@
+Heterozygous [orga]
+Familial hypercholesterolaemia [dsyn]
+Drug Therapy [topp]

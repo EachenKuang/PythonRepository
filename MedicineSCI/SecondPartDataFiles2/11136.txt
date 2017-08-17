@@ -1,0 +1,2 @@
+Diabetes [dsyn]
+ischaemic heart disease [dsyn]

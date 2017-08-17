@@ -1,0 +1,7 @@
+Thrombolytic Therapy [topp]
+Combined [qlco]
+Caesarean Section [topp]
+Hysterectomy [topp]
+Prosthetic Valve Thrombosis [dsyn]
+mitral [qlco]
+Pregnancy [orgf]

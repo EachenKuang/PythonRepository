@@ -1,0 +1,5 @@
+CARDIOVASCULAR [bdsy]
+Estrogen [horm, phsu, strd]
+Lipid-lowering therapy [topp]
+postmenopausal [tmco]
+Women [popg]

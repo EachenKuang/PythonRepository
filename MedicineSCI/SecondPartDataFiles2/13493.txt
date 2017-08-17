@@ -1,0 +1,7 @@
+Late [tmco]
+ventricular [bpoc]
+Electrical [npop]
+Unstable [fndg]
+Myocardium [tisu]
+Acute heart disease [dsyn]
+coronary [bpoc]

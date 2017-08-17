@@ -1,0 +1,7 @@
+effects [qlco]
+Hormone replacement therapy [topp]
+Coagulation [ortf]
+Fibrinolysis [phsf]
+Thrombosis [patf]
+postmenopausal [tmco]
+Women [popg]

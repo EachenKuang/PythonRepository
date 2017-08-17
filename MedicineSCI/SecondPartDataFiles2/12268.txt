@@ -1,0 +1,7 @@
+Phenomenon [phpr]
+Preconditioning [menp]
+Ischaemia [dsyn]
+Interrupted [qlco]
+Ischaemia [dsyn]
+manifestations [ftcn]
+ischaemic heart disease [dsyn]

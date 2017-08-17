@@ -1,0 +1,4 @@
+Prevention [topp]
+Stroke [dsyn]
+Heart disease [dsyn]
+Gender [orga]

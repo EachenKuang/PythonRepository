@@ -1,0 +1,5 @@
+Drug Therapy [topp]
+Mild to moderate [qlco]
+Hypertension [dsyn]
+Decreased [qnco]
+coronary heart disease [dsyn]

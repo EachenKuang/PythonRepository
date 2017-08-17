@@ -1,0 +1,4 @@
+risk factors [qnco]
+Cardiovascular disease [dsyn]
+Women [popg]
+Diabetes [dsyn]

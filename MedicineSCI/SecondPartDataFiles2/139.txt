@@ -1,0 +1,6 @@
+Correlation [qlco]
+Causation [idcn]
+True [qlco]
+Lung [bpoc]
+Following [tmco]
+breast radiotherapy [topp]

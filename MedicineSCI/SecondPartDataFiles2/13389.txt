@@ -1,0 +1,4 @@
+Estrogens [horm, phsu, strd]
+Cardiovascular Diseases [dsyn]
+postmenopausal [tmco]
+Women [popg]

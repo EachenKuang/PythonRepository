@@ -1,0 +1,5 @@
+Cost [qnco]
+Accepted [qlco]
+Measures [qnco]
+coronary [bpoc]
+Heart disease [dsyn]

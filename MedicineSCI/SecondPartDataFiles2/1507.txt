@@ -1,0 +1,4 @@
+strategy [menp]
+Global [spco]
+Burden [idcn]
+Stroke [dsyn]

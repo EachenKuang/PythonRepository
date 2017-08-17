@@ -1,0 +1,7 @@
+Recurrent [tmco]
+Tachycardia, Ventricular [patf]
+absence [qnco]
+Heart disease [dsyn]
+clinical characteristics [clna]
+Response [orga]
+Drug Therapy [topp]

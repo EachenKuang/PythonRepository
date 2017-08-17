@@ -1,0 +1,6 @@
+Prevention [topp]
+acute mi [dsyn]
+Start [tmco]
+Finish [ftcn]
+treatment [ftcn]
+Managed Care [hlca]

@@ -1,0 +1,4 @@
+Hyperhomocysteinemia [dsyn]
+macroangiopathy [dsyn]
+Type 2 Diabetes [dsyn]
+Response [orga]

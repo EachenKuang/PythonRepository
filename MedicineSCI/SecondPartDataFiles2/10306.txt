@@ -1,0 +1,2 @@
+ischaemic heart disease [dsyn]
+Elderly [popg]

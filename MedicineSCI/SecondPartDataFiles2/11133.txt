@@ -1,0 +1,4 @@
+Tamoxifen [orch, phsu]
+Prevention [topp]
+Breast Cancer [neop]
+Instance [idcn]

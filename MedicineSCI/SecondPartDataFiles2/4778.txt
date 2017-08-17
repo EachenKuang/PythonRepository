@@ -1,0 +1,4 @@
+Body Mass Index [diap]
+Prognostic Factor [clna]
+Patients [podg]
+Myocardial Infarction [dsyn]

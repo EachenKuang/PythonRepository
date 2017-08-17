@@ -1,0 +1,5 @@
+Current [tmco]
+Hormone replacement therapy [topp]
+condition [dsyn]
+postmenopausal [tmco]
+Women [popg]

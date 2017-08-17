@@ -1,0 +1,4 @@
+treatment [ftcn]
+sequelae [patf]
+Quality [qlco]
+Life [idcn]

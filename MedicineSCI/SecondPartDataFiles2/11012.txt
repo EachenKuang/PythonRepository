@@ -1,0 +1,6 @@
+effects [qlco]
+Mammalian [mamm]
+Plant [plnt]
+Estrogens [horm, phsu, strd]
+lipoprotein metabolism [moft]
+coronary heart disease [dsyn]

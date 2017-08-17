@@ -1,0 +1,5 @@
+Marker [clna]
+Atherosclerosis [dsyn]
+Prognostic Factor [clna]
+CARDIOVASCULAR [bdsy]
+Syndrome [dsyn]

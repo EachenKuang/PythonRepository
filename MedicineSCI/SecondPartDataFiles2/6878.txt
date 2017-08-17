@@ -1,0 +1,4 @@
+Heart disease [dsyn]
+Prognostic Factor [clna]
+Stroke, Acute [dsyn]
+Study, Prospective [resa]

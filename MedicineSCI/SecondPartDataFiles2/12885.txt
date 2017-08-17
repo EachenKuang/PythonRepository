@@ -1,0 +1,6 @@
+effects [qlco]
+Plasma [bdsu]
+Cholesterol [bacs, strd]
+Dolichol [bacs, lipd]
+ubiquinol [orch, phsu]
+rats [mamm]

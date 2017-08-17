@@ -1,0 +1,5 @@
+Heart disease [dsyn]
+late effect [fndg]
+Radiotherapy, Adjuvant [topp]
+Mastectomy [topp]
+Trial [resa]

@@ -1,0 +1,8 @@
+Effectiveness [qlco]
+Medical Nutrition Therapy [topp]
+Delivered [acty]
+Registered [hlca]
+Dietitians [prog]
+Disorders [dsyn]
+Lipid Metabolism [moft]
+Call [menp]

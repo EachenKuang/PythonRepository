@@ -1,0 +1,8 @@
+Mortality [qnco]
+Cardiovascular disease [dsyn]
+radiotherapy [inpr]
+Breast Cancer [neop]
+Cohort Study [qnco]
+>90 [qnco]
+Swedish [popg]
+Women [popg]

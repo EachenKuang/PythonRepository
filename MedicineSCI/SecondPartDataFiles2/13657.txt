@@ -1,0 +1,6 @@
+Current [tmco]
+Aspect [qnco]
+Efficacy [qlco]
+Tolerance [fndg]
+treatment [ftcn]
+Cardiovascular disease [dsyn]

@@ -1,0 +1,5 @@
+Heart disease [dsyn]
+Global [spco]
+Nation [orgt]
+Statement [idcn]
+Prevention [topp]

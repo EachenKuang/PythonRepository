@@ -1,0 +1,2 @@
+treatment [ftcn]
+coronary heart disease [dsyn]

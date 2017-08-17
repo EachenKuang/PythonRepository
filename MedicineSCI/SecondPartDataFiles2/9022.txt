@@ -1,0 +1,8 @@
+fight [socb]
+Cardiovascular disease [dsyn]
+Universal [bodm, carb]
+Polypharmacy [fndg]
+Goes [euka]
+Beliefs [idcn]
+prescribing [hlca]
+practice [menp]

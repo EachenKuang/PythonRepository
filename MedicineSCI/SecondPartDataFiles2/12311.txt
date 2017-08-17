@@ -1,0 +1,4 @@
+adjunctive therapy [topp]
+Drug [phsu]
+Acute myocardial infarction [dsyn]
+Clinical Trials [resa]

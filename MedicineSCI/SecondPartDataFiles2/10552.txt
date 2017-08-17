@@ -1,0 +1,5 @@
+Breast Cancer [neop]
+Progestins [horm, phsu, strd]
+Combination [qlco]
+Estrogen [horm, phsu, strd]
+Hormone replacement therapy [topp]

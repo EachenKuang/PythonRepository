@@ -1,0 +1,4 @@
+concept [idcn]
+Care [acty]
+coronary [bpoc]
+Heart disease [dsyn]

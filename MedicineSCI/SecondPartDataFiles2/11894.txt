@@ -1,0 +1,4 @@
+interpretations [inpr]
+Vitamin supplement [food]
+Chemoprevention [topp]
+Trial [resa]

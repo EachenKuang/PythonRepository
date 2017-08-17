@@ -1,0 +1,4 @@
+Fibrinolysis [phsf]
+Syndromes, Acute Coronary [dsyn]
+facets [blor]
+Hypercoagulable state [dsyn]

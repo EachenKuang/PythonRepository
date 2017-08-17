@@ -1,0 +1,5 @@
+Declining [qlco]
+ST ELEVATION MYOCARDIAL INFARCTION [fndg]
+Patients [podg]
+Presenting [idcn]
+Syndromes, Acute Coronary [dsyn]

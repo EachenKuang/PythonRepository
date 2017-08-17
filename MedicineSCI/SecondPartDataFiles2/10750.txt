@@ -1,0 +1,5 @@
+Hormone replacement therapy [topp]
+Administered [ftcn]
+secondary [neop]
+Prevention [topp]
+coronary artery disease [dsyn]

@@ -1,0 +1,5 @@
+treatment [ftcn]
+concept [idcn]
+Angina Pectoris, Stable [dsyn]
+coronary [bpoc]
+Heart disease [dsyn]

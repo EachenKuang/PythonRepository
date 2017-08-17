@@ -1,0 +1,3 @@
+Hormone replacement therapy [topp]
+Heart disease [dsyn]
+replacing [ftcn]

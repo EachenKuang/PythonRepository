@@ -1,0 +1,4 @@
+Evaluation [ftcn]
+Quality [qlco]
+Life [idcn]
+coronary heart disease [dsyn]
