@@ -1,0 +1,6 @@
+HRT [topp]
+Women [popg]
+Cardiovascular disease [dsyn]
+Start [tmco]
+Stop [acty]
+Null [qnco]

@@ -1,0 +1,6 @@
+New [tmco]
+strategy [menp]
+Global [spco]
+Burden [idcn]
+Stroke [dsyn]
+Null [qnco]

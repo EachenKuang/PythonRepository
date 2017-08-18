@@ -1,0 +1,6 @@
+Triglycerides [bacs, lipd]
+Cardiovascular disease [dsyn]
+Scientific [ocdi]
+Statement [idcn]
+American Heart Association [hcro]
+Null [qnco]

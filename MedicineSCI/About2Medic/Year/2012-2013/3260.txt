@@ -1,0 +1,7 @@
+Short-term [tmco]
+Postoperative [tmco]
+Prognostic Factor [clna]
+Patients [podg]
+Severe [qlco]
+Pulmonary Hypertension [dsyn]
+Congenital heart disease [cgab, dsyn]

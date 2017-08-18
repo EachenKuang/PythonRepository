@@ -1,0 +1,6 @@
+Hormone replacement therapy [topp]
+Risk [qlco]
+Venous Thromboembolism [patf]
+Unresolved [qlco]
+Question [inpr]
+Null [qnco]

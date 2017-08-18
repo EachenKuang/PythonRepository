@@ -1,0 +1,6 @@
+Labetalol [orch, phsu]
+Pharmacology [bmod]
+therapeutic use [topp]
+Hypertension [dsyn]
+ischaemic heart disease [dsyn]
+Null [qnco]

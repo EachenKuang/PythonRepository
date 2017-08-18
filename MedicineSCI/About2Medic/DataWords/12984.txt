@@ -1,0 +1,6 @@
+serial [inpr, mnob]
+Electrophysiologic studies [diap]
+Pharmacological [bmod]
+Control [grup]
+Ventricular arrhythmias [patf]
+Null [qnco]

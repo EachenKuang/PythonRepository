@@ -1,0 +1,8 @@
+Hormone replacement therapy [topp]
+Cardiovascular disease [dsyn]
+Case [ftcn]
+randomized controlled trial [inpr, resa]
+General [spco]
+Discussion [topp]
+III [inpr]
+Null [qnco]

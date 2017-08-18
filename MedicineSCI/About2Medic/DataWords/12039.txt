@@ -1,0 +1,7 @@
+Radiotherapy, Adjuvant [topp]
+Breast Cancer [neop]
+Risk [qlco]
+Ischaemic [ftcn]
+Heart [bpoc]
+Disease [dsyn]
+Null [qnco]

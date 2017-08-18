@@ -1,0 +1,8 @@
+Effect [qlco]
+Oral [spco]
+Hormone replacement therapy [topp]
+Platelet Function [lbpr]
+postmenopausal [tmco]
+Women [popg]
+coronary artery disease [dsyn]
+Null [qnco]

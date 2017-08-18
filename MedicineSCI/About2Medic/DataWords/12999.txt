@@ -1,0 +1,4 @@
+Transdermal [ftcn]
+Estradiol [horm, phsu, strd]
+cardiovascular risk factor [dsyn]
+Null [qnco]

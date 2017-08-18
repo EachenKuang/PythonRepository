@@ -1,0 +1,4 @@
+Gender [orga]
+Survival [acty]
+Myocardial Infarction [dsyn]
+Null [qnco]

@@ -1,0 +1,4 @@
+Power [hcpp]
+Nutrition [bmod]
+Medicine [phsu]
+Null [qnco]

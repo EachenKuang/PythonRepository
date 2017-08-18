@@ -1,0 +1,4 @@
+coronary heart disease [dsyn]
+Women [popg]
+Clinical Trials, Randomized [inpr, resa]
+Null [qnco]

@@ -1,0 +1,4 @@
+coronary heart disease [dsyn]
+Menopause [phsf]
+Hormone replacement therapy [topp]
+Null [qnco]

@@ -1,0 +1,4 @@
+Cost [qnco]
+Hormone replacement therapy [topp]
+Menopause [phsf]
+Null [qnco]

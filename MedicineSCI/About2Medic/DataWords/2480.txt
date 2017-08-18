@@ -1,0 +1,7 @@
+Response [orga]
+D NOS [aapp, imft]
+M NOS [aapp, imft]
+breast radiotherapy [topp]
+Heart disease [dsyn]
+Now [tmco]
+Null [qnco]

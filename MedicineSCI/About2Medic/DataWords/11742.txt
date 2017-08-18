@@ -1,0 +1,6 @@
+Hormone replacement therapy [topp]
+risk benefit [qlco]
+Relation [famg]
+Population [qnco]
+Individual [popg]
+Null [qnco]

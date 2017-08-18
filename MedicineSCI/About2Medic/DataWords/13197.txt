@@ -1,0 +1,5 @@
+Disease [dsyn]
+Incidence [qnco]
+Bomb, Atomic [mnob]
+Survivors [podg]
+Null [qnco]

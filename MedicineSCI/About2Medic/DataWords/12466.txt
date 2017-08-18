@@ -1,0 +1,7 @@
+CARDIOVASCULAR [bdsy]
+Effect [qlco]
+Estrogen [horm, phsu, strd]
+Lipid-lowering therapy [topp]
+postmenopausal [tmco]
+Women [popg]
+Null [qnco]

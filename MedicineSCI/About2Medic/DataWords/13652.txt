@@ -1,0 +1,4 @@
+Change patterns [qlco]
+Drug Therapy [topp]
+ischaemic heart disease [dsyn]
+Null [qnco]

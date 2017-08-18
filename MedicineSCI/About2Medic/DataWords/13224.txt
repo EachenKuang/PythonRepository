@@ -1,0 +1,3 @@
+Induced [ftcn]
+coronary heart disease [dsyn]
+Null [qnco]

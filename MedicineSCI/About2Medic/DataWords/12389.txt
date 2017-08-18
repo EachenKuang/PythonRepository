@@ -1,0 +1,5 @@
+Oral [spco]
+Pharyngeal Cancer [neop]
+Prevention [topp]
+Control [grup]
+Null [qnco]

@@ -1,0 +1,4 @@
+Induced [ftcn]
+Heart disease [dsyn]
+Image Feature [qlco]
+Null [qnco]

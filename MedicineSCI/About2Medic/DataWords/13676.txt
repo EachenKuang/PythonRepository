@@ -1,0 +1,6 @@
+Drug Therapy [topp]
+coronary heart disease [dsyn]
+Nitrates [chvs]
+Short-term [tmco]
+long-term treatment [hlca]
+Null [qnco]

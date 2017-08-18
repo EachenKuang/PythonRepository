@@ -1,0 +1,3 @@
+Heart disease [dsyn]
+Pregnancy [orgf]
+Null [qnco]

@@ -1,0 +1,6 @@
+Hormone replacement therapy [topp]
+Cardiovascular disease [dsyn]
+Statement [idcn]
+health care professionals [prog]
+American Heart Association [hcro]
+Null [qnco]

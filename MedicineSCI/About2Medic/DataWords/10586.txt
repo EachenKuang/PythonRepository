@@ -1,0 +1,6 @@
+effects [qlco]
+soy [food]
+Bone Mineral Density [clna]
+cognitive function [menp]
+vascular reactivity [clna]
+Null [qnco]

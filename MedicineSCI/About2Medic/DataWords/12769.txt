@@ -1,0 +1,6 @@
+Clinical [qlco]
+Arrest [tmco]
+Reversal [ftcn]
+Coronary artery [bpoc]
+Disease [dsyn]
+Null [qnco]

@@ -1,0 +1,7 @@
+Primary [qlco]
+coronary heart disease [dsyn]
+Drug Safety [qlco]
+therapy [ftcn]
+Mortality [qnco]
+Issue [fndg]
+Null [qnco]

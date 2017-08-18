@@ -1,0 +1,5 @@
+vascular [bpoc]
+effects [qlco]
+Progesterone [horm, phsu, strd]
+Progestogens [horm, phsu, strd]
+Null [qnco]

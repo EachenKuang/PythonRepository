@@ -1,0 +1,8 @@
+Hormone replacement therapy [topp]
+Tool [mnob]
+Prevention [topp]
+coronary [bpoc]
+artery disease [dsyn]
+postmenopausal [tmco]
+Women [popg]
+Null [qnco]

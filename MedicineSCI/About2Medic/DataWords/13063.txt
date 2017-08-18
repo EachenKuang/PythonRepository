@@ -1,0 +1,3 @@
+Coronary Disease [dsyn]
+gender differences [orga]
+Null [qnco]

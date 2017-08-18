@@ -1,0 +1,7 @@
+Potential [qlco]
+Point of care [idcn]
+Ultrasound [diap]
+Non [ftcn]
+Diagnosis [fndg]
+patient care [hlca]
+Null [qnco]

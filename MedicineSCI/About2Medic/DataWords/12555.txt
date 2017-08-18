@@ -1,0 +1,5 @@
+Myocardial Infarction [dsyn]
+Associated [qlco]
+Antihypertensive therapy [topp]
+Drug [phsu]
+Null [qnco]

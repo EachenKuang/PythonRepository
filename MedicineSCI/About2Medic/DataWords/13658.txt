@@ -1,0 +1,7 @@
+Acral [spco]
+Diagnosis [fndg]
+treatment [ftcn]
+chronic [tmco]
+obstructive diseases [dsyn]
+vascular [bpoc]
+Null [qnco]

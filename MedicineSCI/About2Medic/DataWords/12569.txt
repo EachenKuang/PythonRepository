@@ -1,0 +1,7 @@
+Potential [qlco]
+Health [idcn]
+Effect [qlco]
+Dietary [food]
+Flavonol [orch, phsu]
+Quercetin [orch, phsu, vita]
+Null [qnco]

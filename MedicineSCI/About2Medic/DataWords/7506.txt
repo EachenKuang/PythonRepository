@@ -1,0 +1,6 @@
+Risk [qlco]
+Prediction [idcn]
+finding new [fndg]
+Independent [idcn]
+Prognostic Factor [clna]
+Null [qnco]

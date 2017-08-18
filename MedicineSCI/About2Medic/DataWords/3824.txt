@@ -1,0 +1,5 @@
+Full [qlco]
+Health [idcn]
+coverage [idcn]
+Compliance [qnco]
+Null [qnco]

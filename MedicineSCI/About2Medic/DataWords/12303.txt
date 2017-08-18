@@ -1,0 +1,6 @@
+gender differences [orga]
+Clinical Trials [resa]
+coronary heart disease [dsyn]
+Response [orga]
+Drug Therapy [topp]
+Null [qnco]

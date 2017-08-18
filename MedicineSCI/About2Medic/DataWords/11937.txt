@@ -1,0 +1,4 @@
+Drug Therapy [topp]
+coronary heart disease [dsyn]
+Table [mnob]
+Null [qnco]

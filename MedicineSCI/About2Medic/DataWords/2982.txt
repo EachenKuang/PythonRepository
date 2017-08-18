@@ -1,0 +1,8 @@
+Statins [orch, phsu]
+Primary [qlco]
+Secondary Prevention [topp]
+CARDIOVASCULAR [bdsy]
+Disease [dsyn]
+Women [popg]
+myths [idcn]
+Null [qnco]

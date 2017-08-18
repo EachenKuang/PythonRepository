@@ -1,0 +1,5 @@
+Mechanism [ftcn]
+Vitamin A [orch, phsu, vita]
+triphenylethylene [orch, phsu]
+Antiestrogens [phsu]
+Null [qnco]

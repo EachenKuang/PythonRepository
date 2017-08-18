@@ -1,0 +1,8 @@
+Medical [ftcn]
+CARDIOVASCULAR [bdsy]
+treatment [ftcn]
+Trial [resa]
+Relevant [qlco]
+Medical [ftcn]
+Ophthalmology [bmod]
+Null [qnco]

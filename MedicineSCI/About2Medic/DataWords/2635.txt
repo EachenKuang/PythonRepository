@@ -1,0 +1,8 @@
+Priority [tmco]
+setting [ftcn]
+Prevention [topp]
+Control [grup]
+coronary heart disease [dsyn]
+Palestinian Territory, Occupied [geoa]
+Pilot Study [resa]
+Null [qnco]

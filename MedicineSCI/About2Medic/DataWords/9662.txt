@@ -1,0 +1,3 @@
+tibolone [phsu, strd]
+Spear [mnob]
+Null [qnco]

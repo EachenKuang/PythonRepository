@@ -1,0 +1,7 @@
+Hematopoiesis, Extramedullary [ortf]
+Causing [ftcn]
+Paraparesis [sosy]
+congenital [qlco]
+Cyanotic [ftcn]
+Heart disease [dsyn]
+Null [qnco]

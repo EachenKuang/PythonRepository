@@ -1,0 +1,7 @@
+Metabolic [ftcn]
+Memory [menp]
+Autonomic neuropathy [dsyn]
+Diabetes [dsyn]
+pathogenesis [ftcn]
+patient care [hlca]
+Null [qnco]

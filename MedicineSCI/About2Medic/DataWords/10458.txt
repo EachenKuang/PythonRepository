@@ -1,0 +1,6 @@
+vascular [bpoc]
+Risk [qlco]
+Menopause [phsf]
+IMPACT [gngm]
+Hormone replacement therapy [topp]
+Null [qnco]

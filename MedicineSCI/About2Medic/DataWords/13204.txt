@@ -1,0 +1,3 @@
+Amiodarone [orch, phsu]
+post mi [dsyn]
+Null [qnco]

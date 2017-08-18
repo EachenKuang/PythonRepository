@@ -1,0 +1,6 @@
+Bloody [qlco]
+MAZE [topp]
+Acquired hemophilia [dsyn]
+Spontaneous [ftcn]
+Intramuscular haematoma [inpo]
+Null [qnco]

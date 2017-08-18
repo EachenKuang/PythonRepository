@@ -1,0 +1,7 @@
+follow [tmco]
+Guidelines [inpr]
+Prevention [topp]
+Cardiovascular disease [dsyn]
+Out-patient [podg]
+Care [acty]
+Null [qnco]

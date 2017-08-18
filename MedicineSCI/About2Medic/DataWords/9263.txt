@@ -1,0 +1,8 @@
+IMPACT [gngm]
+Hormonal [qlco]
+Deficit, NOS [dsyn]
+cardiovascular risk factor [dsyn]
+Life [idcn]
+Expectancy [idcn]
+Hypopituitarism [dsyn]
+Null [qnco]

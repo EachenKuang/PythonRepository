@@ -1,0 +1,8 @@
+icds [medd]
+Chagas Disease [dsyn]
+Heart [bpoc]
+Standard [qlco]
+treatment [ftcn]
+secondary [neop]
+Prevention [topp]
+Sudden death [patf]

@@ -1,0 +1,4 @@
+Menopause [phsf]
+Cardiovascular Diseases [dsyn]
+Women [popg]
+Null [qnco]

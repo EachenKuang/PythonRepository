@@ -1,0 +1,7 @@
+Clinical [qlco]
+Epidemiologic [bmod]
+Predictor [idcn]
+Recurrent [tmco]
+Coronary artery [bpoc]
+Disease [dsyn]
+Null [qnco]

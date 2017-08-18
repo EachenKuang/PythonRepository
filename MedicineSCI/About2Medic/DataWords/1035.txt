@@ -1,0 +1,8 @@
+Clinical evaluation [hlca]
+Guidelines [inpr]
+Risk [qlco]
+Cardiac [bpoc]
+Mortality [qnco]
+Breast Cancer [neop]
+Patients [podg]
+Null [qnco]

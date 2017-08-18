@@ -1,0 +1,5 @@
+coronary artery disease [dsyn]
+Valvular heart disease [dsyn]
+Bradycardia [patf]
+Heart failure [dsyn]
+Null [qnco]

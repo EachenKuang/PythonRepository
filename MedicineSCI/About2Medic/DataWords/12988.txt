@@ -1,0 +1,5 @@
+Cardiac [bpoc]
+Late [tmco]
+Diagnosis [fndg]
+Heart disease [dsyn]
+Null [qnco]

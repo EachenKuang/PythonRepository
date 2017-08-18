@@ -1,0 +1,7 @@
+Radiation [npop]
+Induced [ftcn]
+coronary artery disease [dsyn]
+Second [qnco]
+Survivorship [acty]
+Challenge [clna]
+Null [qnco]

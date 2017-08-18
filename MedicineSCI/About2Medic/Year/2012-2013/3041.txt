@@ -1,0 +1,6 @@
+Survival [acty]
+Dogs [mamm]
+Acquired [tmco]
+Valvular heart disease [dsyn]
+Retrospective Study [resa]
+Cases [ftcn]

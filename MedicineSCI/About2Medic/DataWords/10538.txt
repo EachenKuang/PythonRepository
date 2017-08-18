@@ -1,0 +1,8 @@
+effects [qlco]
+Transdermal [ftcn]
+Hormone replacement therapy [topp]
+CARDIOVASCULAR [bdsy]
+Outcome [ftcn]
+Epidemiological [bmod]
+Evidence [ftcn]
+Null [qnco]

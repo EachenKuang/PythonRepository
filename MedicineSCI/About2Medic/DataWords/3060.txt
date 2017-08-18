@@ -1,0 +1,6 @@
+cardiovascular risk factor [dsyn]
+Same [qlco]
+View [spco]
+Different [qlco]
+Lens [bpoc]
+Null [qnco]

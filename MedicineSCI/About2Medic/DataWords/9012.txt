@@ -1,0 +1,6 @@
+Hormone replacement therapy [topp]
+coronary heart disease [dsyn]
+Result [ftcn]
+randomized [resa]
+Trial [resa]
+Null [qnco]

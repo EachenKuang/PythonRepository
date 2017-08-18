@@ -1,0 +1,6 @@
+Sex [orgf]
+Gender [orga]
+Atherosclerosis [dsyn]
+CARDIOVASCULAR [bdsy]
+Disease [dsyn]
+Null [qnco]

@@ -1,0 +1,4 @@
+Diabetes [dsyn]
+Cardiovascular disease [dsyn]
+learned [menp]
+Null [qnco]

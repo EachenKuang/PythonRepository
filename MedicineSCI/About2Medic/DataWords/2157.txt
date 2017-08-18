@@ -1,0 +1,8 @@
+Left atrial appendage [bpoc]
+Closure [topp]
+PREVENT [phsu]
+Stroke [dsyn]
+Patients [podg]
+Atrial [bpoc]
+Fibrillation [dsyn]
+Null [qnco]

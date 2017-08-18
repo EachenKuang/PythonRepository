@@ -1,0 +1,6 @@
+Self Concept [menp]
+Adherence [ftcn]
+Drug Therapy [topp]
+Patients [podg]
+ischaemic heart disease [dsyn]
+Null [qnco]

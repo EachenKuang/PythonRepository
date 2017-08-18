@@ -1,0 +1,5 @@
+Result [ftcn]
+therapy [ftcn]
+acute [tmco]
+Myocardial Infarction [dsyn]
+Null [qnco]

@@ -1,0 +1,6 @@
+Outcome [ftcn]
+Primary Prevention [topp]
+atherosclerotic [ftcn]
+Cardiovascular disease [dsyn]
+Mortality [qnco]
+Null [qnco]

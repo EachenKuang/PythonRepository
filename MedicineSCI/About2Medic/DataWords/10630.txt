@@ -1,0 +1,5 @@
+Plasma [bdsu]
+Correlated [qlco]
+Circulating [ftcn]
+Vascular Cell Adhesion Molecule [aapp, imft]
+Null [qnco]

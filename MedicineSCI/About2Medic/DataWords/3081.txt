@@ -1,0 +1,4 @@
+Risk [qlco]
+Heart disease [dsyn]
+radiotherapy [inpr]
+Null [qnco]

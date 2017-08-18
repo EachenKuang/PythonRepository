@@ -1,0 +1,7 @@
+Hormone replacement therapy [topp]
+Risk [qlco]
+Acute myocardial infarction [dsyn]
+postmenopausal [tmco]
+Women [popg]
+Diabetes Mellitus [dsyn]
+Null [qnco]

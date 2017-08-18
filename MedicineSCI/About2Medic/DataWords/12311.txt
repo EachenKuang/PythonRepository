@@ -1,0 +1,6 @@
+adjunctive therapy [topp]
+Drug [phsu]
+Acute myocardial infarction [dsyn]
+Evidence [ftcn]
+Clinical Trials [resa]
+Null [qnco]

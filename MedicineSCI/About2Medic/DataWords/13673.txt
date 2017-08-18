@@ -1,0 +1,4 @@
+coronary heart disease [dsyn]
+Induced [ftcn]
+radiotherapy [inpr]
+Null [qnco]

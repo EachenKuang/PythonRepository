@@ -30,7 +30,7 @@ def main():
     ms = MSSQL(host="localhost:59318", user="eachen", pwd="123456", db="mydata")
 
 #   #用于储存1.txt 格式的 files 数字表示其在数据库中的paperID
-    folder = "D:\\Kuangyichen\\PythonRepository\\MedicineSCI\\SecondPartDataFiles2"
+    folder = "D:\\Kuangyichen\\PythonRepository\\MedicineSCI\\About2Medic\\DataWords"
 
 #   #用于储存停用词表，可以有多个
     stopWordsFold = "D:\\Kuangyichen\\PythonRepository\\MedicineSCI\\stopWordsFiles\\"
@@ -56,8 +56,8 @@ def main():
             #         writeString = standard+" "+type+"\n"
             #         writer.write(writeString)
             for word, type in resList:
-                if (word in stopWords) or (re.search("^\d*$|^\\.*$|^\%.*$|^\*.*$|^\d*%$|^\d*/\d*$|^/.*$",word)):
-                    print word + "delete"
+                if (word in stopWords) or (re.search("^\d*$|^\\.*$|^\%.*$|^\*.*$|^\d*%$|^\d*/\d*$|^/.*$|^.*\d.*$", word)):
+                    print word + " delete"
                 else:
                     writeString = word+" "+type+"\n"
                     writer.write(writeString)

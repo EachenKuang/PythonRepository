@@ -1,0 +1,5 @@
+drug therapy treatment [topp]
+Hormonal [qlco]
+postmenopausal [tmco]
+Women [popg]
+Null [qnco]

@@ -1,0 +1,7 @@
+Risk [qlco]
+ischaemic heart disease [dsyn]
+Women [popg]
+radiotherapy [inpr]
+Breast [bpoc]
+Cancer [neop]
+Null [qnco]

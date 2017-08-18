@@ -1,0 +1,8 @@
+Age [orga]
+Associated [qlco]
+CARDIOVASCULAR [bdsy]
+Substrate [mnob]
+Poor [grpa]
+Prognosis [hlca]
+Myocardial Infarction [dsyn]
+Null [qnco]

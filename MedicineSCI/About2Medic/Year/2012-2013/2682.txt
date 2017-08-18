@@ -1,0 +1,2 @@
+Fatigue [sosy]
+coronary heart disease [dsyn]

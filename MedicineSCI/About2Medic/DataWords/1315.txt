@@ -1,0 +1,7 @@
+Prognostic Factor [clna]
+Survival [acty]
+Patients [podg]
+Pulmonary Hypertension [dsyn]
+left heart [blor]
+Disease [dsyn]
+Null [qnco]

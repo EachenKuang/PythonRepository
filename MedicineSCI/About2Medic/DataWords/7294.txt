@@ -1,0 +1,7 @@
+Estrogen [horm, phsu, strd]
+Different [qlco]
+Aspect [qnco]
+Vascular disease [dsyn]
+Women [popg]
+Men [popg]
+Null [qnco]

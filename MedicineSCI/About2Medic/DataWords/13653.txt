@@ -1,0 +1,4 @@
+Cardiac Diseases [dsyn]
+Control [grup]
+Thromboembolic events [patf]
+Null [qnco]

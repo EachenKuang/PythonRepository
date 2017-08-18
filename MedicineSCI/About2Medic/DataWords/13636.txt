@@ -1,0 +1,7 @@
+Isradipine [orch, phsu]
+Review [inpr]
+pharmacodynamic [biof]
+properties [qlco]
+therapeutic use [topp]
+Cardiovascular disease [dsyn]
+Null [qnco]

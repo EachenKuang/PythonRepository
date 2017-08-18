@@ -1,0 +1,7 @@
+effects [qlco]
+Oral [spco]
+Flunitrazepam [orch, phsu]
+Children [aggp]
+congenital [qlco]
+Heart disease [dsyn]
+Null [qnco]

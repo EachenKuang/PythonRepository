@@ -1,0 +1,8 @@
+Prevention [topp]
+Control [grup]
+Atherosclerosis [dsyn]
+Exercise [dora]
+Physical activity [dora]
+Not [ftcn]
+respect [socb]
+Null [qnco]

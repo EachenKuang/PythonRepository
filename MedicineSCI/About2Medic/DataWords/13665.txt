@@ -1,0 +1,5 @@
+Anesthesia [topp]
+Course [tmco]
+Hypertension [dsyn]
+coronary heart disease [dsyn]
+Null [qnco]

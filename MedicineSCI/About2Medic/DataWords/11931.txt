@@ -1,0 +1,7 @@
+ptca [topp]
+influential [idcn]
+Prognosis [hlca]
+coronary heart disease [dsyn]
+State [geoa]
+Art [ocdi]
+Null [qnco]

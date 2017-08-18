@@ -1,0 +1,7 @@
+Chelation Therapy [topp]
+New [tmco]
+Old [tmco]
+treatment [ftcn]
+Heart disease [dsyn]
+diabetics [fndg]
+Null [qnco]

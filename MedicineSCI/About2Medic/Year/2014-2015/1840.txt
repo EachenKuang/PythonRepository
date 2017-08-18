@@ -1,0 +1,4 @@
+heart rate [clna]
+Variability [cnce]
+Chagas Disease [dsyn]
+Heart [bpoc]

@@ -1,0 +1,6 @@
+Secondary Prevention [topp]
+coronary heart disease [dsyn]
+Women [popg]
+Call [menp]
+Action [ftcn]
+Null [qnco]

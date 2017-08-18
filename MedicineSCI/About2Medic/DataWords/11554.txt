@@ -1,0 +1,5 @@
+Effect [qlco]
+Estrogen [horm, phsu, strd]
+coronary [bpoc]
+vasculature [bpoc]
+Null [qnco]

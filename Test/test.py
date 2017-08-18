@@ -12,22 +12,23 @@ from pprint import pprint
 
 def save_dict():
     # open file()
-    data_path_in_folds = "D:\\Kuangyichen\\JavaRepository\\LDAGibbsSampling-master\\data\\LdaOriginalDocs\\"
+    data_path_in_folds = "D:\\Kuangyichen\\PythonRepository\\MedicineSCI\\SecondPartDataFiles2\\"
     data_in_folds_filenames = os.listdir(data_path_in_folds)
     # data_in_folds_filenames.sort()
     texts = []
     for date_in_file in data_in_folds_filenames:
-        with open(data_path_in_folds+date_in_file,'r') as doc:
+        with open(data_path_in_folds+date_in_file, 'r') as doc:
             text = []
             for line in doc:
                 text.append(line.strip())
         texts.append(text)
 
     dictionary = corpora.Dictionary(texts)
-    dictionary.save('./tmp/all_doucment.dict.txt')
+    dictionary.save('./dictionary/dict2.dict.txt')
     corpus = [dictionary.doc2bow(text) for text in texts]
-    corpora.MmCorpus.serialize('./tmp/corpus.mm', corpus)
-    dictionary.filter_extremes()
+    corpora.BleiCorpus.serialize("./dictionary/corpus_all_in_dict2.blei", corpus)
+    # corpora.MmCorpus.serialize('./tmp/corpus.mm', corpus)
+    # dictionary.filter_extremes()
 
 # v1 = [(1,2),(2,3)]
 # v2 = [(1,4),(2,5)]
@@ -279,3 +280,26 @@ print d
 
 mutilist = [[0 for col in range(5)] for row in range(10)]
 """
+
+# .5 L [qnco]	54
+# 7668	.ALPHA.-Tocopherol [lipd, orch, phsu, vita]	32
+# 1633	.BETA.-Carotene [orch, phsu, vita]	58
+# 2501	0.010" [qnco]	18
+# 1533	0.012" [qnco]	53
+# 5601	0.014" [qnco]	42
+# 243	0.016" [qnco]	54
+# 6180	0.018" [qnco]	44
+# 3350	0.022" [qnco]	30
+# 946	1 Day [tmco]	53
+# 3849	1 H [elii]	18
+# 3238	1 Hour [tmco]	15
+# 4963	1 Month [tmco]	67
+# 2292	1 Week [tmco]	29
+import re
+def is_re(word):
+    if (re.search("^\d*$|^\\.*$|^\%.*$|^\*.*$|^\d*%$|^\d*/\d*$|^/.*$|^.*\d.*$", word)):
+        print word + "delete"
+
+l = ['.5 L', '0.010"', '1 Day','1','2-Dimensional','20th century', 'fafsaf']
+for i in l:
+    is_re(i)

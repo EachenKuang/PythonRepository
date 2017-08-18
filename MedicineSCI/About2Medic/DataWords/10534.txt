@@ -1,0 +1,7 @@
+Atherosclerosis [dsyn]
+Hormone replacement therapy [topp]
+Role [socb]
+Estrogen [horm, phsu, strd]
+Secondary Prevention [topp]
+cardiovascular events [fndg]
+Null [qnco]

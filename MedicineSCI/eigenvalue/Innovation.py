@@ -8,7 +8,7 @@ from MedicineSCI.InterfaceSQL import MSSQL
 #from functools import reduce
 
 # 余弦相似度的计算,传入的参数为向量a,b
-def sim(a,b):
+def sim(a, b):
     dot_product = 0.0
     normA = 0.0
     normB = 0.0

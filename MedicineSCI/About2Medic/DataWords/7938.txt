@@ -1,0 +1,5 @@
+early-stage breast cancer [neop]
+Risk [qlco]
+Heart disease [dsyn]
+Lung Cancer [neop]
+Null [qnco]

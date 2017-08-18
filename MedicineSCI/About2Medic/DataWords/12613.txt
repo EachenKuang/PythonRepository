@@ -1,0 +1,7 @@
+influential [idcn]
+female sex [fndg]
+Steroids [strd]
+glucose metabolism [moft]
+Insulin [aapp, horm, phsu]
+Action [ftcn]
+Null [qnco]

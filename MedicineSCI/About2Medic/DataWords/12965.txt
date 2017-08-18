@@ -1,0 +1,6 @@
+absence [qnco]
+Structural [spco]
+Heart disease [dsyn]
+Antiarrhythmic drug [phsu]
+therapy [ftcn]
+Null [qnco]

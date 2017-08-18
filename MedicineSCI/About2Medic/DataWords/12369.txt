@@ -1,0 +1,6 @@
+Clinical [qlco]
+Efficacy [qlco]
+HMG-CoA Reductase Inhibitors [orch, phsu]
+effects [qlco]
+Cholesterol, LDL [bacs, strd]
+Null [qnco]

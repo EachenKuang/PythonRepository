@@ -1,0 +1,3 @@
+treatment [ftcn]
+coronary heart disease [dsyn]
+Null [qnco]

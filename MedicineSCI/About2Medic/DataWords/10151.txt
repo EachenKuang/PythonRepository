@@ -1,0 +1,6 @@
+AHA [orch, phsu]
+Guidelines [inpr]
+Hormone replacement therapy [topp]
+CARDIOVASCULAR [bdsy]
+Disease [dsyn]
+Null [qnco]

@@ -1,0 +1,5 @@
+Beliefs [idcn]
+Medication [phsu]
+Adherence [ftcn]
+Drug Therapy [topp]
+ischaemic heart disease [dsyn]

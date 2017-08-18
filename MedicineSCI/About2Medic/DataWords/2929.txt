@@ -1,0 +1,6 @@
+Locus [gngm]
+Control [grup]
+ischaemic heart disease [dsyn]
+Adherence [ftcn]
+Drug Therapy [topp]
+Null [qnco]

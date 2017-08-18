@@ -1,0 +1,5 @@
+Transdermal [ftcn]
+Hormone replacement therapy [topp]
+Serum lipids NOS [lbpr]
+Lipoproteins [aapp, bacs]
+Null [qnco]

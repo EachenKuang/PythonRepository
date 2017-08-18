@@ -1,0 +1,8 @@
+effects [qlco]
+Estrogens [horm, phsu, strd]
+Progestins [horm, phsu, strd]
+Androgens [horm, phsu]
+coronary [bpoc]
+vasomotion [ortf]
+Atherosclerosis [dsyn]
+Null [qnco]

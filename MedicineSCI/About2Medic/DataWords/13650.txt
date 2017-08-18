@@ -1,0 +1,7 @@
+Incidence [qnco]
+Heart disease [dsyn]
+Significance [qnco]
+Electrocardiogram [fndg]
+radiotherapy [inpr]
+Breast Cancer [neop]
+Null [qnco]

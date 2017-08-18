@@ -1,0 +1,6 @@
+Exercise [dora]
+Physical activity [dora]
+Clinical [qlco]
+Outcome [ftcn]
+applications [hlca]
+Null [qnco]

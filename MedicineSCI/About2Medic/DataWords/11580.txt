@@ -1,0 +1,5 @@
+Identifying patient [hlca]
+At risk [qlco]
+coronary heart disease [dsyn]
+treatment [ftcn]
+Null [qnco]

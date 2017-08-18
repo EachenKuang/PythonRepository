@@ -1,0 +1,7 @@
+Clinical [qlco]
+Efficacy [qlco]
+therapy [ftcn]
+Patients [podg]
+arterial hypertension [dsyn]
+ischaemic heart disease [dsyn]
+Null [qnco]

@@ -1,0 +1,6 @@
+Hormone Replacement Therapy, Post-Menopausal [topp]
+PREVENT [phsu]
+Central [spco]
+Body Fat [tisu]
+Menopause [phsf]
+Null [qnco]

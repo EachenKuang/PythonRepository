@@ -1,0 +1,6 @@
+Role [socb]
+Policy [inpr]
+Government [orgt]
+Obesity [dsyn]
+Epidemic [phpr]
+Null [qnco]

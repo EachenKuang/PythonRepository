@@ -1,0 +1,7 @@
+Elevated [qlco]
+remnant-like particle cholesterol [aapp, lipd]
+Concentration [menp]
+Characteristic [qlco]
+Feature [qlco]
+Atherogenic lipoprotein phenotype [fndg]
+Null [qnco]

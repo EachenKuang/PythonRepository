@@ -1,0 +1,5 @@
+New [tmco]
+Aspect [qnco]
+Drug Therapy [topp]
+ischaemic heart disease [dsyn]
+Null [qnco]

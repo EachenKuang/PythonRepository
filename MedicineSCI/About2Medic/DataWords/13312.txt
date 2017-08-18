@@ -1,0 +1,6 @@
+Problem [fndg]
+myocardial necrosis [dsyn]
+Management [ocac]
+coronary [bpoc]
+Heart disease [dsyn]
+Null [qnco]

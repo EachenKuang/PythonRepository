@@ -1,0 +1,6 @@
+Body Mass Index [diap]
+Prognostic Factor [clna]
+Patients [podg]
+First [qnco]
+Myocardial Infarction [dsyn]
+Null [qnco]

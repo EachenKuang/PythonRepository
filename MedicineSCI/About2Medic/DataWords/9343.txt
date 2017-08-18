@@ -1,0 +1,6 @@
+regionalization [ortf]
+Care [acty]
+Acute ischaemic heart disease [dsyn]
+Call [menp]
+Specialized Center [hcro]
+Null [qnco]

@@ -1,0 +1,6 @@
+Dose-Response Relationship, Radiation [qnco]
+Risk [qlco]
+coronary heart disease [dsyn]
+Survivors [podg]
+Hodgkin Lymphoma [neop]
+Null [qnco]

@@ -1,0 +1,4 @@
+coronary artery disease [dsyn]
+Breast [bpoc]
+radiation therapy [inpr]
+Null [qnco]

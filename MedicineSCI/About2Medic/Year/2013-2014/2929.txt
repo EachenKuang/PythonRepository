@@ -1,0 +1,4 @@
+Locus [gngm]
+ischaemic heart disease [dsyn]
+Adherence [ftcn]
+Drug Therapy [topp]

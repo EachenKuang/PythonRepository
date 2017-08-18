@@ -1,0 +1,6 @@
+Outcome [ftcn]
+Sclerotherapy [topp]
+treatment [ftcn]
+Venous blood [tisu]
+malformations [ftcn]
+Null [qnco]

@@ -1,0 +1,4 @@
+coronary heart disease [dsyn]
+radiotherapy [inpr]
+Peptic Ulcer [dsyn]
+Null [qnco]

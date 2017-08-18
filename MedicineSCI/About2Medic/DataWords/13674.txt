@@ -1,0 +1,8 @@
+heart rate [clna]
+Factor [ftcn]
+coronary heart disease [dsyn]
+Mortality [qnco]
+findings [ftcn]
+Chicago [geoa]
+Epidemiologic Studies [resa]
+Null [qnco]

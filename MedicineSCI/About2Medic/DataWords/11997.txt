@@ -1,0 +1,5 @@
+coronary heart disease [dsyn]
+Old [tmco]
+Major [qlco]
+Risk [qlco]
+Null [qnco]

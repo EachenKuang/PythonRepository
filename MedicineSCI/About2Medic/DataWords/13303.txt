@@ -1,0 +1,6 @@
+Heart disease [dsyn]
+World [popg]
+Prevalence [qnco]
+Prevention [topp]
+Control [grup]
+Null [qnco]

@@ -1,0 +1,5 @@
+Predictor [idcn]
+Fatigue [sosy]
+Presence [topp]
+coronary heart disease [dsyn]
+Null [qnco]

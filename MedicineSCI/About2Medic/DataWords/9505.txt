@@ -1,0 +1,4 @@
+consequences [ftcn]
+Long-term [tmco]
+Hormone replacement therapy [topp]
+Null [qnco]

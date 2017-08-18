@@ -1,0 +1,4 @@
+ischaemic heart disease [dsyn]
+breast radiotherapy [topp]
+Cancer [neop]
+Null [qnco]

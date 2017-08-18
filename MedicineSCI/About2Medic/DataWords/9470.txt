@@ -1,0 +1,6 @@
+Management [ocac]
+Acute myocardial infarction [dsyn]
+Patients [podg]
+Presenting [idcn]
+ST segment elevation [fndg]
+Null [qnco]

@@ -1,0 +1,4 @@
+Hormone replacement therapy [topp]
+ischaemic heart disease [dsyn]
+Periods, Critical [tmco]
+Null [qnco]

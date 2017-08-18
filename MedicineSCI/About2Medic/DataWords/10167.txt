@@ -1,0 +1,8 @@
+radiotherapy [inpr]
+Part [spco]
+Multidisciplinary [ocac]
+treatment [ftcn]
+strategy [menp]
+Early [tmco]
+Breast Cancer [neop]
+Null [qnco]

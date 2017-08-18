@@ -1,0 +1,7 @@
+Echocardiography, Stress [diap]
+Diagnosis [fndg]
+coronary artery disease [dsyn]
+Detection [topp]
+Viable [qlco]
+Myocardium [tisu]
+Null [qnco]

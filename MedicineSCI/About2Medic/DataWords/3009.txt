@@ -1,0 +1,6 @@
+reasons [idcn]
+racial differences [fndg]
+Stroke [dsyn]
+Incidence [qnco]
+Mortality [qnco]
+Null [qnco]

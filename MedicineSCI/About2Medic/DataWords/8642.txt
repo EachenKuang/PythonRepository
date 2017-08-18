@@ -1,0 +1,6 @@
+Prevention [topp]
+Control [grup]
+Stroke [dsyn]
+Heart disease [dsyn]
+Gender [orga]
+Null [qnco]

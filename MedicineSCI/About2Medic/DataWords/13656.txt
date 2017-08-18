@@ -1,0 +1,7 @@
+Clinical [qlco]
+Efficacy [qlco]
+Nitroglycerin [orch, phsu]
+Drugs [phsu]
+coronary [bpoc]
+Heart disease [dsyn]
+Null [qnco]

@@ -1,0 +1,6 @@
+Local [spco]
+Recurrence [phpr]
+Cardiovascular disease [dsyn]
+pay [qnco]
+Now [tmco]
+Null [qnco]

@@ -1,0 +1,6 @@
+Estrogen [horm, phsu, strd]
+Young [tmco]
+Menopausal [phsf]
+Women [popg]
+Stroke [dsyn]
+Null [qnco]

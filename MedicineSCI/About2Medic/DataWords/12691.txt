@@ -1,0 +1,3 @@
+Vascular disease [dsyn]
+Thrombosis [patf]
+Null [qnco]

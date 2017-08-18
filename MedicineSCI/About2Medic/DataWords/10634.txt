@@ -1,0 +1,6 @@
+Protection [fndg]
+Cardiovascular system [bdsy]
+Estrogens [horm, phsu, strd]
+Role [socb]
+Renin-angiotensin system [bdsy]
+Null [qnco]

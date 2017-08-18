@@ -1,0 +1,8 @@
+Management [ocac]
+Old [tmco]
+Acute myocardial infarction [dsyn]
+Clinical presentation [inpr]
+Old [tmco]
+Young [tmco]
+Patients [podg]
+Null [qnco]

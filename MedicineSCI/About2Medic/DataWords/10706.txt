@@ -1,0 +1,6 @@
+HRT [topp]
+Cancer [neop]
+Cardiovascular disease [dsyn]
+Second [qnco]
+Thoughts [menp]
+Null [qnco]

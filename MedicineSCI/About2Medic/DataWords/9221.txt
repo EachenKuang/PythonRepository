@@ -1,0 +1,8 @@
+Molecular [qlco]
+Clinical [qlco]
+Evidence [ftcn]
+Unique [qlco]
+Nature [idcn]
+Individual [popg]
+Selective Estrogen Receptor Modulators [horm, phsu]
+Null [qnco]

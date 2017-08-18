@@ -1,0 +1,4 @@
+Continuous [idcn]
+Combined [qlco]
+HRT [topp]
+Null [qnco]
