@@ -56,7 +56,7 @@ def period_store():
     分阶段形成LDA模型文件以及词文件
     :return:
     """
-    # default_path = "D:\\Kuangyichen\\PythonRepository\\Test\\year\\2000\\"
+    # default_path = "D:\\Kuangyichen\\PythonRepository\\MedicineTool\\year\\2000\\"
     default_path = "./period/"
     data_in_folds_year = os.listdir(default_path)
 

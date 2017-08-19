@@ -62,7 +62,7 @@ def make_store(texts, name):
 
 
 def main():
-    # default_path = "D:\\Kuangyichen\\PythonRepository\\Test\\year\\2000\\"
+    # default_path = "D:\\Kuangyichen\\PythonRepository\\MedicineTool\\year\\2000\\"
     default_path = "./year/"
     data_in_folds_year = os.listdir(default_path)
     # data_in_folds_year.sort()   #排序

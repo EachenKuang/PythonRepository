@@ -295,11 +295,4 @@ mutilist = [[0 for col in range(5)] for row in range(10)]
 # 3238	1 Hour [tmco]	15
 # 4963	1 Month [tmco]	67
 # 2292	1 Week [tmco]	29
-import re
-def is_re(word):
-    if (re.search("^\d*$|^\\.*$|^\%.*$|^\*.*$|^\d*%$|^\d*/\d*$|^/.*$|^.*\d.*$", word)):
-        print word + "delete"
 
-l = ['.5 L', '0.010"', '1 Day','1','2-Dimensional','20th century', 'fafsaf']
-for i in l:
-    is_re(i)

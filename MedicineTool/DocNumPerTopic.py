@@ -63,6 +63,22 @@ def num_doc_per_topic(corpus, lda):
     # print corpus.__len__(), a_list
     return a_list
 
+
+def doc_topic_mat(corpus, lda, offset=0):
+    """
+    :param corpus:
+    :param lda:
+    :param offset: 偏移量，用于修正doc_id在整体数据中的位置
+    :return: 返回一个二维矩阵，保存doc_id
+    """
+    a_list = [[] for i in range(Global.TOPIC_NUM)]
+    for i in range(0, corpus.__len__()):
+        # print lda[corpus.docbyoffset(corpus.index[i])][0]
+        temper = find_max_in_list(lda[corpus.docbyoffset(corpus.index[i])][0])[0]
+        a_list[temper].append(i+offset)
+    return a_list
+
+
 # 先写一个示例，用一个corpus与一个LdaModel来测试，之后在使用循环解决所有问题
 # corpus_exam = corpora.BleiCorpus("./timewindow_in3/corpus_2000-2001-2002.blei")
 # lda_exam = models.LdaModel.load('./timewindow_in3/_2000-2001-2002lda_model')
