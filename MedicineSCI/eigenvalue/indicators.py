@@ -279,7 +279,7 @@ def main():
     # get_subject_displine(['3','4','5'], 'paper_CR.txt')
     for i in range(0,10):
         # selected_articles = theta2subset('lda_1000.theta', 10, 8283, i)
-        get_subject_displine(topic[i], 'paper_CR.txt')
+        get_subject_displine(topic[i], 'paper_CR_test.txt')
     # get_subject_displine(,'paper_CR.txt')
 
 if __name__ == '__main__':

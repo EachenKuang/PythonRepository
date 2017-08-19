@@ -14,7 +14,7 @@ readMH.close()
 print(MH_List)
 print("------------------------------------------------")
 #---------------------------------------------------------------
-lda1 = models.LdaModel.load('D:/Kuangyichen/PythonRepository/Test/temp/_2004-2005lda_moedel')
+lda1 = models.LdaModel.load('D:/Kuangyichen/PythonRepository/MedicineTool/temp/_2004-2005lda_moedel')
 show = lda1.show_topics(num_words=400,formatted=False)
 dict_show = dict(show)
 #dict_show[i]
@@ -26,7 +26,7 @@ for i in dict(dict_show[1]).iterkeys():
     print i
 
 #----------------------------------------------------------------
-# path = 'D:\\Kuangyichen\\PythonRepository\\Test\\item_list.txt'
+# path = 'D:\\Kuangyichen\\PythonRepository\\MedicineTool\\item_list.txt'
 # path = "D:\\Kuangyichen\\JavaRepository\\LDAGibbsSampling-master\\data\\LdaResults\\termList.txt"
 # with open(path,"r") as readWord:
 #     Word_List = []
