@@ -10,9 +10,11 @@ Goal: 计算4个特征测度
 """
 
 from gensim import models, corpora
+from MedicineSCI.InterfaceSQL import MSSQL
 from MedicineSCI.eigenvalue import indicators, Innovation
-from MedicineTool import DocNumPerTopic
+from MedicineTool import DocNumPerTopic, SemanticsSim
 import numpy as np
+import xlwt
 
 
 # 〖HA〗_i代表第i个主题的关注度值，∑_(j=1)^n▒C_j 计算了主题内n篇文献的总被引频次，n代表主题内文献总量。
@@ -37,12 +39,12 @@ def novelty(published_year):
 
 def innovation(topic_i, topic_j, MN, AN, EN):
 
-    Innovation.inno(topic_i, topic_j, MN, AN, EN)
+    return Innovation.inno(topic_i, topic_j, MN, AN, EN)
 
 
 def interdisciplinary(doc_list):
     path = "D:\\Kuangyichen\\PythonRepository\\MedicineSCI\\About2Medic\\DataFile\\paper_CR_test.txt"
-    indicators.get_subject_displine(doc_list, path)
+    return indicators.get_subject_displine(doc_list, path)
 
 
 def main():
@@ -62,36 +64,88 @@ def main():
 
     """ ****************************************************************** """
     # 用于存放MH-EN，MN，AN的字典,在函数innovation中使用
-    # dic_EN = {}
-    # dic_MN = {}
-    # dic_AN = {}
-    # # 用于测试、真实数据
-    # t = []
-    # ms = MSSQL(host="localhost:59318", user="eachen", pwd="123456", db="mydata")
-    # resultList = ms.ExecQuery("SELECT MH,EN,MN,AN FROM MeshStructure")
-    # for (MH, EN, MN, AN) in resultList:
-    #     dic_EN[MH] = EN
-    #     dic_MN[MH] = MN
-    #     dic_AN[MH] = AN
+    dic_EN = {}
+    dic_MN = {}
+    dic_AN = {}
+    # 用于测试、真实数据
+    t = []
+    ms = MSSQL(host="localhost:59318", user="eachen", pwd="123456", db="mydata")
+    result_list = ms.ExecQuery("SELECT MH,EN,MN,AN FROM MeshStructure")
+    for (MH, EN, MN, AN) in result_list:
+        dic_EN[MH] = EN
+        dic_MN[MH] = MN
+        dic_AN[MH] = AN
 
     """ ****************************************************************** """
     # 用于 high_attention函数与novelty函数
-    # list_PY = []
-    # list_TC = []
-    # file = open("DataFile/Py_TC", "r")
-    # for line in file:
-    #     line = line.split()
-    #     list_PY.append(line[1])
-    #     list_TC.append(line[2])
+    list_PY = []
+    list_TC = []
+    file = open("DataFile/Py_TC", "r")
+    for line in file:
+        line = line.split()
+        list_PY.append(line[1])
+        list_TC.append(line[2])
     # print list_PY, list_TC
+    # list_PY_np = np.array(list_PY)
+    # list_TC_np = np.array(list_TC)
+
     """ ****************************************************************** """
-    # 初始化
+    # 初始化doc_topic_matrix
     doc_all = []
     offset = [2633, 1891, 1161]
     for i in range(3):
         doc = DocNumPerTopic.doc_topic_mat(corpus_list[i], lda_list[i], offset[i])
-    doc_all.append(doc)
+        doc_all.append(doc)
+    print doc_all.__len__(), doc_all[0].__len__(),
     doc_all_np = np.array(doc_all)
+    # doc_all_np 3维 （时间维0,1,2）（主题维（0,9））（文档）
 
+    """ ****************************************************************** """
+    # 初始化word_topic_matrix
+    word_topic_all = []
+    for i in range(3):
+        print str(i)+'in main'
+        temp_list = SemanticsSim.model2list_topics(lda_list[i])
+        word_topic_all.append(temp_list)
+
+    # print list_all.__len__()
+    # print list_all[0].__len__()
+    # print list_all[0][0].__len__()
+    # print list_all
+
+    """ ****************************************************************** """
+    # 循环 3*10
+    wbk = xlwt.Workbook()
+    for period in range(3):
+        sheet = wbk.add_sheet("sheet"+str(period))
+        for topic in range(10):
+            temp1 = high_attention([list_PY[j-1] for j in doc_all_np[period][topic]])
+            temp2 = novelty([list_TC[j-1] for j in doc_all_np[period][topic]])
+            temp3 = interdisciplinary(doc_all_np[period][topic])
+            sheet.write(1, topic+1, temp1)
+            sheet.write(2, topic+1, temp2)
+            sheet.write(3, topic+1, temp3)
+
+    wbk.save("Output/eigenvalue.xls")
+
+    wbk = xlwt.Workbook()
+    sum_list_all = []
+    for i in range(3):
+        sheet = wbk.add_sheet('sheet' + str(i))
+        sum_list = []
+        for j in range(10):
+            sum_topic =0.0
+            for k in range(10):
+                print str(i) + str(i + 1) + 'topic'
+                print(j, k)
+                sim1 = innovation(word_topic_all[i][j], word_topic_all[i][k], dic_MN, dic_AN, dic_EN)
+                print sim1
+                sheet.write(j + 1, k + 1, str(sim1))
+                sum_topic += sim1
+            sum_list.append(sum_topic)
+        sum_list_all.append(sum_list)
+
+    wbk.save("Output/Innovation.xls")
+    print sum_list_all
 if __name__ == '__main__':
     main()

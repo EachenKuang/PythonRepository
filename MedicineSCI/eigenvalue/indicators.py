@@ -83,7 +83,7 @@ def get_subject_displine(paperIDs, paper_subjects_path):
     # 扫描统计共有多少个学科Begin
     all_subjects = []
     M = len(paperIDs)   # 主题下文献篇数
-    print M
+    # print M
     for line in paper_subjects_file.readlines():
         splits = line.split(';')
         paperID = int(splits[0])
@@ -93,7 +93,7 @@ def get_subject_displine(paperIDs, paper_subjects_path):
         all_subjects += splits[1:len(splits)]
         all_subjects = list(set(all_subjects))  # 所有出现过的学科去重
     N = len(all_subjects)   # 学科数
-    print N
+    # print N
     co_occurence_matrix = pd.DataFrame(np.zeros((M, N)), index=paperIDs, columns=all_subjects)  # 共现矩阵
     # 扫描统计共有多少个学科End
     # 各学科类别引文计数Begin
@@ -111,7 +111,7 @@ def get_subject_displine(paperIDs, paper_subjects_path):
         co_occurence_matrix.loc[paperID,] = my_vector   # 共现矩阵      # 更新文献对应共现矩阵的行向量
     # 各学科类别引文计数End
     p = np.array(subjects_all_times.values())/cr_total
-    print len(subjects_all_times.values())
+    # print len(subjects_all_times.values())
     # co_occurence_matrix = co_occurence_matrix[co_occurence_matrix!=0] = 1   # 转换为0-1共现矩阵
     co_occurence_matrix = co_occurence_matrix / cr_total    # 将共现矩阵所有元素除以引文总数
     # subjects_subjects_matrix = np.matrix(co_occurence_matrix.T) * np.matrix(co_occurence_matrix)    # 学科-学科矩阵
@@ -122,7 +122,7 @@ def get_subject_displine(paperIDs, paper_subjects_path):
             cosine = sim(co_occurence_matrix.iloc[:, i], co_occurence_matrix.iloc[:, j])
             subjects_displine += p[i] * p[j] * cosine     # pi*pj*dij
     # 计算学科交叉度End
-    print subjects_displine
+    # print subjects_displine
     return subjects_displine
 
 

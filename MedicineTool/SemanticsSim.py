@@ -35,7 +35,7 @@ def model2list_topics(lda_model, num_words=400):
 # 传入一个list，返回一个list
 # 得到一个在d2017.b中的共有的list
 def filter_with_list(input_list):
-    with open('./dictionary/MH.txt', 'r')as readMH:
+    with open('D:\\Kuangyichen\\PythonRepository\\MedicineTool\\dictionary\\MH.txt', 'r')as readMH:
         cor2_MH = set()
         for line in readMH:
             term = str(line).strip()
