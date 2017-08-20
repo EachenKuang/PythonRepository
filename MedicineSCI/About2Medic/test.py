@@ -6,9 +6,9 @@ from gensim import models
 def print_topic(lda_list):
     name = ['2012-2013', '2013-2014', '2014-2015']
     for j in range(3):
-        show = lda_list[j].show_topics(num_words=40, formatted=False)
+        show = lda_list[j].show_topics(num_words=400, formatted=False)
         topic_dict = OrderedDict(show)
-        with open('Output/' + name[j] + 'topic_format', 'w') as temp:
+        with open('Output/' + name[j] + 'topic_format_400', 'w') as temp:
             # temp.write(str(show))
             for i in range(10):
                 # topic_dict[i]  # topic i 中的对应字段 list
