@@ -1,0 +1,410 @@
+topic0
+treatment [ftcn] 0.0100959189124
+P NOS [aapp, imft] 0.00716429310304
+Women [popg] 0.00593804917528
+Study [mnob] 0.00584073994939
+Age [orga] 0.00551670742878
+Methods [inpr] 0.00462913586255
+Group [idcn] 0.00436212070297
+Cardiovascular disease [dsyn] 0.00421745743622
+Increased [qnco] 0.00395042347991
+Mortality [qnco] 0.00373697801774
+Compared [acty] 0.00367403387808
+Hypertension [dsyn] 0.00365982764627
+Trial [resa] 0.00325233504301
+Based [ftcn] 0.00315616256647
+CARDIOVASCULAR [bdsy] 0.00311303542562
+Conclusions [idcn] 0.00290846475589
+radiotherapy [inpr] 0.00263808643001
+months [tmco] 0.00263532051933
+Cardiac [bpoc] 0.0025295869326
+included [ftcn] 0.00252227947238
+therapy [ftcn] 0.00249306110796
+Management [ocac] 0.00239110596901
+Survival [acty] 0.00228918454878
+Health [idcn] 0.00225762376117
+Including [ftcn] 0.00224079456448
+effects [qlco] 0.00222872838686
+Prevention [topp] 0.00219853698108
+Evaluate [ftcn] 0.00211344147917
+Men [popg] 0.00207474402965
+Induced [ftcn] 0.00206571192877
+Efficacy [qlco] 0.00202556110044
+Cases [ftcn] 0.00201690531472
+treated [topp] 0.0020081284409
+Heart [bpoc] 0.00199868236254
+Specific [qlco] 0.00194623537314
+Suggest [idcn] 0.00187594435155
+Performed [ftcn] 0.00185694938867
+Diabetes [dsyn] 0.00184823868224
+baseline [bodm] 0.00184651214933
+IMPACT [gngm] 0.0018234797548
+topic1
+treatment [ftcn] 0.00992294354905
+P NOS [aapp, imft] 0.00858823132041
+Study [mnob] 0.0064601735276
+Compared [acty] 0.00585911249222
+Mortality [qnco] 0.0055069285451
+Age [orga] 0.00528489426934
+Women [popg] 0.00483323292968
+Cardiovascular disease [dsyn] 0.00478874477283
+Methods [inpr] 0.0043464886848
+Group [idcn] 0.0043016221262
+Increased [qnco] 0.00379789789745
+Trial [resa] 0.00344947996791
+Conclusions [idcn] 0.00321309834329
+CARDIOVASCULAR [bdsy] 0.00298535035855
+therapy [ftcn] 0.0029712722609
+Hypertension [dsyn] 0.00287731322005
+Based [ftcn] 0.00259522755052
+Stroke [dsyn] 0.00259099016919
+Diabetes [dsyn] 0.00258493982073
+Survival [acty] 0.00250018195807
+included [ftcn] 0.00241717373477
+radiotherapy [inpr] 0.00240540920797
+Prevention [topp] 0.00230098734657
+Health [idcn] 0.00227233846845
+Efficacy [qlco] 0.00221879511932
+N NOS [aapp, imft] 0.00220718252288
+effects [qlco] 0.00209628220088
+Including [ftcn] 0.00197582619567
+Association [menp] 0.0019378863646
+Suggest [idcn] 0.00191165273079
+Levels [qlco] 0.00191152915599
+Dose [qnco] 0.00190139328643
+Performed [ftcn] 0.00188392307967
+treated [topp] 0.00185468563146
+Old [tmco] 0.00182530378115
+Heart [bpoc] 0.00181434833569
+Assessed [acty] 0.00180589256864
+risk factors [qnco] 0.00179063125274
+Present [qnco] 0.00177193348971
+High Risk [qlco] 0.0017644380851
+topic2
+treatment [ftcn] 0.0105837156405
+P NOS [aapp, imft] 0.00743705138664
+Study [mnob] 0.00693674834324
+Group [idcn] 0.0060178815135
+Women [popg] 0.00563995683677
+Compared [acty] 0.00436607237405
+Conclusions [idcn] 0.00413030940036
+Age [orga] 0.00411392321971
+Cardiovascular disease [dsyn] 0.00393890402905
+Increased [qnco] 0.00385331265615
+effects [qlco] 0.00353580301185
+Hypertension [dsyn] 0.00352456913215
+Mortality [qnco] 0.00344064093023
+Trial [resa] 0.00328435649534
+Methods [inpr] 0.00326086198644
+Based [ftcn] 0.00310382400241
+CARDIOVASCULAR [bdsy] 0.00309575319419
+therapy [ftcn] 0.00292417498116
+Cardiac [bpoc] 0.00258188977631
+Diabetes [dsyn] 0.00256419928608
+months [tmco] 0.00252607401363
+treated [topp] 0.00252355842291
+participants [popg] 0.00245259225909
+Survival [acty] 0.00242721752561
+radiotherapy [inpr] 0.0021972565221
+Stroke [dsyn] 0.00218638388344
+Men [popg] 0.00218376597001
+included [ftcn] 0.00218176713179
+Hormone replacement therapy [topp] 0.00208448078439
+Heart [bpoc] 0.00207131367614
+Levels [qlco] 0.00193531384322
+N NOS [aapp, imft] 0.00191866299066
+Suggest [idcn] 0.0019159026608
+Objective [inpr] 0.00186455300381
+reduction [npop] 0.00184075559239
+Health [idcn] 0.00183214596236
+coronary heart disease [dsyn] 0.00181142819419
+Performed [ftcn] 0.0018107358896
+risk factors [qnco] 0.00180937758491
+Dose [qnco] 0.0017449956473
+topic3
+treatment [ftcn] 0.0100774596701
+P NOS [aapp, imft] 0.00820255605593
+Study [mnob] 0.0069430099283
+Group [idcn] 0.00675888692879
+Women [popg] 0.00512070967035
+Cardiovascular disease [dsyn] 0.00495842771976
+Increased [qnco] 0.00456119491874
+Methods [inpr] 0.00405484492101
+CARDIOVASCULAR [bdsy] 0.00361633854262
+Trial [resa] 0.00355829200772
+Based [ftcn] 0.00336037396836
+Compared [acty] 0.00329121987919
+Mortality [qnco] 0.0032591907262
+effects [qlco] 0.00322030543543
+Age [orga] 0.00296616834434
+Conclusions [idcn] 0.00292172662785
+Men [popg] 0.00289645163756
+Hypertension [dsyn] 0.00283486983998
+Health [idcn] 0.0026552372436
+Diabetes [dsyn] 0.00262893529748
+Including [ftcn] 0.00240808120041
+participants [popg] 0.00239249973527
+included [ftcn] 0.00235006909564
+N NOS [aapp, imft] 0.00232603519791
+risk factors [qnco] 0.00230616376946
+Stroke [dsyn] 0.00230425139845
+radiotherapy [inpr] 0.00224479608249
+Survival [acty] 0.00198669245277
+therapy [ftcn] 0.0019520422178
+Heart [bpoc] 0.00193690032557
+Cases [ftcn] 0.00192871684028
+Association [menp] 0.00192780483714
+Prevention [topp] 0.00189127409589
+Hormone replacement therapy [topp] 0.00188666136853
+IMPACT [gngm] 0.00187765531077
+Blood Pressure [orgf] 0.0018391630594
+Subject [grup] 0.0018340118972
+treated [topp] 0.00182373074133
+Reduced [qlco] 0.0017891224957
+Quality [qlco] 0.00178112274586
+topic4
+P NOS [aapp, imft] 0.00958063633249
+treatment [ftcn] 0.00885528119988
+Cardiovascular disease [dsyn] 0.00706911766839
+Study [mnob] 0.00673859259162
+Trial [resa] 0.00649331074588
+Group [idcn] 0.00631410366311
+Mortality [qnco] 0.00523848150375
+Women [popg] 0.00512303357861
+Methods [inpr] 0.00493812896095
+Age [orga] 0.00421266267495
+Compared [acty] 0.00372905384396
+Diabetes [dsyn] 0.00363564712705
+Increased [qnco] 0.0034946268107
+effects [qlco] 0.0034841967719
+radiotherapy [inpr] 0.00330375765435
+Based [ftcn] 0.00314741549349
+included [ftcn] 0.00305604728358
+N NOS [aapp, imft] 0.00293581196325
+months [tmco] 0.00279447295978
+Health [idcn] 0.00278314684512
+therapy [ftcn] 0.00273702486102
+Conclusions [idcn] 0.00268352710712
+Heart [bpoc] 0.00262239294571
+Hypertension [dsyn] 0.00254171676239
+CARDIOVASCULAR [bdsy] 0.00249153402382
+Induced [ftcn] 0.00224289428304
+Cardiac [bpoc] 0.00221694175735
+Care [acty] 0.00217978758225
+participants [popg] 0.00217712438835
+treated [topp] 0.00207120487676
+Men [popg] 0.0020647569528
+Blood Pressure [orgf] 0.00193979015921
+Suggest [idcn] 0.00191985743522
+Dose [qnco] 0.00177973687613
+Observed [ftcn] 0.00176465444736
+risk factors [qnco] 0.00175848482304
+Complications [patf] 0.00171006257356
+Hormone replacement therapy [topp] 0.00170783658341
+Association [menp] 0.00170613436455
+Reserve [acty] 0.00168056319508
+topic5
+treatment [ftcn] 0.00834013319662
+Study [mnob] 0.00752915327215
+P NOS [aapp, imft] 0.00749765379775
+Compared [acty] 0.00546973085956
+Increased [qnco] 0.0052955289842
+Cardiovascular disease [dsyn] 0.004860374847
+Women [popg] 0.00474355963105
+Group [idcn] 0.00452330445866
+Methods [inpr] 0.00412980099336
+Trial [resa] 0.00393038026153
+Mortality [qnco] 0.00379413580972
+Age [orga] 0.0037168889988
+Based [ftcn] 0.00350322865745
+effects [qlco] 0.00344598903658
+Hypertension [dsyn] 0.00302531436148
+Conclusions [idcn] 0.00284702256685
+radiotherapy [inpr] 0.00279823670107
+CARDIOVASCULAR [bdsy] 0.00276324850892
+Men [popg] 0.00266890537134
+Stroke [dsyn] 0.00261684762287
+Prevention [topp] 0.0025862860443
+months [tmco] 0.00250797453817
+N NOS [aapp, imft] 0.00245587140754
+Including [ftcn] 0.00243106053303
+treated [topp] 0.00242801376215
+included [ftcn] 0.00231816617744
+Levels [qlco] 0.00226733554331
+therapy [ftcn] 0.00213510031821
+risk factors [qnco] 0.00210445222144
+participants [popg] 0.00207386484129
+Diabetes [dsyn] 0.00203480763405
+Survival [acty] 0.00202693771573
+Specific [qlco] 0.00201382400173
+Present [qnco] 0.00200871264588
+Health [idcn] 0.00197535461944
+Management [ocac] 0.00196173389913
+Association [menp] 0.00193832743672
+Efficacy [qlco] 0.00190006139453
+High Risk [qlco] 0.00181745362692
+Suggest [idcn] 0.00180242555999
+topic6
+treatment [ftcn] 0.00839947145013
+P NOS [aapp, imft] 0.00756424615181
+Study [mnob] 0.00670725952472
+Group [idcn] 0.00562975759406
+Methods [inpr] 0.00542668529006
+Women [popg] 0.00505250334086
+Mortality [qnco] 0.00502029972438
+Increased [qnco] 0.0043711944979
+CARDIOVASCULAR [bdsy] 0.00379842062076
+Cardiovascular disease [dsyn] 0.00372654267895
+Conclusions [idcn] 0.00348835512634
+Compared [acty] 0.00344553553331
+Trial [resa] 0.00329583879011
+Stroke [dsyn] 0.00310861919483
+effects [qlco] 0.00300540439953
+treated [topp] 0.0028981946104
+therapy [ftcn] 0.00288450580346
+Age [orga] 0.0028620354406
+Based [ftcn] 0.00280248543762
+Health [idcn] 0.00271740146119
+Men [popg] 0.0025200914676
+Efficacy [qlco] 0.00236124786841
+Hypertension [dsyn] 0.00234954190646
+Survival [acty] 0.0022899354087
+included [ftcn] 0.00222210432439
+Performed [ftcn] 0.00210455055028
+months [tmco] 0.00208746859591
+Cardiac [bpoc] 0.00206220406588
+Management [ocac] 0.00201235975318
+Including [ftcn] 0.00198153695913
+baseline [bodm] 0.00193120969677
+N NOS [aapp, imft] 0.00189288701119
+Hormone replacement therapy [topp] 0.00184870756104
+Quality [qlco] 0.00183120818976
+Dose [qnco] 0.00181758481107
+radiotherapy [inpr] 0.00181086196748
+Heart [bpoc] 0.00179958091455
+Diabetes [dsyn] 0.00179206357413
+Reported [inpr] 0.0017878094359
+Blood Pressure [orgf] 0.00178031178622
+topic7
+P NOS [aapp, imft] 0.00952936088779
+Study [mnob] 0.00829802095081
+Cardiovascular disease [dsyn] 0.00766015812378
+treatment [ftcn] 0.00729238991561
+Women [popg] 0.00568586260636
+Mortality [qnco] 0.00549697561054
+Group [idcn] 0.00521066656308
+Methods [inpr] 0.00477690885417
+Trial [resa] 0.00450879759361
+Increased [qnco] 0.0044689391964
+Age [orga] 0.00426449307789
+CARDIOVASCULAR [bdsy] 0.00390899338914
+Compared [acty] 0.00329603259474
+Conclusions [idcn] 0.00306527459244
+effects [qlco] 0.00285914078972
+treated [topp] 0.00276794028202
+therapy [ftcn] 0.00267776630024
+Hypertension [dsyn] 0.002564291649
+participants [popg] 0.00256205243775
+N NOS [aapp, imft] 0.00250561195696
+Based [ftcn] 0.00247972801822
+radiotherapy [inpr] 0.00246300272083
+Cardiac [bpoc] 0.00245222116586
+Prevention [topp] 0.0023836011128
+included [ftcn] 0.00223393026619
+Stroke [dsyn] 0.00219856838854
+Quality [qlco] 0.00212485067803
+Diabetes [dsyn] 0.00208962847211
+Levels [qlco] 0.00206271205786
+risk factors [qnco] 0.00201861163882
+months [tmco] 0.00201574285528
+Specific [qlco] 0.00201433202847
+Heart [bpoc] 0.00199433800552
+Men [popg] 0.00199361130955
+Hormone replacement therapy [topp] 0.00187550022529
+Suggest [idcn] 0.00186531625646
+Health [idcn] 0.00186301798405
+Efficacy [qlco] 0.00182940139617
+Survival [acty] 0.00181322185229
+Observed [ftcn] 0.00170717266567
+topic8
+treatment [ftcn] 0.0114432389109
+P NOS [aapp, imft] 0.00884603535835
+Women [popg] 0.00691197265016
+Study [mnob] 0.00593575414191
+Group [idcn] 0.00567582576395
+Compared [acty] 0.0046811903362
+Methods [inpr] 0.00462201912436
+Trial [resa] 0.00460811497759
+Cardiovascular disease [dsyn] 0.00459423868403
+Mortality [qnco] 0.00385563873658
+Stroke [dsyn] 0.00314269130965
+effects [qlco] 0.00312191555427
+included [ftcn] 0.00311359804458
+therapy [ftcn] 0.00309055826669
+Age [orga] 0.00301758916849
+CARDIOVASCULAR [bdsy] 0.00285398158516
+Based [ftcn] 0.00279396749657
+Conclusions [idcn] 0.00272129669885
+treated [topp] 0.00271181791059
+Diabetes [dsyn] 0.00264160756457
+Health [idcn] 0.00259091016452
+Survival [acty] 0.00252456850859
+Hypertension [dsyn] 0.00250384815926
+months [tmco] 0.00241100751071
+Heart [bpoc] 0.0023373374797
+Increased [qnco] 0.00233579906101
+Dose [qnco] 0.00229905008054
+participants [popg] 0.00227826345861
+Association [menp] 0.0021687523313
+Cases [ftcn] 0.00215437697214
+Suggest [idcn] 0.00214329877985
+risk factors [qnco] 0.00211733637286
+Including [ftcn] 0.00197046092962
+N NOS [aapp, imft] 0.00195948872279
+Performed [ftcn] 0.00188871610766
+postmenopausal [tmco] 0.00188039105025
+Care [acty] 0.00181840647615
+Management [ocac] 0.00175092481102
+coronary heart disease [dsyn] 0.00171086896747
+Myocardial Infarction [dsyn] 0.00170998505913
+topic9
+treatment [ftcn] 0.0111478851366
+P NOS [aapp, imft] 0.0104394132795
+Study [mnob] 0.00744490158148
+Group [idcn] 0.00655016017025
+Women [popg] 0.00537718038304
+Trial [resa] 0.00486868293843
+Compared [acty] 0.00482876600609
+Methods [inpr] 0.00466070407132
+Increased [qnco] 0.00464673927765
+Cardiovascular disease [dsyn] 0.00451283107072
+CARDIOVASCULAR [bdsy] 0.00408192504837
+Hypertension [dsyn] 0.00386111491066
+Age [orga] 0.00384824806287
+Mortality [qnco] 0.00357795528116
+effects [qlco] 0.0034810848088
+Conclusions [idcn] 0.0031716857734
+included [ftcn] 0.0029900988862
+Including [ftcn] 0.00292290231793
+Based [ftcn] 0.00282475056972
+Men [popg] 0.0028034085822
+therapy [ftcn] 0.00264703497677
+Diabetes [dsyn] 0.00252162626255
+Survival [acty] 0.00249921466475
+treated [topp] 0.00246953175876
+Stroke [dsyn] 0.00244062439473
+participants [popg] 0.0023980003159
+months [tmco] 0.00237549609016
+Heart [bpoc] 0.00226739324116
+radiotherapy [inpr] 0.00212820256535
+Quality [qlco] 0.00209455680536
+Blood Pressure [orgf] 0.0020743566587
+Suggest [idcn] 0.00206186829292
+N NOS [aapp, imft] 0.00203898906558
+Cardiac [bpoc] 0.00197322156294
+coronary heart disease [dsyn] 0.00189237312054
+Observed [ftcn] 0.0018703377633
+Prevention [topp] 0.00186663502544
+Health [idcn] 0.00185799338825
+Levels [qlco] 0.00184922078692
+Statins [orch, phsu] 0.00183220098686

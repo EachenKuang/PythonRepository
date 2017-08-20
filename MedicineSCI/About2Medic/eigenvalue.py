@@ -13,6 +13,7 @@ from gensim import models, corpora
 from MedicineSCI.InterfaceSQL import MSSQL
 from MedicineSCI.eigenvalue import indicators, Innovation
 from MedicineTool import DocNumPerTopic, SemanticsSim
+from collections import OrderedDict
 import numpy as np
 import xlwt
 
@@ -47,13 +48,27 @@ def interdisciplinary(doc_list):
     return indicators.get_subject_displine(doc_list, path)
 
 
-def main():
+def print_topic(lda_list):
+    name = ['budding', 'growing', 'mature']
+    for j in range(3):
+        show = lda_list[j].show_topics(num_words=40, formatted=False)
+        topic_dict = OrderedDict(show)
+        with open('./period_out/' + name[j] + 'topic_format', 'w') as temp:
+            # temp.write(str(show))
+            for i in range(10):
+                # topic_dict[i]  # topic i 中的对应字段 list
+                topic_dict_each = OrderedDict(topic_dict[i])
+                temp.write('topic' + str(i) + '\n')
+                for id, value in topic_dict_each.iteritems():
+                    temp.write(id + ' ' + str(value) + '\n')
 
+
+def main():
     """ ****************************************************************** """
     # lda model
     lda1 = models.LdaModel.load('Corpus/lda_model_2012-2013')
     lda2 = models.LdaModel.load('Corpus/lda_model_2013-2014')
-    lda3 = models.LdaModel.load('Corpus/lda_model_2013-2014')
+    lda3 = models.LdaModel.load('Corpus/lda_model_2014-2015')
     lda_list = [lda1, lda2, lda3]
 
     # corpus
@@ -68,7 +83,6 @@ def main():
     dic_MN = {}
     dic_AN = {}
     # 用于测试、真实数据
-    t = []
     ms = MSSQL(host="localhost:59318", user="eachen", pwd="123456", db="mydata")
     result_list = ms.ExecQuery("SELECT MH,EN,MN,AN FROM MeshStructure")
     for (MH, EN, MN, AN) in result_list:
@@ -129,23 +143,23 @@ def main():
     wbk.save("Output/eigenvalue.xls")
 
     wbk = xlwt.Workbook()
-    sum_list_all = []
-    for i in range(3):
+    # sum_list_all = []
+    for i in range(2, 3):
         sheet = wbk.add_sheet('sheet' + str(i))
-        sum_list = []
+        # sum_list = []
         for j in range(10):
-            sum_topic =0.0
+            sum_topic = 0.0
             for k in range(10):
                 print str(i) + str(i + 1) + 'topic'
                 print(j, k)
                 sim1 = innovation(word_topic_all[i][j], word_topic_all[i][k], dic_MN, dic_AN, dic_EN)
                 print sim1
                 sheet.write(j + 1, k + 1, str(sim1))
-                sum_topic += sim1
-            sum_list.append(sum_topic)
-        sum_list_all.append(sum_list)
+                # sum_topic += sim1
+            # sum_list.append(sum_topic)
+        # sum_list_all.append(sum_list)
 
-    wbk.save("Output/Innovation.xls")
-    print sum_list_all
+    wbk.save("Output/Innovation1.xls")
+    # print sum_list_all
 if __name__ == '__main__':
     main()
