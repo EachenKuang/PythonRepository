@@ -22,7 +22,7 @@ def save_dict():
     :return:
     """
     # data_path_in_folds = "D:\\Kuangyichen\\PythonRepository\\MedicineSCI\\SecondPartDataFiles2\\"
-    data_path_in_folds = "D:\\Kuangyichen\\PythonRepository\\MedicineSCI\\About2Medic\DataWords\\"
+    data_path_in_folds = "D:\\Kuangyichen\\PythonRepository\\MedicineSCI\\About2Medic\\DataWords\\"
     data_in_folds_filenames = os.listdir(data_path_in_folds)
     # data_in_folds_filenames.sort()
     texts = []
@@ -35,16 +35,17 @@ def save_dict():
 
     dictionary = corpora.Dictionary(texts)
     dictionary.save('Dictionary/dict2_n.dict')
-    dictionary.save_as_text('Dictionary/dict2new_text')
+    dictionary.save_as_text('Dictionary/dict2_n_text', False)
     # corpus = [dictionary.doc2bow(text) for text in texts]
     # corpora.BleiCorpus.serialize("Dictionary/corpus_all_in_dict2.blei", corpus)
 
 
 def filter_dictionary():
     dictionary = corpora.Dictionary.load('Dictionary/dict2_n.dict')
-    dictionary.filter_extremes(no_below=5, no_above=0.5, keep_n=None, keep_tokens=None)
-    dictionary.save('Dictionary/dict2new.dict')
-    dictionary.save_as_text('Dictionary/dict2new2_text')
+    # dictionary.filter_extremes(no_below=3, no_above=0.15, keep_n=None, keep_tokens=None)
+    dictionary.filter_extremes(5, 0.1)
+    dictionary.save('Dictionary/dict2_n_f.dict')
+    dictionary.save_as_text('Dictionary/dict2_n_f_text')
 
 
 # ---------------------------------------------------------------------------------------------------#
@@ -61,18 +62,18 @@ def read_from_raw(path):
 
 
 def make_store(texts, name):
-    dictionary = corpora.Dictionary.load('Dictionary/dict2new.dict')
+    dictionary = corpora.Dictionary.load('Dictionary/dict2_n_f.dict')
     corpus = [dictionary.doc2bow(text) for text in texts]
     corpora.BleiCorpus.serialize('Corpus/corpus_'+name+'.blei', corpus, id2word=dictionary)
 
     lda_model = \
-        models.LdaModel(alpha=5,
-                        eta=0.1,
+        models.LdaModel(alpha=0.5,
+                        eta=0.005,
                         corpus=corpus,
                         id2word=dictionary,
                         num_topics=10,
                         per_word_topics=True,
-                        iterations=200)
+                        iterations=300)
     lda_model.save('Corpus/lda_model_'+name)
 
     print name+"successful\n"
@@ -83,16 +84,14 @@ def period_store():
     分阶段形成LDA模型文件以及词文件
     :return:
     """
-    default_path = "Year/"
+    default_path = "Year1/"
     data_in_folds_year = os.listdir(default_path)
 
     for time in data_in_folds_year:
         text = read_from_raw(default_path+time+'//')
         make_store(text, time)
 # ---------------------------------------------------------------------------------------------------#
-# save_dict()
-# filter_dictionary()
-# period_store()
+
 
 def Interdisciplinary(paperIDs):
     reference = 0
@@ -178,3 +177,6 @@ def Interdisciplinary(paperIDs):
 def main():
     pass
 
+# save_dict()
+# filter_dictionary()
+period_store()

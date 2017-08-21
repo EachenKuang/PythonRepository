@@ -1,0 +1,6 @@
+This is for Dictionary.
+***************************************
+dict2_n.dict  所有词字典集合
+dict2_n_f.dict  dict2_n.dict过滤之后的集合（参数为：5,0.1   词出现在文档中次数少于5，或者多于N*0.1被过滤）
+dict2_n_f_text  dict2_n_f.dict 可视化
+dict2_n_f_text_sorted   dict2_n_f_text排序

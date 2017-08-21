@@ -10,6 +10,7 @@ import Global
 import heapq
 from gensim import models
 from gensim import corpora
+import numpy as np
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
@@ -76,7 +77,7 @@ def doc_topic_mat(corpus, lda, offset=0):
         # print lda[corpus.docbyoffset(corpus.index[i])][0]
         temper = find_max_in_list(lda[corpus.docbyoffset(corpus.index[i])][0])[0]
         a_list[temper].append(i+offset)
-    return a_list
+    return np.array(a_list)
 
 
 # 先写一个示例，用一个corpus与一个LdaModel来测试，之后在使用循环解决所有问题
@@ -117,7 +118,37 @@ def main():
     corpus_list = [corpus_exam0, corpus_exam1, corpus_exam2, corpus_exam3, corpus_exam4,
                    corpus_exam5, corpus_exam6, corpus_exam7, corpus_exam8, corpus_exam9]
 
-    for (lda, corpus) in zip(LDA_list, corpus_list):
-        # print num_doc_per_topic(corpus, lda)
-        print find_top_document(corpus, lda)
+    # for (lda, corpus) in zip(LDA_list, corpus_list):
+    #     # print num_doc_per_topic(corpus, lda)
+    #     print lda
+    #     print doc_topic_mat(corpus, lda)
+    list_all = []
+    for i in range(10):
+        # print i
+        list_t = doc_topic_mat(corpus_list[i], LDA_list[i])
+        # print list_t
+        list_all.append(list_t)
+    list_np = np.array(list_all)
+
+    # print type(list_all), type(list_all[0]),type(list_all[0][0])
+    print "******************************************************"
+
+    # print np.array(list_np[0][1])+7284
+    # print np.array(list_np[1][5])+6940
+    # print np.array(list_np[2][5])+6488
+    # print np.array(list_np[3][5])+5961
+    # print np.array(list_np[4][4])[np.array(list_np[4][4]) < 252] + 4749, np.array(list_np[4][4])[np.array(list_np[4][4]) >= 252] + 5249
+    # print np.array(list_np[4][6])[np.array(list_np[4][6]) < 252]+4749, np.array(list_np[4][6])[np.array(list_np[4][6]) >= 252]+5249
+    # print np.array(list_np[4][9])[np.array(list_np[4][9]) < 252] + 4749, np.array(list_np[4][9])[
+    #                                                                          np.array(list_np[4][9]) >= 252] + 5249
+    # print np.array(list_np[5][4])[np.array(list_np[5][4]) < 1164]+3836, np.array(list_np[5][4])[np.array(list_np[5][4]) >= 1164]+4336
+    # print np.array(list_np[6][6])+2623
+    # print np.array(list_np[7][1])[np.array(list_np[7][1]) <= 393] + 617, np.array(list_np[7][1])[np.array(list_np[7][1]) > 393] + 1117
+    # print np.array(list_np[7][5])[np.array(list_np[7][5]) <= 393] + 617, np.array(list_np[7][5])[np.array(list_np[7][5]) > 393] + 1117
+    # print np.array(list_np[7][7])[np.array(list_np[7][7]) <= 393] + 617, np.array(list_np[7][7])[np.array(list_np[7][7]) > 393] + 1117
+    # print np.array(list_np[8][6])[np.array(list_np[8][6]) <= 1913], np.array(list_np[8][6])[np.array(list_np[8][6]) > 1913]+3087
+    # print np.array(list_np[9][8])[np.array(list_np[9][8]) <= 499] + 1001, np.array(list_np[9][8])[np.array(list_np[9][8]) > 499] + 4501
+
+if __name__ == '__main__':
+    main()
 
