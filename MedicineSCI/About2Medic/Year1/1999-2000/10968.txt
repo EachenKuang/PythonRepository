@@ -1,0 +1,5 @@
+CARDIOVASCULAR [bdsy]
+Risk [qlco]
+Women [popg]
+Cardiologist [prog]
+Null [qnco]

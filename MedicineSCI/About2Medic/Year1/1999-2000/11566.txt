@@ -1,0 +1,4 @@
+Cardiovascular disease [dsyn]
+risk factors [qnco]
+Thrombosis [patf]
+Null [qnco]

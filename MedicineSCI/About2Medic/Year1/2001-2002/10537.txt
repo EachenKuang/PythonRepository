@@ -1,0 +1,7 @@
+CARDIOVASCULAR [bdsy]
+Effect [qlco]
+Hormone replacement therapy [topp]
+Factor [ftcn]
+influential [idcn]
+Risk [qlco]
+Null [qnco]

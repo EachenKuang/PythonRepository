@@ -1,0 +1,4 @@
+acute [tmco]
+Thromboembolism, Pulmonary [dsyn]
+Evolution [genf]
+Null [qnco]

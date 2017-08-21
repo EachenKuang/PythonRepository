@@ -1,0 +1,3 @@
+Hormone replacement therapy [topp]
+Myocardial Infarction [dsyn]
+Null [qnco]

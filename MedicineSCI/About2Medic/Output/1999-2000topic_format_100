@@ -1,0 +1,1010 @@
+topic0
+Estrogen [horm, phsu, strd] 0.00744392680734
+Simvastatin [orch, phsu] 0.00450254268558
+Men [popg] 0.00437054618628
+Breast Cancer [neop] 0.00426995530441
+Combined [qlco] 0.004037175365
+Oral [spco] 0.004011872947
+coronary artery disease [dsyn] 0.00381447852707
+Cholesterol [bacs, strd] 0.00371364730577
+Lipid [lipd] 0.00358732003278
+HRT [topp] 0.00340082826569
+Estradiol [horm, phsu, strd] 0.00320428694582
+mg% [qnco] 0.00298233690294
+N NOS [aapp, imft] 0.00297249882283
+Cancer [neop] 0.00293649822231
+Drug Therapy [topp] 0.00290024984573
+Receive [qlco] 0.00286592804362
+Received [qlco] 0.00278480382191
+Decrease [qlco] 0.00270720621926
+Low density lipoprotein [aapp, bacs, lipd] 0.00265064207138
+Heart disease [dsyn] 0.00256619053753
+Decreased [qnco] 0.00250132889798
+Subject [grup] 0.00248989674064
+randomized [resa] 0.00245520553332
+Percent [qnco] 0.00245318971337
+Similar [qlco] 0.00244226927336
+Menopause [phsf] 0.00242227091476
+placebo [topp] 0.00239872051773
+median [spco] 0.00234262770877
+Transdermal [ftcn] 0.00231818416409
+Overall [inpr] 0.00228753195302
+Benefit [qnco] 0.00227567955153
+Hospital [hcro, mnob] 0.00222876603374
+Profile [lbpr] 0.00222514158836
+Old [tmco] 0.00219396010129
+Known [qlco] 0.00218380552558
+Acute myocardial infarction [dsyn] 0.00218145990342
+Progestin [horm, phsu, strd] 0.00212276118707
+Insulin [aapp, horm, phsu] 0.00211022014581
+Large [qnco] 0.00210381756868
+Total Cholesterol [lbpr] 0.00206290674453
+findings [ftcn] 0.00205036083145
+Daily [tmco] 0.00203994050881
+Diet [food] 0.00203824433678
+Take [hlca] 0.00202205769824
+Phase [tmco] 0.00199396716746
+Incidence [qnco] 0.00199286530886
+Measured [qlco] 0.00198912813784
+Alone [qnco] 0.00197514664298
+Insulin Sensitivity [patf] 0.00196261779424
+Change [ftcn] 0.00195468686008
+Death [orgf] 0.00193335348187
+national [inpr] 0.00189709133055
+Continuous [idcn] 0.00189258138405
+coronary [bpoc] 0.00188537583709
+Need [qlco] 0.00188427173311
+Triglycerides [bacs, lipd] 0.00188403051494
+Osteoporosis [dsyn] 0.00187588278646
+Possible [qlco] 0.00186029359425
+Target [ftcn] 0.00184963111515
+Common [qnco] 0.00184912482454
+Plasma [bdsu] 0.0018021429633
+Low Density Lipoprotein Cholesterol [bacs, strd] 0.00179536877825
+Adults [aggp] 0.00178000837266
+Well [qlco] 0.00177400046956
+PREVENT [phsu] 0.00176981402889
+Tamoxifen [orch, phsu] 0.00176235351675
+Raloxifene [orch, phsu] 0.00174946623204
+Combination [qlco] 0.00174611150177
+Evaluated [ftcn] 0.00172839868122
+Hypercholesterolaemia [dsyn] 0.00172038445413
+lowering [spco] 0.0016896299594
+High Density Lipoprotein Cholesterol [bacs, lipd] 0.00168822151662
+Clinical Trials [resa] 0.00168355111913
+LTD [ortf] 0.00167356267558
+mg dl [qnco] 0.00166924097355
+days [tmco] 0.00165984678594
+Reported [inpr] 0.00164739432819
+Users [humn] 0.00162844573186
+Survival [acty] 0.00160958744217
+Current [tmco] 0.00159428962837
+Concentrations [menp] 0.0015942146903
+Parameters [fndg] 0.00159406878812
+High Risk [qlco] 0.00158328199401
+Science [ocdi] 0.00157824666809
+Myocardial Infarction [dsyn] 0.00156939589994
+mmol/L [qnco] 0.00155795811248
+considered [idcn] 0.00155370577816
+condition [dsyn] 0.00154788651446
+Cases [ftcn] 0.00154620172057
+diabetic [fndg] 0.00153109423993
+Onset [qlco] 0.00149529820905
+History [ocdi] 0.00147067774504
+APPEAR [qlco] 0.00146559635459
+Estrogen Replacement [topp] 0.00144133519496
+Recent [tmco] 0.00144044785888
+Sclerotherapy [topp] 0.00142881536744
+cardiovascular risk factor [dsyn] 0.00141333960039
+Range [qnco] 0.00138630179116
+Non [ftcn] 0.00137743548196
+ischaemic heart disease [dsyn] 0.00137524456521
+topic1
+Blood Pressure [orgf] 0.00485271344368
+Estrogen [horm, phsu, strd] 0.00419193154087
+Men [popg] 0.00392961166664
+coronary [bpoc] 0.0039063839584
+Benefit [qnco] 0.00378783709089
+Plasma [bdsu] 0.00366833857099
+Raloxifene [orch, phsu] 0.00354547401481
+Confidence Interval [qnco] 0.0034719171107
+Menopause [phsf] 0.00337972630813
+Oral [spco] 0.00321624394796
+Old [tmco] 0.00310854929222
+placebo [topp] 0.00306611010218
+Odds Ratio [qnco] 0.00289687427633
+Diabetes [dsyn] 0.00289356848612
+Guidelines [inpr] 0.00288761728576
+Drug Therapy [topp] 0.00275233032959
+Drug [phsu] 0.00272745645913
+Insulin [aapp, horm, phsu] 0.00271742543988
+mg dl [qnco] 0.00267631575739
+Current [tmco] 0.00262650998097
+Combination [qlco] 0.00252712497928
+Common [qnco] 0.00245465925863
+recommendations [idcn] 0.00243638483212
+Equal [qlco] 0.00239127942812
+Decrease [qlco] 0.00238156672995
+Lipid [lipd] 0.00233442321982
+Reported [inpr] 0.0023066979547
+Cholesterol [bacs, strd] 0.00229933264007
+randomized [resa] 0.00225806771861
+Diet [food] 0.00224543020933
+Well [qlco] 0.00222883750284
+Survival [acty] 0.00222375003825
+intervention [hlca] 0.00217919639164
+Profile [lbpr] 0.00213357591157
+Cardiac [bpoc] 0.00212308522034
+Lp(a) [aapp, bacs] 0.00211721870313
+Acute myocardial infarction [dsyn] 0.00201490084988
+mmHg [qnco] 0.00194030849408
+Similar [qlco] 0.00193541412368
+Estrogens [horm, phsu, strd] 0.00191731392087
+Several [qnco] 0.00187417356152
+N NOS [aapp, imft] 0.00186768626944
+Individual [popg] 0.00184298984457
+Sex [orgf] 0.00181382170843
+Non [ftcn] 0.00180527746344
+Improved [qlco] 0.00180063197965
+Article [inpr] 0.00176936199259
+considered [idcn] 0.00176345836124
+Measured [qlco] 0.00174603284507
+Compound [qlco] 0.00172738753056
+Events [evnt] 0.00171910511535
+IMPACT [gngm] 0.00171796190293
+development [phsf] 0.00169096117262
+Agent [chvf] 0.00168705466755
+Aged [orga] 0.00168095257998
+PREVENT [phsu] 0.00166832293272
+Physicians [prog] 0.00166006809977
+Care [acty] 0.00165835214865
+Receive [qlco] 0.00165283348452
+High Risk [qlco] 0.0016500163105
+Human [humn] 0.00164786855975
+canadian [fndg] 0.00163717016884
+Fasting [fndg] 0.00160486906204
+Selective Estrogen Receptor Modulators [horm, phsu] 0.00160110669819
+Drugs [phsu] 0.00158890480058
+Myocardial Infarction [dsyn] 0.00158270154506
+Target [ftcn] 0.00156993480608
+Users [humn] 0.00156276399469
+Independent [idcn] 0.00155991025953
+Obesity [dsyn] 0.00155658993297
+Incidence [qnco] 0.00155346476726
+Total Cholesterol [lbpr] 0.00155148994355
+Identified [qlco] 0.0015441769231
+Likely [qlco] 0.00153734381044
+national [inpr] 0.00153148680384
+Combined [qlco] 0.00152706452833
+Main [qlco] 0.00152090400128
+Progestagen [horm, phsu, strd] 0.00151711362273
+Change [ftcn] 0.00151626021496
+People [popg] 0.00151522841104
+Provide [acty] 0.00151117063244
+hypertensive [fndg] 0.00149904960394
+Decreased [qnco] 0.00147878122892
+Osteoporosis [dsyn] 0.00144145564944
+practice [menp] 0.00143678269415
+symptoms [ftcn] 0.00143648310764
+Subject [grup] 0.00142709863975
+Benefits [qnco] 0.00142406585414
+Recommended [idcn] 0.00141771361055
+Obtained [ftcn] 0.00141457085016
+Type [qlco] 0.00139946201105
+mg day [qnco] 0.0013956102565
+Four [qnco] 0.00139301277519
+strategies [menp] 0.00138703674984
+lowering [spco] 0.00138497815246
+Improvement [cnce] 0.0013446178373
+Atherosclerosis [dsyn] 0.00134296459745
+System [ftcn] 0.00133580793584
+Surgery [bmod] 0.00131409577141
+Heart [bpoc] 0.001308794146
+topic2
+Men [popg] 0.0065659733515
+Estrogen [horm, phsu, strd] 0.00637766403425
+Breast Cancer [neop] 0.00466420485195
+coronary artery disease [dsyn] 0.00450371490775
+Received [qlco] 0.00404824654929
+coronary [bpoc] 0.00374482656554
+Subject [grup] 0.00362876446626
+Lipid [lipd] 0.00355076857328
+Elderly [popg] 0.00344919579629
+ischaemic heart disease [dsyn] 0.00344489112216
+N NOS [aapp, imft] 0.00337712564484
+Cardiac [bpoc] 0.00280862652081
+Menopause [phsf] 0.0026495089367
+Raloxifene [orch, phsu] 0.00255378745585
+Blood Pressure [orgf] 0.00252874969537
+Take [hlca] 0.00252848192275
+Stroke [dsyn] 0.00247969909027
+Drug [phsu] 0.00233864210128
+Myocardial Infarction [dsyn] 0.00231591863736
+Aged [orga] 0.00230042103
+Non [ftcn] 0.00229952514966
+Progestin [horm, phsu, strd] 0.00229509023495
+Plasma [bdsu] 0.00225676650456
+Osteoporosis [dsyn] 0.0022436315549
+Drugs [phsu] 0.00221508413789
+Benefit [qnco] 0.00217367882243
+Heart disease [dsyn] 0.00214396439526
+Several [qnco] 0.00213883243704
+Selective Estrogen Receptor Modulators [horm, phsu] 0.0021335057852
+development [phsf] 0.00211016120892
+mg kg [qnco] 0.00208640599208
+Cholesterol [bacs, strd] 0.00205729191006
+Currently [tmco] 0.00201893239021
+Addition [ftcn] 0.00200344432136
+mg dl [qnco] 0.00195986937368
+Relative Risk [qnco] 0.00195891947218
+Oestrogens [horm, phsu, strd] 0.00193372571929
+Recent [tmco] 0.00191509432501
+Action [ftcn] 0.00191192434125
+Thrombosis [patf] 0.00188076221387
+Dose [qnco] 0.00186060201324
+Platelet [cell] 0.00185972184595
+Assessed [acty] 0.00185073197464
+High Risk [qlco] 0.0018393498704
+Estrogen Replacement Therapy [topp] 0.00182936345594
+Known [qlco] 0.00178705406704
+Science [ocdi] 0.00178694525678
+diabetic [fndg] 0.00177780351915
+Change [ftcn] 0.00177367568773
+Following [tmco] 0.00173724517643
+Often [tmco] 0.00173008910889
+Secondary Prevention [topp] 0.0017266080619
+Profile [lbpr] 0.00172259316467
+Acute myocardial infarction [dsyn] 0.00169950099659
+PREVENT [phsu] 0.00169872198176
+Need [qlco] 0.0016814102116
+Familial hypercholesterolaemia [dsyn] 0.00167915750411
+Improved [qlco] 0.00167218427329
+Heart [bpoc] 0.00167198803819
+Mechanisms [ftcn] 0.00165136780731
+Hospital [hcro, mnob] 0.00165010117972
+Receive [qlco] 0.00165001901597
+Average [qnco] 0.00163955298903
+Doxorubicin [antb, orch] 0.00161985571792
+progression [patf] 0.00161723644695
+placebo [topp] 0.00161690467787
+Current [tmco] 0.00157335049873
+Likely [qlco] 0.00157090800529
+Similar [qlco] 0.00156770088711
+Available [ftcn] 0.00156398265519
+Dependent [qlco] 0.00154134769817
+Normal [qlco] 0.00152906976308
+Post-Menopause [orgf] 0.00151557971478
+Interaction [ftcn] 0.00148680332044
+considered [idcn] 0.0014850276372
+Death [orgf] 0.00148401513682
+Out [spco] 0.0014824035833
+Lipid-lowering therapy [topp] 0.00147667007243
+LTD [ortf] 0.00147553367919
+Concentrations [menp] 0.00147129613428
+Drug Therapy [topp] 0.00143608662799
+Relationship [qlco] 0.00143260017216
+Concern [idcn] 0.00142653419951
+Events [evnt] 0.00141872562116
+Incidence [qnco] 0.00140973494237
+Early [tmco] 0.00140056817482
+Females [fndg] 0.0013835966767
+Heterozygous [orga] 0.0013802032487
+Atherosclerosis [dsyn] 0.00137596552819
+Select [acty] 0.00137009608655
+Diagnosis [fndg] 0.00136815015282
+Statins [orch, phsu] 0.00136449692168
+IMPACT [gngm] 0.00135896701677
+Diabetes [dsyn] 0.00135753781456
+trends [tmco] 0.00135102004457
+Process [bpoc] 0.00134900666304
+low [qlco] 0.00134050128433
+Primary [qlco] 0.00133260866181
+Combined [qlco] 0.00132506783409
+Cases [ftcn] 0.00132256307608
+topic3
+Breast Cancer [neop] 0.00818596540627
+Myocardial Infarction [dsyn] 0.00526383053854
+Survival [acty] 0.00411506540623
+placebo [topp] 0.00343285614938
+Acute myocardial infarction [dsyn] 0.00325254080289
+N NOS [aapp, imft] 0.00324672571307
+Death [orgf] 0.00324344157845
+Incidence [qnco] 0.00297359456266
+Estrogen [horm, phsu, strd] 0.00290808866724
+diabetic [fndg] 0.00286503860129
+Benefit [qnco] 0.00273337999253
+Target [ftcn] 0.00265756631391
+radiotherapy [inpr] 0.00263999189924
+Stroke [dsyn] 0.00257096369204
+Received [qlco] 0.00256403671062
+Old [tmco] 0.00254523269133
+Current [tmco] 0.0025305170182
+Early [tmco] 0.00251859850234
+Atrial Fibrillation [patf] 0.00249869615446
+Common [qnco] 0.0024054032093
+Progesterone [horm, phsu, strd] 0.00228251253023
+Subject [grup] 0.00225459643497
+PREVENT [phsu] 0.00224732233589
+Estrogens [horm, phsu, strd] 0.00223986599116
+Available [ftcn] 0.00223333236208
+Estradiol [horm, phsu, strd] 0.0022036055816
+Drug [phsu] 0.00218519886868
+Menopause [phsf] 0.00217525952093
+Atherosclerosis [dsyn] 0.00217401161977
+Severity [qlco] 0.00208565739598
+Life [idcn] 0.00207218445127
+low [qlco] 0.0020525554282
+Decrease [qlco] 0.00204700956492
+days [tmco] 0.00202930777897
+Individual [popg] 0.00200999591245
+Raloxifene [orch, phsu] 0.00199572112247
+Venous Thromboembolism [patf] 0.00193279538467
+High Risk [qlco] 0.00191158160594
+APPEAR [qlco] 0.0019075072786
+Occur [acty] 0.0018796424068
+acute [tmco] 0.00187422680785
+Replacement [topp] 0.00185758520578
+Duration [tmco] 0.00185249808752
+Cancer [neop] 0.00184365220359
+Administration [ocac] 0.00182416193708
+Quality [qlco] 0.00181700181583
+Recent [tmco] 0.00181641490857
+Four [qnco] 0.00180580411282
+randomized [resa] 0.00180342946396
+Following [tmco] 0.00179212015979
+Aspirin [orch, phsu] 0.00178714187886
+Confidence Interval [qnco] 0.0017871161419
+Decreased [qnco] 0.00178335754237
+Men [popg] 0.00178132449321
+Same [qlco] 0.00175087593324
+Low Density Lipoprotein Cholesterol [bacs, strd] 0.00173568899203
+Heart disease [dsyn] 0.0017045222931
+I- [inch] 0.00170288663369
+Association [menp] 0.00164523023167
+Relationship [qlco] 0.00164076473112
+society [orgt] 0.00162921551872
+mg% [qnco] 0.00162907144635
+Cost Effectiveness [qnco] 0.00161284582341
+Overall [inpr] 0.00160498964714
+Infants [aggp] 0.00158119883023
+Dose [qnco] 0.00156406173629
+Oral [spco] 0.00155864960031
+Prognostic Factor [clna] 0.00154684257137
+Receive [qlco] 0.00153783359481
+Endogenous [ftcn] 0.00153452283427
+Large [qnco] 0.00152023743449
+Drugs [phsu] 0.00148677355654
+Profile [lbpr] 0.00147164862588
+Sex [orgf] 0.00146934162855
+Care [acty] 0.00145122189243
+Diastolic blood pressure [clna] 0.00144745452917
+tibolone [phsu, strd] 0.00142590456172
+Specific [qlco] 0.00142327982695
+Prognosis [hlca] 0.00140983994347
+Children [aggp] 0.00140677931266
+Systolic blood pressure [clna] 0.00139953311807
+Simvastatin [orch, phsu] 0.00139825192302
+Primary [qlco] 0.00139612595857
+Similar [qlco] 0.00136593093622
+Equal [qlco] 0.00136489592704
+condition [dsyn] 0.00135939507746
+Known [qlco] 0.00135753857562
+Woman [popg] 0.00134906055022
+strategies [menp] 0.00133340512657
+development [phsf] 0.00133174973608
+Independent [idcn] 0.00132978059477
+Model [inpr] 0.0013278607226
+Often [tmco] 0.00132361168797
+QT [qnco] 0.00130706807262
+Peripheral arterial occlusive disease [dsyn] 0.00130658394871
+heart rate [clna] 0.00130167736476
+Diabetes Mellitus [dsyn] 0.00129931822104
+coronary artery disease [dsyn] 0.00129914459499
+Syndromes, Acute Coronary [dsyn] 0.00129863790173
+Measured [qlco] 0.00129771707316
+topic4
+Estrogen [horm, phsu, strd] 0.00955359584638
+Blood Pressure [orgf] 0.00489924714713
+coronary artery disease [dsyn] 0.00385132550695
+Dose [qnco] 0.00342880069452
+Decrease [qlco] 0.00334059273421
+Incidence [qnco] 0.00333892941488
+Breast Cancer [neop] 0.00331597834017
+Profile [lbpr] 0.00329969245352
+Benefits [qnco] 0.00322643276041
+Drugs [phsu] 0.0031653394661
+Progestin [horm, phsu, strd] 0.00311121073848
+Menopause [phsf] 0.00309804491538
+Drug [phsu] 0.0030059406705
+Subject [grup] 0.002993025504
+Heart [bpoc] 0.00275079128554
+Lipid [lipd] 0.00269754357551
+placebo [topp] 0.00267910742473
+Recent [tmco] 0.00255397965612
+mmHg [qnco] 0.00251775639586
+ischaemic heart disease [dsyn] 0.00238979301682
+experience [menp] 0.00234481492147
+Benefit [qnco] 0.0023222898878
+Specific [qlco] 0.00224394476369
+Change [ftcn] 0.0022392624774
+development [phsf] 0.00217252415856
+Several [qnco] 0.00215263133301
+lowering [spco] 0.00214670066672
+Amlodipine [orch, phsu] 0.00213756397766
+fluvastatin [orch, phsu] 0.00210134473039
+Cases [ftcn] 0.00206019469078
+Cholesterol, LDL [bacs, strd] 0.00202008603654
+Current [tmco] 0.00199902194286
+Agent [chvf] 0.00198600714331
+Secondary Prevention [topp] 0.00198099535203
+Alone [qnco] 0.00197996121245
+Similar [qlco] 0.0019738412465
+soy [food] 0.00195516654036
+Cholesterol [bacs, strd] 0.00195185435811
+Complications [patf] 0.00194264655255
+Plasma [bdsu] 0.00193679473685
+Estradiol [horm, phsu, strd] 0.00193388189266
+Association [menp] 0.00193362713338
+Stroke [dsyn] 0.00186934845102
+APPEAR [qlco] 0.00185642631999
+Bleeding [patf] 0.00185438832948
+PREVENT [phsu] 0.00182385589609
+Additional [ftcn] 0.00181174937777
+Osteoporosis [dsyn] 0.00181078273557
+Decreased [qnco] 0.00179439551934
+Old [tmco] 0.00176876780292
+Null [qnco] 0.00176277875892
+Elderly [popg] 0.00173879377365
+Diabetes [dsyn] 0.00172641003963
+Death [orgf] 0.0017229222628
+progression [patf] 0.0017153907071
+Reported [inpr] 0.00170838228539
+Severe [qlco] 0.00170434592447
+symptoms [ftcn] 0.00170310041358
+Large [qnco] 0.00170203609245
+coronary [bpoc] 0.00167356311694
+Hypercholesterolaemia [dsyn] 0.00166901563006
+Onset [qlco] 0.00163179962696
+Non [ftcn] 0.00163114844861
+Early [tmco] 0.0016302247765
+Lipoproteins [aapp, bacs] 0.00162525570371
+Report [inpr] 0.00162448683273
+randomized [resa] 0.00162272645238
+Oral [spco] 0.00159403449449
+hypertensive [fndg] 0.00156284262624
+Low density lipoprotein [aapp, bacs, lipd] 0.00155780199454
+Estrogen Replacement Therapy [topp] 0.00152232632214
+Cost [qnco] 0.001515597055
+Overall [inpr] 0.00151427019354
+Reducing [qlco] 0.00150427564454
+Possible [qlco] 0.00148978981133
+Established [qlco] 0.00145785830833
+Mechanism [ftcn] 0.00145570047193
+Need [qlco] 0.00145264997841
+I- [inch] 0.00145087379859
+Likely [qlco] 0.00143044081402
+Often [tmco] 0.00142724997135
+Available [ftcn] 0.00141712949904
+findings [ftcn] 0.00139918726093
+Combination [qlco] 0.00138694861453
+Formulation [resa] 0.00137913729496
+Androgen Receptor [aapp, rcpt] 0.00137271355379
+Men [popg] 0.00136548047803
+Well [qlco] 0.00135422484175
+Prevalence [qnco] 0.00133643473964
+Statins [orch, phsu] 0.00133259498015
+low [qlco] 0.00132565798402
+American [popg] 0.00131562924239
+Physicians [prog] 0.00131544172654
+Main [qlco] 0.0013069468031
+Loss [qnco] 0.00130015850669
+Known [qlco] 0.00129508462802
+Published [ocac] 0.00128794574415
+Received [qlco] 0.00128721578042
+Cost Effectiveness [qnco] 0.00128104475909
+Primary Prevention [topp] 0.00128028405151
+topic5
+Acute myocardial infarction [dsyn] 0.00666662828271
+N NOS [aapp, imft] 0.00471317926089
+C-reactive protein [aapp, imft] 0.00469437546019
+placebo [topp] 0.00457902539522
+symptoms [ftcn] 0.00455698963172
+Decreased [qnco] 0.00373297063321
+Plasma [bdsu] 0.00367670553748
+Stroke [dsyn] 0.0034548586349
+Old [tmco] 0.00316940939665
+Obesity [dsyn] 0.00288971166625
+Recent [tmco] 0.0027678365232
+Subject [grup] 0.00270722763525
+Cases [ftcn] 0.00270693895996
+Marker [clna] 0.00255683905976
+Myocardial Infarction [dsyn] 0.00254921214855
+Death [orgf] 0.00249812482216
+Common [qnco] 0.00245756559717
+ischaemic heart disease [dsyn] 0.00244154706051
+acute [tmco] 0.00232256053725
+Measured [qlco] 0.00230656453513
+Evaluation [ftcn] 0.00227675727826
+Men [popg] 0.00224268862828
+Atrial Fibrillation [patf] 0.00221377862123
+Reported [inpr] 0.00218877411762
+peripheral arterial disease [dsyn] 0.00217318177756
+Body Mass Index [diap] 0.00212249521347
+Compliance [qnco] 0.00209675257627
+Cancer [neop] 0.00204413849938
+Chest Pain [sosy] 0.00204270476508
+considered [idcn] 0.00202692681785
+Guidelines [inpr] 0.00202066560667
+Onset [qlco] 0.00201937034402
+Persons [popg] 0.00200340256109
+Complications [patf] 0.00198375814197
+Heart failure [dsyn] 0.00195824163131
+practice [menp] 0.00192334975928
+Diabetes [dsyn] 0.00191614946479
+Elderly [popg] 0.00188900505669
+Diseases [dsyn] 0.00187428204899
+Osteoporosis [dsyn] 0.00183810661375
+Estrogen [horm, phsu, strd] 0.00183582017645
+Menopause [phsf] 0.00181241399321
+Benefit [qnco] 0.00180325686393
+mg% [qnco] 0.00178252951159
+Specific [qlco] 0.00177563832098
+Current [tmco] 0.00177248755802
+vascular [bpoc] 0.00170039582379
+Hospital [hcro, mnob] 0.00167353952406
+Center [spco] 0.00166683546129
+Diagnosis [fndg] 0.00166296733624
+Null [qnco] 0.00165028818658
+Part [spco] 0.00164856772231
+Association [menp] 0.00164695712331
+H+ [elii] 0.00162731029074
+Likely [qlco] 0.00162592669669
+setting [ftcn] 0.00160601254428
+PREVENT [phsu] 0.00158013634804
+Early [tmco] 0.00157482378704
+Incidence [qnco] 0.00157295480203
+Percent [qnco] 0.00156194216463
+coronary [bpoc] 0.00156029447329
+Possible [qlco] 0.00155743729299
+Prognosis [hlca] 0.0015517751645
+participants [popg] 0.00154902868817
+Addition [ftcn] 0.00154100337484
+Characteristics [qlco] 0.00153939536617
+Raloxifene [orch, phsu] 0.00153823739482
+Evaluated [ftcn] 0.00153463711883
+Combined [qlco] 0.00151924432175
+Lipid [lipd] 0.00150099744065
+Relationship [qlco] 0.00149718687944
+Cholesterol [bacs, strd] 0.00149636787647
+Approach [spco] 0.00148594228713
+mmol/L [qnco] 0.00148419913127
+Effectiveness [qlco] 0.00148150523545
+Receive [qlco] 0.00147760449273
+Leading [tmco] 0.001467573042
+randomized [resa] 0.00146549694366
+findings [ftcn] 0.00145615274446
+g% [qnco] 0.00144901600639
+Various [irda] 0.00144415072657
+Aged [orga] 0.00143088320858
+development [phsf] 0.00141117830653
+Make [ftcn] 0.00140307044394
+reviewed [inpr] 0.00137425517139
+Events [evnt] 0.00137301786036
+mmHg [qnco] 0.00135795119697
+Quality [qlco] 0.00135541993614
+Several [qnco] 0.00133010883467
+objectives [inpr] 0.0013276308618
+Syndromes, Acute Coronary [dsyn] 0.00131549155084
+Process [bpoc] 0.0013092670093
+condition [dsyn] 0.00130878966892
+Blood Pressure [orgf] 0.00129815161283
+Received [qlco] 0.00128755212888
+Estrogen Replacement Therapy [topp] 0.0012808987068
+GIVEN [cnce] 0.0012797324778
+Low density lipoprotein [aapp, bacs, lipd] 0.00127832512007
+Smoking [inbe] 0.00127576021157
+Lipoprotein [aapp, bacs] 0.00126964227039
+topic6
+Menopause [phsf] 0.00886221956025
+Receive [qlco] 0.00539765795441
+Users [humn] 0.00462165184735
+Estrogen [horm, phsu, strd] 0.00425703361875
+Prevalence [qnco] 0.00362614246368
+Stroke [dsyn] 0.00352539708541
+intervention [hlca] 0.0032086151211
+Drug [phsu] 0.00304624487666
+Estradiol [horm, phsu, strd] 0.00304289147443
+Old [tmco] 0.00302236962068
+mg% [qnco] 0.0029165812338
+Subject [grup] 0.00262794918453
+Reported [inpr] 0.00251399415237
+Aspirin [orch, phsu] 0.00250387716214
+N NOS [aapp, imft] 0.00244114824222
+Information [idcn] 0.00239972751895
+Change [ftcn] 0.00239502805929
+Men [popg] 0.00238097929478
+Non [ftcn] 0.00236330218437
+Range [qnco] 0.00235155646145
+placebo [topp] 0.00234590310796
+High Risk [qlco] 0.00227867497068
+Current [tmco] 0.00226876995142
+Decreased [qnco] 0.00223336079768
+Lipid [lipd] 0.00221494990971
+Individual [popg] 0.00214242445334
+Incidence [qnco] 0.0021248224356
+Aged [orga] 0.00211999760926
+Similar [qlco] 0.00210997321891
+High Density Lipoprotein Cholesterol [bacs, lipd] 0.00210337180801
+Measured [qlco] 0.00208227469687
+Estrogens [horm, phsu, strd] 0.00206850274731
+Total Cholesterol [lbpr] 0.00203625235179
+Physical activity [dora] 0.002026987225
+randomized [resa] 0.00202640761481
+Concentrations [menp] 0.0020162957261
+size [spco] 0.00199508596789
+Early [tmco] 0.00197878239087
+Diet [food] 0.00197838202425
+Decrease [qlco] 0.00196558922735
+Improved [qlco] 0.00195499477076
+Breast Cancer [neop] 0.00194963268116
+Diagnosis [fndg] 0.00194104229435
+Myocardial Infarction [dsyn] 0.00193980896656
+Central [spco] 0.00191209364929
+Triglycerides [bacs, lipd] 0.00189656502434
+Estrogen Replacement Therapy [topp] 0.00187676729413
+Received [qlco] 0.00186591157185
+Death [orgf] 0.00186163318438
+Conduct [inbe] 0.00183832646254
+Lovastatin [orch, phsu] 0.00183622080053
+Likely [qlco] 0.00180602074898
+Four [qnco] 0.00179693085516
+Independent [idcn] 0.00178760140845
+symptoms [ftcn] 0.00177436855747
+Progestin [horm, phsu, strd] 0.00176937617523
+participants [popg] 0.00176744132592
+coronary artery disease [dsyn] 0.00176018522824
+PREVENT [phsu] 0.00174643614029
+Large [qnco] 0.00172156058998
+influential [idcn] 0.00171844632724
+Daily [tmco] 0.00170908645073
+Lung [bpoc] 0.00168822295019
+days [tmco] 0.00168130687743
+Tea [food] 0.00165666021377
+Needed [qlco] 0.00164508100216
+Science [ocdi] 0.00163474709087
+coronary [bpoc] 0.00163194639927
+Overall [inpr] 0.00162462838656
+weeks [tmco] 0.0016125038478
+Values [qlco] 0.0016107483152
+Exercise [dora] 0.00160315738765
+Dose [qnco] 0.00160226941373
+findings [ftcn] 0.00160018223866
+Survival [acty] 0.00159680861304
+Alone [qnco] 0.00157650863241
+Abdominal Fat [tisu] 0.00157347142558
+Nicorandil [orch, phsu] 0.00157263451687
+Association [menp] 0.00156579058591
+History [ocdi] 0.00155074763342
+Atherosclerosis [dsyn] 0.00153778470553
+Benefit [qnco] 0.00153307316699
+Morbidity [qnco] 0.00152336929416
+Test [lbpr] 0.00151886080827
+Combined [qlco] 0.00150792017759
+Available [ftcn] 0.00150733685545
+Diabetes [dsyn] 0.00150671502498
+density [qnco] 0.00150565747933
+Quality [qlco] 0.00149746329353
+Plus [qlco] 0.00148627831857
+Transition [comd] 0.00147764760162
+Osteoporosis [dsyn] 0.00147291737581
+Type [qlco] 0.00147109955778
+Literature [inpr] 0.00146177445713
+Drug Therapy [topp] 0.00145966062126
+low [qlco] 0.00145278459606
+Smoking [inbe] 0.00142615002982
+Complications [patf] 0.0014194974042
+Assess [acty] 0.00141398750473
+Ireland [geoa] 0.00140405364379
+topic7
+Estrogen [horm, phsu, strd] 0.00747342270522
+Acute myocardial infarction [dsyn] 0.00609235885769
+Combined [qlco] 0.00410320766311
+Menopause [phsf] 0.00382851726877
+Estradiol [horm, phsu, strd] 0.00378794110639
+Plasma [bdsu] 0.00374088382035
+Myocardial Infarction [dsyn] 0.00359455243751
+N NOS [aapp, imft] 0.00350440814954
+placebo [topp] 0.00335398851187
+Breast Cancer [neop] 0.00284816390923
+Complications [patf] 0.0028217204187
+Confidence Interval [qnco] 0.00281760430702
+coronary [bpoc] 0.0028037681679
+Early [tmco] 0.00278226293518
+Cases [ftcn] 0.00277781026545
+Heart failure [dsyn] 0.00275183079013
+randomized [resa] 0.00272101949229
+Secondary Prevention [topp] 0.00270314984685
+Lipid [lipd] 0.00248773844186
+Benefit [qnco] 0.00244417176192
+mg% [qnco] 0.00239766345635
+coronary artery disease [dsyn] 0.00236673179064
+Reported [inpr] 0.0023521983318
+low [qlco] 0.00232655905627
+Receive [qlco] 0.00230224593741
+Induced [ftcn] 0.00229174692547
+Similar [qlco] 0.00227456437712
+Progesterone [horm, phsu, strd] 0.00227357081646
+Profile [lbpr] 0.00223520780142
+Atherosclerosis [dsyn] 0.00222606170214
+HRT [topp] 0.00217396418809
+History [ocdi] 0.00215743542429
+Subject [grup] 0.0021355402224
+radiotherapy [inpr] 0.00206665436774
+considered [idcn] 0.00205238679236
+Oral [spco] 0.0020363812012
+Drugs [phsu] 0.002036118518
+Association [menp] 0.00202632930127
+development [phsf] 0.00201305150553
+function [phsf] 0.00200316831584
+Users [humn] 0.00197519967184
+Men [popg] 0.00196715359997
+ischaemic heart disease [dsyn] 0.00196338464112
+R- [spco] 0.00195312731732
+Case [ftcn] 0.00193793436268
+Likely [qlco] 0.00188101698094
+acute [tmco] 0.00185167067308
+Assess [acty] 0.00184937380522
+Death [orgf] 0.00181688182079
+Incidence [qnco] 0.00180014827111
+Recent [tmco] 0.00173859622287
+Received [qlco] 0.00173806075747
+Current [tmco] 0.00173668797256
+size [spco] 0.00173419835572
+Overall [inpr] 0.00171429914042
+symptoms [ftcn] 0.00170725257332
+Large [qnco] 0.00170422263693
+Daily [tmco] 0.00169870395264
+Index [inpr] 0.00168045289923
+Change [ftcn] 0.00167370709263
+Risk Ratio [qnco] 0.00165289032121
+Late [tmco] 0.00164554817495
+variables [qlco] 0.00164383785926
+Alone [qnco] 0.00162642961853
+Available [ftcn] 0.00161855197202
+Primary [qlco] 0.00161335295943
+Response [orga] 0.00160587168506
+Stroke [dsyn] 0.0015825503545
+Drug [phsu] 0.00158204905417
+Addition [ftcn] 0.0015793574981
+Atrial Fibrillation [patf] 0.00156385115403
+PREVENT [phsu] 0.00155799229227
+Improvement [cnce] 0.00154494694981
+Measured [qlco] 0.00154037589762
+Equal [qlco] 0.00153745126759
+days [tmco] 0.00153666044999
+Predictor [idcn] 0.00152704339615
+Following [tmco] 0.00152603553872
+Needed [qlco] 0.00151572804079
+I- [inch] 0.00148507776731
+Decreased [qnco] 0.00148365408566
+Continuous [idcn] 0.00146209388165
+Marker [clna] 0.00142796507901
+Concentration [menp] 0.00142628651333
+Null [qnco] 0.00140925453636
+Prognosis [hlca] 0.00140820197875
+median [spco] 0.00140785685573
+Assessed [acty] 0.00139983669134
+Possible [qlco] 0.00139710948198
+Knowledge [inpr] 0.00138517280735
+Progestin [horm, phsu, strd] 0.00138408480741
+Cardiac [bpoc] 0.00138376635008
+Old [tmco] 0.00137463793595
+Examined [fndg] 0.00136102354321
+Survey [inpr] 0.00134629673475
+Combination [qlco] 0.00134413956113
+High Risk [qlco] 0.0013422365927
+Osteoporosis [dsyn] 0.00131921306252
+admitted [hlca] 0.00130942954692
+Survival [acty] 0.00130887604705
+topic8
+Acute myocardial infarction [dsyn] 0.00885372119851
+Men [popg] 0.00803795401019
+Estrogen [horm, phsu, strd] 0.00715620384287
+coronary [bpoc] 0.00684520141639
+diabetic [fndg] 0.00586047030234
+Menopause [phsf] 0.00516537693417
+Subject [grup] 0.00392057485787
+Diabetes [dsyn] 0.00372013344437
+Oral [spco] 0.00327801019489
+Incidence [qnco] 0.00312980259267
+Death [orgf] 0.00306992457594
+days [tmco] 0.00292919114283
+Knowledge [inpr] 0.00290169571745
+Similar [qlco] 0.00288319280058
+Survival [acty] 0.00271194186479
+mg% [qnco] 0.00251825116498
+Streptokinase [aapp, enzy, phsu] 0.00250841703873
+Lipoprotein [aapp, bacs] 0.00247474922126
+Common [qnco] 0.00242340661944
+Non [ftcn] 0.00234213686401
+Combined [qlco] 0.00233422846564
+Estrogen Replacement Therapy [topp] 0.00230432765874
+Blood Pressure [orgf] 0.00223624318707
+coronary artery disease [dsyn] 0.00222850731182
+N NOS [aapp, imft] 0.00220523312004
+Plasma [bdsu] 0.00220187606087
+Myocardial Infarction [dsyn] 0.00219801780515
+Improved [qlco] 0.00218902467702
+Estradiol [horm, phsu, strd] 0.00217005601148
+Alone [qnco] 0.00215593024134
+acute [tmco] 0.00214424588751
+Previous [tmco] 0.00211817283997
+Lp(a) [aapp, bacs] 0.00210487729031
+Profile [lbpr] 0.00206302324758
+Smoking [inbe] 0.00206120689337
+PREVENT [phsu] 0.0020151031701
+Possible [qlco] 0.00200898169002
+Progestin [horm, phsu, strd] 0.00196419180198
+Measured [qlco] 0.00192281643344
+Lipid [lipd] 0.00191466771362
+randomized [resa] 0.00186575110692
+Prognosis [hlca] 0.00186016887133
+Individual [popg] 0.00185685529931
+Stroke [dsyn] 0.00181989551626
+Diet [food] 0.00181879656321
+Relationship [qlco] 0.00180303542875
+Serum [bdsu] 0.0017993787846
+Percent [qnco] 0.00178785156098
+Therapeutic [topp] 0.00176945892606
+Cases [ftcn] 0.00174657205917
+Assess [acty] 0.00173893596353
+symptoms [ftcn] 0.00173509194463
+High Risk [qlco] 0.00171722306169
+Diagnosis [fndg] 0.00170952237551
+Addition [ftcn] 0.00169844817103
+Transdermal [ftcn] 0.00168400929804
+placebo [topp] 0.00167133822255
+experience [menp] 0.00166199705586
+Old [tmco] 0.00165856327815
+APPEAR [qlco] 0.00165384594275
+findings [ftcn] 0.00165314895822
+hypertensive [fndg] 0.00164568828007
+setting [ftcn] 0.00163328454963
+Resistance [menp] 0.00163237010181
+Calcium [bacs, elii, phsu] 0.00160091135616
+society [orgt] 0.00159755043621
+strategies [menp] 0.00159626348326
+Events [evnt] 0.00157522544353
+Approach [spco] 0.00157364367138
+Raloxifene [orch, phsu] 0.00153784122572
+cardiovascular risk factor [dsyn] 0.00153598494224
+Complex [qlco] 0.00151116220657
+LTD [ortf] 0.00149776749266
+Life [idcn] 0.00149692828993
+Out [spco] 0.00149576185199
+Benefits [qnco] 0.00149250808283
+Relative Risk [qnco] 0.00149170151084
+Parameters [fndg] 0.00148604490085
+Take [hlca] 0.00147175930121
+Progestagen [horm, phsu, strd] 0.00146798886122
+Benefit [qnco] 0.0014634173419
+Science [ocdi] 0.00146231054091
+Received [qlco] 0.00145353047678
+Test [lbpr] 0.00143689993293
+Receive [qlco] 0.00143208629981
+Sequential [idcn] 0.00142613164924
+Early [tmco] 0.00141823996729
+Odds Ratio [qnco] 0.00141155481161
+Ischaemic [ftcn] 0.00140543360694
+Cohort [popg] 0.00139815328847
+GIVEN [cnce] 0.00139595584959
+Change [ftcn] 0.00139554852763
+Infarction [patf] 0.00138813282817
+Need [qlco] 0.00138740803197
+Same [qlco] 0.00138219953399
+Affect [menp] 0.00135635754065
+Aged [orga] 0.0013506957686
+low [qlco] 0.00134941291949
+Available [ftcn] 0.00134872658694
+Venous Thromboembolism [patf] 0.0013383201069
+topic9
+Blood Pressure [orgf] 0.0076435684568
+Estrogen [horm, phsu, strd] 0.00632499902744
+Stroke [dsyn] 0.00440619268341
+Drug Therapy [topp] 0.00411349392505
+Cholesterol [bacs, strd] 0.00404789129993
+smokers [fndg] 0.00380750635745
+N NOS [aapp, imft] 0.00354438785541
+Body Mass Index [diap] 0.00344365872763
+Old [tmco] 0.00318792957442
+randomized [resa] 0.00317610746459
+Non [ftcn] 0.00316630107017
+Diet [food] 0.00315891916493
+Change [ftcn] 0.00309729547171
+Receive [qlco] 0.00303809478741
+Plasma [bdsu] 0.00302614234443
+low [qlco] 0.00297971557105
+density [qnco] 0.00285124935031
+hypertensive [fndg] 0.00274582911338
+Prevalence [qnco] 0.00267420803951
+Similar [qlco] 0.00257490693238
+Men [popg] 0.00256718133732
+Subject [grup] 0.00248901355567
+Incidence [qnco] 0.00248530498378
+Drug [phsu] 0.00246872824511
+Low density lipoprotein [aapp, bacs, lipd] 0.00243650582896
+Persons [popg] 0.00242501800763
+Benefit [qnco] 0.00241677050273
+ischaemic heart disease [dsyn] 0.00240956798861
+Menopause [phsf] 0.0023996457012
+Decrease [qlco] 0.00237391970948
+Dose [qnco] 0.00235667533165
+Osteoporosis [dsyn] 0.0022964001423
+Acute myocardial infarction [dsyn] 0.00228843022543
+Reported [inpr] 0.00224519159554
+Smoking [inbe] 0.00223544556999
+Lipid [lipd] 0.00218341082772
+Equine [mamm] 0.00218041583644
+Early [tmco] 0.00217233804708
+Death [orgf] 0.00217127475382
+Conjugated estrogen [horm, phsu, strd] 0.00214675361298
+Individual [popg] 0.00210261969503
+Estimated [qnco] 0.00206850665291
+PREVENT [phsu] 0.00206043788752
+Target [ftcn] 0.00201728115933
+Current [tmco] 0.0019789239221
+Null [qnco] 0.00196077966761
+Possible [qlco] 0.00195586163482
+Heart disease [dsyn] 0.00194482071527
+Factor VII [aapp, bacs, phsu] 0.0019443524117
+Users [humn] 0.00193568371028
+Agent [chvf] 0.00193005660681
+Increasing [ftcn] 0.00192694660129
+Adjusted [ftcn] 0.00192245491863
+national [inpr] 0.00190692159711
+mmHg [qnco] 0.00190671247238
+Medical Nutrition Therapy [topp] 0.00190535492745
+Aged [orga] 0.00186222489203
+Model [inpr] 0.00185462725115
+Common [qnco] 0.00182625465179
+mg% [qnco] 0.00181973612174
+lowering [spco] 0.00181503529408
+Low Density Lipoprotein Cholesterol [bacs, strd] 0.00179968561569
+Relative Risk [qnco] 0.00177939151734
+Percent [qnco] 0.00177196127592
+Association [menp] 0.00175002724864
+Following [tmco] 0.00173922125711
+atorvastatin [orch, phsu] 0.00172125112827
+Alone [qnco] 0.00172054437407
+Compliance [qnco] 0.00171631600561
+Obesity [dsyn] 0.00170776965369
+weeks [tmco] 0.00170189719328
+educational program [edac] 0.0016943343535
+Complications [patf] 0.00169316623457
+placebo [topp] 0.00169284474769
+Improved [qlco] 0.00166412055526
+mg dl [qnco] 0.00165515983257
+Half [qnco] 0.00164724283955
+Measured [qlco] 0.00161897915276
+Confidence Interval [qnco] 0.00161554118969
+R- [spco] 0.0016150939361
+Progestin [horm, phsu, strd] 0.00161202828496
+Recent [tmco] 0.00160256338018
+findings [ftcn] 0.0015931366408
+g% [qnco] 0.00158319281718
+Assay [lbpr] 0.00158235132137
+Provide [acty] 0.00157403490646
+coronary artery disease [dsyn] 0.0015664188931
+mmol/L [qnco] 0.00156494743959
+Profile [lbpr] 0.00156401330453
+Decreased [qnco] 0.00156284163804
+Progestins [horm, phsu, strd] 0.00155103077606
+Weight Loss [fndg] 0.0015329090668
+Induced [ftcn] 0.00153022953144
+Elderly [popg] 0.00152639586391
+Arterial [bpoc] 0.00152276230731
+Range [qnco] 0.00149852810604
+Combined [qlco] 0.00149818993033
+Weight Gain [fndg] 0.00149499075285
+Dietary [food] 0.00149162374733
+Breast Cancer [neop] 0.0014899116635

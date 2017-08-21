@@ -1,0 +1,7 @@
+Value [qnco]
+Hormone replacement therapy [topp]
+Prevention [topp]
+coronary [bpoc]
+Heart disease [dsyn]
+Women [popg]
+Null [qnco]

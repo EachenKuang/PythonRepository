@@ -1,0 +1,4 @@
+coronary heart disease [dsyn]
+Female [fndg]
+Heart [bpoc]
+Null [qnco]

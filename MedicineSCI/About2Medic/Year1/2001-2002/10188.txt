@@ -1,0 +1,4 @@
+C-reactive protein [aapp, imft]
+coronary [bpoc]
+Risk factor [qnco]
+Null [qnco]

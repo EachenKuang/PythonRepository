@@ -1,0 +1,7 @@
+Soy bean [food]
+Isoflavones [orch, phsu]
+Alternative [cnce]
+Traditional [ftcn]
+hormone replacement [topp]
+therapy [ftcn]
+Null [qnco]

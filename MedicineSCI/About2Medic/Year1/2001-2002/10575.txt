@@ -1,0 +1,7 @@
+Intravascular brachytherapy [topp]
+Trial [resa]
+coronary heart disease [dsyn]
+Using [ftcn]
+Gamma [npop]
+sources [fndg]
+Null [qnco]

@@ -1,0 +1,5 @@
+Heterozygous [orga]
+Familial hypercholesterolaemia [dsyn]
+Diagnosis [fndg]
+Drug Therapy [topp]
+Null [qnco]

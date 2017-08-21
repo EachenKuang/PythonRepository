@@ -1,0 +1,4 @@
+CARDIOVASCULAR [bdsy]
+Effect [qlco]
+Oestrogens [horm, phsu, strd]
+Null [qnco]

@@ -1,0 +1,6 @@
+Possible [qlco]
+Hormone replacement therapy [topp]
+Started [qlco]
+Critical [qlco]
+Time [tmco]
+Null [qnco]

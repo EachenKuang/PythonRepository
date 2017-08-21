@@ -1,0 +1,7 @@
+Hormone Replacement Therapy, Post-Menopausal [topp]
+Light [npop]
+Women [popg]
+Health [idcn]
+Initiative [menp]
+Trial [resa]
+Null [qnco]

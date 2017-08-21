@@ -1,0 +1,5 @@
+Pharmacologic [bmod]
+Deficiency [ftcn]
+Initiative [menp]
+Study [mnob]
+Null [qnco]

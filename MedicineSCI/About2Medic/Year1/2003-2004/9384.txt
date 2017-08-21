@@ -1,0 +1,8 @@
+Drug Therapy [topp]
+Selective Estrogen Receptor Modulators [horm, phsu]
+Mechanisms [ftcn]
+Action [ftcn]
+Application [hlca]
+Clinical [qlco]
+practice [menp]
+Null [qnco]

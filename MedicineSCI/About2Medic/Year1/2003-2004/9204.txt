@@ -1,0 +1,6 @@
+radiation disease [dsyn]
+Associated [qlco]
+CARDIOVASCULAR [bdsy]
+manifestations [ftcn]
+Management [ocac]
+Null [qnco]

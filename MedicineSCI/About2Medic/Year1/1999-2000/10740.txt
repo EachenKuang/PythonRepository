@@ -1,0 +1,6 @@
+Hormone replacement therapy [topp]
+ischaemic heart disease [dsyn]
+Continuing [idcn]
+Question [inpr]
+Answer [inpr]
+Null [qnco]

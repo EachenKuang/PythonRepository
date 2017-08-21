@@ -1,0 +1,7 @@
+Evidence [ftcn]
+Based [ftcn]
+Guidelines [inpr]
+Cardiovascular disease [dsyn]
+Prevention [topp]
+Women [popg]
+Null [qnco]

@@ -1,0 +1,4 @@
+Hormone replacement therapy [topp]
+Stroke [dsyn]
+Result [ftcn]
+Null [qnco]

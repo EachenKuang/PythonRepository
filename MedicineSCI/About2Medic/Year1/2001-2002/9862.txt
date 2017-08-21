@@ -1,0 +1,4 @@
+Chelation Therapy [topp]
+Patients [podg]
+ischaemic heart disease [dsyn]
+Null [qnco]

@@ -1,0 +1,5 @@
+Benefit [qnco]
+Hormone replacement therapy [topp]
+Role [socb]
+Progestagen [horm, phsu, strd]
+Null [qnco]

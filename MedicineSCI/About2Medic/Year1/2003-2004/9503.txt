@@ -1,0 +1,6 @@
+OBSERVATIONAL [resa]
+randomized [resa]
+Controlled Study [resa]
+Secondary Prevention [topp]
+Cardiovascular disease [dsyn]
+Null [qnco]

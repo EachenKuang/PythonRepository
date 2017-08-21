@@ -1,0 +1,8 @@
+Chelation Therapy [topp]
+Patients [podg]
+coronary heart disease [dsyn]
+findings [ftcn]
+Pilot [prog]
+Assess [acty]
+Chelation Therapy [topp]
+Null [qnco]

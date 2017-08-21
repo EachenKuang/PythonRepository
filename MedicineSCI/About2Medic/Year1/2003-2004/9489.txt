@@ -1,0 +1,5 @@
+Relationship [qlco]
+Hormone replacement therapy [topp]
+Socioeconomic Status [qlco]
+coronary heart disease [dsyn]
+Null [qnco]

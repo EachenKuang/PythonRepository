@@ -1,0 +1,8 @@
+Prevalence [qnco]
+Factor [ftcn]
+Associated [qlco]
+Hormone replacement therapy [topp]
+Counseling [hlca]
+Result [ftcn]
+National Health Interview Survey [inpr]
+Null [qnco]

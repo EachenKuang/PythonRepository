@@ -1,0 +1,4 @@
+effects [qlco]
+DHEA [horm, phsu, strd]
+Humans [humn]
+Null [qnco]

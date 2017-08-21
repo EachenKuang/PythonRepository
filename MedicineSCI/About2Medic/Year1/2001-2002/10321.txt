@@ -1,0 +1,4 @@
+Hyperhomocysteinemia [dsyn]
+macroangiopathy [dsyn]
+Response [orga]
+Null [qnco]

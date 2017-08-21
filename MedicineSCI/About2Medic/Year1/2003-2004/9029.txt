@@ -1,0 +1,5 @@
+Stroke risk [inpr]
+Hypertension [dsyn]
+postmenopausal [tmco]
+therapy [ftcn]
+Null [qnco]

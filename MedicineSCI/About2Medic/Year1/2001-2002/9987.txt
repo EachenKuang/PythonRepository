@@ -1,0 +1,8 @@
+Hormone replacement therapy [topp]
+Lipid [lipd]
+Profile [lbpr]
+effects [qlco]
+Different [qlco]
+routes [spco]
+Administration [ocac]
+Null [qnco]

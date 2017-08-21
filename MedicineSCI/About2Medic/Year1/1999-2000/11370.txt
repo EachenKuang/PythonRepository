@@ -1,0 +1,5 @@
+influential [idcn]
+Hormone replacement therapy [topp]
+Lipid risk factors [qlco]
+coronary heart disease [dsyn]
+Null [qnco]
