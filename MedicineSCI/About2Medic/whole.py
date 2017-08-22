@@ -67,8 +67,8 @@ def make_store(texts, name):
     corpora.BleiCorpus.serialize('Corpus/corpus_'+name+'.blei', corpus, id2word=dictionary)
 
     lda_model = \
-        models.LdaModel(alpha=0.5,
-                        eta=0.005,
+        models.LdaModel(alpha=0.05,
+                        eta=0.001,
                         corpus=corpus,
                         id2word=dictionary,
                         num_topics=10,
@@ -84,7 +84,7 @@ def period_store():
     分阶段形成LDA模型文件以及词文件
     :return:
     """
-    default_path = "Year1/"
+    default_path = "Year/"
     data_in_folds_year = os.listdir(default_path)
 
     for time in data_in_folds_year:
