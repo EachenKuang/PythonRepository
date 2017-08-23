@@ -1,0 +1,8 @@
+Clinical [qlco]
+Efficacy [qlco]
+ivabradine [orch, phsu]
+Patients [podg]
+ischaemic heart disease [dsyn]
+Combination [qlco]
+Pulmonary Disease, Chronic Obstructive [dsyn]
+Null [qnco]

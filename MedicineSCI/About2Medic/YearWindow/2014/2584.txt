@@ -1,0 +1,6 @@
+coronary [bpoc]
+Mortality [qnco]
+China [geoa]
+Ambulance [medd]
+Hospital [hcro, mnob]
+Treatments [topp]

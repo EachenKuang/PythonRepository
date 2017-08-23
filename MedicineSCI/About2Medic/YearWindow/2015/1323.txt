@@ -1,0 +1,8 @@
+GENETIC [topp]
+Basis [ftcn]
+coronary artery disease [dsyn]
+Atrial Fibrillation [patf]
+search [inpr]
+Mechanisms [ftcn]
+Therapeutic [topp]
+Target [ftcn]

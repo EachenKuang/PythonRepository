@@ -1,0 +1,6 @@
+Patients [podg]
+ventricular [bpoc]
+Tachycardia [fndg]
+Not [ftcn]
+Implantable Cardioverter-Defibrillator [medd]
+Null [qnco]

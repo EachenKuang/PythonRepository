@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
+
 from collections import OrderedDict
-from gensim import models,corpora
+from gensim import models, corpora
 
 
 def print_topic(lda_list):
@@ -19,8 +20,6 @@ def print_topic(lda_list):
                     temp.write(id + ' ' + str(value) + '\n')
 
 
-from collections import OrderedDict
-
 def sort_dict():
 
     order_dict = {}
@@ -34,13 +33,14 @@ def sort_dict():
         for (i, j) in sorted_x:
             WriteDict.write(i+"\t"+str(j)+"\n")
 
+
 def main():
     lda1 = models.LdaModel.load('Corpus/lda_model_2012-2013')
     lda2 = models.LdaModel.load('Corpus/lda_model_2013-2014')
     lda3 = models.LdaModel.load('Corpus/lda_model_2014-2015')
-    # lda1 = models.LdaModel.load('Corpus/lda_model_1999-2000')
-    # lda2 = models.LdaModel.load('Corpus/lda_model_2001-2002')
-    # lda3 = models.LdaModel.load('Corpus/lda_model_2003-2004')
+    lda1 = models.LdaModel.load('Corpus/lda_model_1999-2000')
+    lda2 = models.LdaModel.load('Corpus/lda_model_2001-2002')
+    lda3 = models.LdaModel.load('Corpus/lda_model_2003-2004')
     lda_list = [lda1, lda2, lda3]
     print_topic(lda_list)
 

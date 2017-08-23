@@ -1,0 +1,7 @@
+Osteoprotegerin [aapp, rcpt]
+ST segment [fndg]
+Myocardial Infarction [dsyn]
+Novel [tmco]
+Marker [clna]
+Routine [qlco]
+Present [qnco]

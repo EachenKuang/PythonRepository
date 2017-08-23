@@ -1,0 +1,4 @@
+Primary Prevention [topp]
+atherosclerotic [ftcn]
+Cardiovascular disease [dsyn]
+Mortality [qnco]

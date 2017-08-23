@@ -1,0 +1,7 @@
+Ankle Brachial Index [clna]
+Screening [hlca]
+Select [acty]
+Patients [podg]
+antiplatelet therapy [topp]
+Drug [phsu]
+Null [qnco]

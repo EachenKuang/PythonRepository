@@ -1,0 +1,6 @@
+treating [topp]
+Seminoma [neop]
+Combination [qlco]
+Carboplatin [orch, phsu]
+radiotherapy [inpr]
+Null [qnco]

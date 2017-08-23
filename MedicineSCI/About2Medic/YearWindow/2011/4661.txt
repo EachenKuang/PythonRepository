@@ -1,0 +1,4 @@
+rosiglitazone [orch, phsu]
+Trial [resa]
+Termination [inpr]
+Null [qnco]

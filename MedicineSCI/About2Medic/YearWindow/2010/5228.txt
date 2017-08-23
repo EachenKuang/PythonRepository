@@ -1,0 +1,8 @@
+clinical guides [inpr]
+Laboratory [mnob, orgt]
+Biomarkers [clna]
+Primary [qlco]
+Prevention [topp]
+Cardiovascular disease [dsyn]
+Cerebrovascular accidents [dsyn]
+Null [qnco]

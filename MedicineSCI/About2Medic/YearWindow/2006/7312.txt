@@ -1,0 +1,8 @@
+Breast Cancer [neop]
+Patients [podg]
+Worry [fndg]
+Radiation [npop]
+Induced [ftcn]
+Heart disease [dsyn]
+How Much [qnco]
+Null [qnco]

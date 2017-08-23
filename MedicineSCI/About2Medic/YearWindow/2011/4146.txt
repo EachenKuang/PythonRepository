@@ -1,0 +1,5 @@
+Serum ferritin [lbpr]
+Acute Coronary Syndrome [dsyn]
+Strong [qlco]
+Prognostic Factor [clna]
+Null [qnco]

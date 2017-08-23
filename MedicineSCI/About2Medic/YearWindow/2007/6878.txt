@@ -1,0 +1,6 @@
+Heart disease [dsyn]
+Prognostic Factor [clna]
+Stroke, Acute [dsyn]
+Outcome [ftcn]
+Study, Prospective [resa]
+Null [qnco]

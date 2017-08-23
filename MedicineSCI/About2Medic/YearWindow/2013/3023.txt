@@ -1,0 +1,7 @@
+Clinical presentation [inpr]
+Diffuse [qlco]
+Severe [qlco]
+Multi [qnco]
+Atherosclerosis [dsyn]
+radiation therapy [inpr]
+Hodgkin Lymphoma [neop]

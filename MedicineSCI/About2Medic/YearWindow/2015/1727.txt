@@ -1,0 +1,4 @@
+Radiation [npop]
+Induced [ftcn]
+Plaque, Atherosclerotic [bdsu]
+Descending thoracic aorta [bpoc]

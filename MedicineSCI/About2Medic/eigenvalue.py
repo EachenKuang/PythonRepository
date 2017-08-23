@@ -66,16 +66,22 @@ def print_topic(lda_list):
 def main():
     """ ****************************************************************** """
     # lda model
-    lda1 = models.LdaModel.load('Corpus/lda_model_2012-2013')
+    # lda1 = models.LdaModel.load('Corpus/lda_model_2012-2013')
     lda2 = models.LdaModel.load('Corpus/lda_model_2013-2014')
-    lda3 = models.LdaModel.load('Corpus/lda_model_2014-2015')
-    lda_list = [lda1, lda2, lda3]
+    # lda3 = models.LdaModel.load('Corpus/lda_model_2014-2015')
+
+    # lda1 = models.LdaModel.load('Corpus/lda_model_1999-2000')
+    # lda2 = models.LdaModel.load('Corpus/lda_model_2001-2002')
+    lda3 = models.LdaModel.load('Corpus/lda_model_2003-2004')
+    lda_list = [lda2, lda3]
 
     # corpus
-    corpus0 = corpora.BleiCorpus("Corpus/corpus_2012-2013.blei")
+    # corpus0 = corpora.BleiCorpus("Corpus/corpus_2012-2013.blei")
     corpus1 = corpora.BleiCorpus("Corpus/corpus_2013-2014.blei")
-    corpus2 = corpora.BleiCorpus("Corpus/corpus_2014-2015.blei")
-    corpus_list = [corpus0, corpus1, corpus2]
+    # corpus2 = corpora.BleiCorpus("Corpus/corpus_2014-2015.blei")
+
+    corpus2 = corpora.BleiCorpus("Corpus/corpus_2003-2004.blei")
+    corpus_list = [corpus1, corpus2]
 
     """ ****************************************************************** """
     # 用于存放MH-EN，MN，AN的字典,在函数innovation中使用
@@ -106,8 +112,9 @@ def main():
     """ ****************************************************************** """
     # 初始化doc_topic_matrix
     doc_all = []
-    offset = [2633, 1891, 1161]
-    for i in range(3):
+    # offset = [2633, 1891, 1161]
+    offset = [1891, 8336]
+    for i in range(lda_list.__len__()):
         doc = DocNumPerTopic.doc_topic_mat(corpus_list[i], lda_list[i], offset[i])
         doc_all.append(doc)
     print doc_all.__len__(), doc_all[0].__len__(),
@@ -117,7 +124,7 @@ def main():
     """ ****************************************************************** """
     # 初始化word_topic_matrix
     word_topic_all = []
-    for i in range(3):
+    for i in range(lda_list.__len__()):
         print str(i)+'in main'
         temp_list = SemanticsSim.model2list_topics(lda_list[i])
         word_topic_all.append(temp_list)
@@ -130,7 +137,7 @@ def main():
     """ ****************************************************************** """
     # 循环 3*10
     wbk = xlwt.Workbook()
-    for period in range(3):
+    for period in range(lda_list.__len__()):
         sheet = wbk.add_sheet("sheet"+str(period))
         for topic in range(10):
             temp1 = high_attention([list_PY[j-1] for j in doc_all_np[period][topic]])
@@ -144,22 +151,21 @@ def main():
 
     wbk = xlwt.Workbook()
     # sum_list_all = []
-    for i in range(2, 3):
+    for i in range(lda_list.__len__()):
         sheet = wbk.add_sheet('sheet' + str(i))
         # sum_list = []
         for j in range(10):
-            sum_topic = 0.0
+            # sum_topic = 0.0
             for k in range(10):
-                print str(i) + str(i + 1) + 'topic'
+                print str(i) + str(i) + 'topic'
                 print(j, k)
                 sim1 = innovation(word_topic_all[i][j], word_topic_all[i][k], dic_MN, dic_AN, dic_EN)
-                print sim1
                 sheet.write(j + 1, k + 1, str(sim1))
                 # sum_topic += sim1
             # sum_list.append(sum_topic)
         # sum_list_all.append(sum_list)
 
-    wbk.save("Output/Innovation1.xls")
+    wbk.save("Output/Innovation.xls")
     # print sum_list_all
 if __name__ == '__main__':
     main()

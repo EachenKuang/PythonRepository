@@ -1,21 +1,26 @@
 # -*- encoding: utf-8 -*-
 """
 Author: Eachen Kuang
-Date:  2017.8.18
-Goal: three period 2012-2013, 2013-2014, 2014-2015 about medical 2 series
-Other: 分阶段形成LDA模型文件以及词文件
+Date:  2017.8.23
+Goal:
+Other: 集成了所有的函数
 """
 
 import logging
+import xlwt
 from gensim import models
 from gensim import corpora
-import numpy as np
+from collections import OrderedDict
+from MedicineTool import SemanticsSim, Density, DocNumPerTopic
 import os
-from pprint import pprint
+
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-
+# ---------------------------------------------------------------------------------------------------#
+'''
+字典有关的函数
+'''
 def save_dict():
     """
     保存原始字典文件以及所有词库
@@ -49,6 +54,9 @@ def filter_dictionary():
 
 
 # ---------------------------------------------------------------------------------------------------#
+'''
+形成数据集有关的函数
+'''
 def read_from_raw(path):
     docs_name_list = os.listdir(path)
     texts = []
@@ -67,8 +75,8 @@ def make_store(texts, name):
     corpora.BleiCorpus.serialize('Corpus/corpus_'+name+'.blei', corpus, id2word=dictionary)
 
     lda_model = \
-        models.LdaModel(alpha=0.05,
-                        eta=0.001,
+        models.LdaModel(alpha=0.5,
+                        eta=0.005,
                         corpus=corpus,
                         id2word=dictionary,
                         num_topics=10,
@@ -90,93 +98,157 @@ def period_store():
     for time in data_in_folds_year:
         text = read_from_raw(default_path+time+'//')
         make_store(text, time)
+
+# ---------------------------------------------------------------------------------------------------#
+'''
+知识演化部分的函数：
+   都会将结果保存在文件中
+cos_sim:余弦相似度
+semantic_sim:语义相似度
+num_per_topic:主题中文档数量
+density：主题密度
+print_topic：打印主题词
+'''
+def cos_sim(lda_list):
+    """
+    计算相邻时间窗的余弦相似度，并将结果保存在Excel中
+    :param lda_list:
+    :return:
+    """
+    print "cos_sim is running"
+
+    topic_dict_all = []
+    for i in range(lda_list.__len__()):
+        topic_dict = dict(lda_list[i].show_topics(num_words=40, formatted=False))
+        topic_dict_all.append(topic_dict)
+
+    wbk = xlwt.Workbook()
+    for i in range(10):
+        sheet = wbk.add_sheet('sheet'+str(i))
+        for j in range(10):
+            for k in range(10):
+                print(j, k)
+                sim1 = models.interfaces.matutils.cossim(topic_dict_all[i][j], topic_dict_all[i+1][k])
+                sheet.write(j + 1, k + 1, str(sim1))
+    wbk.save("Output/topic_evolution_cos_sim(period).xls")
+
+
+def semantic_sim(lda_list):
+    """
+    计算相邻时间窗的语义相似度，并将结果保存在Excel中
+    需要用到数据库中的内容:MH、EN、MH、AN 原始数据在"d2017.bin"文件中
+    :param lda_list:
+    :return:
+    """
+    print "semantic_sim is running"
+    ms = SemanticsSim.Innovation.MSSQL(host="localhost:59318", user="eachen", pwd="123456", db="mydata")
+    resultList = ms.ExecQuery("SELECT MH,EN,MN,AN FROM MeshStructure")
+    # 用于存放MH-EN，MN，AN的字典
+    dic_EN = {}
+    dic_MN = {}
+    dic_AN = {}
+    for (MH, EN, MN, AN) in resultList:
+        dic_EN[MH] = EN
+        dic_MN[MH] = MN
+        dic_AN[MH] = AN
+
+    list_all = []
+    for i in range(lda_list.__len__()):
+        print str(i) + 'in main'
+        temp_list = SemanticsSim.model2list_topics(lda_list[i])
+        list_all.append(temp_list)
+
+    wbk = xlwt.Workbook()
+    for i in range(10):
+        sheet = wbk.add_sheet('sheet'+str(i))
+        for j in range(10):
+            for k in range(10):
+                print(j, k)
+                sim1 = SemanticsSim.Innovation.inno(list_all[i][j], list_all[i+1][k], dic_MN, dic_AN, dic_EN)
+                sheet.write(j + 1, k + 1, str(sim1))
+    wbk.save("Output/topic_evolution_semanticSim(period).xls")
+
+
+def num_per_topic(corpus_list, lda_list):
+    """
+    计算每个主题中的文档数量，调用模块DocNumPerTopic中的num_doc_per_topic函数
+    另外，该模块中还集成了与文档相关的其他函数
+    :param corpus_list:
+    :param lda_list:
+    :return:
+    """
+    print "num_per_topic is running"
+    with open("Output/numpertopic", "w")as writer:
+        writer.write("num_per_topic:")
+        for i in range(lda_list.__len__()):
+            writer.write(str(DocNumPerTopic.num_doc_per_topic(lda_list[i], corpus_list[i])))
+
+
+def density(corpus_list, lda_list):
+    """
+    计算每个主题的密度情况，调用模块Density中的cal_density函数
+    :param corpus_list:
+    :param lda_list:
+    :return:
+    """
+    print "density is running"
+    with open("Output/density", "w")as writer:
+        writer.write("density:")
+        for i in range(lda_list.__len__()):
+            # print density.cal_density(lda_list[i], corpus_list[i])
+            writer.write(str(Density.cal_density(lda_list[i], corpus_list[i])))
+
+
+def print_topic(lda_list):
+    """
+    打印lda_list中的主题。可以对num_words修改，得到top的主题词
+    :param lda_list:
+    :return:
+    """
+    name = ['2005-2006', '2006-2007', '2007-2008',
+            '2008-2009', '2009-2010', '2010-2011',
+            '2011-2012', '2012-2013', '2013-2014',
+            '2014-2015', '2015-2016']
+    # name = ['1999-2000', '2001-2002', '2003-2004']
+    for j in range(name.__len__()):
+        show = lda_list[j].show_topics(num_words=40, formatted=False)
+        topic_dict = OrderedDict(show)
+        with open('Output/' + name[j] + 'topic_format', 'w') as temp:
+            # temp.write(str(show))
+            for i in range(10):
+                # topic_dict[i]  # topic i 中的对应字段 list
+                topic_dict_each = OrderedDict(topic_dict[i])
+                temp.write('topic' + str(i) + '\n')
+                for id, value in topic_dict_each.iteritems():
+                    temp.write(id + ' ' + str(value) + '\n')
+
 # ---------------------------------------------------------------------------------------------------#
 
-
-def Interdisciplinary(paperIDs):
-    reference = 0
-    CategoryNum = 0   #保存学科数量
-    JournalList = {}  #用于保存期刊对应所属类别的字典
-    paperIDWithList = {} #用于保存每篇期刊ID对应的引用期刊LIST
-    classWithNum = {}  #用于保存每个类对应的索引
-    paperIDWithClass = {} #用于保存每篇期刊ID对应的分类LIST
-    list = []
-
-   #读取 ESIMasterJournalList.xlsx 文件 将表存在字典中
-    data = xlrd.open_workbook("ESIMasterJournalList.xlsx","r")
-    table = data.sheets()[0]
-    nrows = table.nrows  # 行数
-    ncols = table.ncols  # 列数
-    for i in xrange(0, nrows):
-        rowValues = table.row_values(i)  # 某一行数据
-        for item in rowValues[0:3]:
-            JournalList[item] = rowValues[-1]
-    #print(JournalList)
-
-
-#   #对主题内每个paperID对应的引文进行计算
-    ms = MSSQL(host="localhost:59318", user="eachen", pwd="123456", db="mydata")
-    for id in paperIDs:
-        resList = ms.ExecQuery("SELECT CR FROM RawMedicine2 where paperID ='"+str(id) +"'")
-        list = [] #初始化
-        list2 = []
-        print id
-        try:
-            for (CR,) in resList:
-
-                referenceString = str(CR)
-                stringList = referenceString.split(";")
-                for string in stringList:
-                    if (re.search("^[A-Z\s]*-*[A-Z\s]*$",string)):
-                        list.append(string.strip())
-            paperIDWithList[id] = list
-            #print list,list.__len__()
-            for li in list:
-                if JournalList.has_key(li):
-                    list2.append(JournalList[li])
-            paperIDWithClass[id] = list2
-            print paperIDWithClass[id]
-        except BaseException, Argument: #出现异常跳过，在CR会存在一些非编码字符
-            print Argument
-            pass
-
-    # 保存paperID 对应的 期刊 用分号隔开
-
-    with open("paper_CR_new.txt", 'a') as write:
-        for id in range(1, 13679):
-            write.write(str(id)+";")
-            for string in paperIDWithClass[id]:
-                write.write(string+";")
-            write.write("\n")
-
-    write.close()
-
-    #计数
-    #classWithDocMatric = np.zeros()
-    listIn = []
-
-    print "---------------------------------"
-    listAll = []
-    for ids in paperIDs:
-        tempList = paperIDWithClass[id]
-        for string in tempList:
-            #print type(string)
-            if not listAll.__contains__(str(string)):
-                listAll.append(string)
-    print listAll
-    print "---------------------------------"
-    #print paperIDWithList
-    print paperIDWithClass.keys()
-    #print type(referenceString)
-
-    # for id in paperIDs:
-    #     list
-    #     paperIDWithClass[id] = list
-
-
 def main():
-    pass
+
+    names = ['2005-2006', '2006-2007', '2007-2008',
+             '2008-2009', '2009-2010', '2010-2011',
+             '2011-2012', '2012-2013', '2013-2014',
+             '2014-2015', '2015-2016']
+    lda_list = []
+    corpus_list = []
+    for name in names:
+        lda = models.LdaModel.load('Corpus2/lda_model_'+name)
+        corpus = corpora.BleiCorpus('Corpus2/corpus_'+name+'.blei')
+        lda_list.append(lda)
+        corpus_list.append(corpus)
+
+    num_per_topic(lda_list, corpus_list)
+    density(lda_list, corpus_list)
+    print_topic(lda_list)
+    cos_sim(lda_list)
+    semantic_sim(lda_list)
+
+
+if __name__ == '__main__':
+    main()
+
 
 # save_dict()
 # filter_dictionary()
-period_store()
+# period_store()

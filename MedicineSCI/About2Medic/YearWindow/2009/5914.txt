@@ -1,0 +1,5 @@
+HRT [topp]
+Indicated [fndg]
+Primary Prevention [topp]
+Osteoporosis [dsyn]
+Null [qnco]

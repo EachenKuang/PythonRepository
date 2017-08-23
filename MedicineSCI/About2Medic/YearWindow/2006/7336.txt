@@ -1,0 +1,8 @@
+C-reactive protein [aapp, imft]
+Risk [qlco]
+Predictor [idcn]
+Race [popg]
+Ethnicity [popg]
+Gender [orga]
+Make [ftcn]
+Null [qnco]

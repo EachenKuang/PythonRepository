@@ -1,0 +1,7 @@
+Long-term [tmco]
+Mortality [qnco]
+Heart disease [dsyn]
+radiotherapy [inpr]
+Early [tmco]
+Breast Cancer [neop]
+Null [qnco]
