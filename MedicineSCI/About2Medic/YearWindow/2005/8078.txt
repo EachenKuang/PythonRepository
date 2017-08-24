@@ -1,8 +1,0 @@
-Differential [qlco]
-effects [qlco]
-Alternative [cnce]
-Hormone replacement therapy [topp]
-postmenopausal [tmco]
-Health [idcn]
-Women [popg]
-Null [qnco]

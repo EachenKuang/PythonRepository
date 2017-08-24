@@ -1,5 +1,0 @@
-Initiative [menp]
-Study [mnob]
-Clinical [qlco]
-practice [menp]
-Null [qnco]

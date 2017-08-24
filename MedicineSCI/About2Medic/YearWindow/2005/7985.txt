@@ -1,7 +1,0 @@
-Hormone replacement therapy [topp]
-Women [popg]
-SLE NOS [dsyn]
-Risk [qlco]
-CARDIOVASCULAR [bdsy]
-Disease [dsyn]
-Null [qnco]

@@ -1,6 +1,0 @@
-radiation disease [dsyn]
-Induced [ftcn]
-Heart [bpoc]
-vigilance [menp]
-Required [ftcn]
-Null [qnco]

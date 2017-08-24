@@ -1,5 +1,0 @@
-Diuretics [phsu]
-new onset [fndg]
-Diabetes [dsyn]
-Problem [fndg]
-Null [qnco]

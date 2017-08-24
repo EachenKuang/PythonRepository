@@ -1,0 +1,410 @@
+topic0
+C-reactive protein [aapp, imft] 0.00510332759083
+Men [popg] 0.00504705540997
+Dose [qnco] 0.00379589227163
+Confidence Interval [qnco] 0.00345272655589
+Statin [orch, phsu] 0.00315967616557
+development [phsf] 0.00307128514845
+Diabetes [dsyn] 0.00283862484036
+N NOS [aapp, imft] 0.00278408383589
+Blood Pressure [orgf] 0.00263769984941
+Sclerotherapy [topp] 0.0026305003153
+low [qlco] 0.00238375734472
+Receive [qlco] 0.00238337260567
+radiotherapy [inpr] 0.0023619495764
+Irradiation [npop] 0.00235303284577
+Following [tmco] 0.00234362262778
+Similar [qlco] 0.00232244081097
+Venous malformation [anab] 0.00230223753471
+Cardiac [bpoc] 0.00227023815205
+mg% [qnco] 0.002203384953
+Improved [qlco] 0.00206767673289
+Cancer [neop] 0.0020628793399
+GY [geoa] 0.00202324930189
+findings [ftcn] 0.00199384514698
+Assessed [acty] 0.00198973591663
+Hazard Ratio [qnco] 0.00197640448658
+Assess [acty] 0.00193573082538
+practice [menp] 0.00192855057849
+Young [tmco] 0.00189874536626
+Parameters [fndg] 0.00188098326507
+Serum [bdsu] 0.00185381419956
+days [tmco] 0.00184387684469
+Subject [grup] 0.00184186862208
+Purpose [ftcn] 0.00181306612003
+Received [qlco] 0.00179574963467
+Mechanisms [ftcn] 0.00177671497222
+Model [inpr] 0.00175256375504
+intervention [hlca] 0.00175051034732
+Acute myocardial infarction [dsyn] 0.00174980014974
+Old [tmco] 0.00173408024164
+Drugs [phsu] 0.00172457846658
+topic1
+N NOS [aapp, imft] 0.00524523311978
+Survival [acty] 0.00351132431709
+Men [popg] 0.00343596827929
+Heart [bpoc] 0.00313173858047
+Medical [ftcn] 0.00301499338916
+Confidence Interval [qnco] 0.0029120189087
+Cases [ftcn] 0.00285818319385
+Model [inpr] 0.00270831050717
+participants [popg] 0.00266916865913
+Likely [qlco] 0.00239670017283
+Cardiac [bpoc] 0.00235033697204
+placebo [topp] 0.00233354834898
+Diabetes [dsyn] 0.00231885255933
+Old [tmco] 0.00226059676565
+low [qlco] 0.00223370574412
+Blood Pressure [orgf] 0.00217109268428
+High Risk [qlco] 0.00209330598624
+Chronic kidney disease [dsyn] 0.00208314180792
+Hazard Ratio [qnco] 0.00207251064514
+Receive [qlco] 0.00204855675533
+Death [orgf] 0.00204418532933
+Menopause [phsf] 0.00200882277299
+Received [qlco] 0.00198237740021
+Induced [ftcn] 0.00197595348936
+Overall [inpr] 0.00197523559995
+Benefit [qnco] 0.00189782699851
+Association [menp] 0.00188875430411
+Therapeutic [topp] 0.00183674244162
+median [spco] 0.00183615971813
+Combination [qlco] 0.00182597720358
+Statin [orch, phsu] 0.00181704646053
+Published [ocac] 0.00179351712936
+development [phsf] 0.0017702000057
+Decrease [qlco] 0.00175305693006
+Current [tmco] 0.00172997920622
+radiotherapy [inpr] 0.00171943829586
+Cancer [neop] 0.0017152744318
+Measured [qlco] 0.00171275055743
+Hospital [hcro, mnob] 0.00171199651755
+Breast Cancer [neop] 0.00170997700677
+topic2
+Estrogen [horm, phsu, strd] 0.00572749965537
+Stroke [dsyn] 0.00535672607713
+Men [popg] 0.00451718421671
+Blood Pressure [orgf] 0.00434901515653
+Breast Cancer [neop] 0.00365577109087
+Diabetes [dsyn] 0.00357190874597
+Myocardial Infarction [dsyn] 0.003442049684
+Non [ftcn] 0.0029165137029
+Obesity [dsyn] 0.00263472985354
+Current [tmco] 0.00261504215688
+Incidence [qnco] 0.00253900050238
+Similar [qlco] 0.00242533086551
+Early [tmco] 0.00237340287886
+participants [popg] 0.00234364671882
+Dyslipidaemia [dsyn] 0.00231904146124
+Children [aggp] 0.00222555636456
+Individual [popg] 0.00221965875247
+Association [menp] 0.00220325033537
+Menopause [phsf] 0.00219798490703
+Venous Thromboembolism [patf] 0.00217059612023
+Death [orgf] 0.00209009028931
+condition [dsyn] 0.00205680191368
+Oral [spco] 0.00205522646311
+ischaemic heart disease [dsyn] 0.00202844768149
+Complications [patf] 0.00198498542508
+Body Mass Index [diap] 0.00197451838553
+Index [inpr] 0.00195021163997
+Insulin Resistance [patf] 0.00194855902089
+radiotherapy [inpr] 0.00185510003098
+Status [qlco] 0.00184986059107
+strategy [menp] 0.00183728162209
+Overall [inpr] 0.00183057253868
+History [ocdi] 0.00182947212962
+Lipid [lipd] 0.00182458417759
+Old [tmco] 0.00179171381142
+N NOS [aapp, imft] 0.00177232544127
+Initiate [idcn] 0.0017107542401
+Improved [qlco] 0.00169096361132
+Heart [bpoc] 0.00168460788399
+Cardiac [bpoc] 0.00165654653181
+topic3
+Confidence Interval [qnco] 0.00666657436632
+Tachycardia, Ventricular [patf] 0.00506125663651
+N NOS [aapp, imft] 0.00479148118877
+High Risk [qlco] 0.00381606351551
+Death [orgf] 0.00345383115512
+coronary artery disease [dsyn] 0.00339742057278
+Care [acty] 0.00337604162844
+Myocardial Infarction [dsyn] 0.00336114300432
+condition [dsyn] 0.00320947359688
+Old [tmco] 0.0031052784048
+Individual [popg] 0.00301323597476
+Children [aggp] 0.00295575246742
+Men [popg] 0.00284305660429
+Obesity [dsyn] 0.00276708930568
+Prevalence [qnco] 0.00273242671533
+Exercise [dora] 0.00268795480747
+participants [popg] 0.00264770703001
+Non [ftcn] 0.00256617390013
+Breast Cancer [neop] 0.0025564445905
+Odds Ratio [qnco] 0.00252354354614
+Rheumatoid Arthritis [dsyn] 0.0025173525122
+Stroke [dsyn] 0.00249664004915
+Multiple [qnco] 0.00239785306803
+Menopause [phsf] 0.00227587020115
+Improvement [cnce] 0.00219500478544
+Estrogen [horm, phsu, strd] 0.00209024592047
+mg dl [qnco] 0.00205990316262
+Specific [qlco] 0.00204035666866
+Venous malformation [anab] 0.00200484482733
+mg% [qnco] 0.00193216516107
+Assessed [acty] 0.00193178175208
+Drugs [phsu] 0.00192200582501
+Hazard Ratio [qnco] 0.00190518426272
+Medical [ftcn] 0.00188269341882
+Following [tmco] 0.00186652488978
+Medication [phsu] 0.00185914743245
+Program [cnce] 0.00185803969093
+Complications [patf] 0.00182882620301
+Center [spco] 0.0018210595101
+Body Mass Index [diap] 0.00181914772791
+topic4
+N NOS [aapp, imft] 0.00464300215706
+Estrogen [horm, phsu, strd] 0.00384674145781
+Prevalence [qnco] 0.00363622346417
+Change [ftcn] 0.0031313589479
+intervention [hlca] 0.00307254081855
+Insulin Resistance [patf] 0.00305344682419
+Incidence [qnco] 0.00281048700052
+Menopause [phsf] 0.00280597290023
+Diabetes [dsyn] 0.0028036718767
+Oral [spco] 0.0027628461026
+Men [popg] 0.00273534093149
+Statin [orch, phsu] 0.0027051709141
+Common [qnco] 0.00268223857004
+Decrease [qlco] 0.00267694376652
+Receive [qlco] 0.00266787511761
+Subject [grup] 0.00266745500014
+Association [menp] 0.00255456270392
+Early [tmco] 0.00253142912453
+randomized [resa] 0.00251354767384
+Dose [qnco] 0.00246866525519
+Non [ftcn] 0.00236702149267
+Combination [qlco] 0.00235340136628
+Diet [food] 0.00235287146923
+considered [idcn] 0.00222332161566
+Old [tmco] 0.00212495716894
+Decreased [qnco] 0.00211411059617
+weeks [tmco] 0.00209962459133
+development [phsf] 0.00207511266774
+Cohort [popg] 0.00206451859504
+Exercise [dora] 0.00202849647612
+Stroke [dsyn] 0.00200415549621
+coronary artery disease [dsyn] 0.00200346939525
+Safety [hcpp] 0.0019378047008
+Marker [clna] 0.00193591322221
+Estradiol [horm, phsu, strd] 0.00190471168607
+Guidelines [inpr] 0.00190461432113
+Reported [inpr] 0.00188717528277
+tibolone [phsu, strd] 0.00187364814515
+System [ftcn] 0.00184977864538
+Death [orgf] 0.00184383011625
+topic5
+Heart failure [dsyn] 0.00491782930717
+Men [popg] 0.00452948690503
+Survival [acty] 0.00397161559271
+Specific [qlco] 0.0036177090255
+Prevalence [qnco] 0.00340094591912
+Diabetes [dsyn] 0.00328900870666
+Statins [orch, phsu] 0.00312835981499
+Diagnosis [fndg] 0.00312538547374
+Cardiac [bpoc] 0.00311897136614
+Odds Ratio [qnco] 0.00309192752501
+practice [menp] 0.00286904827061
+Care [acty] 0.00271661058688
+Blood Pressure [orgf] 0.00259105486654
+Subject [grup] 0.00247570847764
+Menopause [phsf] 0.00230825745779
+Heart [bpoc] 0.00229965092977
+Drug [phsu] 0.00228121670897
+Myocardial Infarction [dsyn] 0.00224838790023
+Metabolic syndrome [dsyn] 0.00216443793371
+low [qlco] 0.00213472182204
+Polypharmacy [fndg] 0.00211536447882
+Current [tmco] 0.00211225100625
+Adherence [ftcn] 0.00207951172777
+Assess [acty] 0.00206764498513
+Death [orgf] 0.00206748621577
+Change [ftcn] 0.00202574893569
+Evaluated [ftcn] 0.00202550002663
+Prostate Cancer [neop] 0.00201956557822
+Prognostic Factor [clna] 0.00201402160134
+Target [ftcn] 0.0019889523113
+IMPACT [gngm] 0.00193550894303
+Individual [popg] 0.00193543266128
+Drug Therapy [topp] 0.00190963843842
+Estradiol [horm, phsu, strd] 0.00190041365783
+Primary [qlco] 0.00187421559858
+Index [inpr] 0.00187397889317
+Early [tmco] 0.00184818085097
+Therapeutic [topp] 0.00182698974111
+Decreased [qnco] 0.00180360659933
+intervention [hlca] 0.00179639323684
+topic6
+Cardiac [bpoc] 0.00370060235471
+coronary artery disease [dsyn] 0.00358861192666
+Diabetes [dsyn] 0.00356468530367
+Dose [qnco] 0.00336915223645
+Blood Pressure [orgf] 0.003172707191
+Subject [grup] 0.00310624493029
+Association [menp] 0.00287172284055
+Confidence Interval [qnco] 0.00268587510782
+Men [popg] 0.00256561666173
+Radiation [npop] 0.00253702822324
+Aspirin [orch, phsu] 0.00248097022391
+Complications [patf] 0.00237330898132
+Children [aggp] 0.00234083186815
+Medications [phsu] 0.0023088984675
+Heart [bpoc] 0.00228447113179
+function [phsf] 0.0022357073534
+Care [acty] 0.00223197748649
+Current [tmco] 0.00222736420397
+Heart failure [dsyn] 0.00213481915894
+Odds Ratio [qnco] 0.00210630528366
+Receive [qlco] 0.00208099344272
+Incidence [qnco] 0.00207653193743
+Several [qnco] 0.00204452099258
+Myocardial Infarction [dsyn] 0.00197427725974
+Drug [phsu] 0.00195682935556
+Early [tmco] 0.00195010091414
+Provide [acty] 0.00194891193743
+Drugs [phsu] 0.00194584829568
+considered [idcn] 0.00194275152966
+Adults [aggp] 0.00193358526857
+Estrogen [horm, phsu, strd] 0.00191527239395
+Surgery [bmod] 0.00189308411998
+Combination [qlco] 0.00188246415621
+PREVENT [phsu] 0.0018748002861
+Gender [orga] 0.00186946142304
+Following [tmco] 0.00186733460997
+median [spco] 0.00186272211471
+R- [spco] 0.00184701945403
+Obesity [dsyn] 0.0018440683858
+Common [qnco] 0.00183061973285
+topic7
+Sclerotherapy [topp] 0.007627346456
+Confidence Interval [qnco] 0.0057607410486
+Venous malformation [anab] 0.00428839494503
+coronary artery disease [dsyn] 0.00417697530593
+Individual [popg] 0.0038468963445
+Hazard Ratio [qnco] 0.00361954523386
+Similar [qlco] 0.0027019660979
+Atherosclerosis [dsyn] 0.00266376953593
+lesions [fndg] 0.00264577248396
+C-reactive protein [aapp, imft] 0.00259841228427
+Users [humn] 0.00254706313196
+Non [ftcn] 0.00253447737349
+Cases [ftcn] 0.0023581516425
+cardiovascular events [fndg] 0.00232271875175
+randomized [resa] 0.00230060544462
+Events [evnt] 0.00220842767643
+Adjusted [ftcn] 0.00219486538196
+Four [qnco] 0.00219182901793
+Statin [orch, phsu] 0.00218230190275
+Percutaneous [spco] 0.00216813093849
+median [spco] 0.00214061762172
+Metabolic syndrome [dsyn] 0.0020910856849
+Association [menp] 0.00205504745961
+Elderly [popg] 0.00204388094107
+Diabetes [dsyn] 0.00203889419797
+Assessed [acty] 0.00201864326586
+Recent [tmco] 0.00198468717387
+Estrogen [horm, phsu, strd] 0.0019750899504
+Overall [inpr] 0.00195825196561
+PREVENT [phsu] 0.00195515997755
+Reported [inpr] 0.00193875835363
+Incidence [qnco] 0.0019370728796
+Survival [acty] 0.00193347205259
+Assess [acty] 0.00193029248918
+Evaluated [ftcn] 0.00192925197066
+Odds Ratio [qnco] 0.00190650348291
+Raloxifene [orch, phsu] 0.00190575723941
+Decreased [qnco] 0.00186813466216
+Subject [grup] 0.00186113937776
+development [phsf] 0.00185503308593
+topic8
+Quality [qlco] 0.0056182252351
+Stroke [dsyn] 0.00550253754628
+Life [idcn] 0.00528680859808
+White matter lesions [fndg] 0.00415677186352
+Men [popg] 0.00414067105215
+Exercise [dora] 0.00391858843184
+Drug [phsu] 0.00312090169282
+condition [dsyn] 0.0027891948697
+Improved [qlco] 0.00276745160847
+Early [tmco] 0.00270249198939
+practice [menp] 0.00268929934187
+Article [inpr] 0.00247320716747
+symptoms [ftcn] 0.00242163564473
+Diabetes [dsyn] 0.00237835365859
+Receive [qlco] 0.00236032945726
+Range [qnco] 0.00235189003735
+Care [acty] 0.00233805900615
+Therapeutic [topp] 0.00231361296813
+Common [qnco] 0.00228441038368
+Obesity [dsyn] 0.00221620260115
+Menopause [phsf] 0.00220444982227
+diabetic [fndg] 0.00216976884192
+Specific [qlco] 0.00215709774313
+Children [aggp] 0.00212439502339
+Dose [qnco] 0.00211079885517
+Approach [spco] 0.00207259260766
+development [phsf] 0.002070957458
+Death [orgf] 0.00204846696345
+Reported [inpr] 0.00202869136542
+Drugs [phsu] 0.00201527854551
+Profile [lbpr] 0.00197802557309
+Often [tmco] 0.00194673877277
+experience [menp] 0.00194428942815
+Survival [acty] 0.0019119919413
+High Risk [qlco] 0.00190928679779
+Adherence [ftcn] 0.00190578622256
+Main [qlco] 0.00188841682202
+Several [qnco] 0.001854283865
+Benefit [qnco] 0.00184542333725
+Metabolic syndrome [dsyn] 0.00183673634568
+topic9
+Stroke [dsyn] 0.00407727781751
+Subject [grup] 0.00355109820089
+Elderly [popg] 0.00352878100692
+Prevalence [qnco] 0.00331992248973
+Metabolic syndrome [dsyn] 0.00323529453697
+Concentrations [menp] 0.0027784840358
+Common [qnco] 0.00274775973085
+development [phsf] 0.0027117092348
+Old [tmco] 0.00267142209427
+radiotherapy [inpr] 0.00264082656923
+vascular [bpoc] 0.00261584129878
+Non [ftcn] 0.00261159275178
+Individual [popg] 0.00241350879947
+Diabetes [dsyn] 0.00236054231338
+Overall [inpr] 0.00219309969777
+Aged [orga] 0.00214723913003
+Young [tmco] 0.0021314129599
+Several [qnco] 0.00212829638019
+Literature [inpr] 0.00207503442083
+findings [ftcn] 0.00202551738636
+Identified [qlco] 0.00196938946632
+Complications [patf] 0.00196396595228
+Current [tmco] 0.00193689678438
+Estrogen [horm, phsu, strd] 0.00191162407198
+Specific [qlco] 0.00190716229852
+Assessment [hlca] 0.00189257848886
+Dose [qnco] 0.00184244628207
+Various [irda] 0.00182304516979
+Receive [qlco] 0.00178556260273
+Men [popg] 0.00177244529436
+High Risk [qlco] 0.00173891233401
+Treatments [topp] 0.00172954890778
+Early [tmco] 0.00171824092288
+Article [inpr] 0.00170045585911
+Drugs [phsu] 0.00170013728992
+acute [tmco] 0.00169209805903
+Large [qnco] 0.00167523933516
+considered [idcn] 0.0016638852702
+Index [inpr] 0.00165638075253
+Primary [qlco] 0.00165313163489

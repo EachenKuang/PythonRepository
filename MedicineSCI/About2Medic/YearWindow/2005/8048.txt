@@ -1,5 +1,0 @@
-Secondary Prevention [topp]
-Heart disease [dsyn]
-Statins [orch, phsu]
-findings [ftcn]
-Null [qnco]

@@ -1,7 +1,0 @@
-Declining [qlco]
-Prevalence [qnco]
-ST ELEVATION MYOCARDIAL INFARCTION [fndg]
-Patients [podg]
-Presenting [idcn]
-Syndromes, Acute Coronary [dsyn]
-Null [qnco]

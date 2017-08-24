@@ -1,6 +1,0 @@
-Breast Cancer [neop]
-Cardiovascular disease [dsyn]
-Risk [qlco]
-Best [qlco]
-Treatments [topp]
-Null [qnco]

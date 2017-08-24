@@ -1,6 +1,0 @@
-Special [qlco]
-Characteristics [qlco]
-Cardiovascular Diseases [dsyn]
-treatment [ftcn]
-Women [popg]
-Null [qnco]

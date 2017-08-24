@@ -1,6 +1,0 @@
-SCAI [gngm]
-Congenital heart disease [cgab, dsyn]
-Leading [tmco]
-Excellent [qlco]
-patient care [hlca]
-Null [qnco]

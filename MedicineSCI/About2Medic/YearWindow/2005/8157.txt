@@ -1,3 +1,0 @@
-radiotherapy [inpr]
-Breast Cancer [neop]
-Null [qnco]
