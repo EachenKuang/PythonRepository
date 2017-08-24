@@ -109,10 +109,11 @@ num_per_topic:主题中文档数量
 density：主题密度
 print_topic：打印主题词
 '''
-def cos_sim(lda_list):
+def cos_sim(lda_list, store_path):
     """
     计算相邻时间窗的余弦相似度，并将结果保存在Excel中
     :param lda_list:
+    :param store_path
     :return:
     """
     print "cos_sim is running"
@@ -123,21 +124,22 @@ def cos_sim(lda_list):
         topic_dict_all.append(topic_dict)
 
     wbk = xlwt.Workbook()
-    for i in range(10):
+    for i in range(4):
         sheet = wbk.add_sheet('sheet'+str(i))
         for j in range(10):
             for k in range(10):
                 print(j, k)
                 sim1 = models.interfaces.matutils.cossim(topic_dict_all[i][j], topic_dict_all[i+1][k])
                 sheet.write(j + 1, k + 1, str(sim1))
-    wbk.save("Output/topic_evolution_cos_sim(period).xls")
+    wbk.save(store_path+"topic_evolution_cos_sim(period).xls")
 
 
-def semantic_sim(lda_list):
+def semantic_sim(lda_list, store_path):
     """
     计算相邻时间窗的语义相似度，并将结果保存在Excel中
     需要用到数据库中的内容:MH、EN、MH、AN 原始数据在"d2017.bin"文件中
     :param lda_list:
+    :param store_path:
     :return:
     """
     print "semantic_sim is running"
@@ -159,61 +161,65 @@ def semantic_sim(lda_list):
         list_all.append(temp_list)
 
     wbk = xlwt.Workbook()
-    for i in range(10):
+    for i in range(4):
         sheet = wbk.add_sheet('sheet'+str(i))
         for j in range(10):
             for k in range(10):
                 print(j, k)
                 sim1 = SemanticsSim.Innovation.inno(list_all[i][j], list_all[i+1][k], dic_MN, dic_AN, dic_EN)
                 sheet.write(j + 1, k + 1, str(sim1))
-    wbk.save("Output/topic_evolution_semanticSim(period).xls")
+    wbk.save(store_path + "topic_evolution_semanticSim(period).xls")
 
 
-def num_per_topic(corpus_list, lda_list):
+def num_per_topic(corpus_list, lda_list, store_path):
     """
     计算每个主题中的文档数量，调用模块DocNumPerTopic中的num_doc_per_topic函数
     另外，该模块中还集成了与文档相关的其他函数
     :param corpus_list:
     :param lda_list:
+    :param store_path
     :return:
     """
     print "num_per_topic is running"
-    with open("Output/numpertopic", "w")as writer:
+    with open(store_path+"numpertopic", "w")as writer:
         writer.write("num_per_topic:")
         for i in range(lda_list.__len__()):
             writer.write(str(DocNumPerTopic.num_doc_per_topic(lda_list[i], corpus_list[i])))
 
 
-def density(corpus_list, lda_list):
+def density(corpus_list, lda_list, store_path):
     """
     计算每个主题的密度情况，调用模块Density中的cal_density函数
     :param corpus_list:
     :param lda_list:
+    :param store_path
     :return:
     """
     print "density is running"
-    with open("Output/density", "w")as writer:
+    with open(store_path + "density", "w")as writer:
         writer.write("density:")
         for i in range(lda_list.__len__()):
             # print density.cal_density(lda_list[i], corpus_list[i])
             writer.write(str(Density.cal_density(lda_list[i], corpus_list[i])))
 
 
-def print_topic(lda_list):
+def print_topic(lda_list, store_path):
     """
     打印lda_list中的主题。可以对num_words修改，得到top的主题词
     :param lda_list:
+    :param store_path:
     :return:
     """
-    name = ['2005-2006', '2006-2007', '2007-2008',
-            '2008-2009', '2009-2010', '2010-2011',
-            '2011-2012', '2012-2013', '2013-2014',
-            '2014-2015', '2015-2016']
+    # name = ['2005-2006', '2006-2007', '2007-2008',
+    #         '2008-2009', '2009-2010', '2010-2011',
+    #         '2011-2012', '2012-2013', '2013-2014',
+    #         '2014-2015', '2015-2016']
     # name = ['1999-2000', '2001-2002', '2003-2004']
+    name = ['2006-2007-2008', '2008-2009-2010', '2010-2011-2012', '2012-2013-2014', '2014-2015-2016']
     for j in range(name.__len__()):
         show = lda_list[j].show_topics(num_words=40, formatted=False)
         topic_dict = OrderedDict(show)
-        with open('Output/' + name[j] + 'topic_format', 'w') as temp:
+        with open(store_path + name[j] + 'topic_format', 'w') as temp:
             # temp.write(str(show))
             for i in range(10):
                 # topic_dict[i]  # topic i 中的对应字段 list
@@ -226,23 +232,21 @@ def print_topic(lda_list):
 
 def main():
 
-    names = ['2005-2006', '2006-2007', '2007-2008',
-             '2008-2009', '2009-2010', '2010-2011',
-             '2011-2012', '2012-2013', '2013-2014',
-             '2014-2015', '2015-2016']
+    names = ['2006-2007-2008', '2008-2009-2010', '2010-2011-2012', '2012-2013-2014', '2014-2015-2016']
+    path = "Output/"
     lda_list = []
     corpus_list = []
     for name in names:
-        lda = models.LdaModel.load('Corpus2/lda_model_'+name)
-        corpus = corpora.BleiCorpus('Corpus2/corpus_'+name+'.blei')
+        lda = models.LdaModel.load('Corpus3/lda_model_'+name)
+        corpus = corpora.BleiCorpus('Corpus3/corpus_'+name+'.blei')
         lda_list.append(lda)
         corpus_list.append(corpus)
 
-    num_per_topic(lda_list, corpus_list)
-    density(lda_list, corpus_list)
-    print_topic(lda_list)
-    cos_sim(lda_list)
-    semantic_sim(lda_list)
+    num_per_topic(lda_list, corpus_list, path)
+    density(lda_list, corpus_list, path)
+    print_topic(lda_list, path)
+    cos_sim(lda_list, path)
+    semantic_sim(lda_list, path)
 
 
 if __name__ == '__main__':

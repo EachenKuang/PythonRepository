@@ -4,7 +4,7 @@ Author: Eachen Kuang
 Date:  2017.8.23
 Goal: time_window by 3 years with a year covered
 Other:
-每两年一个时间窗 2005-2016 共12年 两年重叠一年，一共是11时间窗
+每两年一个时间窗 2006-2016 共11年 三年重叠一年，一共是5时间窗
 """
 import logging
 from gensim import models
@@ -29,7 +29,7 @@ def read_from_raw(path):
 def make_store(texts, name):
     dictionary = corpora.Dictionary.load('Dictionary/dict2_n_f.dict')
     corpus = [dictionary.doc2bow(text) for text in texts]
-    corpora.BleiCorpus.serialize('Corpus2/corpus_'+name+'.blei', corpus, id2word=dictionary)
+    corpora.BleiCorpus.serialize('Corpus3/corpus_'+name+'.blei', corpus, id2word=dictionary)
 
     lda_model = \
         models.LdaModel(alpha=0.5,
@@ -39,7 +39,7 @@ def make_store(texts, name):
                         num_topics=10,
                         per_word_topics=True,
                         iterations=300)
-    lda_model.save('Corpus2/lda_model_'+name)
+    lda_model.save('Corpus3/lda_model_'+name)
 
     print name+"successful\n"
 
@@ -59,9 +59,13 @@ def main():
         dictionary_list[time] = text
 
     # 调用函数保存成文件
-    for i in range(11):
-        texts_use = dictionary_list[data_in_folds_year[i]] + dictionary_list[data_in_folds_year[i + 1]]
-        make_store(texts_use, data_in_folds_year[i]+'-'+data_in_folds_year[i+1])
+    for i in range(5):
+        texts_use = dictionary_list[data_in_folds_year[i * 2]]\
+                    + dictionary_list[data_in_folds_year[i * 2+ 1]]\
+                    + dictionary_list[data_in_folds_year[i * 2+ 2]]
+        make_store(texts_use, data_in_folds_year[i*2]+'-'
+                   + data_in_folds_year[i*2+1] + '-'
+                   + data_in_folds_year[i*2+2])
 
 if __name__ == '__main__':
     main()
