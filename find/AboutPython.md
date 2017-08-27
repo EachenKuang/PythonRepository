@@ -236,3 +236,6 @@ listOfRows[:] = [row[0], rowp[3], rowp[2] for row in listOfRows]
 <img src="https://latex.codecogs.com/gif.latex?f(x)=ax^2+by^3+cz^4">
 
 所以，记住这个网址，在GitHub中写公式就没有什么大问题了。
+
+## 2017.8.27
+浪了一天
