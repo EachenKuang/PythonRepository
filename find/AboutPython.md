@@ -239,3 +239,6 @@ listOfRows[:] = [row[0], rowp[3], rowp[2] for row in listOfRows]
 
 ## 2017.8.27
 浪了一天
+
+## 2017.8.29
+好吧，实验室断网。
