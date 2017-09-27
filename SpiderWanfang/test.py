@@ -1,6 +1,7 @@
 #encoding=utf8
 import urllib
 import socket
+from MyLog import Logger
 def test():
     socket.setdefaulttimeout(0.5)
     of = open('proxy_temp.txt', 'a')
@@ -45,14 +46,25 @@ def test():
 # # 禤
 # print u'\u764e'
 # # 癎
-for i in range(20):
-    with open('data/' + str(i + 1) + '/paper_num.txt', 'r') as r:
-        print r.readline()
-for i in range(20):
-    with open('data/'+str(i+1)+'/paper_num.txt','w') as w:
-        w.write('0')
-for i in range(20):
-    with open('data/' + str(i + 1) + '/paper_num.txt', 'r') as r:
-        print r.readline()
+# for i in range(20):
+#     with open('data/' + str(i + 1) + '/paper_num.txt', 'r') as r:
+#         print r.readline()
+# for i in range(20):
+#     with open('data/'+str(i+1)+'/paper_num.txt','w') as w:
+#         w.write('0')
+# for i in range(20):
+#     with open('data/' + str(i + 1) + '/paper_num.txt', 'r') as r:
+#         print r.readline()
 
-
+# logger = Logger(logname='log.txt', loglevel=1, logger="hahah").getlog()
+#
+# # try:
+# #     open('/path/to/does/not/exist', 'rb')
+# # except (SystemExit, KeyboardInterrupt):
+# #     raise
+# # except Exception, e:
+# #     logger.error('Failed to open file', exc_info=True)
+#
+#
+# logger.info("This is level 1 info log")
+# logger.error("This is an error")

@@ -1,0 +1,27 @@
+2017-09-27 11:34:32,946 - young - INFO - This is level 1 info log
+2017-09-27 11:39:32,773 - young - INFO - This is level 1 info log
+2017-09-27 11:40:10,357 - young - INFO - This is level 1 info log
+2017-09-27 11:40:10,357 - young - ERROR - This is an error
+2017-09-27 11:40:24,246 - young - INFO - This is level 1 info log
+2017-09-27 11:40:24,246 - young - ERROR - This is an error
+2017-09-27 11:44:06,196 - Eachen - ERROR - Failed to open file
+Traceback (most recent call last):
+  File "D:/Kuangyichen/PythonRepository/SpiderWanfang/test.py", line 62, in <module>
+    open('/path/to/does/not/exist', 'rb')
+IOError: [Errno 2] No such file or directory: '/path/to/does/not/exist'
+2017-09-27 11:44:06,196 - Eachen - INFO - This is level 1 info log
+2017-09-27 11:44:06,196 - Eachen - ERROR - This is an error
+2017-09-27 15:02:37,522 - Eachen - ERROR - Failed to open file
+Traceback (most recent call last):
+  File "D:/Kuangyichen/PythonRepository/SpiderWanfang/test.py", line 62, in <module>
+    open('/path/to/does/not/exist', 'rb')
+IOError: [Errno 2] No such file or directory: '/path/to/does/not/exist'
+2017-09-27 15:02:37,522 - Eachen - INFO - This is level 1 info log
+2017-09-27 15:02:37,522 - Eachen - ERROR - This is an error
+2017-09-27 15:04:03,038 - young - INFO - This is level 1 info log
+2017-09-27 15:05:04,546 - young - INFO - This is level 1 info log
+2017-09-27 15:06:06,265 - young - INFO - This is level 1 info log
+2017-09-27 15:09:36,211 - Eachen - INFO - This is level 1 info log
+2017-09-27 15:09:36,211 - Eachen - ERROR - This is an error
+2017-09-27 15:10:41,107 - hahah - INFO - This is level 1 info log
+2017-09-27 15:10:41,107 - hahah - ERROR - This is an error

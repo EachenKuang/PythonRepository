@@ -5,16 +5,14 @@ import re
 import random
 import time
 import sys
-import datetime
 import logging
 import csv
-
+from MyLog import Logger
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-NUM = 4
+NUM = 13
 USER_AGENTS = [
     "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
     "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)",
@@ -33,6 +31,8 @@ USER_AGENTS = [
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.20 (KHTML, like Gecko) Chrome/19.0.1036.7 Safari/535.20",
     "Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; fr) Presto/2.9.168 Version/11.52",
 ]
+logger = Logger(logname='data/'+str(NUM)+'/log.txt', loglevel=1, logger="Eachen").getlog()
+
 class url2Content(object):
     """
     This class's main work is to return each single paper's content base on the parameter(url)
@@ -240,6 +240,9 @@ def solve(input_str=''):
 
 def main():
 
+    logger = Logger(logname='log.txt', loglevel=1, logger="young").getlog()
+    logger.info("This is level 1 info log")
+
     # read the url that should be visit in the next time
     txt_file = open('data/'+str(NUM)+'/urls.txt', 'r')
     lines = txt_file.readlines()
@@ -305,7 +308,7 @@ def main():
             txt_file.write(str(x))
             txt_file.close()
             # delayed access to avoid the ip be shield
-            time.sleep(10)
+            time.sleep(5)
             # if x % 10 == 0:
             #     agent_set()
         except Exception, e:
@@ -316,6 +319,7 @@ def main():
                 x -= False_num - 1
                 False_num = 0
             print e, x
+            logger.error('fail:'+ url + ' err:' + e + ' line:'+ str(x))
             continue
 
 
