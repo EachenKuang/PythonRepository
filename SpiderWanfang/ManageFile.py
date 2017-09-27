@@ -11,7 +11,7 @@ def zero_papernum():
     for i in range(1, 21):
         with open('data/'+str(i)+'/paper_num.txt','w') as write:
             write.write('0')
-        print 'change'+ 'data/'+str(i)+'/paper_num.txt'+'to 0'
+        print 'change' + 'data/'+str(i)+'/paper_num.txt'+'to 0'
 
 def delete_csv(file):
     for i in range(1, 21):
