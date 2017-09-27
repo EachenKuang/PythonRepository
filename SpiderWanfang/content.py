@@ -1,19 +1,20 @@
 # -*- coding: utf-8 -*-
 from bs4 import BeautifulSoup
 import urllib2
-import csv
 import re
 import random
 import time
 import sys
 import datetime
 import logging
+import csv
+
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-NUM = 15
+NUM = 4
 USER_AGENTS = [
     "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
     "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)",
@@ -168,7 +169,7 @@ class url2Content(object):
             return '','',''
         return self.year, self.volume, self.period
 
-    def get_classific_num(self):
+    def get_class_num(self):
         """
         分类号
         :return:
@@ -228,17 +229,14 @@ def agent_set():
         opener = urllib2.build_opener(null_proxy_handler)
     urllib2.install_opener(opener)
 
-def solve(str=''):
+def solve(input_str=''):
     """
     解决'gb2312' codec can't encode character u'\xa0'问题
-
-    :param str:
+    :param input_str:
     :return:
     """
-    str = str.replace(u'\xa0', u'\x20')
-    str = str.replace(u'\xb7', u'\x20')
-
-    return str
+    input_str = input_str.replace(u'\xa0', u'\x20')
+    return input_str
 
 def main():
 
@@ -257,50 +255,48 @@ def main():
         try:
             x += 1
 
+            # 从文件中解析出已经存储的 cite_count、journal_rank
             url = lines[x].split(';')[0]
             cite_count = lines[x].split(';')[1]
             optional_journal = lines[x].split(';')[-1].strip('\n')
-            a = url2Content(url)
+
+            parser_conten = url2Content(url)
 
             # get infomation
-            paperid = a.get_id()
-            title = a.get_title()
-            doi = a.get_doi()
-            author = a.get_author()
-            employer = a.get_author_employer()
-            journal_name = a.get_journal_name()
-            keyword = a.get_keyword()
-            classific_num = a.get_classific_num()
-            y, v, p = a.get_year_paper()
+            paper_id = parser_conten.get_id()
+            title = parser_conten.get_title()
+            doi = parser_conten.get_doi()
+            author = parser_conten.get_author()
+            employer = parser_conten.get_author_employer()
+            journal_name = parser_conten.get_journal_name()
+            keyword = parser_conten.get_keyword()
+            class_num = parser_conten.get_class_num()
+            y, v, p = parser_conten.get_year_paper()
 
-            # encode as gb2312
-            # paperid = paperid.decode('utf-8').encode('gb2312')
-            # classific_num = solve(classific_num)
-            # classific_num = classific_num.decode('utf-8').encode('gb2312')
-            # y = y.decode('utf-8').encode('gb2312')
-            # p = p.decode('utf-8').encode('gb2312')
-            # title = solve(title)
-            # title = title.decode('utf-8').encode('gb2312')
-            # employer = employer.decode('utf-8').encode('gb2312')
-            # keyword = keyword.decode('utf-8').encode('gb2312')
-            # author = author.decode('utf-8').encode('gb2312')
-            # doi = doi.decode('utf-8').encode('gb2312')
-            # journal_name = journal_name.decode('utf-8').encode('gb2312')
-            new_row = []
-            print_row = []
-            row = [paperid, cite_count, optional_journal, title, doi, author, employer, journal_name, keyword, classific_num, y, v, p]
+            row = [paper_id, cite_count, optional_journal, title, doi, author, employer, journal_name, keyword, class_num, y, v, p]
             # print row
-            for r in row:
-                temp = solve(r)
-                print_row.append(temp)
-                temp = temp.decode('utf-8').encode('gb2312')
-                new_row.append(temp)
-            print print_row
+            # for r in row:
+            #     # temp = solve(r)
+            #     # print_row.append(temp)
+            #     # temp = temp.decode('utf-8').encode('gb2312', 'ignore')
+            #     new_row.append(r)
+            # print new_row
+            # print_row
             # storage the result in relation.csv
-            with open('data/'+str(NUM)+'/relation.csv', 'ab+') as csvfile:
+
+            # with open('data/relation.csv', 'ab+') as csvfile:
+            #     spamwriter = csv.writer(csvfile)
+            #     spamwriter.writerow(new_row)
+            #     csvfile.close()
+            with open('data/'+str(NUM)+'/out.csv','ab+') as csvfile:
                 spamwriter = csv.writer(csvfile)
-                spamwriter.writerow(new_row)
+                spamwriter.writerow(row)
                 csvfile.close()
+
+            # with open('data/'+str(NUM)+'/relation.csv', 'ab+', encoding='utf-8') as csvfile:
+            #     spamwriter = csv.writer(csvfile)
+            #     spamwriter.writerow(new_row)
+            #     csvfile.close()
             # print necessary status information
             print "sucess:", url, x
             False_num = 0
@@ -342,7 +338,7 @@ def test():
     employer = a.get_author_employer()
     journal_name = a.get_journal_name()
     key_word = a.get_keyword()
-    classific_num = a.get_classific_num()
+    classific_num = a.get_class_num()
     y,v,p = a.get_year_paper()
 
     print title
