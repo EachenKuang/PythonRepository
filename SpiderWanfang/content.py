@@ -5,14 +5,13 @@ import re
 import random
 import time
 import sys
-import logging
 import csv
 from MyLog import Logger
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
 
-NUM = 13
+NUM = 20
 USER_AGENTS = [
     "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
     "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)",
@@ -31,7 +30,7 @@ USER_AGENTS = [
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.20 (KHTML, like Gecko) Chrome/19.0.1036.7 Safari/535.20",
     "Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; fr) Presto/2.9.168 Version/11.52",
 ]
-logger = Logger(logname='data/'+str(NUM)+'/log.txt', loglevel=1, logger="Eachen").getlog()
+
 
 class url2Content(object):
     """
@@ -240,9 +239,8 @@ def solve(input_str=''):
 
 def main():
 
-    logger = Logger(logname='log.txt', loglevel=1, logger="young").getlog()
-    logger.info("This is level 1 info log")
-
+    logger = Logger(logname='data/' + str(NUM) + '/log.txt', loglevel=1, logger="Eachen").getlog()
+    logger.info('this is a level 1 log')
     # read the url that should be visit in the next time
     txt_file = open('data/'+str(NUM)+'/urls.txt', 'r')
     lines = txt_file.readlines()
@@ -254,9 +252,11 @@ def main():
     False_num = 0
     x = paper_th - 1
 
-    while x < len(lines):
+    # while x < len(lines):
+    sup = [2694,5553]
+    for x in sup:
         try:
-            x += 1
+            # x += 1
 
             # 从文件中解析出已经存储的 cite_count、journal_rank
             url = lines[x].split(';')[0]
@@ -277,36 +277,19 @@ def main():
             y, v, p = parser_conten.get_year_paper()
 
             row = [paper_id, cite_count, optional_journal, title, doi, author, employer, journal_name, keyword, class_num, y, v, p]
-            # print row
-            # for r in row:
-            #     # temp = solve(r)
-            #     # print_row.append(temp)
-            #     # temp = temp.decode('utf-8').encode('gb2312', 'ignore')
-            #     new_row.append(r)
-            # print new_row
-            # print_row
-            # storage the result in relation.csv
 
-            # with open('data/relation.csv', 'ab+') as csvfile:
-            #     spamwriter = csv.writer(csvfile)
-            #     spamwriter.writerow(new_row)
-            #     csvfile.close()
-            with open('data/'+str(NUM)+'/out.csv','ab+') as csvfile:
+            with open('data/'+str(NUM)+'/sup.csv','ab+') as csvfile:
                 spamwriter = csv.writer(csvfile)
                 spamwriter.writerow(row)
                 csvfile.close()
 
-            # with open('data/'+str(NUM)+'/relation.csv', 'ab+', encoding='utf-8') as csvfile:
-            #     spamwriter = csv.writer(csvfile)
-            #     spamwriter.writerow(new_row)
-            #     csvfile.close()
-            # print necessary status information
-            print "sucess:", url, x
+
+            logger.info("sucess:"+url+' '+str(x))
             False_num = 0
             # stroage the page num in cscfile
-            txt_file = open('data/'+str(NUM)+'/paper_num.txt', 'w')
-            txt_file.write(str(x))
-            txt_file.close()
+            # txt_file = open('data/'+str(NUM)+'/paper_num.txt', 'w')
+            # txt_file.write(str(x))
+            # txt_file.close()
             # delayed access to avoid the ip be shield
             time.sleep(5)
             # if x % 10 == 0:
@@ -318,8 +301,8 @@ def main():
                 # agent_set()
                 x -= False_num - 1
                 False_num = 0
-            print e, x
-            logger.error('fail:'+ url + ' err:' + e + ' line:'+ str(x))
+            # print e, x
+            logger.error('fail:'+ url + ' err:' + str(e) + ' line:'+ str(x))
             continue
 
 

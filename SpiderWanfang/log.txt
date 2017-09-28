@@ -25,3 +25,5 @@ IOError: [Errno 2] No such file or directory: '/path/to/does/not/exist'
 2017-09-27 15:09:36,211 - Eachen - ERROR - This is an error
 2017-09-27 15:10:41,107 - hahah - INFO - This is level 1 info log
 2017-09-27 15:10:41,107 - hahah - ERROR - This is an error
+2017-09-27 15:36:17,562 - young - INFO - This is level 1 info log
+2017-09-27 15:40:13,707 - young - INFO - This is level 1 info log
