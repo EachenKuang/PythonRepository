@@ -10,9 +10,9 @@ StanfordCoreNLP
 ## 数据结构
 | row_id | content-评论内容 | theme-主题 | sentiment_word-情感关键词	sentiment_anls-情感正负面 |
 | ---- | ---- | ---- | --- |
-||||
-||||
-||||
+|1|2|3|4|
+|||||
+|||||
 
 
 ## 模型思路
