@@ -2,12 +2,13 @@
 # '''
 # Author: Eachen Kuang
 # Date:  2017.9.20
-# Goal: 内容抓取
+# Goal: 基于主题的情感分析比赛（使用StanfordNLP）
 # Other:
 # '''
 from stanfordcorenlp import StanfordCoreNLP
 from collections import OrderedDict
 from file2dict import file2dict
+from datetime import datetime
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
@@ -27,10 +28,14 @@ def test():
     :return:
     """
 
-    sentence = '给超级差差差评！无良商家！垃圾！京东也有如此坑人的商家，无语！底坐里面就是用沙子倒成的，用了三天就变成这个样子&hellip;&hellip;请大家看图吧！希望可以帮到大家看清这家无良商家的劣质产品！！！'
+    sentence = '给超级差差差评！无良商家！垃圾！京东也有如此坑人的商家，无语！底坐里面就是用沙子倒成的，' \
+               '用了三天就变成这个样子&hellip;&hellip;请大家看图吧！希望可以帮到大家看清这家无良商家的劣质产品！！！'
     sentence = '试用过了，很满意，外观设计很漂亮，人操作起来很方便的，价格也实惠，挺满意的！'
-    sentence = '是我见过声音最大的，音质最好的手机。其他的手机我觉得声音真的太小声了。 比我原来的1200万像素的手机拍出来的效果感觉要清晰很多。 非常流畅不卡顿'
-    sentence = '发货真的好快 味道是很熟悉的那种 但是不算高档不算亲和的味道 滋润不错 持香也不错'# print nlp.word_tokenize(sentence)     #获取分词
+    sentence = '是我见过声音最大的，音质最好的手机。其他的手机我觉得声音真的太小声了。 ' \
+               '比我原来的1200万像素的手机拍出来的效果感觉要清晰很多。 非常流畅不卡顿'
+    sentence = '发货真的好快 味道是很熟悉的那种 但是不算高档不算亲和的味道 滋润不错 持香也不错'
+
+    # print nlp.word_tokenize(sentence)     #获取分词
     # print nlp.pos_tag(sentence)           #获取词性标注
     # print nlp.ner(sentence)               #获取命名实体识别结果
     # print nlp.parse(sentence)
@@ -80,11 +85,13 @@ def process(sentence):
     for offset, (key, value) in enumerate(pos_tag):
         # print offset, key, value
         if key in file_dict.iterkeys():
+            if key.encode('utf-8') == '次':
+                continue
             word_list.append(key)
             analysis_list.append(file_dict[key.encode('utf-8')])
             theme_list.append(find_nearest_theme(offset, pos_tag))
-    return ';'.join(theme_list)+';,'+';'.join(word_list)+';,'+';'.join(analysis_list)+';'
-    # return theme_list, word_list, analysis_list
+    # return ';'.join(theme_list)+';,'+';'.join(word_list)+';,'+';'.join(analysis_list)+';'
+    return theme_list, word_list, analysis_list
 
 def find_nearest_theme(offset, pos_tag):
     """
@@ -115,6 +122,7 @@ def find_nearest_theme(offset, pos_tag):
         else:
             # 前后一起找
             start_offset = offset
+            offset += 1
             while pos_tag[offset][1] != 'PU':
                 if pos_tag[offset][1].startswith('N'):
                     theme = pos_tag[offset][0]
@@ -122,6 +130,7 @@ def find_nearest_theme(offset, pos_tag):
                 offset += 1
 
             offset = start_offset
+            offset -= 1
             while pos_tag[offset][1] != 'PU':
                 if pos_tag[offset][1].startswith('N'):
                     theme = pos_tag[offset][0]
@@ -134,21 +143,31 @@ def find_nearest_theme(offset, pos_tag):
     return theme
 
 def main():
-
-    with open('data/in.csv', 'r') as reader, \
-            open('out/out.csv', 'a') as writer:
+    now = str(datetime.now())
+    now = '.'.join(now.split()).replace(':', '-')
+    with open('data/in.txt', 'r') as reader, \
+            open('out/out'+str(now)+'.csv', 'w') as writer:
         # 读取信息
         file_content = reader.readlines()
         for index in range(20000):
             print index
-            sentence = file_content[index].split(',')[1].strip()
+            sentence = file_content[index].strip()
+            theme_list, word_list, analysis_list = process(sentence)
 
-            temp = str(index+1)+','+sentence+','+process(sentence)+'\n'
+            theme = ''
+            word = ''
+            analysis = ''
+            if theme_list.__len__() > 0:
+                theme = ';'.join(theme_list)+';'
+            if word_list.__len__() > 0:
+                word = ';'.join(word_list)+';'
+            if analysis_list.__len__() > 0:
+                analysis = ';'.join(analysis_list) + ';'
+            temp = str(index+1)+','+sentence+','+theme+','+word+','+analysis+'\n'
             print temp
             writer.write(temp)
 
         # 打印信息
-
 
 
 if __name__ == '__main__':
