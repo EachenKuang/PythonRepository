@@ -245,3 +245,10 @@ listOfRows[:] = [row[0], rowp[3], rowp[2] for row in listOfRows]
 
 ## 2017.8.30
 None
+## 2017.10.27
+```py
+with open(filename, 'rb') as f:
+    for line in f:
+        <do something with the line>
+```
+对可迭代对象 f，进行迭代遍历：for line in f，会自动地使用缓冲IO（buffered IO）以及内存管理，而不必担心任何大文件的问题。
