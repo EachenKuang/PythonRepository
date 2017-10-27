@@ -15,12 +15,6 @@ sys.setdefaultencoding("utf-8")
 
 nlp = StanfordCoreNLP(r'D:\\stanford-corenlp-full-2017-06-09', lang='zh')
 
-class Result(object):
-
-    def __init__(self):
-        self.theme = ''
-        self.sentiment_word = ''
-        self.sentiment_analysis = ''
 
 def test():
     """
