@@ -23,3 +23,7 @@ def calculate_f(input_file, verify_file):
     with open("verify_file", 'r') as reader_file:
         reader = reader_file.readlines()
 
+
+def f_score():
+    pass
+

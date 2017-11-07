@@ -6,14 +6,12 @@
 # Other:
 # '''
 
-from stanfordcorenlp import StanfordCoreNLP
-from gensim import models, corpora
+# from stanfordcorenlp import StanfordCoreNLP
+# from gensim import models, corpora
 import jieba
 import jieba.posseg as pseg
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-
-
 
 # with open("data/trainning_content.txt", 'r') as reader:
 #     file_content = reader.readlines()
@@ -43,7 +41,10 @@ def save_dictionary(file_path):
     corpora.BleiCorpus.serialize("data1/corpus_all_in_dict2.blei", corpus, id2word=dictionary)
 
 def save_model():
+    """
 
+    :return:
+    """
     dictionary = corpora.Dictionary.load('data1/dict.dict')
     corpus = corpora.BleiCorpus('data1/corpus_all_in_dict2.blei')
     tfidf_model = models.TfidfModel(corpus=corpus, dictionary=dictionary, id2word=dictionary)
@@ -76,7 +77,7 @@ def save_theme():
 def test_jieba():
 
     jieba.load_userdict("dict/dictforthem.txt")
-    with open('data/trainning_content.txt', 'r') as reader:
+    with open('data1/trainning_content.txt', 'r') as reader:
         file_content = reader.readlines()
         for index in range(500):
             # seg_list = jieba.cut(file_content[index].strip())

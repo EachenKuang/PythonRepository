@@ -5,9 +5,9 @@
 # Goal: 基于主题的情感分析比赛（使用StanfordNLP）
 # Other:
 # '''
+import nltk
 from stanfordcorenlp import StanfordCoreNLP
 from collections import OrderedDict
-from file2dict import file2dict
 from datetime import datetime
 import sys
 reload(sys)
@@ -15,9 +15,38 @@ sys.setdefaultencoding("utf-8")
 
 nlp = StanfordCoreNLP(r'D:\\stanford-corenlp-full-2017-06-09', lang='zh')
 
+def file2dict():
+    file_path = "data1/training.csv"
+    list_word = []
+    list_score = []
+    with open(file_path, 'r') as read_file:
+        read_file.readline()  # 读取第一行
+        file_content = read_file.readlines()
+        for line in file_content:
+
+            if line == ',\n':
+                continue
+
+            line = line.strip()  # 去除'\n'
+            words = line.split(',')[0].split(';')[:-1]
+            scores = line.split(',')[1].split(';')[:-1]
+            for word in words:
+                list_word.append(word)
+            for score in scores:
+                list_score.append(score)
+
+    my_dict = zip(list_word, list_score)
+    dict_final = dict(my_dict)
+    # print dict(my_dict)
+    # print dict_final.__len__()
+    # for key, value in dict_final.iteritems():
+    #     print key, value
+
+    return dict_final
 
 def test():
     """
+
     测试使用
     :return:
     """
@@ -140,7 +169,7 @@ def main():
     now = str(datetime.now())
     now = '.'.join(now.split()).replace(':', '-')
     with open('data/in.txt', 'r') as reader, \
-            open('out/out'+str(now)+'.csv', 'w') as writer:
+            open('out/out_nlp'+str(now)+'.csv', 'w') as writer:
         # 读取信息
         file_content = reader.readlines()
         for index in range(20000):
@@ -159,7 +188,7 @@ def main():
                 analysis = ';'.join(analysis_list) + ';'
             temp = str(index+1)+','+sentence+','+theme+','+word+','+analysis+'\n'
             print temp
-            writer.write(temp)
+            writer.write(temp.encode('GBK'))
 
         # 打印信息
 

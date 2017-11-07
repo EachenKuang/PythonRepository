@@ -22,7 +22,7 @@ def KLD(p,q):
 # print KLD(p,q)
 
 def JSD_core(p, q):
-    p, q = zip(*filter(lambda (x, y): x != 0 or y != 0, zip(p, q)))  # 去掉二者都是0的概率值
+    p, q = zip(*filter(lambda[x,y]: x != 0 or y != 0, zip(p, q)))  # 去掉二者都是0的概率值
     M = [0.5 * (_p + _q) for _p, _q in zip(p, q)]
     p = p + np.spacing(1)
     q = q + np.spacing(1)

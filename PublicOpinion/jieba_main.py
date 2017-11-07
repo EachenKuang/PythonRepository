@@ -6,16 +6,41 @@
 # Other:
 # '''
 
-from file2dict import file2dict
 from datetime import datetime
 import jieba
 import jieba.posseg as pseg
 import logging
-import sys
-reload(sys)
-sys.setdefaultencoding("utf-8")
+
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
+def file2dict():
+    file_path = "data1/training.csv"
+    list_word = []
+    list_score = []
+    with open(file_path, 'r') as read_file:
+        read_file.readline()  # 读取第一行
+        file_content = read_file.readlines()
+        for line in file_content:
+
+            if line == ',\n':
+                continue
+
+            line = line.strip()  # 去除'\n'
+            words = line.split(',')[0].split(';')[:-1]
+            scores = line.split(',')[1].split(';')[:-1]
+            for word in words:
+                list_word.append(word)
+            for score in scores:
+                list_score.append(score)
+
+    my_dict = zip(list_word, list_score)
+    dict_final = dict(my_dict)
+    # print dict(my_dict)
+    # print dict_final.__len__()
+    # for key, value in dict_final.iteritems():
+    #     print key, value
+
+    return dict_final
 
 def process(sentence):
     """
@@ -36,11 +61,11 @@ def process(sentence):
     """
     # 读取用户自定义词库
     jieba.load_userdict("dict/dictforthem.txt")
-    jieba.initialize()
+    # jieba.initialize()
     # 分词获得标注
     seg_list = pseg.lcut(sentence)
     # 打印查看分词标注内容
-    print ' '.join([w.word + w.flag for w in seg_list])
+    print(' '.join([w.word + w.flag for w in seg_list]))
     # print seg_list
     # 保存主题、情感关键词、情感正负面
     theme_list = []
@@ -68,31 +93,34 @@ def find_nearest_theme(offset, pos_tag):
     :param pos_tag:
     :return:
     """
+
     theme = 'NULL'
     length_forward = 100
     try:
         temp = offset+1
-        while pos_tag[temp].flag != 'x':
-            if pos_tag[temp].flag.startswith('n'):
+        while not(pos_tag[temp].word in ['！', '，', '.']):
+            # if pos_tag[temp].flag.startswith('n'):
+            if pos_tag[temp].flag == 'n':
                 theme = pos_tag[temp].word
                 length_forward = temp-offset
                 break
             temp += 1
-    except Exception, e:
-        print 'str(Exception):\t', str(Exception)
+    except Exception as e:
+        print('str(Exception):\t', str(e))
 
     try:
         temp = offset-1
-        while pos_tag[temp].flag != 'x':
-            if pos_tag[temp].flag.startswith('n'):
+        while not(pos_tag[temp].word in ['！', '，', '.']):
+            # if pos_tag[temp].flag.startswith('n'):
+            if pos_tag[temp].flag == 'n':
                 length_back = offset-temp
                 if length_forward > length_back:
                     theme = pos_tag[temp].word
                 break
             temp -= 1
 
-    except Exception, e:
-        print 'str(Exception):\t', str(Exception)
+    except Exception as e:
+        print('str(Exception):\t', str(e))
 
     return theme
 
@@ -100,11 +128,11 @@ def run():
     now = str(datetime.now())
     now = '.'.join(now.split()).replace(':', '-')
     with open('data/in.txt', 'r') as reader, \
-            open('out/out'+str(now)+'.csv', 'w') as writer:
+            open('out/jieba_out'+str(now)+'.csv', 'w') as writer:
         # 读取信息
         file_content = reader.readlines()
         for index in range(20000):
-            print index
+
             sentence = file_content[index].strip()
             theme_list, word_list, analysis_list = process(sentence)
 
@@ -118,16 +146,11 @@ def run():
             if analysis_list.__len__() > 0:
                 analysis = ';'.join(analysis_list) + ';'
             temp = str(index+1)+','+sentence+','+theme+','+word+','+analysis+'\n'
-            print temp
+            print(temp)
             writer.write(temp)
 
-        # 打印信息
-
-def main():
-    run()
-
 if __name__ == '__main__':
-    main()
+    run()
 
 
 
